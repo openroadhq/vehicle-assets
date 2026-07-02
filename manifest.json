@@ -18,22 +18,28 @@
  "schemaVersion": 1,
  "vehicles": {
   "audi/r8": {
-   "bytes": 28548
+   "bytes": 28548,
+   "tint": "#ABAEB1"
   },
   "ford/f-150-raptor": {
-   "bytes": 25330
+   "bytes": 25330,
+   "tint": "#0F0F0F"
   },
   "ford/ranger": {
-   "bytes": 28598
+   "bytes": 28598,
+   "tint": "#084BAE"
   },
   "honda/cr-v": {
-   "bytes": 30204
+   "bytes": 30204,
+   "tint": "#D5D5D5"
   },
   "honda/hr-v": {
-   "bytes": 34628
+   "bytes": 34628,
+   "tint": "#062F6E"
   },
   "porsche/911-gt3-rs": {
-   "bytes": 29014
+   "bytes": 29014,
+   "tint": "#D1D1D1"
   }
  },
  "view": "side-profile"

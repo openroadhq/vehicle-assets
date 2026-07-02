@@ -103,11 +103,37 @@ def to_webp(src: Path, dst: Path) -> None:
     )
 
 
+def car_tint(path: Path) -> str | None:
+    """Dominant paint color of the cutout (saturation-weighted bucket of
+    opaque pixels). Shipped in the manifest so the app can tint the card
+    to the ACTUAL car in the image, not the user's chosen color."""
+    from PIL import Image
+    import collections
+    im = Image.open(path).convert("RGBA").resize((128, 86))
+    px = [(r, g, b) for r, g, b, a in im.getdata() if a > 200]
+    if not px:
+        return None
+    buckets = collections.Counter((r // 32, g // 32, b // 32) for r, g, b in px)
+    def score(item):
+        (rb, gb, bb), n = item
+        return n * (1 + (max(rb, gb, bb) - min(rb, gb, bb)) * 2)
+    (rb, gb, bb), _ = max(buckets.items(), key=score)
+    sel = [(r, g, b) for r, g, b in px if r // 32 == rb and g // 32 == gb and b // 32 == bb]
+    r = sum(p[0] for p in sel) // len(sel)
+    g = sum(p[1] for p in sel) // len(sel)
+    b = sum(p[2] for p in sel) // len(sel)
+    return "#%02X%02X%02X" % (r, g, b)
+
+
 def rebuild_manifest() -> None:
     vehicles = {}
     for path in sorted(V1.rglob("*.webp")):
         slug = str(path.relative_to(V1))[: -len(".webp")]
-        vehicles[slug] = {"bytes": path.stat().st_size}
+        entry = {"bytes": path.stat().st_size}
+        tint = car_tint(path)
+        if tint:
+            entry["tint"] = tint
+        vehicles[slug] = entry
     manifest = {
         "schemaVersion": 1,
         "basePath": "v1",
