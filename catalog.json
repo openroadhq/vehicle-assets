@@ -427,7 +427,7 @@
    "years": "2010–2012",
    "hp": 750,
    "zeroToSixty": 3.5,
-   "weightKg": 1630,
+   "weightKg": 1740,
    "tier": 3
   },
   {
@@ -2958,7 +2958,7 @@
     "magnum",
     "magnum srt8"
    ],
-   "shape": "sedan",
+   "shape": "hatchback",
    "years": "2005–2008",
    "hp": 425,
    "zeroToSixty": 5.1,
@@ -9904,7 +9904,7 @@
    ],
    "shape": "coupe",
    "years": "1989–2006",
-   "hp": 252,
+   "hp": 200,
    "zeroToSixty": 6.1,
    "weightKg": 1390,
    "tier": 2
