@@ -1,4 +1,14 @@
 {
+ "aliases": {
+  "audi/r8-v10": "audi/r8",
+  "ford/f150-raptor": "ford/f-150-raptor",
+  "ford/raptor": "ford/f-150-raptor",
+  "honda/crv": "honda/cr-v",
+  "honda/hrv": "honda/hr-v",
+  "porsche/911-gt3rs": "porsche/911-gt3-rs",
+  "porsche/gt3-rs": "porsche/911-gt3-rs",
+  "porsche/gt3rs": "porsche/911-gt3-rs"
+ },
  "basePath": "v1",
  "format": "webp",
  "schemaVersion": 1,
