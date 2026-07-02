@@ -1,0 +1,3522 @@
+{
+ "schemaVersion": 2,
+ "generated": "2026-07-02",
+ "vehicles": [
+  {
+   "slug": "audi/r8",
+   "make": "Audi",
+   "model": "R8",
+   "variant": null,
+   "display": "R8",
+   "search": [
+    "r8",
+    "audi r8",
+    "v10"
+   ],
+   "shape": "sports",
+   "years": "2017–2024",
+   "hp": 602,
+   "zeroToSixty": 3.1,
+   "weightKg": 1660,
+   "tier": 1
+  },
+  {
+   "slug": "audi/rs3",
+   "make": "Audi",
+   "model": "RS3",
+   "variant": null,
+   "display": "RS3",
+   "search": [
+    "rs3",
+    "rs 3",
+    "audi rs3"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 401,
+   "zeroToSixty": 3.6,
+   "weightKg": 1570,
+   "tier": 1
+  },
+  {
+   "slug": "audi/rs6",
+   "make": "Audi",
+   "model": "RS6",
+   "variant": null,
+   "display": "RS6",
+   "search": [
+    "rs6",
+    "rs 6",
+    "rs6 avant"
+   ],
+   "shape": "hatchback",
+   "years": "2020–",
+   "hp": 591,
+   "zeroToSixty": 3.5,
+   "weightKg": 2075,
+   "tier": 1
+  },
+  {
+   "slug": "bmw/m2",
+   "make": "BMW",
+   "model": "M2",
+   "variant": null,
+   "display": "M2",
+   "search": [
+    "m2",
+    "g87",
+    "m2 competition"
+   ],
+   "shape": "coupe",
+   "years": "2023–",
+   "hp": 453,
+   "zeroToSixty": 3.9,
+   "weightKg": 1725,
+   "tier": 1
+  },
+  {
+   "slug": "bmw/m3",
+   "make": "BMW",
+   "model": "M3",
+   "variant": null,
+   "display": "M3",
+   "search": [
+    "m3",
+    "g80",
+    "m3 comp",
+    "m3 competition"
+   ],
+   "shape": "sedan",
+   "years": "2021–",
+   "hp": 473,
+   "zeroToSixty": 4.1,
+   "weightKg": 1730,
+   "tier": 1
+  },
+  {
+   "slug": "bmw/m4",
+   "make": "BMW",
+   "model": "M4",
+   "variant": null,
+   "display": "M4",
+   "search": [
+    "m4",
+    "g82",
+    "m4 comp",
+    "m4 competition"
+   ],
+   "shape": "coupe",
+   "years": "2021–",
+   "hp": 473,
+   "zeroToSixty": 4.0,
+   "weightKg": 1725,
+   "tier": 1
+  },
+  {
+   "slug": "bmw/m5",
+   "make": "BMW",
+   "model": "M5",
+   "variant": null,
+   "display": "M5",
+   "search": [
+    "m5",
+    "g90",
+    "m5 competition"
+   ],
+   "shape": "sedan",
+   "years": "2025–",
+   "hp": 717,
+   "zeroToSixty": 3.4,
+   "weightKg": 2435,
+   "tier": 1
+  },
+  {
+   "slug": "bugatti/chiron",
+   "make": "Bugatti",
+   "model": "Chiron",
+   "variant": null,
+   "display": "Chiron",
+   "search": [
+    "chiron",
+    "bugatti"
+   ],
+   "shape": "sports",
+   "years": "2016–2024",
+   "hp": 1479,
+   "zeroToSixty": 2.4,
+   "weightKg": 1995,
+   "tier": 1
+  },
+  {
+   "slug": "chevrolet/camaro-ss",
+   "make": "Chevrolet",
+   "model": "Camaro",
+   "variant": "SS",
+   "display": "Camaro SS",
+   "search": [
+    "camaro",
+    "camaro ss",
+    "ss"
+   ],
+   "shape": "muscle",
+   "years": "2016–2024",
+   "hp": 455,
+   "zeroToSixty": 4.0,
+   "weightKg": 1685,
+   "tier": 1
+  },
+  {
+   "slug": "chevrolet/camaro-zl1",
+   "make": "Chevrolet",
+   "model": "Camaro",
+   "variant": "ZL1",
+   "display": "Camaro ZL1",
+   "search": [
+    "zl1",
+    "zl-1",
+    "camaro zl1"
+   ],
+   "shape": "muscle",
+   "years": "2017–2024",
+   "hp": 650,
+   "zeroToSixty": 3.5,
+   "weightKg": 1755,
+   "tier": 1
+  },
+  {
+   "slug": "chevrolet/corvette-stingray",
+   "make": "Chevrolet",
+   "model": "Corvette",
+   "variant": "Stingray",
+   "display": "Corvette Stingray",
+   "search": [
+    "corvette",
+    "c8",
+    "stingray",
+    "vette"
+   ],
+   "shape": "sports",
+   "years": "2020–",
+   "hp": 495,
+   "zeroToSixty": 2.9,
+   "weightKg": 1655,
+   "tier": 1
+  },
+  {
+   "slug": "chevrolet/corvette-z06",
+   "make": "Chevrolet",
+   "model": "Corvette",
+   "variant": "Z06",
+   "display": "Corvette Z06",
+   "search": [
+    "z06",
+    "c8 z06",
+    "zo6"
+   ],
+   "shape": "sports",
+   "years": "2023–",
+   "hp": 670,
+   "zeroToSixty": 2.6,
+   "weightKg": 1665,
+   "tier": 1
+  },
+  {
+   "slug": "dodge/challenger-hellcat",
+   "make": "Dodge",
+   "model": "Challenger",
+   "variant": "Hellcat",
+   "display": "Challenger Hellcat",
+   "search": [
+    "hellcat",
+    "challenger hellcat",
+    "srt hellcat"
+   ],
+   "shape": "muscle",
+   "years": "2015–2023",
+   "hp": 717,
+   "zeroToSixty": 3.6,
+   "weightKg": 2020,
+   "tier": 1
+  },
+  {
+   "slug": "dodge/challenger-scat-pack",
+   "make": "Dodge",
+   "model": "Challenger",
+   "variant": "Scat Pack",
+   "display": "Challenger Scat Pack",
+   "search": [
+    "scat pack",
+    "scatpack",
+    "392",
+    "challenger 392"
+   ],
+   "shape": "muscle",
+   "years": "2015–2023",
+   "hp": 485,
+   "zeroToSixty": 4.2,
+   "weightKg": 1940,
+   "tier": 1
+  },
+  {
+   "slug": "dodge/charger-hellcat",
+   "make": "Dodge",
+   "model": "Charger",
+   "variant": "Hellcat",
+   "display": "Charger Hellcat",
+   "search": [
+    "charger hellcat",
+    "hellcat charger"
+   ],
+   "shape": "muscle",
+   "years": "2015–2023",
+   "hp": 707,
+   "zeroToSixty": 3.6,
+   "weightKg": 2075,
+   "tier": 1
+  },
+  {
+   "slug": "ferrari/sf90",
+   "make": "Ferrari",
+   "model": "SF90",
+   "variant": null,
+   "display": "SF90",
+   "search": [
+    "sf90",
+    "sf 90",
+    "sf90 stradale"
+   ],
+   "shape": "sports",
+   "years": "2020–",
+   "hp": 986,
+   "zeroToSixty": 2.5,
+   "weightKg": 1570,
+   "tier": 1
+  },
+  {
+   "slug": "ford/bronco",
+   "make": "Ford",
+   "model": "Bronco",
+   "variant": null,
+   "display": "Bronco",
+   "search": [
+    "bronco",
+    "ford bronco"
+   ],
+   "shape": "suv",
+   "years": "2021–",
+   "hp": 300,
+   "zeroToSixty": 6.3,
+   "weightKg": 2200,
+   "tier": 1
+  },
+  {
+   "slug": "ford/f-150-raptor",
+   "make": "Ford",
+   "model": "F-150",
+   "variant": "Raptor",
+   "display": "Raptor",
+   "search": [
+    "raptor",
+    "f150 raptor",
+    "f-150 raptor"
+   ],
+   "shape": "truck",
+   "years": "2021–",
+   "hp": 450,
+   "zeroToSixty": 5.2,
+   "weightKg": 2585,
+   "tier": 1
+  },
+  {
+   "slug": "ford/f-150-raptor-r",
+   "make": "Ford",
+   "model": "F-150",
+   "variant": "Raptor R",
+   "display": "Raptor R",
+   "search": [
+    "raptor r",
+    "raptorr",
+    "f150 raptor r"
+   ],
+   "shape": "truck",
+   "years": "2023–",
+   "hp": 720,
+   "zeroToSixty": 3.9,
+   "weightKg": 2690,
+   "tier": 1
+  },
+  {
+   "slug": "ford/mustang-dark-horse",
+   "make": "Ford",
+   "model": "Mustang",
+   "variant": "Dark Horse",
+   "display": "Dark Horse",
+   "search": [
+    "dark horse",
+    "darkhorse",
+    "mustang dark horse"
+   ],
+   "shape": "muscle",
+   "years": "2024–",
+   "hp": 500,
+   "zeroToSixty": 3.9,
+   "weightKg": 1790,
+   "tier": 1
+  },
+  {
+   "slug": "ford/mustang-gt",
+   "make": "Ford",
+   "model": "Mustang",
+   "variant": "GT",
+   "display": "Mustang GT",
+   "search": [
+    "mustang gt",
+    "stang",
+    "5.0",
+    "coyote"
+   ],
+   "shape": "muscle",
+   "years": "2024–",
+   "hp": 486,
+   "zeroToSixty": 4.1,
+   "weightKg": 1770,
+   "tier": 1
+  },
+  {
+   "slug": "ford/mustang-shelby-gt500",
+   "make": "Ford",
+   "model": "Mustang",
+   "variant": "Shelby GT500",
+   "display": "Shelby GT500",
+   "search": [
+    "gt500",
+    "shelby",
+    "gt 500",
+    "shelby gt500"
+   ],
+   "shape": "muscle",
+   "years": "2020–2022",
+   "hp": 760,
+   "zeroToSixty": 3.4,
+   "weightKg": 1915,
+   "tier": 1
+  },
+  {
+   "slug": "honda/civic",
+   "make": "Honda",
+   "model": "Civic",
+   "variant": null,
+   "display": "Civic",
+   "search": [
+    "civic",
+    "honda civic"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 158,
+   "zeroToSixty": 8.0,
+   "weightKg": 1330,
+   "tier": 1
+  },
+  {
+   "slug": "honda/civic-si",
+   "make": "Honda",
+   "model": "Civic",
+   "variant": "Si",
+   "display": "Civic Si",
+   "search": [
+    "si",
+    "civic si"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 200,
+   "zeroToSixty": 6.6,
+   "weightKg": 1340,
+   "tier": 1
+  },
+  {
+   "slug": "honda/civic-type-r",
+   "make": "Honda",
+   "model": "Civic",
+   "variant": "Type R",
+   "display": "Civic Type R",
+   "search": [
+    "type r",
+    "typer",
+    "ctr",
+    "fl5",
+    "fk8"
+   ],
+   "shape": "hatchback",
+   "years": "2023–",
+   "hp": 315,
+   "zeroToSixty": 5.0,
+   "weightKg": 1430,
+   "tier": 1
+  },
+  {
+   "slug": "jeep/wrangler",
+   "make": "Jeep",
+   "model": "Wrangler",
+   "variant": null,
+   "display": "Wrangler",
+   "search": [
+    "wrangler",
+    "jeep wrangler",
+    "jl"
+   ],
+   "shape": "suv",
+   "years": "2018–",
+   "hp": 285,
+   "zeroToSixty": 6.8,
+   "weightKg": 2000,
+   "tier": 1
+  },
+  {
+   "slug": "lamborghini/aventador",
+   "make": "Lamborghini",
+   "model": "Aventador",
+   "variant": null,
+   "display": "Aventador",
+   "search": [
+    "aventador",
+    "lambo aventador",
+    "svj"
+   ],
+   "shape": "sports",
+   "years": "2012–2022",
+   "hp": 730,
+   "zeroToSixty": 2.9,
+   "weightKg": 1575,
+   "tier": 1
+  },
+  {
+   "slug": "lamborghini/huracan",
+   "make": "Lamborghini",
+   "model": "Huracán",
+   "variant": null,
+   "display": "Huracán",
+   "search": [
+    "huracan",
+    "lambo",
+    "huracan evo"
+   ],
+   "shape": "sports",
+   "years": "2015–2024",
+   "hp": 631,
+   "zeroToSixty": 2.9,
+   "weightKg": 1420,
+   "tier": 1
+  },
+  {
+   "slug": "lamborghini/urus",
+   "make": "Lamborghini",
+   "model": "Urus",
+   "variant": null,
+   "display": "Urus",
+   "search": [
+    "urus",
+    "lambo suv"
+   ],
+   "shape": "suv",
+   "years": "2018–",
+   "hp": 641,
+   "zeroToSixty": 3.3,
+   "weightKg": 2200,
+   "tier": 1
+  },
+  {
+   "slug": "mazda/miata",
+   "make": "Mazda",
+   "model": "MX-5 Miata",
+   "variant": null,
+   "display": "Miata",
+   "search": [
+    "miata",
+    "mx5",
+    "mx-5",
+    "nd miata"
+   ],
+   "shape": "sports",
+   "years": "2016–",
+   "hp": 181,
+   "zeroToSixty": 5.7,
+   "weightKg": 1065,
+   "tier": 1
+  },
+  {
+   "slug": "mazda/rx-7",
+   "make": "Mazda",
+   "model": "RX-7",
+   "variant": null,
+   "display": "RX-7",
+   "search": [
+    "rx7",
+    "rx-7",
+    "fd",
+    "13b"
+   ],
+   "shape": "sports",
+   "years": "1992–2002",
+   "hp": 276,
+   "zeroToSixty": 5.1,
+   "weightKg": 1300,
+   "tier": 1
+  },
+  {
+   "slug": "mclaren/720s",
+   "make": "McLaren",
+   "model": "720S",
+   "variant": null,
+   "display": "720S",
+   "search": [
+    "720s",
+    "720",
+    "mclaren 720"
+   ],
+   "shape": "sports",
+   "years": "2017–2023",
+   "hp": 710,
+   "zeroToSixty": 2.8,
+   "weightKg": 1420,
+   "tier": 1
+  },
+  {
+   "slug": "mercedes-amg/c63",
+   "make": "Mercedes-AMG",
+   "model": "C63",
+   "variant": null,
+   "display": "C63 AMG",
+   "search": [
+    "c63",
+    "c63 amg",
+    "amg c63",
+    "c63s"
+   ],
+   "shape": "sedan",
+   "years": "2015–2021",
+   "hp": 503,
+   "zeroToSixty": 3.8,
+   "weightKg": 1725,
+   "tier": 1
+  },
+  {
+   "slug": "mercedes-amg/e63",
+   "make": "Mercedes-AMG",
+   "model": "E63",
+   "variant": null,
+   "display": "E63 AMG",
+   "search": [
+    "e63",
+    "e63 amg",
+    "e63s"
+   ],
+   "shape": "sedan",
+   "years": "2017–2023",
+   "hp": 603,
+   "zeroToSixty": 3.1,
+   "weightKg": 1955,
+   "tier": 1
+  },
+  {
+   "slug": "mercedes-amg/g63",
+   "make": "Mercedes-AMG",
+   "model": "G63",
+   "variant": null,
+   "display": "G63",
+   "search": [
+    "g wagon",
+    "gwagon",
+    "g63",
+    "g-wagon",
+    "g class"
+   ],
+   "shape": "suv",
+   "years": "2019–",
+   "hp": 577,
+   "zeroToSixty": 4.4,
+   "weightKg": 2560,
+   "tier": 1
+  },
+  {
+   "slug": "mercedes-amg/gt",
+   "make": "Mercedes-AMG",
+   "model": "GT",
+   "variant": null,
+   "display": "AMG GT",
+   "search": [
+    "amg gt",
+    "mercedes gt",
+    "amggt"
+   ],
+   "shape": "sports",
+   "years": "2024–",
+   "hp": 577,
+   "zeroToSixty": 3.1,
+   "weightKg": 1970,
+   "tier": 1
+  },
+  {
+   "slug": "mitsubishi/evo-x",
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "variant": "Evolution X",
+   "display": "Evo X",
+   "search": [
+    "evo",
+    "evo x",
+    "evo 10",
+    "lancer evolution"
+   ],
+   "shape": "sedan",
+   "years": "2008–2015",
+   "hp": 291,
+   "zeroToSixty": 4.9,
+   "weightKg": 1600,
+   "tier": 1
+  },
+  {
+   "slug": "nissan/gt-r",
+   "make": "Nissan",
+   "model": "GT-R",
+   "variant": null,
+   "display": "GT-R",
+   "search": [
+    "gtr",
+    "gt-r",
+    "r35",
+    "godzilla"
+   ],
+   "shape": "sports",
+   "years": "2009–2024",
+   "hp": 565,
+   "zeroToSixty": 2.9,
+   "weightKg": 1750,
+   "tier": 1
+  },
+  {
+   "slug": "nissan/skyline-gt-r-r34",
+   "make": "Nissan",
+   "model": "Skyline GT-R",
+   "variant": "R34",
+   "display": "Skyline R34",
+   "search": [
+    "r34",
+    "skyline",
+    "skyline gtr",
+    "gtr r34"
+   ],
+   "shape": "sports",
+   "years": "1999–2002",
+   "hp": 276,
+   "zeroToSixty": 4.9,
+   "weightKg": 1560,
+   "tier": 1
+  },
+  {
+   "slug": "nissan/z",
+   "make": "Nissan",
+   "model": "Z",
+   "variant": null,
+   "display": "Z",
+   "search": [
+    "z",
+    "400z",
+    "nissan z",
+    "fairlady"
+   ],
+   "shape": "sports",
+   "years": "2023–",
+   "hp": 400,
+   "zeroToSixty": 4.3,
+   "weightKg": 1580,
+   "tier": 1
+  },
+  {
+   "slug": "porsche/911-carrera",
+   "make": "Porsche",
+   "model": "911",
+   "variant": "Carrera",
+   "display": "911 Carrera",
+   "search": [
+    "911",
+    "carrera",
+    "992"
+   ],
+   "shape": "sports",
+   "years": "2019–",
+   "hp": 379,
+   "zeroToSixty": 4.0,
+   "weightKg": 1505,
+   "tier": 1
+  },
+  {
+   "slug": "porsche/911-gt3",
+   "make": "Porsche",
+   "model": "911",
+   "variant": "GT3",
+   "display": "911 GT3",
+   "search": [
+    "gt3",
+    "992 gt3",
+    "porsche gt3"
+   ],
+   "shape": "sports",
+   "years": "2021–",
+   "hp": 502,
+   "zeroToSixty": 3.2,
+   "weightKg": 1435,
+   "tier": 1
+  },
+  {
+   "slug": "porsche/911-gt3-rs",
+   "make": "Porsche",
+   "model": "911",
+   "variant": "GT3 RS",
+   "display": "911 GT3 RS",
+   "search": [
+    "gt3 rs",
+    "gt3rs",
+    "992 gt3 rs",
+    "911 gt3 rs"
+   ],
+   "shape": "sports",
+   "years": "2022–",
+   "hp": 518,
+   "zeroToSixty": 3.0,
+   "weightKg": 1450,
+   "tier": 1
+  },
+  {
+   "slug": "porsche/911-turbo-s",
+   "make": "Porsche",
+   "model": "911",
+   "variant": "Turbo S",
+   "display": "911 Turbo S",
+   "search": [
+    "turbo s",
+    "992 turbo s",
+    "911 turbo"
+   ],
+   "shape": "sports",
+   "years": "2020–",
+   "hp": 640,
+   "zeroToSixty": 2.6,
+   "weightKg": 1640,
+   "tier": 1
+  },
+  {
+   "slug": "porsche/cayman-gt4",
+   "make": "Porsche",
+   "model": "718 Cayman",
+   "variant": "GT4",
+   "display": "Cayman GT4",
+   "search": [
+    "gt4",
+    "cayman gt4",
+    "718 gt4"
+   ],
+   "shape": "sports",
+   "years": "2020–",
+   "hp": 414,
+   "zeroToSixty": 4.2,
+   "weightKg": 1420,
+   "tier": 1
+  },
+  {
+   "slug": "ram/1500-trx",
+   "make": "Ram",
+   "model": "1500",
+   "variant": "TRX",
+   "display": "TRX",
+   "search": [
+    "trx",
+    "ram trx",
+    "t-rex"
+   ],
+   "shape": "truck",
+   "years": "2021–2024",
+   "hp": 702,
+   "zeroToSixty": 4.5,
+   "weightKg": 2880,
+   "tier": 1
+  },
+  {
+   "slug": "subaru/brz",
+   "make": "Subaru",
+   "model": "BRZ",
+   "variant": null,
+   "display": "BRZ",
+   "search": [
+    "brz",
+    "subaru brz"
+   ],
+   "shape": "sports",
+   "years": "2022–",
+   "hp": 228,
+   "zeroToSixty": 6.0,
+   "weightKg": 1280,
+   "tier": 1
+  },
+  {
+   "slug": "subaru/wrx",
+   "make": "Subaru",
+   "model": "WRX",
+   "variant": null,
+   "display": "WRX",
+   "search": [
+    "wrx",
+    "subaru wrx"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 271,
+   "zeroToSixty": 5.5,
+   "weightKg": 1560,
+   "tier": 1
+  },
+  {
+   "slug": "subaru/wrx-sti",
+   "make": "Subaru",
+   "model": "WRX",
+   "variant": "STI",
+   "display": "WRX STI",
+   "search": [
+    "sti",
+    "wrx sti",
+    "subie"
+   ],
+   "shape": "sedan",
+   "years": "2015–2021",
+   "hp": 310,
+   "zeroToSixty": 5.2,
+   "weightKg": 1570,
+   "tier": 1
+  },
+  {
+   "slug": "tesla/cybertruck",
+   "make": "Tesla",
+   "model": "Cybertruck",
+   "variant": null,
+   "display": "Cybertruck",
+   "search": [
+    "cybertruck",
+    "cyber truck",
+    "cybertrk"
+   ],
+   "shape": "truck",
+   "years": "2024–",
+   "hp": 600,
+   "zeroToSixty": 4.1,
+   "weightKg": 3100,
+   "tier": 1
+  },
+  {
+   "slug": "tesla/model-3-performance",
+   "make": "Tesla",
+   "model": "Model 3",
+   "variant": "Performance",
+   "display": "Model 3 Performance",
+   "search": [
+    "m3p",
+    "model 3 performance",
+    "model 3 perf"
+   ],
+   "shape": "sedan",
+   "years": "2024–",
+   "hp": 510,
+   "zeroToSixty": 2.9,
+   "weightKg": 1850,
+   "tier": 1
+  },
+  {
+   "slug": "tesla/model-s-plaid",
+   "make": "Tesla",
+   "model": "Model S",
+   "variant": "Plaid",
+   "display": "Model S Plaid",
+   "search": [
+    "plaid",
+    "model s plaid",
+    "model s"
+   ],
+   "shape": "sedan",
+   "years": "2021–",
+   "hp": 1020,
+   "zeroToSixty": 2.1,
+   "weightKg": 2160,
+   "tier": 1
+  },
+  {
+   "slug": "toyota/gr-corolla",
+   "make": "Toyota",
+   "model": "GR Corolla",
+   "variant": null,
+   "display": "GR Corolla",
+   "search": [
+    "gr corolla",
+    "grc",
+    "gr-corolla"
+   ],
+   "shape": "hatchback",
+   "years": "2023–",
+   "hp": 300,
+   "zeroToSixty": 4.9,
+   "weightKg": 1475,
+   "tier": 1
+  },
+  {
+   "slug": "toyota/gr86",
+   "make": "Toyota",
+   "model": "GR86",
+   "variant": null,
+   "display": "GR86",
+   "search": [
+    "gr86",
+    "86",
+    "gt86",
+    "gr 86"
+   ],
+   "shape": "sports",
+   "years": "2022–",
+   "hp": 228,
+   "zeroToSixty": 6.1,
+   "weightKg": 1275,
+   "tier": 1
+  },
+  {
+   "slug": "toyota/supra",
+   "make": "Toyota",
+   "model": "GR Supra",
+   "variant": null,
+   "display": "Supra",
+   "search": [
+    "supra",
+    "mk5",
+    "a90",
+    "gr supra"
+   ],
+   "shape": "sports",
+   "years": "2020–",
+   "hp": 382,
+   "zeroToSixty": 3.9,
+   "weightKg": 1540,
+   "tier": 1
+  },
+  {
+   "slug": "toyota/tacoma",
+   "make": "Toyota",
+   "model": "Tacoma",
+   "variant": null,
+   "display": "Tacoma",
+   "search": [
+    "tacoma",
+    "taco"
+   ],
+   "shape": "truck",
+   "years": "2024–",
+   "hp": 278,
+   "zeroToSixty": 7.0,
+   "weightKg": 2130,
+   "tier": 1
+  },
+  {
+   "slug": "volkswagen/golf-gti",
+   "make": "Volkswagen",
+   "model": "Golf",
+   "variant": "GTI",
+   "display": "Golf GTI",
+   "search": [
+    "gti",
+    "golf gti",
+    "mk8 gti",
+    "mk7 gti"
+   ],
+   "shape": "hatchback",
+   "years": "2022–",
+   "hp": 241,
+   "zeroToSixty": 5.9,
+   "weightKg": 1400,
+   "tier": 1
+  },
+  {
+   "slug": "volkswagen/golf-r",
+   "make": "Volkswagen",
+   "model": "Golf",
+   "variant": "R",
+   "display": "Golf R",
+   "search": [
+    "golf r",
+    "mk8 r",
+    "golfr"
+   ],
+   "shape": "hatchback",
+   "years": "2022–",
+   "hp": 315,
+   "zeroToSixty": 4.7,
+   "weightKg": 1550,
+   "tier": 1
+  },
+  {
+   "slug": "acura/integra",
+   "make": "Acura",
+   "model": "Integra",
+   "variant": null,
+   "display": "Integra",
+   "search": [
+    "integra"
+   ],
+   "shape": "hatchback",
+   "years": "2023–",
+   "hp": 200,
+   "zeroToSixty": 7.0,
+   "weightKg": 1370,
+   "tier": 2
+  },
+  {
+   "slug": "acura/integra-type-s",
+   "make": "Acura",
+   "model": "Integra",
+   "variant": "Type S",
+   "display": "Integra Type S",
+   "search": [
+    "type s",
+    "integra type s",
+    "its"
+   ],
+   "shape": "hatchback",
+   "years": "2024–",
+   "hp": 320,
+   "zeroToSixty": 5.1,
+   "weightKg": 1460,
+   "tier": 2
+  },
+  {
+   "slug": "acura/nsx",
+   "make": "Acura",
+   "model": "NSX",
+   "variant": null,
+   "display": "NSX",
+   "search": [
+    "nsx",
+    "acura nsx",
+    "honda nsx"
+   ],
+   "shape": "sports",
+   "years": "2017–2022",
+   "hp": 573,
+   "zeroToSixty": 2.9,
+   "weightKg": 1780,
+   "tier": 2
+  },
+  {
+   "slug": "alfa-romeo/giulia-quadrifoglio",
+   "make": "Alfa Romeo",
+   "model": "Giulia",
+   "variant": "Quadrifoglio",
+   "display": "Giulia Quadrifoglio",
+   "search": [
+    "giulia",
+    "quadrifoglio",
+    "qv"
+   ],
+   "shape": "sedan",
+   "years": "2017–",
+   "hp": 505,
+   "zeroToSixty": 3.8,
+   "weightKg": 1620,
+   "tier": 2
+  },
+  {
+   "slug": "alpine/a110",
+   "make": "Alpine",
+   "model": "A110",
+   "variant": null,
+   "display": "A110",
+   "search": [
+    "a110",
+    "alpine"
+   ],
+   "shape": "sports",
+   "years": "2018–",
+   "hp": 249,
+   "zeroToSixty": 4.5,
+   "weightKg": 1100,
+   "tier": 2
+  },
+  {
+   "slug": "aston-martin/db12",
+   "make": "Aston Martin",
+   "model": "DB12",
+   "variant": null,
+   "display": "DB12",
+   "search": [
+    "db12",
+    "db 12",
+    "aston"
+   ],
+   "shape": "coupe",
+   "years": "2023–",
+   "hp": 671,
+   "zeroToSixty": 3.5,
+   "weightKg": 1685,
+   "tier": 2
+  },
+  {
+   "slug": "aston-martin/vantage",
+   "make": "Aston Martin",
+   "model": "Vantage",
+   "variant": null,
+   "display": "Vantage",
+   "search": [
+    "vantage",
+    "aston vantage"
+   ],
+   "shape": "sports",
+   "years": "2024–",
+   "hp": 656,
+   "zeroToSixty": 3.4,
+   "weightKg": 1605,
+   "tier": 2
+  },
+  {
+   "slug": "audi/e-tron-gt",
+   "make": "Audi",
+   "model": "e-tron GT",
+   "variant": null,
+   "display": "e-tron GT",
+   "search": [
+    "etron gt",
+    "e-tron gt",
+    "etron"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 522,
+   "zeroToSixty": 3.9,
+   "weightKg": 2320,
+   "tier": 2
+  },
+  {
+   "slug": "audi/rs7",
+   "make": "Audi",
+   "model": "RS7",
+   "variant": null,
+   "display": "RS7",
+   "search": [
+    "rs7",
+    "rs 7",
+    "rs7 sportback"
+   ],
+   "shape": "sedan",
+   "years": "2020–",
+   "hp": 591,
+   "zeroToSixty": 3.5,
+   "weightKg": 2065,
+   "tier": 2
+  },
+  {
+   "slug": "audi/s4",
+   "make": "Audi",
+   "model": "S4",
+   "variant": null,
+   "display": "S4",
+   "search": [
+    "s4",
+    "audi s4",
+    "b9 s4"
+   ],
+   "shape": "sedan",
+   "years": "2017–",
+   "hp": 349,
+   "zeroToSixty": 4.4,
+   "weightKg": 1750,
+   "tier": 2
+  },
+  {
+   "slug": "bmw/3-series",
+   "make": "BMW",
+   "model": "3 Series",
+   "variant": null,
+   "display": "3 Series",
+   "search": [
+    "3 series",
+    "330i",
+    "g20",
+    "bmw 3"
+   ],
+   "shape": "sedan",
+   "years": "2019–",
+   "hp": 255,
+   "zeroToSixty": 5.6,
+   "weightKg": 1620,
+   "tier": 2
+  },
+  {
+   "slug": "bmw/335i",
+   "make": "BMW",
+   "model": "3 Series",
+   "variant": "335i",
+   "display": "335i",
+   "search": [
+    "335i",
+    "e90",
+    "n54",
+    "n55"
+   ],
+   "shape": "sedan",
+   "years": "2007–2013",
+   "hp": 300,
+   "zeroToSixty": 5.4,
+   "weightKg": 1600,
+   "tier": 2
+  },
+  {
+   "slug": "bmw/m3-e46",
+   "make": "BMW",
+   "model": "M3",
+   "variant": "E46",
+   "display": "E46 M3",
+   "search": [
+    "e46",
+    "e46 m3",
+    "m3 e46"
+   ],
+   "shape": "coupe",
+   "years": "2001–2006",
+   "hp": 333,
+   "zeroToSixty": 5.1,
+   "weightKg": 1570,
+   "tier": 2
+  },
+  {
+   "slug": "bmw/x5-m",
+   "make": "BMW",
+   "model": "X5",
+   "variant": "M",
+   "display": "X5 M",
+   "search": [
+    "x5m",
+    "x5 m"
+   ],
+   "shape": "suv",
+   "years": "2020–",
+   "hp": 617,
+   "zeroToSixty": 3.8,
+   "weightKg": 2385,
+   "tier": 2
+  },
+  {
+   "slug": "cadillac/ct5-v-blackwing",
+   "make": "Cadillac",
+   "model": "CT5-V",
+   "variant": "Blackwing",
+   "display": "CT5-V Blackwing",
+   "search": [
+    "ct5",
+    "blackwing",
+    "ct5-v",
+    "ct5 v blackwing"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 668,
+   "zeroToSixty": 3.4,
+   "weightKg": 1870,
+   "tier": 2
+  },
+  {
+   "slug": "cadillac/escalade-v",
+   "make": "Cadillac",
+   "model": "Escalade",
+   "variant": "V",
+   "display": "Escalade-V",
+   "search": [
+    "escalade",
+    "escalade v"
+   ],
+   "shape": "suv",
+   "years": "2023–",
+   "hp": 682,
+   "zeroToSixty": 4.4,
+   "weightKg": 2855,
+   "tier": 2
+  },
+  {
+   "slug": "chevrolet/colorado-zr2",
+   "make": "Chevrolet",
+   "model": "Colorado",
+   "variant": "ZR2",
+   "display": "Colorado ZR2",
+   "search": [
+    "colorado",
+    "colorado zr2"
+   ],
+   "shape": "truck",
+   "years": "2023–",
+   "hp": 310,
+   "zeroToSixty": 7.0,
+   "weightKg": 2160,
+   "tier": 2
+  },
+  {
+   "slug": "chevrolet/corvette-zr1",
+   "make": "Chevrolet",
+   "model": "Corvette",
+   "variant": "ZR1",
+   "display": "Corvette ZR1",
+   "search": [
+    "zr1",
+    "c8 zr1",
+    "zr-1"
+   ],
+   "shape": "sports",
+   "years": "2025–",
+   "hp": 1064,
+   "zeroToSixty": 2.3,
+   "weightKg": 1740,
+   "tier": 2
+  },
+  {
+   "slug": "chevrolet/silverado",
+   "make": "Chevrolet",
+   "model": "Silverado",
+   "variant": null,
+   "display": "Silverado",
+   "search": [
+    "silverado",
+    "chevy truck"
+   ],
+   "shape": "truck",
+   "years": "2019–",
+   "hp": 355,
+   "zeroToSixty": 6.1,
+   "weightKg": 2200,
+   "tier": 2
+  },
+  {
+   "slug": "chevrolet/silverado-zr2",
+   "make": "Chevrolet",
+   "model": "Silverado",
+   "variant": "ZR2",
+   "display": "Silverado ZR2",
+   "search": [
+    "silverado zr2",
+    "zr2"
+   ],
+   "shape": "truck",
+   "years": "2022–",
+   "hp": 420,
+   "zeroToSixty": 6.0,
+   "weightKg": 2450,
+   "tier": 2
+  },
+  {
+   "slug": "dodge/challenger",
+   "make": "Dodge",
+   "model": "Challenger",
+   "variant": null,
+   "display": "Challenger",
+   "search": [
+    "challenger",
+    "challenger rt"
+   ],
+   "shape": "muscle",
+   "years": "2015–2023",
+   "hp": 303,
+   "zeroToSixty": 6.3,
+   "weightKg": 1880,
+   "tier": 2
+  },
+  {
+   "slug": "dodge/challenger-demon",
+   "make": "Dodge",
+   "model": "Challenger",
+   "variant": "SRT Demon",
+   "display": "Demon",
+   "search": [
+    "demon",
+    "srt demon",
+    "demon 170"
+   ],
+   "shape": "muscle",
+   "years": "2018",
+   "hp": 808,
+   "zeroToSixty": 2.3,
+   "weightKg": 1940,
+   "tier": 2
+  },
+  {
+   "slug": "dodge/charger",
+   "make": "Dodge",
+   "model": "Charger",
+   "variant": null,
+   "display": "Charger",
+   "search": [
+    "charger",
+    "charger gt",
+    "charger sxt"
+   ],
+   "shape": "muscle",
+   "years": "2015–2023",
+   "hp": 300,
+   "zeroToSixty": 6.4,
+   "weightKg": 1905,
+   "tier": 2
+  },
+  {
+   "slug": "dodge/charger-scat-pack",
+   "make": "Dodge",
+   "model": "Charger",
+   "variant": "Scat Pack",
+   "display": "Charger Scat Pack",
+   "search": [
+    "charger scat pack",
+    "charger 392"
+   ],
+   "shape": "muscle",
+   "years": "2015–2023",
+   "hp": 485,
+   "zeroToSixty": 4.3,
+   "weightKg": 1990,
+   "tier": 2
+  },
+  {
+   "slug": "dodge/viper-acr",
+   "make": "Dodge",
+   "model": "Viper",
+   "variant": "ACR",
+   "display": "Viper ACR",
+   "search": [
+    "viper",
+    "acr",
+    "viper acr"
+   ],
+   "shape": "sports",
+   "years": "2016–2017",
+   "hp": 645,
+   "zeroToSixty": 3.3,
+   "weightKg": 1520,
+   "tier": 2
+  },
+  {
+   "slug": "ferrari/296",
+   "make": "Ferrari",
+   "model": "296",
+   "variant": "GTB",
+   "display": "296 GTB",
+   "search": [
+    "296",
+    "296 gtb"
+   ],
+   "shape": "sports",
+   "years": "2022–",
+   "hp": 819,
+   "zeroToSixty": 2.9,
+   "weightKg": 1470,
+   "tier": 2
+  },
+  {
+   "slug": "ferrari/458",
+   "make": "Ferrari",
+   "model": "458",
+   "variant": null,
+   "display": "458 Italia",
+   "search": [
+    "458",
+    "458 italia"
+   ],
+   "shape": "sports",
+   "years": "2010–2015",
+   "hp": 562,
+   "zeroToSixty": 3.0,
+   "weightKg": 1485,
+   "tier": 2
+  },
+  {
+   "slug": "ferrari/488",
+   "make": "Ferrari",
+   "model": "488",
+   "variant": "GTB",
+   "display": "488 GTB",
+   "search": [
+    "488",
+    "488 gtb"
+   ],
+   "shape": "sports",
+   "years": "2016–2019",
+   "hp": 661,
+   "zeroToSixty": 3.0,
+   "weightKg": 1475,
+   "tier": 2
+  },
+  {
+   "slug": "ferrari/f8",
+   "make": "Ferrari",
+   "model": "F8",
+   "variant": "Tributo",
+   "display": "F8 Tributo",
+   "search": [
+    "f8",
+    "f8 tributo"
+   ],
+   "shape": "sports",
+   "years": "2020–2023",
+   "hp": 710,
+   "zeroToSixty": 2.9,
+   "weightKg": 1435,
+   "tier": 2
+  },
+  {
+   "slug": "ford/bronco-raptor",
+   "make": "Ford",
+   "model": "Bronco",
+   "variant": "Raptor",
+   "display": "Bronco Raptor",
+   "search": [
+    "bronco raptor",
+    "braptor"
+   ],
+   "shape": "suv",
+   "years": "2022–",
+   "hp": 418,
+   "zeroToSixty": 5.6,
+   "weightKg": 2540,
+   "tier": 2
+  },
+  {
+   "slug": "ford/f-150",
+   "make": "Ford",
+   "model": "F-150",
+   "variant": null,
+   "display": "F-150",
+   "search": [
+    "f150",
+    "f-150",
+    "f 150"
+   ],
+   "shape": "truck",
+   "years": "2021–",
+   "hp": 400,
+   "zeroToSixty": 5.4,
+   "weightKg": 2250,
+   "tier": 2
+  },
+  {
+   "slug": "ford/fiesta-st",
+   "make": "Ford",
+   "model": "Fiesta",
+   "variant": "ST",
+   "display": "Fiesta ST",
+   "search": [
+    "fiesta st",
+    "fiesta"
+   ],
+   "shape": "hatchback",
+   "years": "2018–2023",
+   "hp": 197,
+   "zeroToSixty": 6.5,
+   "weightKg": 1260,
+   "tier": 2
+  },
+  {
+   "slug": "ford/focus-rs",
+   "make": "Ford",
+   "model": "Focus",
+   "variant": "RS",
+   "display": "Focus RS",
+   "search": [
+    "focus rs",
+    "rs"
+   ],
+   "shape": "hatchback",
+   "years": "2016–2018",
+   "hp": 350,
+   "zeroToSixty": 4.6,
+   "weightKg": 1600,
+   "tier": 2
+  },
+  {
+   "slug": "ford/gt",
+   "make": "Ford",
+   "model": "GT",
+   "variant": null,
+   "display": "Ford GT",
+   "search": [
+    "ford gt",
+    "gt40"
+   ],
+   "shape": "sports",
+   "years": "2017–2022",
+   "hp": 647,
+   "zeroToSixty": 3.0,
+   "weightKg": 1385,
+   "tier": 2
+  },
+  {
+   "slug": "ford/maverick",
+   "make": "Ford",
+   "model": "Maverick",
+   "variant": null,
+   "display": "Maverick",
+   "search": [
+    "maverick",
+    "ford maverick"
+   ],
+   "shape": "truck",
+   "years": "2022–",
+   "hp": 250,
+   "zeroToSixty": 6.1,
+   "weightKg": 1750,
+   "tier": 2
+  },
+  {
+   "slug": "ford/mustang",
+   "make": "Ford",
+   "model": "Mustang",
+   "variant": null,
+   "display": "Mustang",
+   "search": [
+    "mustang",
+    "ecoboost mustang"
+   ],
+   "shape": "muscle",
+   "years": "2024–",
+   "hp": 315,
+   "zeroToSixty": 5.4,
+   "weightKg": 1705,
+   "tier": 2
+  },
+  {
+   "slug": "ford/ranger",
+   "make": "Ford",
+   "model": "Ranger",
+   "variant": null,
+   "display": "Ranger",
+   "search": [
+    "ranger",
+    "ford ranger"
+   ],
+   "shape": "truck",
+   "years": "2024–",
+   "hp": 270,
+   "zeroToSixty": 7.0,
+   "weightKg": 2110,
+   "tier": 2
+  },
+  {
+   "slug": "ford/ranger-raptor",
+   "make": "Ford",
+   "model": "Ranger",
+   "variant": "Raptor",
+   "display": "Ranger Raptor",
+   "search": [
+    "ranger raptor"
+   ],
+   "shape": "truck",
+   "years": "2024–",
+   "hp": 405,
+   "zeroToSixty": 5.9,
+   "weightKg": 2450,
+   "tier": 2
+  },
+  {
+   "slug": "gmc/hummer-ev",
+   "make": "GMC",
+   "model": "Hummer EV",
+   "variant": null,
+   "display": "Hummer EV",
+   "search": [
+    "hummer",
+    "hummer ev"
+   ],
+   "shape": "truck",
+   "years": "2022–",
+   "hp": 1000,
+   "zeroToSixty": 3.0,
+   "weightKg": 4100,
+   "tier": 2
+  },
+  {
+   "slug": "gmc/sierra",
+   "make": "GMC",
+   "model": "Sierra",
+   "variant": null,
+   "display": "Sierra",
+   "search": [
+    "sierra",
+    "at4",
+    "gmc truck"
+   ],
+   "shape": "truck",
+   "years": "2019–",
+   "hp": 420,
+   "zeroToSixty": 5.4,
+   "weightKg": 2350,
+   "tier": 2
+  },
+  {
+   "slug": "honda/accord",
+   "make": "Honda",
+   "model": "Accord",
+   "variant": null,
+   "display": "Accord",
+   "search": [
+    "accord"
+   ],
+   "shape": "sedan",
+   "years": "2023–",
+   "hp": 192,
+   "zeroToSixty": 7.2,
+   "weightKg": 1500,
+   "tier": 2
+  },
+  {
+   "slug": "honda/cr-v",
+   "make": "Honda",
+   "model": "CR-V",
+   "variant": null,
+   "display": "CR-V",
+   "search": [
+    "crv",
+    "cr-v",
+    "cr v"
+   ],
+   "shape": "suv",
+   "years": "2023–",
+   "hp": 190,
+   "zeroToSixty": 8.2,
+   "weightKg": 1600,
+   "tier": 2
+  },
+  {
+   "slug": "honda/s2000",
+   "make": "Honda",
+   "model": "S2000",
+   "variant": null,
+   "display": "S2000",
+   "search": [
+    "s2000",
+    "s2k"
+   ],
+   "shape": "sports",
+   "years": "1999–2009",
+   "hp": 237,
+   "zeroToSixty": 5.8,
+   "weightKg": 1275,
+   "tier": 2
+  },
+  {
+   "slug": "hyundai/elantra-n",
+   "make": "Hyundai",
+   "model": "Elantra",
+   "variant": "N",
+   "display": "Elantra N",
+   "search": [
+    "elantra n",
+    "elantran"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 276,
+   "zeroToSixty": 5.0,
+   "weightKg": 1450,
+   "tier": 2
+  },
+  {
+   "slug": "hyundai/i30-n",
+   "make": "Hyundai",
+   "model": "i30",
+   "variant": "N",
+   "display": "i30 N",
+   "search": [
+    "i30n",
+    "i30 n"
+   ],
+   "shape": "hatchback",
+   "years": "2018–",
+   "hp": 276,
+   "zeroToSixty": 5.9,
+   "weightKg": 1430,
+   "tier": 2
+  },
+  {
+   "slug": "hyundai/ioniq-5-n",
+   "make": "Hyundai",
+   "model": "Ioniq 5",
+   "variant": "N",
+   "display": "Ioniq 5 N",
+   "search": [
+    "ioniq 5 n",
+    "ioniq5n",
+    "5n"
+   ],
+   "shape": "suv",
+   "years": "2024–",
+   "hp": 641,
+   "zeroToSixty": 3.3,
+   "weightKg": 2230,
+   "tier": 2
+  },
+  {
+   "slug": "hyundai/veloster-n",
+   "make": "Hyundai",
+   "model": "Veloster",
+   "variant": "N",
+   "display": "Veloster N",
+   "search": [
+    "veloster n",
+    "veloster"
+   ],
+   "shape": "hatchback",
+   "years": "2019–2022",
+   "hp": 275,
+   "zeroToSixty": 5.6,
+   "weightKg": 1395,
+   "tier": 2
+  },
+  {
+   "slug": "infiniti/g37",
+   "make": "Infiniti",
+   "model": "G37",
+   "variant": null,
+   "display": "G37",
+   "search": [
+    "g37",
+    "g37s"
+   ],
+   "shape": "coupe",
+   "years": "2008–2013",
+   "hp": 330,
+   "zeroToSixty": 5.6,
+   "weightKg": 1645,
+   "tier": 2
+  },
+  {
+   "slug": "infiniti/q50-red-sport",
+   "make": "Infiniti",
+   "model": "Q50",
+   "variant": "Red Sport 400",
+   "display": "Q50 Red Sport",
+   "search": [
+    "q50",
+    "red sport",
+    "rs400",
+    "q50 red sport"
+   ],
+   "shape": "sedan",
+   "years": "2016–2024",
+   "hp": 400,
+   "zeroToSixty": 4.5,
+   "weightKg": 1810,
+   "tier": 2
+  },
+  {
+   "slug": "jeep/gladiator",
+   "make": "Jeep",
+   "model": "Gladiator",
+   "variant": null,
+   "display": "Gladiator",
+   "search": [
+    "gladiator",
+    "jeep truck"
+   ],
+   "shape": "truck",
+   "years": "2020–",
+   "hp": 285,
+   "zeroToSixty": 7.2,
+   "weightKg": 2240,
+   "tier": 2
+  },
+  {
+   "slug": "jeep/grand-cherokee",
+   "make": "Jeep",
+   "model": "Grand Cherokee",
+   "variant": null,
+   "display": "Grand Cherokee",
+   "search": [
+    "grand cherokee",
+    "gc"
+   ],
+   "shape": "suv",
+   "years": "2022–",
+   "hp": 293,
+   "zeroToSixty": 6.5,
+   "weightKg": 2100,
+   "tier": 2
+  },
+  {
+   "slug": "jeep/grand-cherokee-trackhawk",
+   "make": "Jeep",
+   "model": "Grand Cherokee",
+   "variant": "Trackhawk",
+   "display": "Trackhawk",
+   "search": [
+    "trackhawk",
+    "track hawk"
+   ],
+   "shape": "suv",
+   "years": "2018–2021",
+   "hp": 707,
+   "zeroToSixty": 3.5,
+   "weightKg": 2430,
+   "tier": 2
+  },
+  {
+   "slug": "jeep/wrangler-rubicon-392",
+   "make": "Jeep",
+   "model": "Wrangler",
+   "variant": "Rubicon 392",
+   "display": "Wrangler 392",
+   "search": [
+    "rubicon 392",
+    "392 wrangler",
+    "wrangler 392"
+   ],
+   "shape": "suv",
+   "years": "2021–",
+   "hp": 470,
+   "zeroToSixty": 4.5,
+   "weightKg": 2350,
+   "tier": 2
+  },
+  {
+   "slug": "kia/stinger-gt",
+   "make": "Kia",
+   "model": "Stinger",
+   "variant": "GT",
+   "display": "Stinger GT",
+   "search": [
+    "stinger",
+    "stinger gt"
+   ],
+   "shape": "sedan",
+   "years": "2018–2023",
+   "hp": 368,
+   "zeroToSixty": 4.7,
+   "weightKg": 1890,
+   "tier": 2
+  },
+  {
+   "slug": "koenigsegg/jesko",
+   "make": "Koenigsegg",
+   "model": "Jesko",
+   "variant": null,
+   "display": "Jesko",
+   "search": [
+    "jesko",
+    "koenigsegg"
+   ],
+   "shape": "sports",
+   "years": "2022–",
+   "hp": 1280,
+   "zeroToSixty": 2.5,
+   "weightKg": 1420,
+   "tier": 2
+  },
+  {
+   "slug": "lamborghini/revuelto",
+   "make": "Lamborghini",
+   "model": "Revuelto",
+   "variant": null,
+   "display": "Revuelto",
+   "search": [
+    "revuelto"
+   ],
+   "shape": "sports",
+   "years": "2023–",
+   "hp": 1001,
+   "zeroToSixty": 2.5,
+   "weightKg": 1770,
+   "tier": 2
+  },
+  {
+   "slug": "land-rover/defender",
+   "make": "Land Rover",
+   "model": "Defender",
+   "variant": null,
+   "display": "Defender",
+   "search": [
+    "defender",
+    "land rover"
+   ],
+   "shape": "suv",
+   "years": "2020–",
+   "hp": 395,
+   "zeroToSixty": 5.8,
+   "weightKg": 2360,
+   "tier": 2
+  },
+  {
+   "slug": "lexus/is-500",
+   "make": "Lexus",
+   "model": "IS",
+   "variant": "500",
+   "display": "IS 500",
+   "search": [
+    "is500",
+    "is 500"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 472,
+   "zeroToSixty": 4.4,
+   "weightKg": 1765,
+   "tier": 2
+  },
+  {
+   "slug": "lexus/lc-500",
+   "make": "Lexus",
+   "model": "LC",
+   "variant": "500",
+   "display": "LC 500",
+   "search": [
+    "lc500",
+    "lc 500"
+   ],
+   "shape": "coupe",
+   "years": "2018–",
+   "hp": 471,
+   "zeroToSixty": 4.4,
+   "weightKg": 1935,
+   "tier": 2
+  },
+  {
+   "slug": "lotus/emira",
+   "make": "Lotus",
+   "model": "Emira",
+   "variant": null,
+   "display": "Emira",
+   "search": [
+    "emira",
+    "lotus emira"
+   ],
+   "shape": "sports",
+   "years": "2023–",
+   "hp": 400,
+   "zeroToSixty": 4.2,
+   "weightKg": 1405,
+   "tier": 2
+  },
+  {
+   "slug": "lucid/air",
+   "make": "Lucid",
+   "model": "Air",
+   "variant": null,
+   "display": "Lucid Air",
+   "search": [
+    "lucid",
+    "lucid air",
+    "air gt"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 819,
+   "zeroToSixty": 3.0,
+   "weightKg": 2270,
+   "tier": 2
+  },
+  {
+   "slug": "mazda/mazda3-turbo",
+   "make": "Mazda",
+   "model": "Mazda3",
+   "variant": "Turbo",
+   "display": "Mazda3 Turbo",
+   "search": [
+    "mazda3",
+    "mazda 3 turbo",
+    "3 turbo"
+   ],
+   "shape": "hatchback",
+   "years": "2021–",
+   "hp": 250,
+   "zeroToSixty": 5.8,
+   "weightKg": 1530,
+   "tier": 2
+  },
+  {
+   "slug": "mclaren/765lt",
+   "make": "McLaren",
+   "model": "765LT",
+   "variant": null,
+   "display": "765LT",
+   "search": [
+    "765lt",
+    "765"
+   ],
+   "shape": "sports",
+   "years": "2021–2022",
+   "hp": 755,
+   "zeroToSixty": 2.7,
+   "weightKg": 1340,
+   "tier": 2
+  },
+  {
+   "slug": "mclaren/artura",
+   "make": "McLaren",
+   "model": "Artura",
+   "variant": null,
+   "display": "Artura",
+   "search": [
+    "artura"
+   ],
+   "shape": "sports",
+   "years": "2022–",
+   "hp": 671,
+   "zeroToSixty": 3.0,
+   "weightKg": 1500,
+   "tier": 2
+  },
+  {
+   "slug": "mercedes-amg/a45-s",
+   "make": "Mercedes-AMG",
+   "model": "A45 S",
+   "variant": null,
+   "display": "A45 S",
+   "search": [
+    "a45",
+    "a45 s",
+    "a45 amg",
+    "a 45"
+   ],
+   "shape": "hatchback",
+   "years": "2020–",
+   "hp": 416,
+   "zeroToSixty": 3.8,
+   "weightKg": 1560,
+   "tier": 2
+  },
+  {
+   "slug": "mercedes-benz/c-class",
+   "make": "Mercedes-Benz",
+   "model": "C-Class",
+   "variant": null,
+   "display": "C-Class",
+   "search": [
+    "c class",
+    "c300",
+    "c-class"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 255,
+   "zeroToSixty": 5.9,
+   "weightKg": 1765,
+   "tier": 2
+  },
+  {
+   "slug": "mini/cooper-s",
+   "make": "Mini",
+   "model": "Cooper",
+   "variant": "S",
+   "display": "Cooper S",
+   "search": [
+    "cooper s",
+    "mini cooper",
+    "mini"
+   ],
+   "shape": "hatchback",
+   "years": "2019–",
+   "hp": 189,
+   "zeroToSixty": 6.5,
+   "weightKg": 1235,
+   "tier": 2
+  },
+  {
+   "slug": "nissan/350z",
+   "make": "Nissan",
+   "model": "350Z",
+   "variant": null,
+   "display": "350Z",
+   "search": [
+    "350z",
+    "z33"
+   ],
+   "shape": "sports",
+   "years": "2003–2009",
+   "hp": 306,
+   "zeroToSixty": 5.3,
+   "weightKg": 1480,
+   "tier": 2
+  },
+  {
+   "slug": "nissan/370z",
+   "make": "Nissan",
+   "model": "370Z",
+   "variant": null,
+   "display": "370Z",
+   "search": [
+    "370z",
+    "z34"
+   ],
+   "shape": "sports",
+   "years": "2009–2020",
+   "hp": 332,
+   "zeroToSixty": 5.1,
+   "weightKg": 1495,
+   "tier": 2
+  },
+  {
+   "slug": "pagani/huayra",
+   "make": "Pagani",
+   "model": "Huayra",
+   "variant": null,
+   "display": "Huayra",
+   "search": [
+    "huayra",
+    "pagani"
+   ],
+   "shape": "sports",
+   "years": "2012–2018",
+   "hp": 720,
+   "zeroToSixty": 3.0,
+   "weightKg": 1350,
+   "tier": 2
+  },
+  {
+   "slug": "porsche/718-cayman",
+   "make": "Porsche",
+   "model": "718 Cayman",
+   "variant": null,
+   "display": "718 Cayman",
+   "search": [
+    "cayman",
+    "718",
+    "718 cayman"
+   ],
+   "shape": "sports",
+   "years": "2017–",
+   "hp": 300,
+   "zeroToSixty": 4.9,
+   "weightKg": 1365,
+   "tier": 2
+  },
+  {
+   "slug": "porsche/cayenne",
+   "make": "Porsche",
+   "model": "Cayenne",
+   "variant": null,
+   "display": "Cayenne",
+   "search": [
+    "cayenne",
+    "porsche suv"
+   ],
+   "shape": "suv",
+   "years": "2019–",
+   "hp": 348,
+   "zeroToSixty": 5.7,
+   "weightKg": 2110,
+   "tier": 2
+  },
+  {
+   "slug": "porsche/macan",
+   "make": "Porsche",
+   "model": "Macan",
+   "variant": null,
+   "display": "Macan",
+   "search": [
+    "macan"
+   ],
+   "shape": "suv",
+   "years": "2019–",
+   "hp": 261,
+   "zeroToSixty": 6.0,
+   "weightKg": 1925,
+   "tier": 2
+  },
+  {
+   "slug": "ram/1500",
+   "make": "Ram",
+   "model": "1500",
+   "variant": null,
+   "display": "Ram 1500",
+   "search": [
+    "ram",
+    "ram 1500",
+    "hemi"
+   ],
+   "shape": "truck",
+   "years": "2019–",
+   "hp": 395,
+   "zeroToSixty": 6.1,
+   "weightKg": 2300,
+   "tier": 2
+  },
+  {
+   "slug": "renault/megane-rs",
+   "make": "Renault",
+   "model": "Mégane",
+   "variant": "RS",
+   "display": "Mégane RS",
+   "search": [
+    "megane rs",
+    "megane",
+    "rs trophy"
+   ],
+   "shape": "hatchback",
+   "years": "2019–2023",
+   "hp": 296,
+   "zeroToSixty": 5.7,
+   "weightKg": 1420,
+   "tier": 2
+  },
+  {
+   "slug": "tesla/model-3",
+   "make": "Tesla",
+   "model": "Model 3",
+   "variant": null,
+   "display": "Model 3",
+   "search": [
+    "model 3",
+    "model3",
+    "tesla 3"
+   ],
+   "shape": "sedan",
+   "years": "2024–",
+   "hp": 271,
+   "zeroToSixty": 5.8,
+   "weightKg": 1765,
+   "tier": 2
+  },
+  {
+   "slug": "tesla/model-y",
+   "make": "Tesla",
+   "model": "Model Y",
+   "variant": null,
+   "display": "Model Y",
+   "search": [
+    "model y",
+    "modely",
+    "tesla y"
+   ],
+   "shape": "suv",
+   "years": "2021–",
+   "hp": 384,
+   "zeroToSixty": 4.8,
+   "weightKg": 1930,
+   "tier": 2
+  },
+  {
+   "slug": "toyota/4runner",
+   "make": "Toyota",
+   "model": "4Runner",
+   "variant": null,
+   "display": "4Runner",
+   "search": [
+    "4runner",
+    "4 runner",
+    "forerunner"
+   ],
+   "shape": "suv",
+   "years": "2025–",
+   "hp": 278,
+   "zeroToSixty": 7.5,
+   "weightKg": 2360,
+   "tier": 2
+  },
+  {
+   "slug": "toyota/camry",
+   "make": "Toyota",
+   "model": "Camry",
+   "variant": null,
+   "display": "Camry",
+   "search": [
+    "camry"
+   ],
+   "shape": "sedan",
+   "years": "2025–",
+   "hp": 225,
+   "zeroToSixty": 6.8,
+   "weightKg": 1590,
+   "tier": 2
+  },
+  {
+   "slug": "toyota/corolla",
+   "make": "Toyota",
+   "model": "Corolla",
+   "variant": null,
+   "display": "Corolla",
+   "search": [
+    "corolla"
+   ],
+   "shape": "sedan",
+   "years": "2020–",
+   "hp": 169,
+   "zeroToSixty": 8.0,
+   "weightKg": 1355,
+   "tier": 2
+  },
+  {
+   "slug": "toyota/gr-yaris",
+   "make": "Toyota",
+   "model": "GR Yaris",
+   "variant": null,
+   "display": "GR Yaris",
+   "search": [
+    "gr yaris",
+    "yaris gr"
+   ],
+   "shape": "hatchback",
+   "years": "2020–",
+   "hp": 300,
+   "zeroToSixty": 5.2,
+   "weightKg": 1280,
+   "tier": 2
+  },
+  {
+   "slug": "toyota/land-cruiser",
+   "make": "Toyota",
+   "model": "Land Cruiser",
+   "variant": null,
+   "display": "Land Cruiser",
+   "search": [
+    "land cruiser",
+    "lc250"
+   ],
+   "shape": "suv",
+   "years": "2024–",
+   "hp": 326,
+   "zeroToSixty": 7.5,
+   "weightKg": 2540,
+   "tier": 2
+  },
+  {
+   "slug": "toyota/rav4",
+   "make": "Toyota",
+   "model": "RAV4",
+   "variant": null,
+   "display": "RAV4",
+   "search": [
+    "rav4",
+    "rav 4"
+   ],
+   "shape": "suv",
+   "years": "2019–",
+   "hp": 203,
+   "zeroToSixty": 8.0,
+   "weightKg": 1620,
+   "tier": 2
+  },
+  {
+   "slug": "toyota/supra-mk4",
+   "make": "Toyota",
+   "model": "Supra",
+   "variant": "Mk4",
+   "display": "Supra Mk4",
+   "search": [
+    "mk4",
+    "mk4 supra",
+    "a80",
+    "2jz"
+   ],
+   "shape": "sports",
+   "years": "1993–1998",
+   "hp": 320,
+   "zeroToSixty": 4.6,
+   "weightKg": 1540,
+   "tier": 2
+  },
+  {
+   "slug": "toyota/tacoma-trd-pro",
+   "make": "Toyota",
+   "model": "Tacoma",
+   "variant": "TRD Pro",
+   "display": "Tacoma TRD Pro",
+   "search": [
+    "trd pro",
+    "tacoma trd"
+   ],
+   "shape": "truck",
+   "years": "2024–",
+   "hp": 326,
+   "zeroToSixty": 6.5,
+   "weightKg": 2400,
+   "tier": 2
+  },
+  {
+   "slug": "toyota/tundra",
+   "make": "Toyota",
+   "model": "Tundra",
+   "variant": null,
+   "display": "Tundra",
+   "search": [
+    "tundra"
+   ],
+   "shape": "truck",
+   "years": "2022–",
+   "hp": 389,
+   "zeroToSixty": 6.1,
+   "weightKg": 2540,
+   "tier": 2
+  },
+  {
+   "slug": "volkswagen/jetta-gli",
+   "make": "Volkswagen",
+   "model": "Jetta",
+   "variant": "GLI",
+   "display": "Jetta GLI",
+   "search": [
+    "gli",
+    "jetta gli",
+    "jetta"
+   ],
+   "shape": "sedan",
+   "years": "2019–",
+   "hp": 228,
+   "zeroToSixty": 6.0,
+   "weightKg": 1450,
+   "tier": 2
+  },
+  {
+   "slug": "abarth/595",
+   "make": "Abarth",
+   "model": "595",
+   "variant": null,
+   "display": "Abarth 595",
+   "search": [
+    "abarth",
+    "595",
+    "abarth 595"
+   ],
+   "shape": "hatchback",
+   "years": "2016–2023",
+   "hp": 178,
+   "zeroToSixty": 6.7,
+   "weightKg": 1045,
+   "tier": 3
+  },
+  {
+   "slug": "acura/tlx-type-s",
+   "make": "Acura",
+   "model": "TLX",
+   "variant": "Type S",
+   "display": "TLX Type S",
+   "search": [
+    "tlx",
+    "tlx type s"
+   ],
+   "shape": "sedan",
+   "years": "2021–",
+   "hp": 355,
+   "zeroToSixty": 5.0,
+   "weightKg": 1930,
+   "tier": 3
+  },
+  {
+   "slug": "audi/a4",
+   "make": "Audi",
+   "model": "A4",
+   "variant": null,
+   "display": "A4",
+   "search": [
+    "a4",
+    "audi a4"
+   ],
+   "shape": "sedan",
+   "years": "2020–",
+   "hp": 261,
+   "zeroToSixty": 5.2,
+   "weightKg": 1660,
+   "tier": 3
+  },
+  {
+   "slug": "audi/s3",
+   "make": "Audi",
+   "model": "S3",
+   "variant": null,
+   "display": "S3",
+   "search": [
+    "s3",
+    "audi s3"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 306,
+   "zeroToSixty": 4.5,
+   "weightKg": 1550,
+   "tier": 3
+  },
+  {
+   "slug": "audi/tt-rs",
+   "make": "Audi",
+   "model": "TT",
+   "variant": "RS",
+   "display": "TT RS",
+   "search": [
+    "tt rs",
+    "ttrs",
+    "tt"
+   ],
+   "shape": "sports",
+   "years": "2018–2022",
+   "hp": 394,
+   "zeroToSixty": 3.6,
+   "weightKg": 1450,
+   "tier": 3
+  },
+  {
+   "slug": "bentley/continental-gt",
+   "make": "Bentley",
+   "model": "Continental GT",
+   "variant": null,
+   "display": "Continental GT",
+   "search": [
+    "continental",
+    "conti gt",
+    "bentley"
+   ],
+   "shape": "coupe",
+   "years": "2020–",
+   "hp": 542,
+   "zeroToSixty": 3.9,
+   "weightKg": 2245,
+   "tier": 3
+  },
+  {
+   "slug": "bmw/1m",
+   "make": "BMW",
+   "model": "1 Series M",
+   "variant": null,
+   "display": "1M",
+   "search": [
+    "1m",
+    "1 series m",
+    "1m coupe"
+   ],
+   "shape": "coupe",
+   "years": "2011",
+   "hp": 335,
+   "zeroToSixty": 4.7,
+   "weightKg": 1495,
+   "tier": 3
+  },
+  {
+   "slug": "bmw/5-series",
+   "make": "BMW",
+   "model": "5 Series",
+   "variant": null,
+   "display": "5 Series",
+   "search": [
+    "5 series",
+    "530i",
+    "g60"
+   ],
+   "shape": "sedan",
+   "years": "2024–",
+   "hp": 255,
+   "zeroToSixty": 5.9,
+   "weightKg": 1780,
+   "tier": 3
+  },
+  {
+   "slug": "bmw/m135i",
+   "make": "BMW",
+   "model": "1 Series",
+   "variant": "M135i",
+   "display": "M135i",
+   "search": [
+    "m135i",
+    "135i"
+   ],
+   "shape": "hatchback",
+   "years": "2019–",
+   "hp": 302,
+   "zeroToSixty": 4.8,
+   "weightKg": 1525,
+   "tier": 3
+  },
+  {
+   "slug": "bmw/m240i",
+   "make": "BMW",
+   "model": "2 Series",
+   "variant": "M240i",
+   "display": "M240i",
+   "search": [
+    "m240i",
+    "240i"
+   ],
+   "shape": "coupe",
+   "years": "2022–",
+   "hp": 382,
+   "zeroToSixty": 4.1,
+   "weightKg": 1690,
+   "tier": 3
+  },
+  {
+   "slug": "bmw/m3-e92",
+   "make": "BMW",
+   "model": "M3",
+   "variant": "E92",
+   "display": "E92 M3",
+   "search": [
+    "e92",
+    "e92 m3",
+    "m3 v8"
+   ],
+   "shape": "coupe",
+   "years": "2008–2013",
+   "hp": 414,
+   "zeroToSixty": 4.6,
+   "weightKg": 1655,
+   "tier": 3
+  },
+  {
+   "slug": "cadillac/ct4-v-blackwing",
+   "make": "Cadillac",
+   "model": "CT4-V",
+   "variant": "Blackwing",
+   "display": "CT4-V Blackwing",
+   "search": [
+    "ct4",
+    "ct4-v",
+    "ct4 v blackwing"
+   ],
+   "shape": "sedan",
+   "years": "2022–",
+   "hp": 472,
+   "zeroToSixty": 3.8,
+   "weightKg": 1745,
+   "tier": 3
+  },
+  {
+   "slug": "cupra/leon",
+   "make": "Cupra",
+   "model": "Leon",
+   "variant": null,
+   "display": "Cupra Leon",
+   "search": [
+    "cupra leon",
+    "leon",
+    "cupra"
+   ],
+   "shape": "hatchback",
+   "years": "2021–",
+   "hp": 296,
+   "zeroToSixty": 5.7,
+   "weightKg": 1475,
+   "tier": 3
+  },
+  {
+   "slug": "dodge/durango",
+   "make": "Dodge",
+   "model": "Durango",
+   "variant": null,
+   "display": "Durango",
+   "search": [
+    "durango"
+   ],
+   "shape": "suv",
+   "years": "2018–",
+   "hp": 295,
+   "zeroToSixty": 7.4,
+   "weightKg": 2270,
+   "tier": 3
+  },
+  {
+   "slug": "dodge/durango-hellcat",
+   "make": "Dodge",
+   "model": "Durango",
+   "variant": "Hellcat",
+   "display": "Durango Hellcat",
+   "search": [
+    "durango hellcat"
+   ],
+   "shape": "suv",
+   "years": "2021–2024",
+   "hp": 710,
+   "zeroToSixty": 3.5,
+   "weightKg": 2560,
+   "tier": 3
+  },
+  {
+   "slug": "ferrari/roma",
+   "make": "Ferrari",
+   "model": "Roma",
+   "variant": null,
+   "display": "Roma",
+   "search": [
+    "roma",
+    "ferrari roma"
+   ],
+   "shape": "coupe",
+   "years": "2021–",
+   "hp": 612,
+   "zeroToSixty": 3.4,
+   "weightKg": 1570,
+   "tier": 3
+  },
+  {
+   "slug": "ford/explorer-st",
+   "make": "Ford",
+   "model": "Explorer",
+   "variant": "ST",
+   "display": "Explorer ST",
+   "search": [
+    "explorer st",
+    "explorer"
+   ],
+   "shape": "suv",
+   "years": "2020–",
+   "hp": 400,
+   "zeroToSixty": 5.5,
+   "weightKg": 2085,
+   "tier": 3
+  },
+  {
+   "slug": "ford/f-250",
+   "make": "Ford",
+   "model": "F-250",
+   "variant": null,
+   "display": "F-250",
+   "search": [
+    "f250",
+    "f-250",
+    "super duty",
+    "powerstroke"
+   ],
+   "shape": "truck",
+   "years": "2023–",
+   "hp": 475,
+   "zeroToSixty": 6.1,
+   "weightKg": 3300,
+   "tier": 3
+  },
+  {
+   "slug": "ford/focus-st",
+   "make": "Ford",
+   "model": "Focus",
+   "variant": "ST",
+   "display": "Focus ST",
+   "search": [
+    "focus st",
+    "st"
+   ],
+   "shape": "hatchback",
+   "years": "2019–2025",
+   "hp": 276,
+   "zeroToSixty": 5.7,
+   "weightKg": 1450,
+   "tier": 3
+  },
+  {
+   "slug": "honda/hr-v",
+   "make": "Honda",
+   "model": "HR-V",
+   "variant": null,
+   "display": "HR-V",
+   "search": [
+    "hrv",
+    "hr-v",
+    "hr v"
+   ],
+   "shape": "suv",
+   "years": "2023–",
+   "hp": 158,
+   "zeroToSixty": 9.4,
+   "weightKg": 1470,
+   "tier": 3
+  },
+  {
+   "slug": "hyundai/genesis-coupe",
+   "make": "Hyundai",
+   "model": "Genesis Coupe",
+   "variant": null,
+   "display": "Genesis Coupe",
+   "search": [
+    "genesis coupe",
+    "gen coupe",
+    "bk2"
+   ],
+   "shape": "coupe",
+   "years": "2010–2016",
+   "hp": 348,
+   "zeroToSixty": 5.2,
+   "weightKg": 1590,
+   "tier": 3
+  },
+  {
+   "slug": "hyundai/i20-n",
+   "make": "Hyundai",
+   "model": "i20",
+   "variant": "N",
+   "display": "i20 N",
+   "search": [
+    "i20n",
+    "i20 n"
+   ],
+   "shape": "hatchback",
+   "years": "2021–2024",
+   "hp": 201,
+   "zeroToSixty": 6.2,
+   "weightKg": 1190,
+   "tier": 3
+  },
+  {
+   "slug": "hyundai/kona-n",
+   "make": "Hyundai",
+   "model": "Kona",
+   "variant": "N",
+   "display": "Kona N",
+   "search": [
+    "kona n",
+    "konan"
+   ],
+   "shape": "suv",
+   "years": "2022–2023",
+   "hp": 276,
+   "zeroToSixty": 5.5,
+   "weightKg": 1510,
+   "tier": 3
+  },
+  {
+   "slug": "hyundai/sonata-n-line",
+   "make": "Hyundai",
+   "model": "Sonata",
+   "variant": "N Line",
+   "display": "Sonata N Line",
+   "search": [
+    "sonata",
+    "sonata n line"
+   ],
+   "shape": "sedan",
+   "years": "2021–2023",
+   "hp": 290,
+   "zeroToSixty": 5.0,
+   "weightKg": 1590,
+   "tier": 3
+  },
+  {
+   "slug": "infiniti/g35",
+   "make": "Infiniti",
+   "model": "G35",
+   "variant": null,
+   "display": "G35",
+   "search": [
+    "g35",
+    "g35 coupe"
+   ],
+   "shape": "coupe",
+   "years": "2003–2007",
+   "hp": 298,
+   "zeroToSixty": 5.8,
+   "weightKg": 1580,
+   "tier": 3
+  },
+  {
+   "slug": "jaguar/f-type",
+   "make": "Jaguar",
+   "model": "F-Type",
+   "variant": null,
+   "display": "F-Type",
+   "search": [
+    "f type",
+    "f-type",
+    "ftype"
+   ],
+   "shape": "sports",
+   "years": "2021–2024",
+   "hp": 444,
+   "zeroToSixty": 4.4,
+   "weightKg": 1660,
+   "tier": 3
+  },
+  {
+   "slug": "kia/ev6-gt",
+   "make": "Kia",
+   "model": "EV6",
+   "variant": "GT",
+   "display": "EV6 GT",
+   "search": [
+    "ev6",
+    "ev6 gt"
+   ],
+   "shape": "suv",
+   "years": "2022–",
+   "hp": 576,
+   "zeroToSixty": 3.4,
+   "weightKg": 2200,
+   "tier": 3
+  },
+  {
+   "slug": "kia/k5-gt",
+   "make": "Kia",
+   "model": "K5",
+   "variant": "GT",
+   "display": "K5 GT",
+   "search": [
+    "k5",
+    "k5 gt"
+   ],
+   "shape": "sedan",
+   "years": "2021–",
+   "hp": 290,
+   "zeroToSixty": 5.2,
+   "weightKg": 1580,
+   "tier": 3
+  },
+  {
+   "slug": "lamborghini/gallardo",
+   "make": "Lamborghini",
+   "model": "Gallardo",
+   "variant": null,
+   "display": "Gallardo",
+   "search": [
+    "gallardo",
+    "lp560"
+   ],
+   "shape": "sports",
+   "years": "2004–2013",
+   "hp": 552,
+   "zeroToSixty": 3.7,
+   "weightKg": 1410,
+   "tier": 3
+  },
+  {
+   "slug": "land-rover/range-rover",
+   "make": "Land Rover",
+   "model": "Range Rover",
+   "variant": null,
+   "display": "Range Rover",
+   "search": [
+    "range rover",
+    "rr"
+   ],
+   "shape": "suv",
+   "years": "2022–",
+   "hp": 395,
+   "zeroToSixty": 5.8,
+   "weightKg": 2540,
+   "tier": 3
+  },
+  {
+   "slug": "lexus/is-350",
+   "make": "Lexus",
+   "model": "IS",
+   "variant": "350",
+   "display": "IS 350",
+   "search": [
+    "is350",
+    "is 350"
+   ],
+   "shape": "sedan",
+   "years": "2021–",
+   "hp": 311,
+   "zeroToSixty": 5.6,
+   "weightKg": 1680,
+   "tier": 3
+  },
+  {
+   "slug": "lexus/rc-f",
+   "make": "Lexus",
+   "model": "RC",
+   "variant": "F",
+   "display": "RC F",
+   "search": [
+    "rcf",
+    "rc f"
+   ],
+   "shape": "coupe",
+   "years": "2015–",
+   "hp": 472,
+   "zeroToSixty": 4.2,
+   "weightKg": 1765,
+   "tier": 3
+  },
+  {
+   "slug": "mazda/cx-5",
+   "make": "Mazda",
+   "model": "CX-5",
+   "variant": null,
+   "display": "CX-5",
+   "search": [
+    "cx5",
+    "cx-5",
+    "cx 5"
+   ],
+   "shape": "suv",
+   "years": "2017–",
+   "hp": 187,
+   "zeroToSixty": 8.2,
+   "weightKg": 1660,
+   "tier": 3
+  },
+  {
+   "slug": "mazda/mazdaspeed3",
+   "make": "Mazda",
+   "model": "Mazda3",
+   "variant": "Mazdaspeed",
+   "display": "Mazdaspeed3",
+   "search": [
+    "speed3",
+    "mazdaspeed 3",
+    "ms3"
+   ],
+   "shape": "hatchback",
+   "years": "2007–2013",
+   "hp": 263,
+   "zeroToSixty": 5.8,
+   "weightKg": 1470,
+   "tier": 3
+  },
+  {
+   "slug": "mazda/rx-8",
+   "make": "Mazda",
+   "model": "RX-8",
+   "variant": null,
+   "display": "RX-8",
+   "search": [
+    "rx8",
+    "rx-8",
+    "renesis"
+   ],
+   "shape": "sports",
+   "years": "2004–2011",
+   "hp": 232,
+   "zeroToSixty": 6.4,
+   "weightKg": 1310,
+   "tier": 3
+  },
+  {
+   "slug": "mercedes-amg/gt-63",
+   "make": "Mercedes-AMG",
+   "model": "GT 63",
+   "variant": null,
+   "display": "AMG GT 63",
+   "search": [
+    "gt63",
+    "gt 63",
+    "amg gt 4 door"
+   ],
+   "shape": "sedan",
+   "years": "2019–",
+   "hp": 630,
+   "zeroToSixty": 3.1,
+   "weightKg": 2045,
+   "tier": 3
+  },
+  {
+   "slug": "mercedes-benz/glc",
+   "make": "Mercedes-Benz",
+   "model": "GLC",
+   "variant": null,
+   "display": "GLC",
+   "search": [
+    "glc",
+    "glc300",
+    "glc 300"
+   ],
+   "shape": "suv",
+   "years": "2023–",
+   "hp": 255,
+   "zeroToSixty": 6.2,
+   "weightKg": 1920,
+   "tier": 3
+  },
+  {
+   "slug": "mini/jcw",
+   "make": "Mini",
+   "model": "Cooper",
+   "variant": "JCW",
+   "display": "Cooper JCW",
+   "search": [
+    "jcw",
+    "john cooper works"
+   ],
+   "shape": "hatchback",
+   "years": "2019–",
+   "hp": 228,
+   "zeroToSixty": 6.1,
+   "weightKg": 1280,
+   "tier": 3
+  },
+  {
+   "slug": "nissan/240sx",
+   "make": "Nissan",
+   "model": "240SX",
+   "variant": null,
+   "display": "240SX",
+   "search": [
+    "240",
+    "240sx",
+    "s13",
+    "s14"
+   ],
+   "shape": "coupe",
+   "years": "1989–1998",
+   "hp": 155,
+   "zeroToSixty": 7.9,
+   "weightKg": 1250,
+   "tier": 3
+  },
+  {
+   "slug": "nissan/altima",
+   "make": "Nissan",
+   "model": "Altima",
+   "variant": null,
+   "display": "Altima",
+   "search": [
+    "altima"
+   ],
+   "shape": "sedan",
+   "years": "2019–",
+   "hp": 188,
+   "zeroToSixty": 7.8,
+   "weightKg": 1450,
+   "tier": 3
+  },
+  {
+   "slug": "nissan/frontier",
+   "make": "Nissan",
+   "model": "Frontier",
+   "variant": null,
+   "display": "Frontier",
+   "search": [
+    "frontier"
+   ],
+   "shape": "truck",
+   "years": "2022–",
+   "hp": 310,
+   "zeroToSixty": 7.2,
+   "weightKg": 2180,
+   "tier": 3
+  },
+  {
+   "slug": "nissan/maxima",
+   "make": "Nissan",
+   "model": "Maxima",
+   "variant": null,
+   "display": "Maxima",
+   "search": [
+    "maxima",
+    "4dsc"
+   ],
+   "shape": "sedan",
+   "years": "2016–2023",
+   "hp": 300,
+   "zeroToSixty": 5.8,
+   "weightKg": 1620,
+   "tier": 3
+  },
+  {
+   "slug": "nissan/sentra-sr",
+   "make": "Nissan",
+   "model": "Sentra",
+   "variant": "SR",
+   "display": "Sentra SR",
+   "search": [
+    "sentra",
+    "sentra sr"
+   ],
+   "shape": "sedan",
+   "years": "2020–",
+   "hp": 149,
+   "zeroToSixty": 8.9,
+   "weightKg": 1370,
+   "tier": 3
+  },
+  {
+   "slug": "porsche/panamera",
+   "make": "Porsche",
+   "model": "Panamera",
+   "variant": null,
+   "display": "Panamera",
+   "search": [
+    "panamera"
+   ],
+   "shape": "sedan",
+   "years": "2024–",
+   "hp": 348,
+   "zeroToSixty": 5.0,
+   "weightKg": 2025,
+   "tier": 3
+  },
+  {
+   "slug": "porsche/taycan",
+   "make": "Porsche",
+   "model": "Taycan",
+   "variant": null,
+   "display": "Taycan",
+   "search": [
+    "taycan"
+   ],
+   "shape": "sedan",
+   "years": "2020–",
+   "hp": 402,
+   "zeroToSixty": 5.1,
+   "weightKg": 2205,
+   "tier": 3
+  },
+  {
+   "slug": "ram/2500",
+   "make": "Ram",
+   "model": "2500",
+   "variant": null,
+   "display": "Ram 2500",
+   "search": [
+    "ram 2500",
+    "cummins",
+    "2500"
+   ],
+   "shape": "truck",
+   "years": "2019–",
+   "hp": 420,
+   "zeroToSixty": 6.9,
+   "weightKg": 3450,
+   "tier": 3
+  },
+  {
+   "slug": "renault/clio-rs",
+   "make": "Renault",
+   "model": "Clio",
+   "variant": "RS",
+   "display": "Clio RS",
+   "search": [
+    "clio rs",
+    "clio"
+   ],
+   "shape": "hatchback",
+   "years": "2013–2019",
+   "hp": 197,
+   "zeroToSixty": 6.7,
+   "weightKg": 1205,
+   "tier": 3
+  },
+  {
+   "slug": "rivian/r1t",
+   "make": "Rivian",
+   "model": "R1T",
+   "variant": null,
+   "display": "R1T",
+   "search": [
+    "r1t",
+    "rivian"
+   ],
+   "shape": "truck",
+   "years": "2022–",
+   "hp": 533,
+   "zeroToSixty": 4.5,
+   "weightKg": 3150,
+   "tier": 3
+  },
+  {
+   "slug": "skoda/octavia-rs",
+   "make": "Skoda",
+   "model": "Octavia",
+   "variant": "RS",
+   "display": "Octavia RS",
+   "search": [
+    "octavia rs",
+    "octavia vrs",
+    "vrs"
+   ],
+   "shape": "hatchback",
+   "years": "2021–",
+   "hp": 242,
+   "zeroToSixty": 6.7,
+   "weightKg": 1500,
+   "tier": 3
+  },
+  {
+   "slug": "subaru/crosstrek",
+   "make": "Subaru",
+   "model": "Crosstrek",
+   "variant": null,
+   "display": "Crosstrek",
+   "search": [
+    "crosstrek",
+    "xv"
+   ],
+   "shape": "suv",
+   "years": "2024–",
+   "hp": 182,
+   "zeroToSixty": 8.8,
+   "weightKg": 1520,
+   "tier": 3
+  },
+  {
+   "slug": "tesla/model-x-plaid",
+   "make": "Tesla",
+   "model": "Model X",
+   "variant": "Plaid",
+   "display": "Model X Plaid",
+   "search": [
+    "model x",
+    "model x plaid"
+   ],
+   "shape": "suv",
+   "years": "2021–",
+   "hp": 1020,
+   "zeroToSixty": 2.5,
+   "weightKg": 2455,
+   "tier": 3
+  },
+  {
+   "slug": "toyota/4runner-trd-pro",
+   "make": "Toyota",
+   "model": "4Runner",
+   "variant": "TRD Pro",
+   "display": "4Runner TRD Pro",
+   "search": [
+    "4runner trd",
+    "4runner trd pro"
+   ],
+   "shape": "suv",
+   "years": "2025–",
+   "hp": 326,
+   "zeroToSixty": 6.9,
+   "weightKg": 2500,
+   "tier": 3
+  },
+  {
+   "slug": "volkswagen/golf",
+   "make": "Volkswagen",
+   "model": "Golf",
+   "variant": null,
+   "display": "Golf",
+   "search": [
+    "golf",
+    "mk8 golf"
+   ],
+   "shape": "hatchback",
+   "years": "2020–",
+   "hp": 148,
+   "zeroToSixty": 8.5,
+   "weightKg": 1320,
+   "tier": 3
+  },
+  {
+   "slug": "volkswagen/passat",
+   "make": "Volkswagen",
+   "model": "Passat",
+   "variant": null,
+   "display": "Passat",
+   "search": [
+    "passat"
+   ],
+   "shape": "sedan",
+   "years": "2016–2022",
+   "hp": 174,
+   "zeroToSixty": 7.7,
+   "weightKg": 1470,
+   "tier": 3
+  },
+  {
+   "slug": "volkswagen/polo-gti",
+   "make": "Volkswagen",
+   "model": "Polo",
+   "variant": "GTI",
+   "display": "Polo GTI",
+   "search": [
+    "polo gti",
+    "polo"
+   ],
+   "shape": "hatchback",
+   "years": "2021–",
+   "hp": 204,
+   "zeroToSixty": 6.5,
+   "weightKg": 1355,
+   "tier": 3
+  }
+ ]
+}
