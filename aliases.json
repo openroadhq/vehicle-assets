@@ -1,10 +1,14 @@
 {
- "porsche/gt3-rs": "porsche/911-gt3-rs",
- "porsche/gt3rs": "porsche/911-gt3-rs",
- "porsche/911-gt3rs": "porsche/911-gt3-rs",
- "ford/raptor": "ford/f-150-raptor",
- "ford/f150-raptor": "ford/f-150-raptor",
  "audi/r8-v10": "audi/r8",
+ "ford/f150-raptor": "ford/f-150-raptor",
+ "ford/ranger-regular-cab": "ford/ranger",
+ "ford/ranger-super-cab": "ford/ranger",
+ "ford/ranger-supercab": "ford/ranger",
+ "ford/ranger-supercrew": "ford/ranger",
+ "ford/raptor": "ford/f-150-raptor",
  "honda/crv": "honda/cr-v",
- "honda/hrv": "honda/hr-v"
+ "honda/hrv": "honda/hr-v",
+ "porsche/911-gt3rs": "porsche/911-gt3-rs",
+ "porsche/gt3-rs": "porsche/911-gt3-rs",
+ "porsche/gt3rs": "porsche/911-gt3-rs"
 }
