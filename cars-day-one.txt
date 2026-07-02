@@ -1,0 +1,199 @@
+# Day-one generation list: slug|description (top US models by garage likelihood).
+# Run: tools/generate.py --list cars-day-one.txt   (skips slugs that already exist)
+# Pilot set (porsche/911-gt3-rs, audi/r8, ford/f-150-raptor, ford/ranger, honda/cr-v, honda/hr-v) already live.
+
+# Toyota
+toyota/corolla|silver Toyota Corolla sedan, current generation
+toyota/camry|white Toyota Camry sedan, current generation
+toyota/rav4|gray Toyota RAV4 SUV, current generation
+toyota/tacoma|red Toyota Tacoma pickup truck, current generation
+toyota/tundra|black Toyota Tundra pickup truck, current generation
+toyota/highlander|white Toyota Highlander SUV, current generation
+toyota/4runner|gray Toyota 4Runner SUV, current generation
+toyota/prius|silver Toyota Prius hatchback, current generation
+toyota/supra|red Toyota GR Supra sports coupe
+toyota/gr86|blue Toyota GR86 sports coupe
+toyota/sienna|white Toyota Sienna minivan, current generation
+
+# Honda
+honda/civic|blue Honda Civic sedan, current generation
+honda/accord|black Honda Accord sedan, current generation
+honda/pilot|white Honda Pilot SUV, current generation
+honda/odyssey|gray Honda Odyssey minivan, current generation
+honda/ridgeline|black Honda Ridgeline pickup truck
+honda/passport|gray Honda Passport SUV, current generation
+
+# Ford
+ford/f-150|black Ford F-150 pickup truck, current generation
+ford/mustang|red Ford Mustang GT coupe, current generation
+ford/explorer|blue Ford Explorer SUV, current generation
+ford/escape|silver Ford Escape SUV, current generation
+ford/bronco|orange Ford Bronco SUV, current generation
+ford/bronco-sport|green Ford Bronco Sport compact SUV
+ford/maverick|blue Ford Maverick compact pickup truck
+ford/edge|gray Ford Edge SUV
+ford/expedition|black Ford Expedition full-size SUV
+ford/focus|silver Ford Focus hatchback
+ford/fusion|gray Ford Fusion sedan
+
+# Chevrolet
+chevrolet/silverado-1500|black Chevrolet Silverado 1500 pickup truck, current generation
+chevrolet/colorado|red Chevrolet Colorado pickup truck, current generation
+chevrolet/equinox|silver Chevrolet Equinox SUV, current generation
+chevrolet/tahoe|black Chevrolet Tahoe full-size SUV, current generation
+chevrolet/suburban|white Chevrolet Suburban full-size SUV
+chevrolet/traverse|gray Chevrolet Traverse SUV
+chevrolet/camaro|yellow Chevrolet Camaro SS coupe, sixth generation
+chevrolet/corvette|red Chevrolet Corvette C8 mid-engine sports car
+chevrolet/malibu|silver Chevrolet Malibu sedan
+chevrolet/blazer|red Chevrolet Blazer SUV
+chevrolet/trailblazer|blue Chevrolet Trailblazer compact SUV
+chevrolet/impala|black Chevrolet Impala sedan
+
+# Tesla
+tesla/model-3|white Tesla Model 3 sedan
+tesla/model-y|white Tesla Model Y SUV
+tesla/model-s|black Tesla Model S sedan
+tesla/model-x|gray Tesla Model X SUV
+tesla/cybertruck|stainless steel Tesla Cybertruck pickup
+
+# BMW
+bmw/m3|green BMW M3 G80 sedan
+bmw/m4|blue BMW M4 G82 coupe
+bmw/3-series|black BMW 3 Series G20 sedan
+bmw/5-series|gray BMW 5 Series sedan, current generation
+bmw/x3|white BMW X3 SUV, current generation
+bmw/x5|black BMW X5 SUV, current generation
+bmw/m5|gray BMW M5 sedan, current generation
+bmw/335i|silver BMW 335i E90 sedan
+bmw/m340i|blue BMW M340i G20 sedan
+
+# Mercedes-Benz
+mercedes-benz/c-class|silver Mercedes-Benz C-Class sedan, current generation
+mercedes-benz/e-class|black Mercedes-Benz E-Class sedan, current generation
+mercedes-benz/s-class|black Mercedes-Benz S-Class sedan, current generation
+mercedes-benz/glc|white Mercedes-Benz GLC SUV, current generation
+mercedes-benz/gle|gray Mercedes-Benz GLE SUV
+mercedes-benz/g-class|matte black Mercedes-AMG G63 G-Wagon SUV
+mercedes-benz/cla|red Mercedes-Benz CLA coupe sedan
+mercedes-benz/c63-amg|gray Mercedes-AMG C63 sedan
+
+# Audi
+audi/a4|gray Audi A4 sedan, current generation
+audi/a5|blue Audi A5 Sportback
+audi/s4|blue Audi S4 sedan, current generation
+audi/q5|white Audi Q5 SUV, current generation
+audi/q7|black Audi Q7 SUV
+audi/rs7|gray Audi RS7 Sportback
+audi/tt|red Audi TT coupe
+audi/s5|black Audi S5 coupe
+
+# Porsche
+porsche/911|silver Porsche 911 Carrera 992 coupe
+porsche/cayenne|black Porsche Cayenne SUV, current generation
+porsche/macan|white Porsche Macan SUV
+porsche/taycan|blue Porsche Taycan sedan
+porsche/cayman|yellow Porsche 718 Cayman coupe
+porsche/boxster|red Porsche 718 Boxster convertible, top up
+porsche/panamera|gray Porsche Panamera sedan
+
+# Jeep
+jeep/wrangler|green Jeep Wrangler Rubicon SUV, current generation
+jeep/grand-cherokee|black Jeep Grand Cherokee SUV, current generation
+jeep/gladiator|gray Jeep Gladiator pickup truck
+jeep/cherokee|silver Jeep Cherokee SUV
+jeep/compass|white Jeep Compass compact SUV
+
+# Ram / GMC
+ram/1500|black Ram 1500 pickup truck, current generation
+ram/2500|white Ram 2500 heavy duty pickup truck
+gmc/sierra-1500|black GMC Sierra 1500 pickup truck, current generation
+gmc/yukon|white GMC Yukon full-size SUV
+gmc/canyon|red GMC Canyon pickup truck
+
+# Nissan
+nissan/altima|gray Nissan Altima sedan, current generation
+nissan/sentra|blue Nissan Sentra sedan, current generation
+nissan/rogue|white Nissan Rogue SUV, current generation
+nissan/frontier|red Nissan Frontier pickup truck, current generation
+nissan/370z|red Nissan 370Z sports coupe
+nissan/z|blue Nissan Z RZ34 sports coupe
+nissan/gt-r|silver Nissan GT-R R35 sports coupe
+nissan/pathfinder|black Nissan Pathfinder SUV
+nissan/240sx|white Nissan 240SX S14 coupe
+nissan/skyline-gt-r|blue Nissan Skyline GT-R R34 coupe
+
+# Hyundai / Kia / Genesis
+hyundai/elantra|gray Hyundai Elantra sedan, current generation
+hyundai/sonata|silver Hyundai Sonata sedan, current generation
+hyundai/tucson|blue Hyundai Tucson SUV, current generation
+hyundai/santa-fe|green Hyundai Santa Fe SUV, current generation
+hyundai/palisade|white Hyundai Palisade SUV
+hyundai/elantra-n|blue Hyundai Elantra N sedan
+hyundai/veloster-n|light blue Hyundai Veloster N hatchback
+kia/forte|red Kia Forte sedan
+kia/k5|white Kia K5 sedan
+kia/sportage|green Kia Sportage SUV, current generation
+kia/sorento|gray Kia Sorento SUV
+kia/telluride|dark green Kia Telluride SUV
+kia/soul|red Kia Soul hatchback
+kia/stinger|red Kia Stinger GT liftback
+genesis/g70|blue Genesis G70 sedan
+genesis/gv70|white Genesis GV70 SUV
+
+# Subaru / Mazda
+subaru/wrx|blue Subaru WRX sedan, current generation
+subaru/wrx-sti|blue Subaru WRX STI sedan with rear wing, 2019
+subaru/brz|blue Subaru BRZ sports coupe, current generation
+subaru/outback|green Subaru Outback wagon, current generation
+subaru/forester|gray Subaru Forester SUV, current generation
+subaru/crosstrek|orange Subaru Crosstrek compact SUV
+subaru/impreza|silver Subaru Impreza hatchback
+mazda/mx-5-miata|red Mazda MX-5 Miata ND roadster, top up
+mazda/mazda3|red Mazda 3 hatchback, current generation
+mazda/cx-5|gray Mazda CX-5 SUV, current generation
+mazda/cx-30|white Mazda CX-30 compact SUV
+mazda/rx-7|yellow Mazda RX-7 FD coupe with pop-up headlights closed
+mazda/rx-8|blue Mazda RX-8 coupe
+
+# Volkswagen
+volkswagen/jetta|silver Volkswagen Jetta sedan, current generation
+volkswagen/golf-gti|red Volkswagen Golf GTI Mk8 hatchback
+volkswagen/golf-r|blue Volkswagen Golf R Mk8 hatchback
+volkswagen/tiguan|white Volkswagen Tiguan SUV
+volkswagen/atlas|black Volkswagen Atlas SUV
+volkswagen/passat|gray Volkswagen Passat sedan
+
+# Lexus / Acura / Infiniti
+lexus/is-350|white Lexus IS 350 F Sport sedan, current generation
+lexus/rx-350|silver Lexus RX 350 SUV, current generation
+lexus/es-350|black Lexus ES 350 sedan
+lexus/gx|gray Lexus GX SUV, current generation
+lexus/rc-f|blue Lexus RC F coupe
+lexus/lc-500|yellow Lexus LC 500 coupe
+acura/integra|blue Acura Integra liftback, current generation
+acura/tlx|red Acura TLX sedan
+acura/mdx|black Acura MDX SUV
+acura/rsx|silver Acura RSX Type S coupe
+acura/nsx|red Acura NSX second generation supercar
+infiniti/q50|gray Infiniti Q50 sedan
+infiniti/g37|black Infiniti G37 coupe
+
+# Dodge
+dodge/challenger|purple Dodge Challenger SRT Hellcat coupe
+dodge/charger|black Dodge Charger SRT sedan
+dodge/durango|gray Dodge Durango SUV
+dodge/viper|red Dodge Viper coupe
+
+# Exotics / dream cars (garage flex tier)
+lamborghini/huracan|green Lamborghini Huracan coupe
+lamborghini/urus|yellow Lamborghini Urus SUV
+lamborghini/aventador|orange Lamborghini Aventador coupe
+ferrari/488|red Ferrari 488 GTB coupe
+ferrari/f8|red Ferrari F8 Tributo coupe
+ferrari/296|red Ferrari 296 GTB coupe
+mclaren/720s|orange McLaren 720S coupe
+chevrolet/corvette-z06|white Chevrolet Corvette C8 Z06 with black stripes
+audi/rs6-avant|gray Audi RS6 Avant wagon
+bmw/m2|blue BMW M2 G87 coupe
+porsche/911-turbo-s|silver Porsche 911 Turbo S 992 coupe
