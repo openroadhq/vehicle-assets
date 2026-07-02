@@ -8,7 +8,10 @@
  "ford/raptor": "ford/f-150-raptor",
  "honda/crv": "honda/cr-v",
  "honda/hrv": "honda/hr-v",
+ "porsche/911-carrera": "porsche/911",
  "porsche/911-gt3rs": "porsche/911-gt3-rs",
+ "porsche/992": "porsche/911",
+ "porsche/carrera": "porsche/911",
  "porsche/gt3-rs": "porsche/911-gt3-rs",
  "porsche/gt3rs": "porsche/911-gt3-rs"
 }
