@@ -1,0 +1,26 @@
+{
+ "basePath": "v1",
+ "format": "webp",
+ "schemaVersion": 1,
+ "vehicles": {
+  "audi/r8": {
+   "bytes": 28548
+  },
+  "ford/f-150-raptor": {
+   "bytes": 25330
+  },
+  "ford/ranger": {
+   "bytes": 28598
+  },
+  "honda/cr-v": {
+   "bytes": 30204
+  },
+  "honda/hr-v": {
+   "bytes": 34628
+  },
+  "porsche/911-gt3-rs": {
+   "bytes": 29014
+  }
+ },
+ "view": "side-profile"
+}
