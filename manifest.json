@@ -312,61 +312,525 @@
    "bytes": 27098,
    "tint": "#8D8D8F"
   },
+  "audi/a4-2009": {
+   "bytes": 26040,
+   "tint": "#ACADB0"
+  },
+  "audi/a4-2017": {
+   "bytes": 28274,
+   "tint": "#8B8D91"
+  },
   "audi/a5": {
    "bytes": 36752,
    "tint": "#06356C"
+  },
+  "audi/a6": {
+   "bytes": 28062,
+   "tint": "#0E0E0E"
+  },
+  "audi/a6-1995": {
+   "bytes": 24478,
+   "tint": "#0F0F10"
+  },
+  "audi/a6-1998": {
+   "bytes": 23022,
+   "tint": "#111111"
+  },
+  "audi/a6-2012": {
+   "bytes": 26476,
+   "tint": "#101010"
+  },
+  "audi/a7": {
+   "bytes": 27204,
+   "tint": "#4E5053"
+  },
+  "audi/a7-2012": {
+   "bytes": 26550,
+   "tint": "#6D6D6F"
+  },
+  "audi/a8-1997": {
+   "bytes": 23272,
+   "tint": "#141414"
+  },
+  "audi/a8-2004": {
+   "bytes": 22574,
+   "tint": "#0B0B0B"
+  },
+  "audi/a8-2011": {
+   "bytes": 25034,
+   "tint": "#0F0F0F"
+  },
+  "audi/allroad-2001": {
+   "bytes": 26096,
+   "tint": "#6A6956"
+  },
+  "audi/allroad-2013": {
+   "bytes": 25460,
+   "tint": "#323529"
+  },
+  "audi/cabriolet-1994": {
+   "bytes": 21874,
+   "tint": "#0F0F0F"
+  },
+  "audi/e-tron-gt": {
+   "bytes": 26978,
+   "tint": "#4B4C4F"
+  },
+  "audi/q3": {
+   "bytes": 29322,
+   "tint": "#EDEDED"
+  },
+  "audi/q3-2015": {
+   "bytes": 29658,
+   "tint": "#E9E9E9"
   },
   "audi/q5": {
    "bytes": 31458,
    "tint": "#EBEBEB"
   },
+  "audi/q5-2009": {
+   "bytes": 31054,
+   "tint": "#4D5052"
+  },
   "audi/q7": {
    "bytes": 32780,
    "tint": "#0F0F0F"
+  },
+  "audi/q7-2007": {
+   "bytes": 26484,
+   "tint": "#0E0E0E"
+  },
+  "audi/q8": {
+   "bytes": 31984,
+   "tint": "#0C0C0C"
+  },
+  "audi/quattro-1980": {
+   "bytes": 28642,
+   "tint": "#930408"
   },
   "audi/r8": {
    "bytes": 28548,
    "tint": "#ABAEB1"
   },
+  "audi/r8-2008": {
+   "bytes": 26982,
+   "tint": "#D2D2D2"
+  },
+  "audi/r8-2016": {
+   "bytes": 27152,
+   "tint": "#D2D2D2"
+  },
+  "audi/r8-v10-performance-2019": {
+   "bytes": 31190,
+   "tint": "#B00308"
+  },
+  "audi/r8-v10-plus-2016": {
+   "bytes": 32844,
+   "tint": "#C7030D"
+  },
+  "audi/rs-e-tron-gt": {
+   "bytes": 27260,
+   "tint": "#6C6E71"
+  },
+  "audi/rs2-avant-1994": {
+   "bytes": 26842,
+   "tint": "#0C2C6B"
+  },
+  "audi/rs3": {
+   "bytes": 36486,
+   "tint": "#0F4BAE"
+  },
+  "audi/rs3-2017": {
+   "bytes": 32712,
+   "tint": "#053989"
+  },
+  "audi/rs4-avant-b5-2000": {
+   "bytes": 29356,
+   "tint": "#022F89"
+  },
+  "audi/rs4-avant-b7-2007": {
+   "bytes": 35236,
+   "tint": "#02388B"
+  },
+  "audi/rs5": {
+   "bytes": 26596,
+   "tint": "#6C6C6F"
+  },
+  "audi/rs6-2003": {
+   "bytes": 30304,
+   "tint": "#06296D"
+  },
   "audi/rs6-avant": {
    "bytes": 30388,
    "tint": "#515253"
+  },
+  "audi/rs6-avant-c6-2008": {
+   "bytes": 26918,
+   "tint": "#6A6B6E"
+  },
+  "audi/rs6-avant-c7-2013": {
+   "bytes": 26968,
+   "tint": "#525253"
   },
   "audi/rs7": {
    "bytes": 27362,
    "tint": "#4F5052"
   },
+  "audi/s3": {
+   "bytes": 27704,
+   "tint": "#4D4F50"
+  },
+  "audi/s3-2015": {
+   "bytes": 31554,
+   "tint": "#4C4D4F"
+  },
   "audi/s4": {
    "bytes": 31022,
    "tint": "#0A346C"
+  },
+  "audi/s4-b5-1998": {
+   "bytes": 23438,
+   "tint": "#0D0D0D"
+  },
+  "audi/s4-b7-2006": {
+   "bytes": 25566,
+   "tint": "#0F0F0F"
+  },
+  "audi/s4-b8-2010": {
+   "bytes": 24804,
+   "tint": "#0D0D0D"
   },
   "audi/s5": {
    "bytes": 27038,
    "tint": "#121212"
   },
+  "audi/s5-2008": {
+   "bytes": 26650,
+   "tint": "#4D4F51"
+  },
+  "audi/s6-1995": {
+   "bytes": 23104,
+   "tint": "#505052"
+  },
+  "audi/s6-2001": {
+   "bytes": 25880,
+   "tint": "#4C4D51"
+  },
+  "audi/s6-2007": {
+   "bytes": 25804,
+   "tint": "#4D4F52"
+  },
+  "audi/s7": {
+   "bytes": 28902,
+   "tint": "#121212"
+  },
+  "audi/s7-2012": {
+   "bytes": 23506,
+   "tint": "#111111"
+  },
+  "audi/s8": {
+   "bytes": 28764,
+   "tint": "#4E4E4E"
+  },
+  "audi/s8-2007": {
+   "bytes": 28532,
+   "tint": "#4C4D51"
+  },
+  "audi/s8-2013": {
+   "bytes": 29030,
+   "tint": "#2E3032"
+  },
+  "audi/sport-quattro-s1-1985": {
+   "bytes": 28804,
+   "tint": "#F0F0F0"
+  },
+  "audi/sq5-2014": {
+   "bytes": 31994,
+   "tint": "#0C0C0C"
+  },
+  "audi/sq7-2017": {
+   "bytes": 33110,
+   "tint": "#6C6E6F"
+  },
   "audi/tt": {
    "bytes": 32798,
    "tint": "#AD0A12"
+  },
+  "audi/tt-2000": {
+   "bytes": 25326,
+   "tint": "#A9AAAD"
+  },
+  "audi/tt-2016": {
+   "bytes": 29130,
+   "tint": "#8B8C90"
+  },
+  "audi/tt-rs-2012": {
+   "bytes": 30992,
+   "tint": "#013384"
+  },
+  "audi/tt-rs-2018": {
+   "bytes": 34938,
+   "tint": "#0850AC"
+  },
+  "audi/tts-2016": {
+   "bytes": 28494,
+   "tint": "#515154"
+  },
+  "autozam/az-1": {
+   "bytes": 29034,
+   "tint": "#AD0404"
+  },
+  "bentley/arnage": {
+   "bytes": 24666,
+   "tint": "#173128"
+  },
+  "bentley/bacalar": {
+   "bytes": 26974,
+   "tint": "#1A271B"
+  },
+  "bentley/batur": {
+   "bytes": 29624,
+   "tint": "#4D4D4E"
+  },
+  "bentley/bentayga": {
+   "bytes": 30270,
+   "tint": "#0A0A0A"
+  },
+  "bentley/brooklands": {
+   "bytes": 26350,
+   "tint": "#0B0B0B"
+  },
+  "bentley/continental-gt-2003": {
+   "bytes": 26536,
+   "tint": "#0E0E0E"
+  },
+  "bentley/continental-gt-2011": {
+   "bytes": 28542,
+   "tint": "#0E0E0E"
+  },
+  "bentley/continental-gt-speed": {
+   "bytes": 26948,
+   "tint": "#0B0B0B"
+  },
+  "bentley/continental-supersports": {
+   "bytes": 27256,
+   "tint": "#0A0A0A"
+  },
+  "bentley/flying-spur": {
+   "bytes": 25310,
+   "tint": "#0F0F0F"
+  },
+  "bmw/1-series-2008": {
+   "bytes": 27276,
+   "tint": "#AFAFB1"
+  },
+  "bmw/1-series-2011": {
+   "bytes": 30142,
+   "tint": "#ACADB0"
+  },
+  "bmw/135i-2008": {
+   "bytes": 29356,
+   "tint": "#0D0D0E"
+  },
+  "bmw/2-series": {
+   "bytes": 22488,
+   "tint": "#151515"
+  },
+  "bmw/2-series-2014": {
+   "bytes": 28184,
+   "tint": "#8E8E8E"
+  },
+  "bmw/2002-1968": {
+   "bytes": 30270,
+   "tint": "#CF5202"
+  },
+  "bmw/3-0-csl-1971": {
+   "bytes": 27104,
+   "tint": "#D2D1CF"
   },
   "bmw/3-series": {
    "bytes": 29644,
    "tint": "#101110"
   },
+  "bmw/3-series-1984": {
+   "bytes": 26014,
+   "tint": "#8F8F8F"
+  },
+  "bmw/3-series-1992": {
+   "bytes": 27220,
+   "tint": "#ABAEB0"
+  },
+  "bmw/3-series-2006": {
+   "bytes": 25510,
+   "tint": "#ACAEB0"
+  },
+  "bmw/3-series-2012": {
+   "bytes": 30684,
+   "tint": "#ABADB3"
+  },
   "bmw/335i": {
    "bytes": 29802,
    "tint": "#ACADAD"
+  },
+  "bmw/335i-2006": {
+   "bytes": 26878,
+   "tint": "#121212"
+  },
+  "bmw/4-series": {
+   "bytes": 25418,
+   "tint": "#111111"
+  },
+  "bmw/4-series-2014": {
+   "bytes": 29452,
+   "tint": "#8A8C90"
   },
   "bmw/5-series": {
    "bytes": 26642,
    "tint": "#2E3131"
   },
+  "bmw/5-series-1988": {
+   "bytes": 26250,
+   "tint": "#919192"
+  },
+  "bmw/5-series-2003": {
+   "bytes": 26248,
+   "tint": "#AAABAE"
+  },
+  "bmw/5-series-2010": {
+   "bytes": 26564,
+   "tint": "#ADAFB1"
+  },
+  "bmw/5-series-2016": {
+   "bytes": 28558,
+   "tint": "#ADADAF"
+  },
+  "bmw/6-series-2004": {
+   "bytes": 28710,
+   "tint": "#8E8F91"
+  },
+  "bmw/6-series-2012": {
+   "bytes": 26990,
+   "tint": "#CBCBCE"
+  },
+  "bmw/7-series": {
+   "bytes": 25076,
+   "tint": "#101010"
+  },
+  "bmw/7-series-1995": {
+   "bytes": 29008,
+   "tint": "#AEB1B2"
+  },
+  "bmw/7-series-2002": {
+   "bytes": 27244,
+   "tint": "#8E8F91"
+  },
+  "bmw/7-series-2009": {
+   "bytes": 24226,
+   "tint": "#919193"
+  },
+  "bmw/8-series": {
+   "bytes": 26122,
+   "tint": "#121212"
+  },
+  "bmw/8-series-1990": {
+   "bytes": 21936,
+   "tint": "#8C8E90"
+  },
+  "bmw/8-series-gran-coupe-2019": {
+   "bytes": 27958,
+   "tint": "#0D0D0D"
+  },
+  "bmw/alpina-b10-biturbo-1989": {
+   "bytes": 25468,
+   "tint": "#141414"
+  },
+  "bmw/alpina-b7-2011": {
+   "bytes": 27134,
+   "tint": "#0F0F0F"
+  },
+  "bmw/alpina-xb7-2021": {
+   "bytes": 33320,
+   "tint": "#111111"
+  },
+  "bmw/i4": {
+   "bytes": 28474,
+   "tint": "#505153"
+  },
+  "bmw/i5": {
+   "bytes": 27686,
+   "tint": "#6C6D6F"
+  },
+  "bmw/i7": {
+   "bytes": 22604,
+   "tint": "#141414"
+  },
+  "bmw/ix": {
+   "bytes": 28402,
+   "tint": "#E8E8E8"
+  },
+  "bmw/ix3": {
+   "bytes": 31332,
+   "tint": "#505255"
+  },
+  "bmw/m-coupe-1999": {
+   "bytes": 24936,
+   "tint": "#0D0D0D"
+  },
   "bmw/m2": {
    "bytes": 28374,
    "tint": "#064BAE"
   },
+  "bmw/m2-2016": {
+   "bytes": 29976,
+   "tint": "#121214"
+  },
+  "bmw/m2-competition-2019": {
+   "bytes": 25268,
+   "tint": "#111111"
+  },
+  "bmw/m2-cs-2020": {
+   "bytes": 26466,
+   "tint": "#D1D1D1"
+  },
   "bmw/m3": {
    "bytes": 29020,
    "tint": "#094936"
+  },
+  "bmw/m3-1995": {
+   "bytes": 24050,
+   "tint": "#101010"
+  },
+  "bmw/m3-2001": {
+   "bytes": 31552,
+   "tint": "#0A2F69"
+  },
+  "bmw/m3-2008": {
+   "bytes": 27996,
+   "tint": "#101010"
+  },
+  "bmw/m3-competition-2021": {
+   "bytes": 34092,
+   "tint": "#0D50AD"
+  },
+  "bmw/m3-cs-2024": {
+   "bytes": 27816,
+   "tint": "#EDEDED"
+  },
+  "bmw/m3-csl-2003": {
+   "bytes": 29184,
+   "tint": "#ABABAD"
+  },
+  "bmw/m3-gts-2010": {
+   "bytes": 29644,
+   "tint": "#494A4D"
+  },
+  "bmw/m3-sport-evolution-1990": {
+   "bytes": 26554,
+   "tint": "#D2D2D2"
+  },
+  "bmw/m3-touring-2022": {
+   "bytes": 31994,
+   "tint": "#033528"
   },
   "bmw/m340i": {
    "bytes": 33512,
@@ -376,9 +840,57 @@
    "bytes": 27664,
    "tint": "#0D336A"
   },
+  "bmw/m4-csl-2022": {
+   "bytes": 31822,
+   "tint": "#B5A819"
+  },
+  "bmw/m4-gts-2016": {
+   "bytes": 29028,
+   "tint": "#323234"
+  },
   "bmw/m5": {
    "bytes": 27326,
    "tint": "#4E5151"
+  },
+  "bmw/m5-1988": {
+   "bytes": 26762,
+   "tint": "#8D8D8E"
+  },
+  "bmw/m5-2006": {
+   "bytes": 26342,
+   "tint": "#0F0F10"
+  },
+  "bmw/m5-2011": {
+   "bytes": 26088,
+   "tint": "#090909"
+  },
+  "bmw/m5-2018": {
+   "bytes": 26424,
+   "tint": "#111212"
+  },
+  "bmw/m535i-1985": {
+   "bytes": 26880,
+   "tint": "#0D0D0D"
+  },
+  "bmw/m550i": {
+   "bytes": 25826,
+   "tint": "#131313"
+  },
+  "bmw/m550i-2018": {
+   "bytes": 25570,
+   "tint": "#0F0F0F"
+  },
+  "bmw/m6-2013": {
+   "bytes": 24670,
+   "tint": "#131313"
+  },
+  "bmw/m8": {
+   "bytes": 27782,
+   "tint": "#0D0D0E"
+  },
+  "bmw/m8-competition-2020": {
+   "bytes": 27098,
+   "tint": "#101011"
   },
   "bmw/x3": {
    "bytes": 31186,
