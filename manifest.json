@@ -24,13 +24,37 @@
    "bytes": 28548,
    "tint": "#ABAEB1"
   },
+  "ford/escape": {
+   "bytes": 32362,
+   "tint": "#8D8E90"
+  },
+  "ford/explorer": {
+   "bytes": 31684,
+   "tint": "#2B4C74"
+  },
+  "ford/f-150": {
+   "bytes": 25190,
+   "tint": "#0D0D0D"
+  },
   "ford/f-150-raptor": {
    "bytes": 25330,
    "tint": "#0F0F0F"
   },
+  "ford/mustang": {
+   "bytes": 29550,
+   "tint": "#AA010F"
+  },
   "ford/ranger": {
    "bytes": 28598,
    "tint": "#084BAE"
+  },
+  "honda/accord": {
+   "bytes": 23994,
+   "tint": "#131312"
+  },
+  "honda/civic": {
+   "bytes": 30922,
+   "tint": "#02328B"
   },
   "honda/cr-v": {
    "bytes": 30204,
@@ -39,6 +63,22 @@
   "honda/hr-v": {
    "bytes": 34628,
    "tint": "#062F6E"
+  },
+  "honda/odyssey": {
+   "bytes": 24918,
+   "tint": "#4F4F52"
+  },
+  "honda/passport": {
+   "bytes": 26250,
+   "tint": "#5D6169"
+  },
+  "honda/pilot": {
+   "bytes": 25994,
+   "tint": "#EEEEEE"
+  },
+  "honda/ridgeline": {
+   "bytes": 23206,
+   "tint": "#0D0D0D"
   },
   "porsche/911": {
    "bytes": 28516,
@@ -52,9 +92,49 @@
    "bytes": 29014,
    "tint": "#D1D1D1"
   },
+  "toyota/4runner": {
+   "bytes": 27726,
+   "tint": "#4E4F50"
+  },
+  "toyota/camry": {
+   "bytes": 25552,
+   "tint": "#D3D3D3"
+  },
   "toyota/corolla": {
    "bytes": 28752,
    "tint": "#CCCED1"
+  },
+  "toyota/gr86": {
+   "bytes": 32456,
+   "tint": "#032B71"
+  },
+  "toyota/highlander": {
+   "bytes": 27514,
+   "tint": "#EFEFF1"
+  },
+  "toyota/prius": {
+   "bytes": 30412,
+   "tint": "#919193"
+  },
+  "toyota/rav4": {
+   "bytes": 30392,
+   "tint": "#4C4D4E"
+  },
+  "toyota/sienna": {
+   "bytes": 26914,
+   "tint": "#EBEBEB"
+  },
+  "toyota/supra": {
+   "bytes": 33556,
+   "tint": "#AC0815"
+  },
+  "toyota/tacoma": {
+   "bytes": 25342,
+   "tint": "#90070E"
+  },
+  "toyota/tundra": {
+   "bytes": 23150,
+   "tint": "#0B0C0B"
   }
  },
  "view": "side-profile"
