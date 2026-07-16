@@ -308,6 +308,34 @@
    "bytes": 27888,
    "tint": "#6B6C6F"
   },
+  "hyundai/palisade": {
+   "bytes": 28288,
+   "tint": "#ECECEC"
+  },
+  "hyundai/santa-fe": {
+   "bytes": 27264,
+   "tint": "#2C2F2C"
+  },
+  "hyundai/sonata": {
+   "bytes": 28358,
+   "tint": "#ADB0B3"
+  },
+  "hyundai/tucson": {
+   "bytes": 39732,
+   "tint": "#12396F"
+  },
+  "hyundai/veloster-n": {
+   "bytes": 28732,
+   "tint": "#B2CAEB"
+  },
+  "infiniti/g37": {
+   "bytes": 25338,
+   "tint": "#0D0D0D"
+  },
+  "infiniti/q50": {
+   "bytes": 31492,
+   "tint": "#4E4E4F"
+  },
   "mercedes-benz/c-class": {
    "bytes": 29436,
    "tint": "#ACAEB0"

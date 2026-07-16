@@ -435,51 +435,52 @@
  },
  "hyundai/elantra-n": {
   "desc": "blue Hyundai Elantra N sedan, 2025 model year",
+  "note": "gen errored 07-16, requeued",
   "renderer": "",
   "status": "queued",
-  "ts": "07-16 11:07"
+  "ts": "07-16 13:54"
  },
  "hyundai/palisade": {
   "desc": "white Hyundai Palisade SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:54"
  },
  "hyundai/santa-fe": {
   "desc": "green Hyundai Santa Fe SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:54"
  },
  "hyundai/sonata": {
   "desc": "silver Hyundai Sonata sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:54"
  },
  "hyundai/tucson": {
   "desc": "blue Hyundai Tucson SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:54"
  },
  "hyundai/veloster-n": {
   "desc": "light blue Hyundai Veloster N hatchback, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:54"
  },
  "infiniti/g37": {
   "desc": "black Infiniti G37 coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:54"
  },
  "infiniti/q50": {
   "desc": "gray Infiniti Q50 sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:54"
  },
  "jeep/cherokee": {
   "desc": "silver Jeep Cherokee SUV, 2025 model year",
