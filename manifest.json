@@ -1836,21 +1836,193 @@
    "bytes": 28802,
    "tint": "#0B2B72"
   },
+  "dodge/ram-1500-1981": {
+   "bytes": 23886,
+   "tint": "#CBCCCF"
+  },
+  "dodge/ram-1500-1994": {
+   "bytes": 21602,
+   "tint": "#8F8F91"
+  },
+  "dodge/ram-1500-2002": {
+   "bytes": 23928,
+   "tint": "#ADAEB0"
+  },
+  "dodge/ram-srt10-2004": {
+   "bytes": 25508,
+   "tint": "#AEAEB1"
+  },
+  "dodge/shadow-1987": {
+   "bytes": 24772,
+   "tint": "#D2D3D4"
+  },
+  "dodge/spirit-1989": {
+   "bytes": 22448,
+   "tint": "#909091"
+  },
   "dodge/viper": {
    "bytes": 29836,
    "tint": "#AD0605"
+  },
+  "dodge/viper-1992": {
+   "bytes": 25862,
+   "tint": "#C80403"
+  },
+  "dodge/viper-acr-2016": {
+   "bytes": 31960,
+   "tint": "#D04606"
+  },
+  "dodge/viper-gts-1996": {
+   "bytes": 28482,
+   "tint": "#0C3073"
+  },
+  "dodge/viper-zb-2003": {
+   "bytes": 26292,
+   "tint": "#C70407"
+  },
+  "dodge/viper-zb2-2008": {
+   "bytes": 29518,
+   "tint": "#AC0606"
+  },
+  "eagle/summit-1989": {
+   "bytes": 23962,
+   "tint": "#8D8F90"
+  },
+  "eagle/talon-1995": {
+   "bytes": 25446,
+   "tint": "#940409"
+  },
+  "eagle/talon-tsi-awd-1990": {
+   "bytes": 28930,
+   "tint": "#AB070B"
+  },
+  "eagle/vision-1993": {
+   "bytes": 22782,
+   "tint": "#909091"
+  },
+  "ferrari/12cilindri": {
+   "bytes": 29648,
+   "tint": "#920105"
+  },
+  "ferrari/288-gto": {
+   "bytes": 25856,
+   "tint": "#AF0203"
   },
   "ferrari/296": {
    "bytes": 28918,
    "tint": "#AB020D"
   },
+  "ferrari/296-gtb": {
+   "bytes": 28720,
+   "tint": "#920709"
+  },
+  "ferrari/348": {
+   "bytes": 25842,
+   "tint": "#B00709"
+  },
+  "ferrari/360-challenge-stradale": {
+   "bytes": 30554,
+   "tint": "#AC0505"
+  },
+  "ferrari/360-modena": {
+   "bytes": 31852,
+   "tint": "#CB050E"
+  },
+  "ferrari/458-italia": {
+   "bytes": 28754,
+   "tint": "#AD0102"
+  },
+  "ferrari/458-speciale": {
+   "bytes": 30978,
+   "tint": "#AE0608"
+  },
+  "ferrari/458-speciale-a": {
+   "bytes": 30520,
+   "tint": "#AD060A"
+  },
   "ferrari/488": {
    "bytes": 31480,
    "tint": "#AD0302"
   },
+  "ferrari/488-pista": {
+   "bytes": 31112,
+   "tint": "#B10202"
+  },
+  "ferrari/512-tr": {
+   "bytes": 26090,
+   "tint": "#AD0508"
+  },
+  "ferrari/550-maranello": {
+   "bytes": 25074,
+   "tint": "#AD0A0D"
+  },
+  "ferrari/599-gtb": {
+   "bytes": 27284,
+   "tint": "#AE0D19"
+  },
+  "ferrari/599-gto": {
+   "bytes": 34098,
+   "tint": "#AD0B0F"
+  },
+  "ferrari/612-scaglietti": {
+   "bytes": 27784,
+   "tint": "#AE0406"
+  },
+  "ferrari/812-superfast": {
+   "bytes": 32234,
+   "tint": "#AF0303"
+  },
+  "ferrari/california": {
+   "bytes": 27474,
+   "tint": "#950303"
+  },
+  "ferrari/daytona-sp3": {
+   "bytes": 27504,
+   "tint": "#CE180C"
+  },
+  "ferrari/f12": {
+   "bytes": 30038,
+   "tint": "#AF0303"
+  },
+  "ferrari/f12-tdf": {
+   "bytes": 32220,
+   "tint": "#970C0C"
+  },
+  "ferrari/f355": {
+   "bytes": 27472,
+   "tint": "#CA070C"
+  },
+  "ferrari/f430": {
+   "bytes": 30898,
+   "tint": "#B2030B"
+  },
+  "ferrari/f430-16m": {
+   "bytes": 28060,
+   "tint": "#CD0E0D"
+  },
+  "ferrari/f430-scuderia": {
+   "bytes": 29474,
+   "tint": "#B20307"
+  },
   "ferrari/f8": {
    "bytes": 33254,
    "tint": "#AE0203"
+  },
+  "ferrari/f8-tributo": {
+   "bytes": 33154,
+   "tint": "#F32D2C"
+  },
+  "ferrari/ff": {
+   "bytes": 30728,
+   "tint": "#B20808"
+  },
+  "ferrari/gtc4lusso": {
+   "bytes": 29974,
+   "tint": "#AF040E"
+  },
+  "ferrari/laferrari-aperta": {
+   "bytes": 28842,
+   "tint": "#B10202"
   },
   "ford/bronco": {
    "bytes": 30772,
