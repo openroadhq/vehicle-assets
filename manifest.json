@@ -1520,29 +1520,321 @@
    "bytes": 25738,
    "tint": "#E9E9E9"
   },
+  "chevrolet/suburban-1992": {
+   "bytes": 23502,
+   "tint": "#D6D6D4"
+  },
+  "chevrolet/suburban-2007": {
+   "bytes": 24568,
+   "tint": "#CACBCB"
+  },
+  "chevrolet/suburban-2015": {
+   "bytes": 24306,
+   "tint": "#0E0E0E"
+  },
   "chevrolet/tahoe": {
    "bytes": 27504,
    "tint": "#131313"
+  },
+  "chevrolet/tahoe-1995": {
+   "bytes": 23442,
+   "tint": "#D3D3D4"
+  },
+  "chevrolet/tahoe-2007": {
+   "bytes": 28042,
+   "tint": "#0F0F0F"
+  },
+  "chevrolet/tahoe-2015": {
+   "bytes": 23404,
+   "tint": "#101010"
   },
   "chevrolet/trailblazer": {
    "bytes": 34204,
    "tint": "#2F69AF"
   },
+  "chevrolet/trailblazer-2002": {
+   "bytes": 26780,
+   "tint": "#D0D0D2"
+  },
   "chevrolet/traverse": {
    "bytes": 27114,
    "tint": "#4F5051"
+  },
+  "chevrolet/traverse-2009": {
+   "bytes": 26158,
+   "tint": "#E8E8E8"
+  },
+  "chevrolet/traverse-2018": {
+   "bytes": 28826,
+   "tint": "#0D0D0D"
+  },
+  "chevrolet/trax": {
+   "bytes": 27136,
+   "tint": "#EFEFF1"
+  },
+  "chevrolet/uplander-2005": {
+   "bytes": 25372,
+   "tint": "#D5D5D5"
+  },
+  "chevrolet/venture-1997": {
+   "bytes": 27018,
+   "tint": "#ADADAE"
+  },
+  "chevrolet/volt-2011": {
+   "bytes": 30988,
+   "tint": "#AEB0B4"
+  },
+  "chrysler/200-2011": {
+   "bytes": 26796,
+   "tint": "#909193"
+  },
+  "chrysler/200-2015": {
+   "bytes": 27204,
+   "tint": "#ABACAE"
+  },
+  "chrysler/300-2005": {
+   "bytes": 25592,
+   "tint": "#939395"
+  },
+  "chrysler/300-srt8-2012": {
+   "bytes": 23790,
+   "tint": "#0D0C0E"
+  },
+  "chrysler/300c-srt8-2005": {
+   "bytes": 26262,
+   "tint": "#131313"
+  },
+  "chrysler/concorde-1993": {
+   "bytes": 24436,
+   "tint": "#8B8B8D"
+  },
+  "chrysler/crossfire-2004": {
+   "bytes": 28496,
+   "tint": "#8D8E91"
+  },
+  "chrysler/crossfire-srt6-2005": {
+   "bytes": 29298,
+   "tint": "#0A0A0A"
+  },
+  "chrysler/lhs-1994": {
+   "bytes": 24146,
+   "tint": "#A9ABAD"
+  },
+  "chrysler/pacifica": {
+   "bytes": 28118,
+   "tint": "#8D8D8F"
+  },
+  "chrysler/pacifica-2004": {
+   "bytes": 28978,
+   "tint": "#CFCED1"
+  },
+  "chrysler/prowler-2001": {
+   "bytes": 27194,
+   "tint": "#443353"
+  },
+  "chrysler/sebring-1995": {
+   "bytes": 21718,
+   "tint": "#8D8E8F"
+  },
+  "chrysler/sebring-2001": {
+   "bytes": 26716,
+   "tint": "#909191"
+  },
+  "chrysler/sebring-2007": {
+   "bytes": 27950,
+   "tint": "#CBCDD0"
+  },
+  "chrysler/town-and-country-1996": {
+   "bytes": 31014,
+   "tint": "#A9ADAE"
+  },
+  "chrysler/town-and-country-2001": {
+   "bytes": 27246,
+   "tint": "#ABABAC"
+  },
+  "chrysler/town-and-country-2008": {
+   "bytes": 25058,
+   "tint": "#8D8E91"
+  },
+  "citroen/ds-1955": {
+   "bytes": 21922,
+   "tint": "#8A898C"
+  },
+  "citroen/saxo-vts-1996": {
+   "bytes": 31492,
+   "tint": "#B40C0D"
+  },
+  "czinger/21c": {
+   "bytes": 27898,
+   "tint": "#111112"
+  },
+  "daewoo/leganza": {
+   "bytes": 24164,
+   "tint": "#929392"
+  },
+  "daewoo/nubira": {
+   "bytes": 24370,
+   "tint": "#ACADAE"
+  },
+  "daihatsu/charade-gtti": {
+   "bytes": 27442,
+   "tint": "#D4D4D5"
+  },
+  "daihatsu/hijet": {
+   "bytes": 27126,
+   "tint": "#E5E5E5"
+  },
+  "daihatsu/midget-ii": {
+   "bytes": 28194,
+   "tint": "#D5D4D2"
+  },
+  "daihatsu/rocky": {
+   "bytes": 28026,
+   "tint": "#EAE9E8"
+  },
+  "datsun/280z-1975": {
+   "bytes": 30814,
+   "tint": "#C51214"
+  },
+  "datsun/510-1968": {
+   "bytes": 24104,
+   "tint": "#D8D7D6"
+  },
+  "datsun/sunny-truck-1971": {
+   "bytes": 20048,
+   "tint": "#D8D6D3"
+  },
+  "delorean/dmc-12-1981": {
+   "bytes": 26152,
+   "tint": "#969492"
+  },
+  "dodge/avenger-1995": {
+   "bytes": 24368,
+   "tint": "#909090"
+  },
+  "dodge/avenger-2008": {
+   "bytes": 24424,
+   "tint": "#B0B0B2"
+  },
+  "dodge/caliber-srt4-2008": {
+   "bytes": 33332,
+   "tint": "#062B6D"
   },
   "dodge/challenger": {
    "bytes": 28312,
    "tint": "#39184F"
   },
+  "dodge/challenger-2008": {
+   "bytes": 21942,
+   "tint": "#8E8F92"
+  },
+  "dodge/challenger-demon-2018": {
+   "bytes": 26316,
+   "tint": "#B20203"
+  },
+  "dodge/challenger-redeye-2019": {
+   "bytes": 26356,
+   "tint": "#EE4609"
+  },
+  "dodge/challenger-srt8-2008": {
+   "bytes": 22494,
+   "tint": "#0B0C0D"
+  },
+  "dodge/challenger-super-stock-2021": {
+   "bytes": 19898,
+   "tint": "#101010"
+  },
   "dodge/charger": {
    "bytes": 26438,
    "tint": "#101011"
   },
+  "dodge/charger-2011": {
+   "bytes": 22890,
+   "tint": "#707071"
+  },
+  "dodge/charger-daytona-2020": {
+   "bytes": 31606,
+   "tint": "#AE2F02"
+  },
+  "dodge/charger-hellcat-2015": {
+   "bytes": 26728,
+   "tint": "#381967"
+  },
+  "dodge/charger-srt8-2012": {
+   "bytes": 25000,
+   "tint": "#080808"
+  },
+  "dodge/dakota-1987": {
+   "bytes": 22798,
+   "tint": "#ADADAF"
+  },
+  "dodge/dakota-1997": {
+   "bytes": 23002,
+   "tint": "#ACADAE"
+  },
+  "dodge/dart-2013": {
+   "bytes": 27536,
+   "tint": "#8D8E90"
+  },
+  "dodge/daytona-1984": {
+   "bytes": 28894,
+   "tint": "#C70B10"
+  },
   "dodge/durango": {
    "bytes": 26540,
    "tint": "#2F3031"
+  },
+  "dodge/durango-1998": {
+   "bytes": 26322,
+   "tint": "#2D2D2F"
+  },
+  "dodge/durango-hellcat-2021": {
+   "bytes": 27608,
+   "tint": "#48316F"
+  },
+  "dodge/durango-srt-2018": {
+   "bytes": 27360,
+   "tint": "#0F0F0F"
+  },
+  "dodge/grand-caravan-1991": {
+   "bytes": 26512,
+   "tint": "#ACB0B2"
+  },
+  "dodge/grand-caravan-2001": {
+   "bytes": 25382,
+   "tint": "#B0B1B0"
+  },
+  "dodge/grand-caravan-2008": {
+   "bytes": 24140,
+   "tint": "#ADACAE"
+  },
+  "dodge/intrepid-1993": {
+   "bytes": 23824,
+   "tint": "#737373"
+  },
+  "dodge/journey-2009": {
+   "bytes": 28214,
+   "tint": "#D0D0D0"
+  },
+  "dodge/magnum-2005": {
+   "bytes": 25472,
+   "tint": "#ACADAD"
+  },
+  "dodge/magnum-srt8-2005": {
+   "bytes": 24280,
+   "tint": "#0D0D0E"
+  },
+  "dodge/neon-2000": {
+   "bytes": 24010,
+   "tint": "#A9A9AB"
+  },
+  "dodge/neon-acr-2004": {
+   "bytes": 32790,
+   "tint": "#033073"
+  },
+  "dodge/neon-srt4-2003": {
+   "bytes": 28802,
+   "tint": "#0B2B72"
   },
   "dodge/viper": {
    "bytes": 29836,
