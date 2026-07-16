@@ -2192,21 +2192,149 @@
    "bytes": 26492,
    "tint": "#AFB0AF"
   },
+  "ford/explorer-2011": {
+   "bytes": 29232,
+   "tint": "#141414"
+  },
+  "ford/explorer-sport-trac-2001": {
+   "bytes": 27084,
+   "tint": "#2E2E2E"
+  },
+  "ford/explorer-st": {
+   "bytes": 29682,
+   "tint": "#2C2C2C"
+  },
   "ford/f-150": {
    "bytes": 25190,
    "tint": "#0D0D0D"
+  },
+  "ford/f-150-1987": {
+   "bytes": 20054,
+   "tint": "#E8E8E8"
+  },
+  "ford/f-150-1992": {
+   "bytes": 20970,
+   "tint": "#D7D7D8"
+  },
+  "ford/f-150-2004": {
+   "bytes": 25692,
+   "tint": "#AAABAE"
+  },
+  "ford/f-150-2009": {
+   "bytes": 22228,
+   "tint": "#D5D5D5"
+  },
+  "ford/f-150-2015": {
+   "bytes": 26346,
+   "tint": "#CDCED0"
+  },
+  "ford/f-150-lightning-1993": {
+   "bytes": 23020,
+   "tint": "#0A0A0A"
+  },
+  "ford/f-150-lightning-1999": {
+   "bytes": 23400,
+   "tint": "#0D0E0D"
   },
   "ford/f-150-raptor": {
    "bytes": 25330,
    "tint": "#0F0F0F"
   },
+  "ford/f-150-raptor-2017": {
+   "bytes": 31702,
+   "tint": "#D94908"
+  },
+  "ford/f-150-tremor-2021": {
+   "bytes": 26594,
+   "tint": "#4D4E51"
+  },
+  "ford/f-250-super-duty": {
+   "bytes": 25692,
+   "tint": "#ECEFF2"
+  },
+  "ford/f-250-super-duty-1999": {
+   "bytes": 24300,
+   "tint": "#E5E5E7"
+  },
+  "ford/f-250-super-duty-2011": {
+   "bytes": 25630,
+   "tint": "#EBEBEB"
+  },
+  "ford/f-250-super-duty-2017": {
+   "bytes": 23890,
+   "tint": "#EAEAEC"
+  },
+  "ford/falcon-xr8-1991": {
+   "bytes": 28138,
+   "tint": "#0B2E70"
+  },
+  "ford/fiesta-st-2014": {
+   "bytes": 38514,
+   "tint": "#092D8D"
+  },
+  "ford/fiesta-st-mk7-2013": {
+   "bytes": 34658,
+   "tint": "#031454"
+  },
+  "ford/five-hundred-2005": {
+   "bytes": 24906,
+   "tint": "#AFB0B1"
+  },
   "ford/focus": {
    "bytes": 30858,
    "tint": "#909091"
   },
+  "ford/focus-2000": {
+   "bytes": 29288,
+   "tint": "#909294"
+  },
+  "ford/focus-2008": {
+   "bytes": 29056,
+   "tint": "#ADB0B1"
+  },
+  "ford/focus-2012": {
+   "bytes": 29500,
+   "tint": "#AEAEB0"
+  },
+  "ford/focus-rs-mk1-2002": {
+   "bytes": 33348,
+   "tint": "#062771"
+  },
+  "ford/focus-rs-mk2-2009": {
+   "bytes": 36948,
+   "tint": "#042B71"
+  },
+  "ford/focus-st-2013": {
+   "bytes": 34480,
+   "tint": "#122874"
+  },
+  "ford/ford-gt-2005": {
+   "bytes": 26380,
+   "tint": "#0D2F6C"
+  },
+  "ford/ford-gt-2017": {
+   "bytes": 27478,
+   "tint": "#0B4591"
+  },
+  "ford/freestar-2004": {
+   "bytes": 28322,
+   "tint": "#8B8C8D"
+  },
   "ford/fusion": {
    "bytes": 27840,
    "tint": "#4E4E4E"
+  },
+  "ford/fusion-2006": {
+   "bytes": 24850,
+   "tint": "#ACACAF"
+  },
+  "ford/fusion-2013": {
+   "bytes": 27172,
+   "tint": "#ACACB0"
+  },
+  "ford/fusion-sport-2017": {
+   "bytes": 28010,
+   "tint": "#161616"
   },
   "ford/maverick": {
    "bytes": 25130,
@@ -2215,6 +2343,22 @@
   "ford/mustang": {
    "bytes": 29550,
    "tint": "#AA010F"
+  },
+  "ford/mustang-boss-302-2012": {
+   "bytes": 31842,
+   "tint": "#EC6C0B"
+  },
+  "ford/mustang-cobra-1994": {
+   "bytes": 27056,
+   "tint": "#0E0E0E"
+  },
+  "ford/mustang-cobra-r-1993": {
+   "bytes": 22944,
+   "tint": "#D3D3D3"
+  },
+  "ford/mustang-mach-1-2003": {
+   "bytes": 25672,
+   "tint": "#0D0D0D"
   },
   "ford/ranger": {
    "bytes": 28598,
@@ -2303,6 +2447,86 @@
   "infiniti/q50": {
    "bytes": 31492,
    "tint": "#4E4E4F"
+  },
+  "maserati/granturismo-2007": {
+   "bytes": 28958,
+   "tint": "#0E264D"
+  },
+  "maserati/granturismo-2023": {
+   "bytes": 29194,
+   "tint": "#042D70"
+  },
+  "maserati/granturismo-mc-stradale": {
+   "bytes": 23530,
+   "tint": "#D3D1D0"
+  },
+  "maserati/grecale": {
+   "bytes": 34652,
+   "tint": "#102F71"
+  },
+  "maserati/levante": {
+   "bytes": 34048,
+   "tint": "#031C4E"
+  },
+  "maserati/mc12": {
+   "bytes": 23448,
+   "tint": "#253450"
+  },
+  "maserati/mc20": {
+   "bytes": 29448,
+   "tint": "#0246AA"
+  },
+  "maserati/quattroporte-1994": {
+   "bytes": 25306,
+   "tint": "#112849"
+  },
+  "maserati/quattroporte-2004": {
+   "bytes": 29172,
+   "tint": "#061732"
+  },
+  "maserati/quattroporte-2013": {
+   "bytes": 28396,
+   "tint": "#0A1430"
+  },
+  "maserati/spyder": {
+   "bytes": 25942,
+   "tint": "#113368"
+  },
+  "mazda/626-1988": {
+   "bytes": 23406,
+   "tint": "#CCCDCE"
+  },
+  "mazda/626-1993": {
+   "bytes": 21916,
+   "tint": "#D4D2D3"
+  },
+  "mazda/626-1998": {
+   "bytes": 26030,
+   "tint": "#ABABAD"
+  },
+  "mazda/autozam-az-1-1992": {
+   "bytes": 32294,
+   "tint": "#910303"
+  },
+  "mazda/b-series-1994": {
+   "bytes": 20282,
+   "tint": "#E9E9EB"
+  },
+  "mazda/cx-3-2016": {
+   "bytes": 28850,
+   "tint": "#F1F1F1"
+  },
+  "mazda/cx-30": {
+   "bytes": 30652,
+   "tint": "#AA0315"
+  },
+  "mazda/cx-5-2013": {
+   "bytes": 29998,
+   "tint": "#ACACAE"
+  },
+  "mazda/cx-5-2017": {
+   "bytes": 35716,
+   "tint": "#AC0711"
   },
   "mercedes-benz/c-class": {
    "bytes": 29436,

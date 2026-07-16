@@ -611,14 +611,14 @@
  "mazda/cx-30": {
   "desc": "white Mazda CX-30 compact SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 16:38"
  },
  "mazda/cx-5": {
   "desc": "gray Mazda CX-5 SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 16:38"
  },
  "mazda/mazda3": {
   "desc": "red Mazda 3 hatchback, 2025 model year",
