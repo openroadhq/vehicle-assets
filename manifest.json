@@ -176,6 +176,30 @@
    "bytes": 28312,
    "tint": "#39184F"
   },
+  "dodge/charger": {
+   "bytes": 26438,
+   "tint": "#101011"
+  },
+  "dodge/durango": {
+   "bytes": 26540,
+   "tint": "#2F3031"
+  },
+  "dodge/viper": {
+   "bytes": 29836,
+   "tint": "#AD0605"
+  },
+  "ferrari/296": {
+   "bytes": 28918,
+   "tint": "#AB020D"
+  },
+  "ferrari/488": {
+   "bytes": 31480,
+   "tint": "#AD0302"
+  },
+  "ferrari/f8": {
+   "bytes": 33254,
+   "tint": "#AE0203"
+  },
   "ford/bronco": {
    "bytes": 30772,
    "tint": "#CB5409"
@@ -228,6 +252,26 @@
    "bytes": 28598,
    "tint": "#084BAE"
   },
+  "genesis/g70": {
+   "bytes": 29416,
+   "tint": "#072E6F"
+  },
+  "genesis/gv70": {
+   "bytes": 27260,
+   "tint": "#EBEBEB"
+  },
+  "gmc/canyon": {
+   "bytes": 33224,
+   "tint": "#F84C51"
+  },
+  "gmc/sierra-1500": {
+   "bytes": 24728,
+   "tint": "#0B0C0B"
+  },
+  "gmc/yukon": {
+   "bytes": 25920,
+   "tint": "#D3D2D4"
+  },
   "honda/accord": {
    "bytes": 23994,
    "tint": "#131312"
@@ -259,6 +303,10 @@
   "honda/ridgeline": {
    "bytes": 23206,
    "tint": "#0D0D0D"
+  },
+  "hyundai/elantra": {
+   "bytes": 27888,
+   "tint": "#6B6C6F"
   },
   "mercedes-benz/c-class": {
    "bytes": 29436,

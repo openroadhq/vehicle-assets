@@ -41,6 +41,10 @@ WEBP_WIDTH = 1024
 WEBP_QUALITY = 82
 
 
+def _p(*a):
+    print(*a, flush=True)
+
+
 def die(msg: str) -> None:
     sys.exit(f"error: {msg}")
 
@@ -60,6 +64,23 @@ def generate_raw(prompt: str, out: Path) -> None:
         [str(CIMG), prompt, "-o", str(out), "--size", GEN_SIZE, "--timeout", "300", "--quiet"],
         check=True,
     )
+
+
+def wait_for_build_clear() -> None:
+    """Block while any xcodebuild runs machine-wide.
+
+    Master's swap-emergency rule (2026-07-16) is that this lane must not
+    compete with another lane's build for memory. The memory cost here is
+    rembg, not the HTTP render, so only the cutout waits. Suspending the
+    render instead just times out its request and no car ever lands.
+    """
+    import time
+    notified = False
+    while subprocess.run(["pgrep", "-x", "xcodebuild"], capture_output=True).returncode == 0:
+        if not notified:
+            print("   waiting: xcodebuild active, holding cutout")
+            notified = True
+        time.sleep(20)
 
 
 def cutout(py: Path, src: Path, dst: Path) -> None:
@@ -155,21 +176,22 @@ def process(slug: str, desc: str, force: bool, py: Path) -> bool:
     if dst.exists() and not force:
         print(f"skip {slug} (exists)")
         return True
-    print(f"=== {slug} ===")
+    _p(f"=== {slug} ===")
     with tempfile.TemporaryDirectory() as td:
         raw, cut = Path(td) / "raw.png", Path(td) / "cut.png"
         try:
             generate_raw(PROMPT_TEMPLATE.format(desc=desc.strip()), raw)
         except subprocess.CalledProcessError:
-            print(f"FAIL {slug}: generation errored")
+            _p(f"FAIL {slug}: generation errored")
             return False
+        wait_for_build_clear()
         cutout(py, raw, cut)
         reason = qc(py, cut)
         if reason:
-            print(f"FAIL {slug}: QC rejected — {reason}")
+            _p(f"FAIL {slug}: QC rejected — {reason}")
             return False
         to_webp(cut, dst)
-    print(f"ok {slug} ({dst.stat().st_size // 1024}KB)")
+    _p(f"ok {slug} ({dst.stat().st_size // 1024}KB)")
     return True
 
 
