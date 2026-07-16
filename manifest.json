@@ -84,9 +84,49 @@
    "bytes": 24174,
    "tint": "#ACACAF"
   },
+  "acura/nsx-2016": {
+   "bytes": 26792,
+   "tint": "#D2D2D2"
+  },
+  "acura/nsx-type-s-2022": {
+   "bytes": 31660,
+   "tint": "#A90711"
+  },
+  "acura/rdx-2007": {
+   "bytes": 28722,
+   "tint": "#ABADB1"
+  },
+  "acura/rdx-2013": {
+   "bytes": 25810,
+   "tint": "#EAEAEA"
+  },
+  "acura/rl-1996": {
+   "bytes": 24200,
+   "tint": "#8E8E8E"
+  },
+  "acura/rlx-2014": {
+   "bytes": 27310,
+   "tint": "#919192"
+  },
   "acura/rsx": {
    "bytes": 29088,
    "tint": "#8E9093"
+  },
+  "acura/rsx-2002": {
+   "bytes": 24948,
+   "tint": "#ACACAD"
+  },
+  "acura/rsx-type-s-2002": {
+   "bytes": 25822,
+   "tint": "#D4D2CF"
+  },
+  "acura/tl-1999": {
+   "bytes": 25604,
+   "tint": "#D0CFCC"
+  },
+  "acura/tl-2004": {
+   "bytes": 25188,
+   "tint": "#8C8C8E"
   },
   "acura/tlx": {
    "bytes": 29698,
