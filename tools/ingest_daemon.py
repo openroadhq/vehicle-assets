@@ -21,15 +21,36 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from generate import V1, cutout, ensure_venv, qc, rebuild_manifest, to_webp  # noqa: E402
 
 
-def build_running() -> bool:
-    return subprocess.run(["pgrep", "-x", "xcodebuild"], capture_output=True).returncode == 0
+MIN_FREE_PCT = 15
 
 
-def wait_for_build_clear() -> None:
+def free_mem_pct() -> int:
+    """System-wide free memory %, per macOS's own memory_pressure tool."""
+    try:
+        out = subprocess.run(["memory_pressure"], capture_output=True, text=True, timeout=10).stdout
+        for line in out.splitlines():
+            if "free percentage" in line:
+                return int(line.rsplit(":", 1)[1].strip().rstrip("%"))
+    except Exception:  # noqa: BLE001
+        pass
+    return 100  # can't measure -> don't self-block
+
+
+def wait_for_headroom() -> None:
+    """Gate the cutout on ACTUAL memory headroom, not on 'is a build running'.
+
+    Master's swap rule (2026-07-16) exists to stop this lane from pushing the
+    machine into swap death. The original proxy — pause whenever any xcodebuild
+    runs — was written when a cutout meant BiRefNet: a 928MB model chewing ~278s.
+    A cutout is now isnet: 0.72GB peak for ~14s (measured). Builds are near
+    constant, so the proxy starved this lane to a literal 0.00 cars/min while
+    the risk it guards against no longer exists. Gating on free memory honors
+    the intent and does the work.
+    """
     said = False
-    while build_running():
+    while free_mem_pct() < MIN_FREE_PCT:
         if not said:
-            print("   holding cutout: xcodebuild active", flush=True)
+            print(f"   holding cutout: free memory under {MIN_FREE_PCT}%", flush=True)
             said = True
         time.sleep(20)
 
@@ -69,7 +90,7 @@ def main() -> int:
             raw.rename(done_dir / raw.name)
             continue
 
-        wait_for_build_clear()
+        wait_for_headroom()
         cut = raw.with_suffix(".cut.png")
         t = time.time()
         try:
