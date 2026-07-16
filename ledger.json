@@ -152,26 +152,26 @@
  "chevrolet/blazer": {
   "desc": "red Chevrolet Blazer SUV, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "chevrolet/camaro": {
   "desc": "yellow Chevrolet Camaro SS coupe, sixth generation, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "chevrolet/colorado": {
   "desc": "red Chevrolet Colorado pickup truck, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "chevrolet/corvette": {
   "desc": "red Chevrolet Corvette C8 mid-engine sports car",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "chevrolet/corvette-z06": {
   "desc": "white Chevrolet Corvette C8 Z06 with black stripes",
@@ -182,50 +182,51 @@
  "chevrolet/equinox": {
   "desc": "silver Chevrolet Equinox SUV, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "chevrolet/impala": {
   "desc": "black Chevrolet Impala sedan, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "chevrolet/malibu": {
   "desc": "silver Chevrolet Malibu sedan, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "chevrolet/silverado-1500": {
   "desc": "black Chevrolet Silverado 1500 pickup truck, 2025 model year",
+  "note": "gen errored 07-16, retry",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "queued",
+  "ts": "07-16 12:04"
  },
  "chevrolet/suburban": {
   "desc": "white Chevrolet Suburban full-size SUV, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "chevrolet/tahoe": {
   "desc": "black Chevrolet Tahoe full-size SUV, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "chevrolet/trailblazer": {
   "desc": "blue Chevrolet Trailblazer compact SUV, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "chevrolet/traverse": {
   "desc": "gray Chevrolet Traverse SUV, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "dodge/challenger": {
   "desc": "purple Dodge Challenger SRT Hellcat coupe, 2025 model year",
@@ -320,14 +321,14 @@
  "ford/focus": {
   "desc": "silver Ford Focus hatchback, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "ford/fusion": {
   "desc": "gray Ford Fusion sedan, 2025 model year",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "ford/maverick": {
   "desc": "blue Ford Maverick compact pickup truck, 2025 model year",
@@ -878,8 +879,8 @@
  "tesla/model-3": {
   "desc": "white 2025 Tesla Model 3 Highland refresh sedan",
   "renderer": "chatgpt",
-  "status": "generating",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:04"
  },
  "tesla/model-s": {
   "desc": "black 2025 Tesla Model S sedan, latest facelift",

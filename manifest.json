@@ -60,6 +60,50 @@
    "bytes": 30064,
    "tint": "#0E0F0F"
   },
+  "chevrolet/blazer": {
+   "bytes": 30898,
+   "tint": "#8A020B"
+  },
+  "chevrolet/camaro": {
+   "bytes": 30174,
+   "tint": "#E5B617"
+  },
+  "chevrolet/colorado": {
+   "bytes": 29946,
+   "tint": "#8F0B0B"
+  },
+  "chevrolet/corvette": {
+   "bytes": 30612,
+   "tint": "#AF090E"
+  },
+  "chevrolet/equinox": {
+   "bytes": 28958,
+   "tint": "#2D2D2D"
+  },
+  "chevrolet/impala": {
+   "bytes": 26034,
+   "tint": "#0E0E0E"
+  },
+  "chevrolet/malibu": {
+   "bytes": 27832,
+   "tint": "#AEAFB0"
+  },
+  "chevrolet/suburban": {
+   "bytes": 25738,
+   "tint": "#E9E9E9"
+  },
+  "chevrolet/tahoe": {
+   "bytes": 27504,
+   "tint": "#131313"
+  },
+  "chevrolet/trailblazer": {
+   "bytes": 34204,
+   "tint": "#2F69AF"
+  },
+  "chevrolet/traverse": {
+   "bytes": 27114,
+   "tint": "#4F5051"
+  },
   "ford/bronco": {
    "bytes": 30772,
    "tint": "#CB5409"
@@ -175,6 +219,10 @@
   "tesla/cybertruck": {
    "bytes": 20004,
    "tint": "#ADAEB2"
+  },
+  "tesla/model-3": {
+   "bytes": 23452,
+   "tint": "#D3D4D4"
   },
   "tesla/model-s": {
    "bytes": 23580,
