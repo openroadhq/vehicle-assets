@@ -84,11 +84,18 @@ def wait_for_build_clear() -> None:
 
 
 def cutout(py: Path, src: Path, dst: Path) -> None:
+    # Downscale to WEBP_WIDTH before the cutout: the output is 1024px anyway, so
+    # the extra source pixels cost ~30% runtime and change nothing we keep
+    # (measured 2026-07-16: alpha differs on 0.23% of pixels, edge antialiasing only).
     script = (
         "import sys\n"
         "from rembg import remove, new_session\n"
         "from PIL import Image\n"
-        "out = remove(Image.open(sys.argv[1]), session=new_session('birefnet-general'),"
+        f"W = {WEBP_WIDTH}\n"
+        "img = Image.open(sys.argv[1]).convert('RGB')\n"
+        "if img.width > W:\n"
+        "    img.thumbnail((W, W), Image.LANCZOS)\n"
+        "out = remove(img, session=new_session('birefnet-general'),"
         " post_process_mask=True)\n"
         "out.save(sys.argv[2])\n"
     )

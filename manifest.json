@@ -56,8 +56,24 @@
    "bytes": 23222,
    "tint": "#CDD0D1"
   },
+  "acura/legend-1991": {
+   "bytes": 23350,
+   "tint": "#CED0CF"
+  },
   "acura/mdx": {
    "bytes": 24528,
+   "tint": "#0E0E0E"
+  },
+  "acura/mdx-2007": {
+   "bytes": 26606,
+   "tint": "#EBEBEB"
+  },
+  "acura/mdx-2014": {
+   "bytes": 29356,
+   "tint": "#8E8E90"
+  },
+  "acura/mdx-type-s": {
+   "bytes": 29400,
    "tint": "#0E0E0E"
   },
   "acura/nsx": {
