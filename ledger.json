@@ -237,38 +237,38 @@
  "dodge/charger": {
   "desc": "black Dodge Charger SRT sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "dodge/durango": {
   "desc": "gray Dodge Durango SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "dodge/viper": {
   "desc": "red Dodge Viper coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "ferrari/296": {
   "desc": "red Ferrari 296 GTB coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "ferrari/488": {
   "desc": "red Ferrari 488 GTB coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "ferrari/f8": {
   "desc": "red Ferrari F8 Tributo coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "ford/bronco": {
   "desc": "orange Ford Bronco SUV, 2025 model year",
@@ -352,32 +352,32 @@
  "genesis/g70": {
   "desc": "blue Genesis G70 sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "genesis/gv70": {
   "desc": "white Genesis GV70 SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "gmc/canyon": {
   "desc": "red GMC Canyon pickup truck, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "gmc/sierra-1500": {
   "desc": "black GMC Sierra 1500 pickup truck, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "gmc/yukon": {
   "desc": "white GMC Yukon full-size SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "honda/accord": {
   "desc": "black Honda Accord sedan, 2025 model year",
@@ -430,8 +430,8 @@
  "hyundai/elantra": {
   "desc": "gray Hyundai Elantra sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 13:30"
  },
  "hyundai/elantra-n": {
   "desc": "blue Hyundai Elantra N sedan, 2025 model year",
