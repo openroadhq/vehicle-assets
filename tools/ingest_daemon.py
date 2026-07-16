@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Serial ingest daemon: staged raw PNG -> rembg cutout -> QC -> webp -> manifest.
 
-Exactly ONE rembg at a time, process-wide, and it waits out any machine-wide
-xcodebuild before starting a cutout (master's swap rule, 2026-07-16). Renders
-are elsewhere (render_worker.py) and never blocked — freezing an HTTPS request
-protects no memory and just times the request out.
+Exactly ONE rembg at a time, process-wide, and it holds off whenever the machine
+is actually short on memory (master's swap rule, 2026-07-16). Renders live in
+render_worker.py and are never blocked — freezing an HTTPS request protects no
+memory and just times the request out.
 
 Usage:
   tools/ingest_daemon.py --stage /path/to/staging [--idle-exit 900]
@@ -18,10 +18,67 @@ import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from generate import V1, cutout, ensure_venv, qc, rebuild_manifest, to_webp  # noqa: E402
+from generate import (CUTOUT_MODEL, V1, WEBP_WIDTH, ensure_venv, qc,  # noqa: E402
+                      rebuild_manifest, to_webp)
 
 
 MIN_FREE_PCT = 15
+
+# A persistent cutout worker. The per-car subprocess reloaded the isnet model
+# from disk every time — about half of the ~14s. Loading once and streaming
+# paths over stdin keeps one cutout in flight at a time (master's rule) while
+# paying the model-load cost exactly once for the whole run.
+WORKER_SRC = """
+import sys, warnings
+warnings.filterwarnings("ignore")
+from rembg import remove, new_session
+from PIL import Image
+W = {width}
+session = new_session({model!r})
+print("READY", flush=True)
+for line in sys.stdin:
+    line = line.strip()
+    if not line:
+        continue
+    src, dst = line.split("\\t")
+    try:
+        img = Image.open(src).convert("RGB")
+        if img.width > W:
+            img.thumbnail((W, W), Image.LANCZOS)
+        remove(img, session=session, post_process_mask=True).save(dst)
+        print("OK", flush=True)
+    except Exception as e:
+        print("ERR " + str(e).replace("\\n", " ")[:150], flush=True)
+"""
+
+
+class CutoutWorker:
+    """One warm rembg process. Restarts itself if it ever dies."""
+
+    def __init__(self, py: Path):
+        self.py = py
+        self.p: subprocess.Popen | None = None
+
+    def _spawn(self) -> None:
+        src = WORKER_SRC.format(width=WEBP_WIDTH, model=CUTOUT_MODEL)
+        self.p = subprocess.Popen(
+            [str(self.py), "-c", src],
+            stdin=subprocess.PIPE, stdout=subprocess.PIPE,
+            stderr=subprocess.DEVNULL, text=True, bufsize=1,
+        )
+        if (self.p.stdout.readline() or "").strip() != "READY":
+            raise RuntimeError("cutout worker failed to start")
+
+    def run(self, src: Path, dst: Path) -> None:
+        if self.p is None or self.p.poll() is not None:
+            self._spawn()
+        assert self.p and self.p.stdin and self.p.stdout
+        self.p.stdin.write(f"{src}\t{dst}\n")
+        self.p.stdin.flush()
+        reply = (self.p.stdout.readline() or "").strip()
+        if reply != "OK":
+            self.p = None  # a dead/desynced worker must not be reused
+            raise RuntimeError(reply or "cutout worker died")
 
 
 def free_mem_pct() -> int:
@@ -66,6 +123,7 @@ def main() -> int:
     done_dir.mkdir(exist_ok=True)
 
     py = ensure_venv()
+    worker = CutoutWorker(py)
     ok = fail = 0
     idle_since = time.time()
     pending_manifest = False
@@ -94,7 +152,7 @@ def main() -> int:
         cut = raw.with_suffix(".cut.png")
         t = time.time()
         try:
-            cutout(py, raw, cut)
+            worker.run(raw, cut)
             reason = qc(py, cut)
             if reason:
                 print(f"FAIL {slug}: QC — {reason}", flush=True)
