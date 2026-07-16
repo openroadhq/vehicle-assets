@@ -2024,29 +2024,173 @@
    "bytes": 28842,
    "tint": "#B10202"
   },
+  "ferrari/monza-sp1": {
+   "bytes": 23634,
+   "tint": "#8E0206"
+  },
+  "ferrari/monza-sp2": {
+   "bytes": 26772,
+   "tint": "#8E0202"
+  },
+  "ferrari/purosangue": {
+   "bytes": 30780,
+   "tint": "#8C050A"
+  },
+  "ferrari/roma": {
+   "bytes": 30176,
+   "tint": "#AB0B0B"
+  },
+  "ferrari/sf90-stradale": {
+   "bytes": 28948,
+   "tint": "#AC0406"
+  },
+  "ferrari/testarossa": {
+   "bytes": 25514,
+   "tint": "#CA0409"
+  },
+  "fiat/124-spider": {
+   "bytes": 30782,
+   "tint": "#AF0203"
+  },
+  "fiat/124-spider-abarth": {
+   "bytes": 28622,
+   "tint": "#B4050B"
+  },
+  "fiat/500-abarth": {
+   "bytes": 35132,
+   "tint": "#AC0209"
+  },
+  "fiat/500e": {
+   "bytes": 27982,
+   "tint": "#F0EFEC"
+  },
+  "fiat/coupe": {
+   "bytes": 24994,
+   "tint": "#AC060A"
+  },
+  "fiat/uno-turbo": {
+   "bytes": 28730,
+   "tint": "#EE3237"
+  },
+  "fisker/karma": {
+   "bytes": 23770,
+   "tint": "#0E0E0E"
+  },
+  "fisker/ocean": {
+   "bytes": 27050,
+   "tint": "#CFD0CE"
+  },
+  "ford/aspire-1994": {
+   "bytes": 24406,
+   "tint": "#8F9090"
+  },
   "ford/bronco": {
    "bytes": 30772,
    "tint": "#CB5409"
+  },
+  "ford/bronco-1987": {
+   "bytes": 32686,
+   "tint": "#A60405"
+  },
+  "ford/bronco-1992": {
+   "bytes": 26348,
+   "tint": "#D4D4D4"
+  },
+  "ford/bronco-raptor": {
+   "bytes": 38110,
+   "tint": "#B53702"
   },
   "ford/bronco-sport": {
    "bytes": 27312,
    "tint": "#2D322E"
   },
+  "ford/contour-1995": {
+   "bytes": 24392,
+   "tint": "#ADAEB1"
+  },
+  "ford/contour-svt-1998": {
+   "bytes": 26044,
+   "tint": "#0C0D0D"
+  },
+  "ford/crown-victoria-1998": {
+   "bytes": 24316,
+   "tint": "#B0B1B1"
+  },
+  "ford/crown-victoria-police-interceptor-1992": {
+   "bytes": 23358,
+   "tint": "#282828"
+  },
+  "ford/crown-victoria-police-interceptor-1998": {
+   "bytes": 22562,
+   "tint": "#101010"
+  },
+  "ford/ecosport-2018": {
+   "bytes": 34758,
+   "tint": "#AEB0B2"
+  },
   "ford/edge": {
    "bytes": 31522,
    "tint": "#4F4F52"
+  },
+  "ford/edge-2007": {
+   "bytes": 26738,
+   "tint": "#AEAEAF"
+  },
+  "ford/edge-2015": {
+   "bytes": 30924,
+   "tint": "#0F0F0F"
   },
   "ford/escape": {
    "bytes": 32362,
    "tint": "#8D8E90"
   },
+  "ford/escape-2008": {
+   "bytes": 31190,
+   "tint": "#CDCED0"
+  },
+  "ford/escape-2013": {
+   "bytes": 31094,
+   "tint": "#D0D0D0"
+  },
+  "ford/escort-1991": {
+   "bytes": 27282,
+   "tint": "#919194"
+  },
+  "ford/escort-rs-cosworth-1992": {
+   "bytes": 33422,
+   "tint": "#032D71"
+  },
+  "ford/excursion-2000": {
+   "bytes": 21284,
+   "tint": "#E8E8E8"
+  },
   "ford/expedition": {
    "bytes": 24708,
    "tint": "#0E0E0E"
   },
+  "ford/expedition-1997": {
+   "bytes": 29078,
+   "tint": "#2D2D2D"
+  },
+  "ford/expedition-2007": {
+   "bytes": 26296,
+   "tint": "#8C8C8E"
+  },
   "ford/explorer": {
    "bytes": 31684,
    "tint": "#2B4C74"
+  },
+  "ford/explorer-1991": {
+   "bytes": 25748,
+   "tint": "#8E8F92"
+  },
+  "ford/explorer-1995": {
+   "bytes": 27784,
+   "tint": "#303031"
+  },
+  "ford/explorer-2006": {
+   "bytes": 26492,
+   "tint": "#AFB0AF"
   },
   "ford/f-150": {
    "bytes": 25190,
