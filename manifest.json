@@ -51,6 +51,10 @@
   "porsche/911-gt3-rs": {
    "bytes": 29014,
    "tint": "#D1D1D1"
+  },
+  "toyota/corolla": {
+   "bytes": 28752,
+   "tint": "#CCCED1"
   }
  },
  "view": "side-profile"
