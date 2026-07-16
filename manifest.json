@@ -20,9 +20,65 @@
  "format": "webp",
  "schemaVersion": 1,
  "vehicles": {
+  "acura/integra": {
+   "bytes": 27878,
+   "tint": "#032B89"
+  },
+  "acura/mdx": {
+   "bytes": 24528,
+   "tint": "#0E0E0E"
+  },
+  "acura/nsx": {
+   "bytes": 32244,
+   "tint": "#92060E"
+  },
+  "acura/rsx": {
+   "bytes": 29088,
+   "tint": "#8E9093"
+  },
+  "acura/tlx": {
+   "bytes": 29698,
+   "tint": "#8C0406"
+  },
+  "audi/a4": {
+   "bytes": 26184,
+   "tint": "#333435"
+  },
+  "audi/a5": {
+   "bytes": 36752,
+   "tint": "#06356C"
+  },
+  "audi/q5": {
+   "bytes": 31458,
+   "tint": "#EBEBEB"
+  },
+  "audi/q7": {
+   "bytes": 32780,
+   "tint": "#0F0F0F"
+  },
   "audi/r8": {
    "bytes": 28548,
    "tint": "#ABAEB1"
+  },
+  "audi/rs6-avant": {
+   "bytes": 30388,
+   "tint": "#515253"
+  },
+  "audi/rs7": {
+   "bytes": 27362,
+   "tint": "#4F5052"
+  },
+  "audi/s4": {
+   "bytes": 31022,
+   "tint": "#0A346C"
+  },
+  "audi/s5": {
+   "bytes": 27038,
+   "tint": "#121212"
+  },
+  "audi/tt": {
+   "bytes": 32798,
+   "tint": "#AD0A12"
   },
   "bmw/3-series": {
    "bytes": 29644,
@@ -35,6 +91,10 @@
   "bmw/5-series": {
    "bytes": 26642,
    "tint": "#2E3131"
+  },
+  "bmw/m2": {
+   "bytes": 28374,
+   "tint": "#064BAE"
   },
   "bmw/m3": {
    "bytes": 29020,
@@ -76,6 +136,10 @@
    "bytes": 30612,
    "tint": "#AF090E"
   },
+  "chevrolet/corvette-z06": {
+   "bytes": 25520,
+   "tint": "#EAEAEA"
+  },
   "chevrolet/equinox": {
    "bytes": 28958,
    "tint": "#2D2D2D"
@@ -87,6 +151,10 @@
   "chevrolet/malibu": {
    "bytes": 27832,
    "tint": "#AEAFB0"
+  },
+  "chevrolet/silverado-1500": {
+   "bytes": 22274,
+   "tint": "#0C0C0C"
   },
   "chevrolet/suburban": {
    "bytes": 25738,
@@ -104,6 +172,10 @@
    "bytes": 27114,
    "tint": "#4F5051"
   },
+  "dodge/challenger": {
+   "bytes": 28312,
+   "tint": "#39184F"
+  },
   "ford/bronco": {
    "bytes": 30772,
    "tint": "#CB5409"
@@ -113,8 +185,8 @@
    "tint": "#2D322E"
   },
   "ford/edge": {
-   "bytes": 31540,
-   "tint": "#6F6F6F"
+   "bytes": 31522,
+   "tint": "#4F4F52"
   },
   "ford/escape": {
    "bytes": 32362,
@@ -221,8 +293,8 @@
    "tint": "#ADAEB2"
   },
   "tesla/model-3": {
-   "bytes": 23452,
-   "tint": "#D3D4D4"
+   "bytes": 21934,
+   "tint": "#F0F0F2"
   },
   "tesla/model-s": {
    "bytes": 23580,

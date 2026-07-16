@@ -2,56 +2,56 @@
  "acura/integra": {
   "desc": "blue Acura Integra liftback, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "acura/mdx": {
   "desc": "black Acura MDX SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "acura/nsx": {
   "desc": "red Acura NSX second generation supercar",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "acura/rsx": {
   "desc": "silver Acura RSX Type S coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "acura/tlx": {
   "desc": "red Acura TLX sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "audi/a4": {
   "desc": "gray Audi A4 sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "audi/a5": {
   "desc": "blue Audi A5 Sportback, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "audi/q5": {
   "desc": "white Audi Q5 SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "audi/q7": {
   "desc": "black Audi Q7 SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "audi/r8": {
   "desc": "(pilot/pre-list)",
@@ -62,32 +62,32 @@
  "audi/rs6-avant": {
   "desc": "gray Audi RS6 Avant wagon, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "audi/rs7": {
   "desc": "gray Audi RS7 Sportback, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "audi/s4": {
   "desc": "blue Audi S4 sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "audi/s5": {
   "desc": "black Audi S5 coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "audi/tt": {
   "desc": "red Audi TT coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "bmw/3-series": {
   "desc": "black BMW 3 Series G20 sedan",
@@ -110,8 +110,8 @@
  "bmw/m2": {
   "desc": "blue BMW M2 G87 coupe",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "bmw/m3": {
   "desc": "green BMW M3 G80 sedan",
@@ -176,8 +176,8 @@
  "chevrolet/corvette-z06": {
   "desc": "white Chevrolet Corvette C8 Z06 with black stripes",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "chevrolet/equinox": {
   "desc": "silver Chevrolet Equinox SUV, 2025 model year",
@@ -201,8 +201,8 @@
   "desc": "black Chevrolet Silverado 1500 pickup truck, 2025 model year",
   "note": "gen errored 07-16, retry",
   "renderer": "chatgpt",
-  "status": "queued",
-  "ts": "07-16 12:04"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "chevrolet/suburban": {
   "desc": "white Chevrolet Suburban full-size SUV, 2025 model year",
@@ -231,8 +231,8 @@
  "dodge/challenger": {
   "desc": "purple Dodge Challenger SRT Hellcat coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 12:30"
  },
  "dodge/charger": {
   "desc": "black Dodge Charger SRT sedan, 2025 model year",
@@ -284,9 +284,10 @@
  },
  "ford/edge": {
   "desc": "gray Ford Edge SUV, 2025 model year",
+  "note": "angled view 07-16",
   "renderer": "chatgpt",
   "status": "live",
-  "ts": "07-16 11:07"
+  "ts": "07-16 12:30"
  },
  "ford/escape": {
   "desc": "silver Ford Escape SUV, 2025 model year",
@@ -878,9 +879,10 @@
  },
  "tesla/model-3": {
   "desc": "white 2025 Tesla Model 3 Highland refresh sedan",
+  "note": "pre-Highland gen 07-16",
   "renderer": "chatgpt",
   "status": "live",
-  "ts": "07-16 12:04"
+  "ts": "07-16 12:30"
  },
  "tesla/model-s": {
   "desc": "black 2025 Tesla Model S sedan, latest facelift",
