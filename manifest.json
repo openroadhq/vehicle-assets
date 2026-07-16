@@ -128,13 +128,189 @@
    "bytes": 25188,
    "tint": "#8C8C8E"
   },
+  "acura/tl-2009": {
+   "bytes": 26258,
+   "tint": "#ECEBE7"
+  },
+  "acura/tl-type-s-2007": {
+   "bytes": 25662,
+   "tint": "#0D0F10"
+  },
   "acura/tlx": {
    "bytes": 29698,
    "tint": "#8C0406"
   },
+  "acura/tlx-2015": {
+   "bytes": 27158,
+   "tint": "#F1F0EE"
+  },
+  "acura/tlx-type-s": {
+   "bytes": 26020,
+   "tint": "#111111"
+  },
+  "acura/tsx-2009": {
+   "bytes": 23796,
+   "tint": "#D4D4D4"
+  },
+  "acura/tsx-v6-2010": {
+   "bytes": 23914,
+   "tint": "#0E0E0E"
+  },
+  "acura/vigor-1992": {
+   "bytes": 25756,
+   "tint": "#909192"
+  },
+  "acura/zdx-2010": {
+   "bytes": 29818,
+   "tint": "#8F8F91"
+  },
+  "alfa-romeo/147-gta": {
+   "bytes": 34882,
+   "tint": "#AF030A"
+  },
+  "alfa-romeo/156": {
+   "bytes": 30354,
+   "tint": "#8A070C"
+  },
+  "alfa-romeo/4c": {
+   "bytes": 29680,
+   "tint": "#A8040F"
+  },
+  "alfa-romeo/8c-competizione": {
+   "bytes": 30612,
+   "tint": "#8E0404"
+  },
+  "alfa-romeo/giulia": {
+   "bytes": 38142,
+   "tint": "#8C0405"
+  },
+  "alfa-romeo/giulia-quadrifoglio": {
+   "bytes": 34458,
+   "tint": "#8C0508"
+  },
+  "alfa-romeo/giulietta": {
+   "bytes": 31910,
+   "tint": "#8E030C"
+  },
+  "alfa-romeo/stelvio": {
+   "bytes": 39438,
+   "tint": "#8F0911"
+  },
+  "alfa-romeo/tonale": {
+   "bytes": 35224,
+   "tint": "#8E020F"
+  },
+  "alpine/a110-1963": {
+   "bytes": 30524,
+   "tint": "#044A94"
+  },
+  "alpine/a110-2017": {
+   "bytes": 32886,
+   "tint": "#0455AC"
+  },
+  "aptera/aptera": {
+   "bytes": 23086,
+   "tint": "#AFAFAF"
+  },
+  "ariel/atom-2000": {
+   "bytes": 41364,
+   "tint": "#2E2E2D"
+  },
+  "ariel/nomad-2015": {
+   "bytes": 42566,
+   "tint": "#2E2E2E"
+  },
+  "aston-martin/db12": {
+   "bytes": 28014,
+   "tint": "#2B4C34"
+  },
+  "aston-martin/db7": {
+   "bytes": 26740,
+   "tint": "#0E241A"
+  },
+  "aston-martin/db9": {
+   "bytes": 26232,
+   "tint": "#8A8A8C"
+  },
+  "aston-martin/dbs-2018": {
+   "bytes": 29102,
+   "tint": "#2D2E30"
+  },
+  "aston-martin/dbx": {
+   "bytes": 28702,
+   "tint": "#F0F0F0"
+  },
+  "aston-martin/dbx707": {
+   "bytes": 32864,
+   "tint": "#0A4D35"
+  },
+  "aston-martin/rapide": {
+   "bytes": 24788,
+   "tint": "#8F9091"
+  },
+  "aston-martin/v12-vantage": {
+   "bytes": 24934,
+   "tint": "#0B0B0B"
+  },
+  "aston-martin/v12-zagato": {
+   "bytes": 26870,
+   "tint": "#8B8C8F"
+  },
+  "aston-martin/valkyrie": {
+   "bytes": 25564,
+   "tint": "#155049"
+  },
+  "aston-martin/vanquish-2001": {
+   "bytes": 25342,
+   "tint": "#A8A9AA"
+  },
+  "aston-martin/vanquish-2012": {
+   "bytes": 27106,
+   "tint": "#929293"
+  },
+  "aston-martin/vantage-v8-2005": {
+   "bytes": 25604,
+   "tint": "#8C8F93"
+  },
+  "aston-martin/victor": {
+   "bytes": 30506,
+   "tint": "#2D443B"
+  },
+  "aston-martin/vulcan": {
+   "bytes": 24174,
+   "tint": "#2C4B37"
+  },
+  "audi/5000-1978": {
+   "bytes": 24220,
+   "tint": "#959596"
+  },
+  "audi/90-quattro-1988": {
+   "bytes": 29720,
+   "tint": "#A7010E"
+  },
+  "audi/a2-1999": {
+   "bytes": 27960,
+   "tint": "#ACADB0"
+  },
+  "audi/a3-2006": {
+   "bytes": 27894,
+   "tint": "#919293"
+  },
+  "audi/a3-2015": {
+   "bytes": 28682,
+   "tint": "#8D8D8F"
+  },
   "audi/a4": {
    "bytes": 26184,
    "tint": "#333435"
+  },
+  "audi/a4-1996": {
+   "bytes": 25846,
+   "tint": "#8D9091"
+  },
+  "audi/a4-2006": {
+   "bytes": 27098,
+   "tint": "#8D8D8F"
   },
   "audi/a5": {
    "bytes": 36752,
