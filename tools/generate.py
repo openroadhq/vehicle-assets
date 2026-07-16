@@ -15,6 +15,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import subprocess
 import sys
 import tempfile
@@ -156,6 +157,54 @@ def car_tint(path: Path) -> str | None:
     return "#%02X%02X%02X" % (r, g, b)
 
 
+GEN_SUFFIX = re.compile(r"^(?P<base>.+)-(?P<year>(?:19|20)\d{2})$")
+
+
+def build_generations(vehicles: dict) -> dict:
+    """base slug -> [[firstModelYear, slug], ...] ascending.
+
+    The slug scheme encodes generations: `honda/civic-2016` is the gen that
+    started in 2016, and a bare `honda/civic` is the CURRENT gen. The app has
+    the car's model year but no way to know when the current gen began, so it
+    can't tell a 2018 Civic (gen 2016) from a 2023 one (current). We resolve
+    that here and ship the answer, so the client just binary-searches a list.
+
+    Current-gen start years come from `current-gen-years.txt` (slug|year).
+    A base with no bare slug is a dead nameplate — historical gens only.
+    """
+    starts = {}
+    f = REPO / "current-gen-years.txt"
+    if f.exists():
+        for line in f.read_text().splitlines():
+            line = line.strip()
+            if line and "|" in line and not line.startswith("#"):
+                slug, year = line.split("|", 1)
+                if year.strip().isdigit():
+                    starts[slug.strip().lower()] = int(year.strip())
+
+    gens: dict[str, list] = {}
+    for slug in vehicles:
+        m = GEN_SUFFIX.match(slug)
+        if m:
+            gens.setdefault(m.group("base"), []).append([int(m.group("year")), slug])
+    for base in list(gens):
+        if base in vehicles:  # bare slug = the current generation
+            year = starts.get(base)
+            if year is None:
+                # No curated start year: place the current gen one year after the
+                # newest historical one. Wrong-but-adjacent beats unreachable —
+                # every car newer than the last known gen still lands on it.
+                year = max(y for y, _ in gens[base]) + 1
+            # A bare slug and a year-suffixed one can name the SAME generation
+            # (e.g. audi/tt + audi/tt-2016 are both the 2016 car). Two entries
+            # at one year makes the lookup ambiguous, so the bare slug — the
+            # canonical "current" image — wins and the duplicate drops out.
+            gens[base] = [e for e in gens[base] if e[0] != year]
+            gens[base].append([year, base])
+        gens[base].sort()
+    return gens
+
+
 def rebuild_manifest() -> None:
     vehicles = {}
     for path in sorted(V1.rglob("*.webp")):
@@ -166,11 +215,12 @@ def rebuild_manifest() -> None:
             entry["tint"] = tint
         vehicles[slug] = entry
     manifest = {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "basePath": "v1",
         "format": "webp",
         "view": "side-profile",
         "vehicles": vehicles,
+        "generations": build_generations(vehicles),
     }
     aliases_file = REPO / "aliases.json"
     if aliases_file.exists():
