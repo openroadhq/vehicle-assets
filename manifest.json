@@ -1088,6 +1088,186 @@
    "bytes": 24024,
    "tint": "#D2D0CE"
   },
+  "buick/park-avenue-1997": {
+   "bytes": 23578,
+   "tint": "#0C0C0C"
+  },
+  "buick/regal-1988": {
+   "bytes": 24076,
+   "tint": "#AEAEB1"
+  },
+  "buick/regal-1997": {
+   "bytes": 24380,
+   "tint": "#D5D4D2"
+  },
+  "buick/regal-2011": {
+   "bytes": 24870,
+   "tint": "#0D0D0D"
+  },
+  "buick/regal-gs-2011": {
+   "bytes": 28608,
+   "tint": "#0B0B0B"
+  },
+  "buick/rendezvous-2002": {
+   "bytes": 28008,
+   "tint": "#0D0E0E"
+  },
+  "buick/riviera-1995": {
+   "bytes": 23592,
+   "tint": "#ACACAC"
+  },
+  "buick/skylark-1986": {
+   "bytes": 21662,
+   "tint": "#D3D4D4"
+  },
+  "buick/terraza-2005": {
+   "bytes": 26114,
+   "tint": "#B0B1B0"
+  },
+  "buick/verano-2012": {
+   "bytes": 27306,
+   "tint": "#EBEBEB"
+  },
+  "cadillac/ats-2013": {
+   "bytes": 28790,
+   "tint": "#CECFD3"
+  },
+  "cadillac/ats-v-2013": {
+   "bytes": 28342,
+   "tint": "#0E0E0E"
+  },
+  "cadillac/catera-1997": {
+   "bytes": 24464,
+   "tint": "#ABACAF"
+  },
+  "cadillac/ct4-2020": {
+   "bytes": 27056,
+   "tint": "#ACADB1"
+  },
+  "cadillac/ct4-blackwing-2020": {
+   "bytes": 33372,
+   "tint": "#8E050D"
+  },
+  "cadillac/ct5-2020": {
+   "bytes": 25818,
+   "tint": "#D4D4D4"
+  },
+  "cadillac/ct6-2016": {
+   "bytes": 26122,
+   "tint": "#111212"
+  },
+  "cadillac/ct6-v-2016": {
+   "bytes": 26042,
+   "tint": "#0E0E0E"
+  },
+  "cadillac/cts-2002": {
+   "bytes": 23612,
+   "tint": "#ABABAC"
+  },
+  "cadillac/cts-2014": {
+   "bytes": 26570,
+   "tint": "#F0EEEB"
+  },
+  "cadillac/cts-v-2002": {
+   "bytes": 25404,
+   "tint": "#0F0F0F"
+  },
+  "cadillac/cts-v-2008": {
+   "bytes": 29206,
+   "tint": "#121212"
+  },
+  "cadillac/deville-1985": {
+   "bytes": 24210,
+   "tint": "#D4D2CE"
+  },
+  "cadillac/deville-1994": {
+   "bytes": 21272,
+   "tint": "#F1F1F0"
+  },
+  "cadillac/deville-2000": {
+   "bytes": 22198,
+   "tint": "#0A0A0A"
+  },
+  "cadillac/escalade": {
+   "bytes": 33432,
+   "tint": "#0C0C0C"
+  },
+  "cadillac/escalade-1999": {
+   "bytes": 24098,
+   "tint": "#0E0E0E"
+  },
+  "cadillac/escalade-2002": {
+   "bytes": 24038,
+   "tint": "#0C0C0C"
+  },
+  "cadillac/escalade-2015": {
+   "bytes": 23610,
+   "tint": "#0E0E0E"
+  },
+  "cadillac/escalade-ext-2002": {
+   "bytes": 25376,
+   "tint": "#111113"
+  },
+  "cadillac/escalade-v": {
+   "bytes": 26686,
+   "tint": "#121212"
+  },
+  "cadillac/fleetwood-fwd-1985": {
+   "bytes": 22098,
+   "tint": "#E8E8E8"
+  },
+  "cadillac/lyriq": {
+   "bytes": 29440,
+   "tint": "#EEEEEE"
+  },
+  "cadillac/optiq": {
+   "bytes": 33262,
+   "tint": "#2F2F2F"
+  },
+  "cadillac/seville-1998": {
+   "bytes": 25254,
+   "tint": "#0F0F0F"
+  },
+  "cadillac/srx-2004": {
+   "bytes": 28336,
+   "tint": "#AFB0B1"
+  },
+  "cadillac/srx-2010": {
+   "bytes": 30090,
+   "tint": "#EEEEED"
+  },
+  "cadillac/xlr-2004": {
+   "bytes": 24006,
+   "tint": "#8C8C8D"
+  },
+  "cadillac/xt4": {
+   "bytes": 30776,
+   "tint": "#EBEBEB"
+  },
+  "cadillac/xt5": {
+   "bytes": 28200,
+   "tint": "#EDECEF"
+  },
+  "cadillac/xts-2013": {
+   "bytes": 27700,
+   "tint": "#EAE9E7"
+  },
+  "callaway/c7-corvette": {
+   "bytes": 30774,
+   "tint": "#CC9B03"
+  },
+  "caterham/seven-1973": {
+   "bytes": 29294,
+   "tint": "#F2C427"
+  },
+  "chevrolet/astro-1985": {
+   "bytes": 24362,
+   "tint": "#F0F0F2"
+  },
+  "chevrolet/avalanche-2002": {
+   "bytes": 24422,
+   "tint": "#0B0B0B"
+  },
   "chevrolet/blazer": {
    "bytes": 30898,
    "tint": "#8A020B"
