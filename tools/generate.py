@@ -38,6 +38,9 @@ PROMPT_TEMPLATE = (
 )
 GEN_SIZE = "1536x1024"
 WEBP_WIDTH = 1024
+# Cutout model — Razpe's pick 2026-07-16: isnet is 8s/car vs birefnet's 68s and he
+# judged the edges equal or better. Whole-list runtime: ~5h instead of ~8 days.
+CUTOUT_MODEL = 'isnet-general-use'
 WEBP_QUALITY = 82
 
 
@@ -95,7 +98,7 @@ def cutout(py: Path, src: Path, dst: Path) -> None:
         "img = Image.open(sys.argv[1]).convert('RGB')\n"
         "if img.width > W:\n"
         "    img.thumbnail((W, W), Image.LANCZOS)\n"
-        "out = remove(img, session=new_session('birefnet-general'),"
+        f"out = remove(img, session=new_session('{CUTOUT_MODEL}'),"
         " post_process_mask=True)\n"
         "out.save(sys.argv[2])\n"
     )
