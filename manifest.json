@@ -2520,6 +2520,10 @@
    "bytes": 30652,
    "tint": "#AA0315"
   },
+  "mazda/cx-5": {
+   "bytes": 36536,
+   "tint": "#D11129"
+  },
   "mazda/cx-5-2013": {
    "bytes": 29998,
    "tint": "#ACACAE"
@@ -2527,6 +2531,226 @@
   "mazda/cx-5-2017": {
    "bytes": 35716,
    "tint": "#AC0711"
+  },
+  "mazda/cx-50": {
+   "bytes": 31444,
+   "tint": "#4F5052"
+  },
+  "mazda/cx-7-2007": {
+   "bytes": 30486,
+   "tint": "#6E6E71"
+  },
+  "mazda/cx-70": {
+   "bytes": 31008,
+   "tint": "#8A0914"
+  },
+  "mazda/cx-9-2007": {
+   "bytes": 30490,
+   "tint": "#0D0E0C"
+  },
+  "mazda/cx-9-2016": {
+   "bytes": 38264,
+   "tint": "#8F060F"
+  },
+  "mazda/cx-90": {
+   "bytes": 30336,
+   "tint": "#8D0611"
+  },
+  "mazda/eunos-cosmo-1990": {
+   "bytes": 19430,
+   "tint": "#D5D2CD"
+  },
+  "mazda/familia-gtr-1988": {
+   "bytes": 26470,
+   "tint": "#D2D3D2"
+  },
+  "mazda/mazda2-2011": {
+   "bytes": 29706,
+   "tint": "#EEEEEE"
+  },
+  "mazda/mazda3": {
+   "bytes": 28436,
+   "tint": "#AB030C"
+  },
+  "mazda/mazda3-2004": {
+   "bytes": 27500,
+   "tint": "#909191"
+  },
+  "mazda/mazda3-2010": {
+   "bytes": 27306,
+   "tint": "#E9E9E9"
+  },
+  "mazda/mazda3-2014": {
+   "bytes": 35402,
+   "tint": "#6D030B"
+  },
+  "mazda/mazda5-2006": {
+   "bytes": 29696,
+   "tint": "#ACACAE"
+  },
+  "mazda/mazda6-2003": {
+   "bytes": 24996,
+   "tint": "#AEAFB0"
+  },
+  "mazda/mazda6-2009": {
+   "bytes": 26228,
+   "tint": "#4C4D50"
+  },
+  "mazda/mazda6-2014": {
+   "bytes": 32382,
+   "tint": "#72040A"
+  },
+  "mazda/mazdaspeed-miata-2004": {
+   "bytes": 26128,
+   "tint": "#111111"
+  },
+  "mazda/mazdaspeed-protege-2003": {
+   "bytes": 30272,
+   "tint": "#101010"
+  },
+  "mazda/mazdaspeed3-2007": {
+   "bytes": 26584,
+   "tint": "#0C0C0D"
+  },
+  "mazda/mazdaspeed3-2010": {
+   "bytes": 27190,
+   "tint": "#4C4C4D"
+  },
+  "mazda/mazdaspeed6-2006": {
+   "bytes": 27154,
+   "tint": "#0C0C0C"
+  },
+  "mazda/miata": {
+   "bytes": 24984,
+   "tint": "#700F14"
+  },
+  "mazda/miata-1989": {
+   "bytes": 24372,
+   "tint": "#B3050B"
+  },
+  "mazda/miata-1998": {
+   "bytes": 25770,
+   "tint": "#B00304"
+  },
+  "mazda/miata-2006": {
+   "bytes": 30828,
+   "tint": "#950505"
+  },
+  "mazda/millenia-1995": {
+   "bytes": 24772,
+   "tint": "#0A140F"
+  },
+  "mazda/mpv-1989": {
+   "bytes": 28104,
+   "tint": "#CDCDCF"
+  },
+  "mazda/mpv-1999": {
+   "bytes": 25568,
+   "tint": "#ACACAD"
+  },
+  "mazda/mx-5-miata": {
+   "bytes": 27332,
+   "tint": "#AE0E11"
+  },
+  "mazda/mx-6-1988": {
+   "bytes": 21314,
+   "tint": "#D2D1CF"
+  },
+  "mazda/mx-6-1993": {
+   "bytes": 24144,
+   "tint": "#8D8F91"
+  },
+  "mazda/protege-1990": {
+   "bytes": 23386,
+   "tint": "#D2D2D0"
+  },
+  "mazda/protege-1995": {
+   "bytes": 25068,
+   "tint": "#ACACAE"
+  },
+  "mazda/protege-1999": {
+   "bytes": 25980,
+   "tint": "#AEAEB1"
+  },
+  "mazda/protege5-2002": {
+   "bytes": 30736,
+   "tint": "#0E3488"
+  },
+  "mazda/rx-3-1971": {
+   "bytes": 28282,
+   "tint": "#D45503"
+  },
+  "mazda/rx-7": {
+   "bytes": 29118,
+   "tint": "#E9AF05"
+  },
+  "mazda/rx-7-1986": {
+   "bytes": 21452,
+   "tint": "#D3D3D1"
+  },
+  "mazda/rx-7-1993": {
+   "bytes": 26624,
+   "tint": "#B7090E"
+  },
+  "mazda/rx-7-spirit-r-2002": {
+   "bytes": 29870,
+   "tint": "#D7A912"
+  },
+  "mazda/rx-8": {
+   "bytes": 33396,
+   "tint": "#0A2B6D"
+  },
+  "mazda/rx-8-2003": {
+   "bytes": 29850,
+   "tint": "#D0D1D0"
+  },
+  "mazda/scrum": {
+   "bytes": 26892,
+   "tint": "#D7D6D4"
+  },
+  "mazda/tribute-2001": {
+   "bytes": 29992,
+   "tint": "#AEAEAF"
+  },
+  "mazda/tribute-2008": {
+   "bytes": 25966,
+   "tint": "#323233"
+  },
+  "mclaren/12c": {
+   "bytes": 32244,
+   "tint": "#EC5302"
+  },
+  "mclaren/570s": {
+   "bytes": 32884,
+   "tint": "#D2570A"
+  },
+  "mclaren/600lt": {
+   "bytes": 34862,
+   "tint": "#EE6A03"
+  },
+  "mclaren/620r": {
+   "bytes": 33046,
+   "tint": "#EB5402"
+  },
+  "mclaren/650s": {
+   "bytes": 31194,
+   "tint": "#E75102"
+  },
+  "mclaren/675lt": {
+   "bytes": 29746,
+   "tint": "#E95402"
+  },
+  "mclaren/720s": {
+   "bytes": 32126,
+   "tint": "#F36C0C"
+  },
+  "mclaren/750s": {
+   "bytes": 30516,
+   "tint": "#D15002"
+  },
+  "mclaren/765lt": {
+   "bytes": 31914,
+   "tint": "#E94D05"
   },
   "mercedes-benz/c-class": {
    "bytes": 29436,

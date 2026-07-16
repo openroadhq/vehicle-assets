@@ -623,32 +623,32 @@
  "mazda/mazda3": {
   "desc": "red Mazda 3 hatchback, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 16:48"
  },
  "mazda/mx-5-miata": {
   "desc": "red Mazda MX-5 Miata ND roadster, top up",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 16:48"
  },
  "mazda/rx-7": {
   "desc": "yellow Mazda RX-7 FD coupe with pop-up headlights closed",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 16:48"
  },
  "mazda/rx-8": {
   "desc": "blue Mazda RX-8 coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 16:48"
  },
  "mclaren/720s": {
   "desc": "orange McLaren 720S coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 16:48"
  },
  "mercedes-benz/c-class": {
   "desc": "silver Mercedes-Benz C-Class sedan, 2025 model year",
