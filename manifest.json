@@ -28,6 +28,10 @@
    "bytes": 29644,
    "tint": "#101110"
   },
+  "bmw/335i": {
+   "bytes": 29802,
+   "tint": "#ACADAD"
+  },
   "bmw/5-series": {
    "bytes": 26642,
    "tint": "#2E3131"
@@ -36,13 +40,25 @@
    "bytes": 29020,
    "tint": "#094936"
   },
+  "bmw/m340i": {
+   "bytes": 33512,
+   "tint": "#3277AE"
+  },
   "bmw/m4": {
    "bytes": 27664,
    "tint": "#0D336A"
   },
+  "bmw/m5": {
+   "bytes": 27326,
+   "tint": "#4E5151"
+  },
   "bmw/x3": {
    "bytes": 31186,
    "tint": "#D2D2D0"
+  },
+  "bmw/x5": {
+   "bytes": 30064,
+   "tint": "#0E0F0F"
   },
   "ford/bronco": {
    "bytes": 30772,
@@ -79,6 +95,10 @@
   "ford/focus": {
    "bytes": 30858,
    "tint": "#909091"
+  },
+  "ford/fusion": {
+   "bytes": 27840,
+   "tint": "#4E4E4E"
   },
   "ford/maverick": {
    "bytes": 25130,
@@ -123,6 +143,22 @@
   "honda/ridgeline": {
    "bytes": 23206,
    "tint": "#0D0D0D"
+  },
+  "mercedes-benz/c-class": {
+   "bytes": 29436,
+   "tint": "#ACAEB0"
+  },
+  "mercedes-benz/e-class": {
+   "bytes": 27606,
+   "tint": "#101010"
+  },
+  "mercedes-benz/glc": {
+   "bytes": 27186,
+   "tint": "#CFD0CE"
+  },
+  "mercedes-benz/s-class": {
+   "bytes": 24982,
+   "tint": "#101112"
   },
   "porsche/911": {
    "bytes": 28516,

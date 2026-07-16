@@ -98,8 +98,8 @@
  "bmw/335i": {
   "desc": "silver BMW 335i E90 sedan",
   "renderer": "higgsfield",
-  "status": "generating",
-  "ts": "07-16 11:19"
+  "status": "live",
+  "ts": "07-16 11:46"
  },
  "bmw/5-series": {
   "desc": "gray BMW 5 Series sedan, 2025 model year",
@@ -122,8 +122,8 @@
  "bmw/m340i": {
   "desc": "blue BMW M340i G20 sedan",
   "renderer": "higgsfield",
-  "status": "generating",
-  "ts": "07-16 11:19"
+  "status": "live",
+  "ts": "07-16 11:46"
  },
  "bmw/m4": {
   "desc": "blue BMW M4 G82 coupe",
@@ -134,8 +134,8 @@
  "bmw/m5": {
   "desc": "gray BMW M5 sedan, 2025 model year",
   "renderer": "higgsfield",
-  "status": "generating",
-  "ts": "07-16 11:19"
+  "status": "live",
+  "ts": "07-16 11:46"
  },
  "bmw/x3": {
   "desc": "white BMW X3 SUV, 2025 model year",
@@ -146,8 +146,8 @@
  "bmw/x5": {
   "desc": "black BMW X5 SUV, 2025 model year",
   "renderer": "higgsfield",
-  "status": "generating",
-  "ts": "07-16 11:19"
+  "status": "live",
+  "ts": "07-16 11:46"
  },
  "chevrolet/blazer": {
   "desc": "red Chevrolet Blazer SUV, 2025 model year",
@@ -650,8 +650,8 @@
  "mercedes-benz/c-class": {
   "desc": "silver Mercedes-Benz C-Class sedan, 2025 model year",
   "renderer": "higgsfield",
-  "status": "generating",
-  "ts": "07-16 11:19"
+  "status": "live",
+  "ts": "07-16 11:46"
  },
  "mercedes-benz/c63-amg": {
   "desc": "gray Mercedes-AMG C63 sedan, 2025 model year",
@@ -668,8 +668,8 @@
  "mercedes-benz/e-class": {
   "desc": "black Mercedes-Benz E-Class sedan, 2025 model year",
   "renderer": "higgsfield",
-  "status": "generating",
-  "ts": "07-16 11:19"
+  "status": "live",
+  "ts": "07-16 11:46"
  },
  "mercedes-benz/g-class": {
   "desc": "matte black Mercedes-AMG G63 G-Wagon SUV, 2025 model year",
@@ -680,8 +680,8 @@
  "mercedes-benz/glc": {
   "desc": "white Mercedes-Benz GLC SUV, 2025 model year",
   "renderer": "higgsfield",
-  "status": "generating",
-  "ts": "07-16 11:19"
+  "status": "live",
+  "ts": "07-16 11:46"
  },
  "mercedes-benz/gle": {
   "desc": "gray Mercedes-Benz GLE SUV, 2025 model year",
@@ -692,8 +692,8 @@
  "mercedes-benz/s-class": {
   "desc": "black Mercedes-Benz S-Class sedan, 2025 model year",
   "renderer": "higgsfield",
-  "status": "generating",
-  "ts": "07-16 11:19"
+  "status": "live",
+  "ts": "07-16 11:46"
  },
  "nissan/240sx": {
   "desc": "white Nissan 240SX S14 coupe",
