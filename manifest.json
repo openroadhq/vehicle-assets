@@ -20,9 +20,29 @@
  "format": "webp",
  "schemaVersion": 1,
  "vehicles": {
+  "acura/cl-1997": {
+   "bytes": 24304,
+   "tint": "#AAAAAD"
+  },
+  "acura/cl-2001": {
+   "bytes": 22532,
+   "tint": "#EEEEEE"
+  },
+  "acura/cl-type-s-2001": {
+   "bytes": 26094,
+   "tint": "#0E0E0E"
+  },
+  "acura/ilx-2013": {
+   "bytes": 26410,
+   "tint": "#8E9193"
+  },
   "acura/integra": {
    "bytes": 27878,
    "tint": "#032B89"
+  },
+  "acura/integra-1990": {
+   "bytes": 23446,
+   "tint": "#8F8F91"
   },
   "acura/mdx": {
    "bytes": 24528,
