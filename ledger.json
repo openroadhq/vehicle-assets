@@ -1,0 +1,1007 @@
+{
+ "acura/integra": {
+  "desc": "blue Acura Integra liftback, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "acura/mdx": {
+  "desc": "black Acura MDX SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "acura/nsx": {
+  "desc": "red Acura NSX second generation supercar",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "acura/rsx": {
+  "desc": "silver Acura RSX Type S coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "acura/tlx": {
+  "desc": "red Acura TLX sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "audi/a4": {
+  "desc": "gray Audi A4 sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "audi/a5": {
+  "desc": "blue Audi A5 Sportback, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "audi/q5": {
+  "desc": "white Audi Q5 SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "audi/q7": {
+  "desc": "black Audi Q7 SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "audi/r8": {
+  "desc": "(pilot/pre-list)",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "audi/rs6-avant": {
+  "desc": "gray Audi RS6 Avant wagon, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "audi/rs7": {
+  "desc": "gray Audi RS7 Sportback, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "audi/s4": {
+  "desc": "blue Audi S4 sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "audi/s5": {
+  "desc": "black Audi S5 coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "audi/tt": {
+  "desc": "red Audi TT coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "bmw/3-series": {
+  "desc": "black BMW 3 Series G20 sedan",
+  "renderer": "higgsfield",
+  "status": "live",
+  "ts": "07-16 11:29"
+ },
+ "bmw/335i": {
+  "desc": "silver BMW 335i E90 sedan",
+  "renderer": "higgsfield",
+  "status": "generating",
+  "ts": "07-16 11:19"
+ },
+ "bmw/5-series": {
+  "desc": "gray BMW 5 Series sedan, 2025 model year",
+  "renderer": "higgsfield",
+  "status": "live",
+  "ts": "07-16 11:29"
+ },
+ "bmw/m2": {
+  "desc": "blue BMW M2 G87 coupe",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "bmw/m3": {
+  "desc": "green BMW M3 G80 sedan",
+  "renderer": "higgsfield",
+  "status": "live",
+  "ts": "07-16 11:29"
+ },
+ "bmw/m340i": {
+  "desc": "blue BMW M340i G20 sedan",
+  "renderer": "higgsfield",
+  "status": "generating",
+  "ts": "07-16 11:19"
+ },
+ "bmw/m4": {
+  "desc": "blue BMW M4 G82 coupe",
+  "renderer": "higgsfield",
+  "status": "live",
+  "ts": "07-16 11:29"
+ },
+ "bmw/m5": {
+  "desc": "gray BMW M5 sedan, 2025 model year",
+  "renderer": "higgsfield",
+  "status": "generating",
+  "ts": "07-16 11:19"
+ },
+ "bmw/x3": {
+  "desc": "white BMW X3 SUV, 2025 model year",
+  "renderer": "higgsfield",
+  "status": "live",
+  "ts": "07-16 11:29"
+ },
+ "bmw/x5": {
+  "desc": "black BMW X5 SUV, 2025 model year",
+  "renderer": "higgsfield",
+  "status": "generating",
+  "ts": "07-16 11:19"
+ },
+ "chevrolet/blazer": {
+  "desc": "red Chevrolet Blazer SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/camaro": {
+  "desc": "yellow Chevrolet Camaro SS coupe, sixth generation, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/colorado": {
+  "desc": "red Chevrolet Colorado pickup truck, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/corvette": {
+  "desc": "red Chevrolet Corvette C8 mid-engine sports car",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/corvette-z06": {
+  "desc": "white Chevrolet Corvette C8 Z06 with black stripes",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/equinox": {
+  "desc": "silver Chevrolet Equinox SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/impala": {
+  "desc": "black Chevrolet Impala sedan, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/malibu": {
+  "desc": "silver Chevrolet Malibu sedan, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/silverado-1500": {
+  "desc": "black Chevrolet Silverado 1500 pickup truck, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/suburban": {
+  "desc": "white Chevrolet Suburban full-size SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/tahoe": {
+  "desc": "black Chevrolet Tahoe full-size SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/trailblazer": {
+  "desc": "blue Chevrolet Trailblazer compact SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "chevrolet/traverse": {
+  "desc": "gray Chevrolet Traverse SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "dodge/challenger": {
+  "desc": "purple Dodge Challenger SRT Hellcat coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "dodge/charger": {
+  "desc": "black Dodge Charger SRT sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "dodge/durango": {
+  "desc": "gray Dodge Durango SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "dodge/viper": {
+  "desc": "red Dodge Viper coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "ferrari/296": {
+  "desc": "red Ferrari 296 GTB coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "ferrari/488": {
+  "desc": "red Ferrari 488 GTB coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "ferrari/f8": {
+  "desc": "red Ferrari F8 Tributo coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "ford/bronco": {
+  "desc": "orange Ford Bronco SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "ford/bronco-sport": {
+  "desc": "green Ford Bronco Sport compact SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "ford/edge": {
+  "desc": "gray Ford Edge SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "ford/escape": {
+  "desc": "silver Ford Escape SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "ford/expedition": {
+  "desc": "black Ford Expedition full-size SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "ford/explorer": {
+  "desc": "blue Ford Explorer SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "ford/f-150": {
+  "desc": "black Ford F-150 pickup truck, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "ford/f-150-raptor": {
+  "desc": "(pilot/pre-list)",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "ford/focus": {
+  "desc": "silver Ford Focus hatchback, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "ford/fusion": {
+  "desc": "gray Ford Fusion sedan, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "ford/maverick": {
+  "desc": "blue Ford Maverick compact pickup truck, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "ford/mustang": {
+  "desc": "red Ford Mustang GT coupe, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "ford/ranger": {
+  "desc": "(pilot/pre-list)",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "genesis/g70": {
+  "desc": "blue Genesis G70 sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "genesis/gv70": {
+  "desc": "white Genesis GV70 SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "gmc/canyon": {
+  "desc": "red GMC Canyon pickup truck, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "gmc/sierra-1500": {
+  "desc": "black GMC Sierra 1500 pickup truck, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "gmc/yukon": {
+  "desc": "white GMC Yukon full-size SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "honda/accord": {
+  "desc": "black Honda Accord sedan, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "honda/civic": {
+  "desc": "blue Honda Civic sedan, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "honda/cr-v": {
+  "desc": "(pilot/pre-list)",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "honda/hr-v": {
+  "desc": "(pilot/pre-list)",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "honda/odyssey": {
+  "desc": "gray Honda Odyssey minivan, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "honda/passport": {
+  "desc": "gray Honda Passport SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "honda/pilot": {
+  "desc": "white Honda Pilot SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "honda/ridgeline": {
+  "desc": "black Honda Ridgeline pickup truck, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "hyundai/elantra": {
+  "desc": "gray Hyundai Elantra sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "hyundai/elantra-n": {
+  "desc": "blue Hyundai Elantra N sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "hyundai/palisade": {
+  "desc": "white Hyundai Palisade SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "hyundai/santa-fe": {
+  "desc": "green Hyundai Santa Fe SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "hyundai/sonata": {
+  "desc": "silver Hyundai Sonata sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "hyundai/tucson": {
+  "desc": "blue Hyundai Tucson SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "hyundai/veloster-n": {
+  "desc": "light blue Hyundai Veloster N hatchback, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "infiniti/g37": {
+  "desc": "black Infiniti G37 coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "infiniti/q50": {
+  "desc": "gray Infiniti Q50 sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "jeep/cherokee": {
+  "desc": "silver Jeep Cherokee SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "jeep/compass": {
+  "desc": "white Jeep Compass compact SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "jeep/gladiator": {
+  "desc": "gray Jeep Gladiator pickup truck, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "jeep/grand-cherokee": {
+  "desc": "black Jeep Grand Cherokee SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "jeep/wrangler": {
+  "desc": "green Jeep Wrangler Rubicon SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "kia/forte": {
+  "desc": "red Kia Forte sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "kia/k5": {
+  "desc": "white Kia K5 sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "kia/sorento": {
+  "desc": "gray Kia Sorento SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "kia/soul": {
+  "desc": "red Kia Soul hatchback, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "kia/sportage": {
+  "desc": "green Kia Sportage SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "kia/stinger": {
+  "desc": "red Kia Stinger GT liftback, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "kia/telluride": {
+  "desc": "dark green Kia Telluride SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "lamborghini/aventador": {
+  "desc": "orange Lamborghini Aventador coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "lamborghini/huracan": {
+  "desc": "green Lamborghini Huracan coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "lamborghini/urus": {
+  "desc": "yellow Lamborghini Urus SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "lexus/es-350": {
+  "desc": "black Lexus ES 350 sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "lexus/gx": {
+  "desc": "gray Lexus GX SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "lexus/is-350": {
+  "desc": "white Lexus IS 350 F Sport sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "lexus/lc-500": {
+  "desc": "yellow Lexus LC 500 coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "lexus/rc-f": {
+  "desc": "blue Lexus RC F coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "lexus/rx-350": {
+  "desc": "silver Lexus RX 350 SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mazda/cx-30": {
+  "desc": "white Mazda CX-30 compact SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mazda/cx-5": {
+  "desc": "gray Mazda CX-5 SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mazda/mazda3": {
+  "desc": "red Mazda 3 hatchback, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mazda/mx-5-miata": {
+  "desc": "red Mazda MX-5 Miata ND roadster, top up",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mazda/rx-7": {
+  "desc": "yellow Mazda RX-7 FD coupe with pop-up headlights closed",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mazda/rx-8": {
+  "desc": "blue Mazda RX-8 coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mclaren/720s": {
+  "desc": "orange McLaren 720S coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mercedes-benz/c-class": {
+  "desc": "silver Mercedes-Benz C-Class sedan, 2025 model year",
+  "renderer": "higgsfield",
+  "status": "generating",
+  "ts": "07-16 11:19"
+ },
+ "mercedes-benz/c63-amg": {
+  "desc": "gray Mercedes-AMG C63 sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mercedes-benz/cla": {
+  "desc": "red Mercedes-Benz CLA coupe sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mercedes-benz/e-class": {
+  "desc": "black Mercedes-Benz E-Class sedan, 2025 model year",
+  "renderer": "higgsfield",
+  "status": "generating",
+  "ts": "07-16 11:19"
+ },
+ "mercedes-benz/g-class": {
+  "desc": "matte black Mercedes-AMG G63 G-Wagon SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mercedes-benz/glc": {
+  "desc": "white Mercedes-Benz GLC SUV, 2025 model year",
+  "renderer": "higgsfield",
+  "status": "generating",
+  "ts": "07-16 11:19"
+ },
+ "mercedes-benz/gle": {
+  "desc": "gray Mercedes-Benz GLE SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "mercedes-benz/s-class": {
+  "desc": "black Mercedes-Benz S-Class sedan, 2025 model year",
+  "renderer": "higgsfield",
+  "status": "generating",
+  "ts": "07-16 11:19"
+ },
+ "nissan/240sx": {
+  "desc": "white Nissan 240SX S14 coupe",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "nissan/370z": {
+  "desc": "red Nissan 370Z sports coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "nissan/altima": {
+  "desc": "gray Nissan Altima sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "nissan/frontier": {
+  "desc": "red Nissan Frontier pickup truck, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "nissan/gt-r": {
+  "desc": "silver Nissan GT-R R35 sports coupe",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "nissan/pathfinder": {
+  "desc": "black Nissan Pathfinder SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "nissan/rogue": {
+  "desc": "white Nissan Rogue SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "nissan/sentra": {
+  "desc": "blue Nissan Sentra sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "nissan/skyline-gt-r": {
+  "desc": "blue Nissan Skyline GT-R R34 coupe",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "nissan/z": {
+  "desc": "blue Nissan Z RZ34 sports coupe",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "porsche/911": {
+  "desc": "silver Porsche 911 Carrera 992 coupe",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "porsche/911-gt3": {
+  "desc": "(pilot/pre-list)",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "porsche/911-gt3-rs": {
+  "desc": "(pilot/pre-list)",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "porsche/911-turbo-s": {
+  "desc": "silver Porsche 911 Turbo S 992 coupe",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "porsche/boxster": {
+  "desc": "red Porsche 718 Boxster convertible, top up, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "porsche/cayenne": {
+  "desc": "black Porsche Cayenne SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "porsche/cayman": {
+  "desc": "yellow Porsche 718 Cayman coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "porsche/macan": {
+  "desc": "white Porsche Macan SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "porsche/panamera": {
+  "desc": "gray Porsche Panamera sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "porsche/taycan": {
+  "desc": "blue Porsche Taycan sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "ram/1500": {
+  "desc": "black Ram 1500 pickup truck, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "ram/2500": {
+  "desc": "white Ram 2500 heavy duty pickup truck, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "subaru/brz": {
+  "desc": "blue Subaru BRZ sports coupe, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "subaru/crosstrek": {
+  "desc": "orange Subaru Crosstrek compact SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "subaru/forester": {
+  "desc": "gray Subaru Forester SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "subaru/impreza": {
+  "desc": "silver Subaru Impreza hatchback, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "subaru/outback": {
+  "desc": "green Subaru Outback wagon, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "subaru/wrx": {
+  "desc": "blue Subaru WRX sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "subaru/wrx-sti": {
+  "desc": "blue Subaru WRX STI sedan with rear wing, 2019",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "tesla/cybertruck": {
+  "desc": "stainless steel Tesla Cybertruck pickup",
+  "renderer": "higgsfield",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "tesla/model-3": {
+  "desc": "white 2025 Tesla Model 3 Highland refresh sedan",
+  "renderer": "chatgpt",
+  "status": "generating",
+  "ts": "07-16 11:07"
+ },
+ "tesla/model-s": {
+  "desc": "black 2025 Tesla Model S sedan, latest facelift",
+  "note": "wrong gen (launch model) 07-16",
+  "renderer": "higgsfield",
+  "status": "live",
+  "ts": "07-16 11:29"
+ },
+ "tesla/model-x": {
+  "desc": "gray 2025 Tesla Model X SUV, latest facelift",
+  "note": "wrong gen (launch model) 07-16",
+  "renderer": "higgsfield",
+  "status": "live",
+  "ts": "07-16 11:29"
+ },
+ "tesla/model-y": {
+  "desc": "white 2026 Tesla Model Y Juniper refresh SUV",
+  "note": "wrong gen (launch model) 07-16",
+  "renderer": "higgsfield",
+  "status": "live",
+  "ts": "07-16 11:29"
+ },
+ "toyota/4runner": {
+  "desc": "gray Toyota 4Runner SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "toyota/camry": {
+  "desc": "white Toyota Camry sedan, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "toyota/corolla": {
+  "desc": "silver Toyota Corolla sedan, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "toyota/gr86": {
+  "desc": "blue Toyota GR86 sports coupe, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "toyota/highlander": {
+  "desc": "white Toyota Highlander SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "toyota/prius": {
+  "desc": "silver Toyota Prius hatchback, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "toyota/rav4": {
+  "desc": "gray Toyota RAV4 SUV, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "toyota/sienna": {
+  "desc": "white Toyota Sienna minivan, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "toyota/supra": {
+  "desc": "red Toyota GR Supra sports coupe, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "toyota/tacoma": {
+  "desc": "red Toyota Tacoma pickup truck, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "toyota/tundra": {
+  "desc": "black Toyota Tundra pickup truck, 2025 model year",
+  "renderer": "chatgpt",
+  "status": "live",
+  "ts": "07-16 11:07"
+ },
+ "volkswagen/atlas": {
+  "desc": "black Volkswagen Atlas SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "volkswagen/golf-gti": {
+  "desc": "red Volkswagen Golf GTI Mk8 hatchback",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "volkswagen/golf-r": {
+  "desc": "blue Volkswagen Golf R Mk8 hatchback",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "volkswagen/jetta": {
+  "desc": "silver Volkswagen Jetta sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "volkswagen/passat": {
+  "desc": "gray Volkswagen Passat sedan, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ },
+ "volkswagen/tiguan": {
+  "desc": "white Volkswagen Tiguan SUV, 2025 model year",
+  "renderer": "",
+  "status": "queued",
+  "ts": "07-16 11:07"
+ }
+}

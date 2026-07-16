@@ -24,9 +24,45 @@
    "bytes": 28548,
    "tint": "#ABAEB1"
   },
+  "bmw/3-series": {
+   "bytes": 29644,
+   "tint": "#101110"
+  },
+  "bmw/5-series": {
+   "bytes": 26642,
+   "tint": "#2E3131"
+  },
+  "bmw/m3": {
+   "bytes": 29020,
+   "tint": "#094936"
+  },
+  "bmw/m4": {
+   "bytes": 27664,
+   "tint": "#0D336A"
+  },
+  "bmw/x3": {
+   "bytes": 31186,
+   "tint": "#D2D2D0"
+  },
+  "ford/bronco": {
+   "bytes": 30772,
+   "tint": "#CB5409"
+  },
+  "ford/bronco-sport": {
+   "bytes": 27312,
+   "tint": "#2D322E"
+  },
+  "ford/edge": {
+   "bytes": 31540,
+   "tint": "#6F6F6F"
+  },
   "ford/escape": {
    "bytes": 32362,
    "tint": "#8D8E90"
+  },
+  "ford/expedition": {
+   "bytes": 24708,
+   "tint": "#0E0E0E"
   },
   "ford/explorer": {
    "bytes": 31684,
@@ -39,6 +75,14 @@
   "ford/f-150-raptor": {
    "bytes": 25330,
    "tint": "#0F0F0F"
+  },
+  "ford/focus": {
+   "bytes": 30858,
+   "tint": "#909091"
+  },
+  "ford/maverick": {
+   "bytes": 25130,
+   "tint": "#345373"
   },
   "ford/mustang": {
    "bytes": 29550,
@@ -91,6 +135,22 @@
   "porsche/911-gt3-rs": {
    "bytes": 29014,
    "tint": "#D1D1D1"
+  },
+  "tesla/cybertruck": {
+   "bytes": 20004,
+   "tint": "#ADAEB2"
+  },
+  "tesla/model-s": {
+   "bytes": 23580,
+   "tint": "#0C0E10"
+  },
+  "tesla/model-x": {
+   "bytes": 25868,
+   "tint": "#484B50"
+  },
+  "tesla/model-y": {
+   "bytes": 24524,
+   "tint": "#CED0D1"
   },
   "toyota/4runner": {
    "bytes": 27726,
