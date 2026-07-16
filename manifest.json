@@ -1268,41 +1268,253 @@
    "bytes": 24422,
    "tint": "#0B0B0B"
   },
+  "chevrolet/avalanche-2007": {
+   "bytes": 22430,
+   "tint": "#EAEAEA"
+  },
+  "chevrolet/beretta-1988": {
+   "bytes": 20868,
+   "tint": "#D1D2CE"
+  },
   "chevrolet/blazer": {
    "bytes": 30898,
    "tint": "#8A020B"
+  },
+  "chevrolet/blazer-1995": {
+   "bytes": 27966,
+   "tint": "#939394"
+  },
+  "chevrolet/blazer-fullsize-1992": {
+   "bytes": 22538,
+   "tint": "#D3D3D4"
+  },
+  "chevrolet/c-k-1988": {
+   "bytes": 19444,
+   "tint": "#D2D2D2"
   },
   "chevrolet/camaro": {
    "bytes": 30174,
    "tint": "#E5B617"
   },
+  "chevrolet/camaro-1982": {
+   "bytes": 23700,
+   "tint": "#8A8A8C"
+  },
+  "chevrolet/camaro-1993": {
+   "bytes": 26970,
+   "tint": "#A9080E"
+  },
+  "chevrolet/camaro-2016": {
+   "bytes": 29618,
+   "tint": "#B0060A"
+  },
+  "chevrolet/camaro-ss-1993": {
+   "bytes": 24686,
+   "tint": "#0F0F0F"
+  },
+  "chevrolet/camaro-zl1-2016": {
+   "bytes": 30398,
+   "tint": "#D4AC25"
+  },
+  "chevrolet/caprice-1991": {
+   "bytes": 21482,
+   "tint": "#D2D2D0"
+  },
+  "chevrolet/caprice-2011": {
+   "bytes": 25292,
+   "tint": "#0E0E0E"
+  },
+  "chevrolet/cavalier-1995": {
+   "bytes": 22580,
+   "tint": "#EAEAEC"
+  },
+  "chevrolet/cobalt-2005": {
+   "bytes": 25420,
+   "tint": "#CDD0CF"
+  },
+  "chevrolet/cobalt-ss-2005": {
+   "bytes": 28186,
+   "tint": "#AF0506"
+  },
   "chevrolet/colorado": {
    "bytes": 29946,
    "tint": "#8F0B0B"
+  },
+  "chevrolet/colorado-2015": {
+   "bytes": 22830,
+   "tint": "#EDEDED"
+  },
+  "chevrolet/colorado-zr2-2015": {
+   "bytes": 32774,
+   "tint": "#D04808"
+  },
+  "chevrolet/corsica-1987": {
+   "bytes": 27130,
+   "tint": "#ADADAE"
   },
   "chevrolet/corvette": {
    "bytes": 30612,
    "tint": "#AF090E"
   },
+  "chevrolet/corvette-1997": {
+   "bytes": 26338,
+   "tint": "#B00304"
+  },
+  "chevrolet/corvette-2005": {
+   "bytes": 23648,
+   "tint": "#8E8E90"
+  },
+  "chevrolet/corvette-2014": {
+   "bytes": 31866,
+   "tint": "#AD0307"
+  },
+  "chevrolet/corvette-grand-sport-2014": {
+   "bytes": 32428,
+   "tint": "#046ACF"
+  },
   "chevrolet/corvette-z06": {
    "bytes": 25520,
    "tint": "#EAEAEA"
+  },
+  "chevrolet/corvette-z06-1997": {
+   "bytes": 26568,
+   "tint": "#D8A503"
+  },
+  "chevrolet/corvette-z06-2005": {
+   "bytes": 25038,
+   "tint": "#100F10"
+  },
+  "chevrolet/corvette-zr1-1990": {
+   "bytes": 25438,
+   "tint": "#AA0506"
+  },
+  "chevrolet/corvette-zr1-2005": {
+   "bytes": 30154,
+   "tint": "#032D6C"
+  },
+  "chevrolet/corvette-zr1-2014": {
+   "bytes": 32066,
+   "tint": "#E9AE05"
+  },
+  "chevrolet/cruze-2011": {
+   "bytes": 26786,
+   "tint": "#AEAEB0"
+  },
+  "chevrolet/cruze-2016": {
+   "bytes": 26544,
+   "tint": "#121212"
   },
   "chevrolet/equinox": {
    "bytes": 28958,
    "tint": "#2D2D2D"
   },
+  "chevrolet/equinox-2005": {
+   "bytes": 27702,
+   "tint": "#8F9091"
+  },
+  "chevrolet/equinox-2018": {
+   "bytes": 29362,
+   "tint": "#121213"
+  },
+  "chevrolet/express-1996": {
+   "bytes": 17108,
+   "tint": "#EBEBEB"
+  },
+  "chevrolet/hhr-2006": {
+   "bytes": 26366,
+   "tint": "#CFCFD1"
+  },
   "chevrolet/impala": {
    "bytes": 26034,
    "tint": "#0E0E0E"
+  },
+  "chevrolet/impala-1994": {
+   "bytes": 22056,
+   "tint": "#0C0C0C"
+  },
+  "chevrolet/impala-2000": {
+   "bytes": 25930,
+   "tint": "#ADAEAE"
+  },
+  "chevrolet/impala-2006": {
+   "bytes": 22818,
+   "tint": "#CFD0CF"
+  },
+  "chevrolet/lumina-1995": {
+   "bytes": 23730,
+   "tint": "#ABABAD"
   },
   "chevrolet/malibu": {
    "bytes": 27832,
    "tint": "#AEAFB0"
   },
+  "chevrolet/malibu-1997": {
+   "bytes": 23806,
+   "tint": "#AEAEAE"
+  },
+  "chevrolet/malibu-2004": {
+   "bytes": 23354,
+   "tint": "#CFCFCF"
+  },
+  "chevrolet/malibu-2013": {
+   "bytes": 28130,
+   "tint": "#AFAFB1"
+  },
+  "chevrolet/malibu-2016": {
+   "bytes": 26538,
+   "tint": "#EFEFF1"
+  },
+  "chevrolet/metro-1998": {
+   "bytes": 25492,
+   "tint": "#D2D4D5"
+  },
+  "chevrolet/monte-carlo-2000": {
+   "bytes": 26198,
+   "tint": "#ACAEAF"
+  },
+  "chevrolet/monte-carlo-ss-2000": {
+   "bytes": 21962,
+   "tint": "#0E0E0E"
+  },
+  "chevrolet/prizm-1998": {
+   "bytes": 25636,
+   "tint": "#CBCDCF"
+  },
+  "chevrolet/s10-1994": {
+   "bytes": 24082,
+   "tint": "#8E8E8E"
+  },
+  "chevrolet/s10-blazer-1983": {
+   "bytes": 26660,
+   "tint": "#EEEEEE"
+  },
   "chevrolet/silverado-1500": {
    "bytes": 22274,
    "tint": "#0C0C0C"
+  },
+  "chevrolet/silverado-1500-zr2": {
+   "bytes": 33762,
+   "tint": "#E9510F"
+  },
+  "chevrolet/silverado-2007": {
+   "bytes": 23432,
+   "tint": "#ACAEB1"
+  },
+  "chevrolet/silverado-2014": {
+   "bytes": 21978,
+   "tint": "#090909"
+  },
+  "chevrolet/sonic-2012": {
+   "bytes": 28648,
+   "tint": "#8F9193"
+  },
+  "chevrolet/spark-2013": {
+   "bytes": 39508,
+   "tint": "#FAC60E"
+  },
+  "chevrolet/ss-2014": {
+   "bytes": 26402,
+   "tint": "#0F0F0F"
   },
   "chevrolet/suburban": {
    "bytes": 25738,
