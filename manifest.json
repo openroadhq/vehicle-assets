@@ -4832,6 +4832,10 @@
    "bytes": 24642,
    "tint": "#D2D2D2"
   },
+  "lamborghini/diablo": {
+   "bytes": 28802,
+   "tint": "#EAB405"
+  },
   "lamborghini/diablo-sv": {
    "bytes": 31164,
    "tint": "#ECB204"
@@ -4839,6 +4843,570 @@
   "lamborghini/diablo-vt": {
    "bytes": 27844,
    "tint": "#EBB30A"
+  },
+  "lamborghini/espada": {
+   "bytes": 23060,
+   "tint": "#C94E50"
+  },
+  "lamborghini/gallardo": {
+   "bytes": 28146,
+   "tint": "#F8C730"
+  },
+  "lamborghini/gallardo-lp570-performante": {
+   "bytes": 29772,
+   "tint": "#E8A804"
+  },
+  "lamborghini/gallardo-superleggera": {
+   "bytes": 32082,
+   "tint": "#ECB005"
+  },
+  "lamborghini/huracan": {
+   "bytes": 28614,
+   "tint": "#529525"
+  },
+  "lamborghini/huracan-performante": {
+   "bytes": 31656,
+   "tint": "#6BB12B"
+  },
+  "lamborghini/huracan-sterrato": {
+   "bytes": 27970,
+   "tint": "#6B6F4F"
+  },
+  "lamborghini/huracan-sto": {
+   "bytes": 29968,
+   "tint": "#518E06"
+  },
+  "lamborghini/huracan-tecnica": {
+   "bytes": 32940,
+   "tint": "#D54B05"
+  },
+  "lamborghini/lm002": {
+   "bytes": 34350,
+   "tint": "#AD9777"
+  },
+  "lamborghini/miura": {
+   "bytes": 24224,
+   "tint": "#CD5305"
+  },
+  "lamborghini/murcielago": {
+   "bytes": 26438,
+   "tint": "#D15803"
+  },
+  "lamborghini/murcielago-lp640": {
+   "bytes": 27638,
+   "tint": "#D25805"
+  },
+  "lamborghini/murcielago-sv": {
+   "bytes": 27668,
+   "tint": "#F26B04"
+  },
+  "lamborghini/reventon": {
+   "bytes": 22754,
+   "tint": "#4D4D4D"
+  },
+  "lamborghini/revuelto": {
+   "bytes": 30916,
+   "tint": "#50890A"
+  },
+  "lamborghini/sian": {
+   "bytes": 31828,
+   "tint": "#4D4D2E"
+  },
+  "lamborghini/temerario": {
+   "bytes": 29224,
+   "tint": "#D14C04"
+  },
+  "lamborghini/urus": {
+   "bytes": 37584,
+   "tint": "#E9AF06"
+  },
+  "lamborghini/urus-performante": {
+   "bytes": 36760,
+   "tint": "#F6C908"
+  },
+  "lamborghini/veneno": {
+   "bytes": 27200,
+   "tint": "#2D2D2D"
+  },
+  "land-rover/defender-1983": {
+   "bytes": 27844,
+   "tint": "#D7D6D5"
+  },
+  "land-rover/defender-2020": {
+   "bytes": 27864,
+   "tint": "#EEEDEF"
+  },
+  "land-rover/defender-v8-2021": {
+   "bytes": 25800,
+   "tint": "#2D2F2E"
+  },
+  "land-rover/discovery-1989": {
+   "bytes": 25696,
+   "tint": "#ECEBE9"
+  },
+  "land-rover/discovery-1998": {
+   "bytes": 29732,
+   "tint": "#EDEDEB"
+  },
+  "land-rover/discovery-2017": {
+   "bytes": 27342,
+   "tint": "#E9E9E9"
+  },
+  "land-rover/discovery-sport-2014": {
+   "bytes": 28246,
+   "tint": "#CCCCCC"
+  },
+  "land-rover/freelander-1997": {
+   "bytes": 31324,
+   "tint": "#ADB3B5"
+  },
+  "land-rover/freelander-2006": {
+   "bytes": 31884,
+   "tint": "#CED1D3"
+  },
+  "land-rover/lr3-2004": {
+   "bytes": 26180,
+   "tint": "#D3D4D4"
+  },
+  "land-rover/lr4-2009": {
+   "bytes": 28250,
+   "tint": "#ECECE9"
+  },
+  "land-rover/range-rover-classic-1970": {
+   "bytes": 30112,
+   "tint": "#B5A68D"
+  },
+  "land-rover/range-rover-evoque": {
+   "bytes": 28228,
+   "tint": "#D1D1D3"
+  },
+  "land-rover/range-rover-evoque-2011": {
+   "bytes": 29988,
+   "tint": "#ECECEE"
+  },
+  "land-rover/range-rover-l322-2002": {
+   "bytes": 27432,
+   "tint": "#ABACAD"
+  },
+  "land-rover/range-rover-l405-2012": {
+   "bytes": 26544,
+   "tint": "#E9E9EB"
+  },
+  "land-rover/range-rover-l460-2022": {
+   "bytes": 25450,
+   "tint": "#D4D2D0"
+  },
+  "land-rover/range-rover-p38-1994": {
+   "bytes": 36914,
+   "tint": "#AB9A84"
+  },
+  "land-rover/range-rover-sport": {
+   "bytes": 27884,
+   "tint": "#EDEDF1"
+  },
+  "land-rover/range-rover-sport-2005": {
+   "bytes": 26884,
+   "tint": "#D5D5D5"
+  },
+  "land-rover/range-rover-sport-2013": {
+   "bytes": 29424,
+   "tint": "#EBEBED"
+  },
+  "land-rover/range-rover-sport-svr-2014": {
+   "bytes": 37408,
+   "tint": "#032C6B"
+  },
+  "land-rover/range-rover-velar-2017": {
+   "bytes": 26032,
+   "tint": "#EDECEF"
+  },
+  "lexus/ct-200h-2011": {
+   "bytes": 28624,
+   "tint": "#D1D1D2"
+  },
+  "lexus/es": {
+   "bytes": 24834,
+   "tint": "#D2D2D2"
+  },
+  "lexus/es-1990": {
+   "bytes": 22178,
+   "tint": "#D3D3D3"
+  },
+  "lexus/es-1992": {
+   "bytes": 24082,
+   "tint": "#ADAFB0"
+  },
+  "lexus/es-1997": {
+   "bytes": 24412,
+   "tint": "#B0B2B2"
+  },
+  "lexus/es-2002": {
+   "bytes": 25720,
+   "tint": "#ADAEAE"
+  },
+  "lexus/es-2007": {
+   "bytes": 26622,
+   "tint": "#ABADB2"
+  },
+  "lexus/es-2013": {
+   "bytes": 28254,
+   "tint": "#9A9CA2"
+  },
+  "lexus/es-350": {
+   "bytes": 27724,
+   "tint": "#0C0C0C"
+  },
+  "lexus/gs-1993": {
+   "bytes": 23970,
+   "tint": "#ADB1B0"
+  },
+  "lexus/gs-1998": {
+   "bytes": 24466,
+   "tint": "#ADB0B0"
+  },
+  "lexus/gs-2006": {
+   "bytes": 25628,
+   "tint": "#AEB1B2"
+  },
+  "lexus/gs-2013": {
+   "bytes": 27000,
+   "tint": "#919193"
+  },
+  "lexus/gs-f-2016": {
+   "bytes": 33352,
+   "tint": "#700202"
+  },
+  "lexus/gx": {
+   "bytes": 26528,
+   "tint": "#2E2E2E"
+  },
+  "lexus/gx-2003": {
+   "bytes": 29764,
+   "tint": "#D0D0D1"
+  },
+  "lexus/gx-2010": {
+   "bytes": 28154,
+   "tint": "#4D4C4F"
+  },
+  "lexus/hs-250h-2010": {
+   "bytes": 27484,
+   "tint": "#ACAEAE"
+  },
+  "lexus/is": {
+   "bytes": 23472,
+   "tint": "#EDEDED"
+  },
+  "lexus/is-2000": {
+   "bytes": 26936,
+   "tint": "#B1B3B1"
+  },
+  "lexus/is-2006": {
+   "bytes": 25860,
+   "tint": "#AEAEB0"
+  },
+  "lexus/is-2014": {
+   "bytes": 26154,
+   "tint": "#EFEFF0"
+  },
+  "lexus/is-350": {
+   "bytes": 24694,
+   "tint": "#EEEEEE"
+  },
+  "lexus/is-f-2008": {
+   "bytes": 30334,
+   "tint": "#072671"
+  },
+  "lexus/lc-500": {
+   "bytes": 31298,
+   "tint": "#052C8C"
+  },
+  "lexus/lfa-2010": {
+   "bytes": 27838,
+   "tint": "#D5D2CD"
+  },
+  "lexus/ls": {
+   "bytes": 27146,
+   "tint": "#151515"
+  },
+  "lexus/ls-1990": {
+   "bytes": 20800,
+   "tint": "#D0CFCF"
+  },
+  "lexus/ls-1995": {
+   "bytes": 21446,
+   "tint": "#D3D2CF"
+  },
+  "lexus/ls-2001": {
+   "bytes": 22834,
+   "tint": "#ABAEAE"
+  },
+  "lexus/ls-2007": {
+   "bytes": 25650,
+   "tint": "#0F0F0F"
+  },
+  "lexus/lx": {
+   "bytes": 30458,
+   "tint": "#EAEAEA"
+  },
+  "lexus/lx-1996": {
+   "bytes": 27648,
+   "tint": "#F1F1F0"
+  },
+  "lexus/lx-1998": {
+   "bytes": 27400,
+   "tint": "#D2D2D0"
+  },
+  "lexus/lx-2008": {
+   "bytes": 29288,
+   "tint": "#CECECE"
+  },
+  "lexus/nx": {
+   "bytes": 29242,
+   "tint": "#EEEDF0"
+  },
+  "lexus/nx-2015": {
+   "bytes": 33944,
+   "tint": "#8C8C8D"
+  },
+  "lexus/rc": {
+   "bytes": 27650,
+   "tint": "#8C8E90"
+  },
+  "lexus/rc-f": {
+   "bytes": 32856,
+   "tint": "#98030D"
+  },
+  "lexus/rx": {
+   "bytes": 30304,
+   "tint": "#EBEBEB"
+  },
+  "lexus/rx-1999": {
+   "bytes": 32680,
+   "tint": "#F5E7CF"
+  },
+  "lexus/rx-2004": {
+   "bytes": 29230,
+   "tint": "#929292"
+  },
+  "lexus/rx-2010": {
+   "bytes": 27732,
+   "tint": "#CECFD0"
+  },
+  "lexus/rx-2016": {
+   "bytes": 28026,
+   "tint": "#F1F1F1"
+  },
+  "lexus/rx-350": {
+   "bytes": 35444,
+   "tint": "#8F8F90"
+  },
+  "lexus/sc-1992": {
+   "bytes": 22132,
+   "tint": "#A9A9AB"
+  },
+  "lexus/sc-2002": {
+   "bytes": 27326,
+   "tint": "#B2B2B2"
+  },
+  "lexus/tx": {
+   "bytes": 28960,
+   "tint": "#F0F0F0"
+  },
+  "lexus/ux": {
+   "bytes": 31760,
+   "tint": "#AFB0B0"
+  },
+  "lincoln/aviator": {
+   "bytes": 27462,
+   "tint": "#303031"
+  },
+  "lincoln/aviator-2003": {
+   "bytes": 26268,
+   "tint": "#0A0A0A"
+  },
+  "lincoln/blackwood-2002": {
+   "bytes": 25008,
+   "tint": "#0A0A0A"
+  },
+  "lincoln/continental-1988": {
+   "bytes": 23998,
+   "tint": "#0C0C0C"
+  },
+  "lincoln/continental-1995": {
+   "bytes": 22114,
+   "tint": "#090909"
+  },
+  "lincoln/continental-2017": {
+   "bytes": 26384,
+   "tint": "#0F0F0F"
+  },
+  "lincoln/corsair": {
+   "bytes": 33624,
+   "tint": "#2F2F2F"
+  },
+  "lincoln/ls-2000": {
+   "bytes": 23736,
+   "tint": "#929293"
+  },
+  "lincoln/mark-lt-2006": {
+   "bytes": 23736,
+   "tint": "#0B0B0B"
+  },
+  "lincoln/mark-viii-1993": {
+   "bytes": 21728,
+   "tint": "#0C0C0C"
+  },
+  "lincoln/mkc-2015": {
+   "bytes": 34936,
+   "tint": "#AEAEAF"
+  },
+  "lincoln/mkt-2010": {
+   "bytes": 24072,
+   "tint": "#111111"
+  },
+  "lincoln/mkx-2007": {
+   "bytes": 28128,
+   "tint": "#AEAEAE"
+  },
+  "lincoln/mkx-2016": {
+   "bytes": 33868,
+   "tint": "#8E8E8F"
+  },
+  "lincoln/mkz-2007": {
+   "bytes": 23818,
+   "tint": "#AEAFB0"
+  },
+  "lincoln/mkz-2013": {
+   "bytes": 26628,
+   "tint": "#CFD0D0"
+  },
+  "lincoln/nautilus": {
+   "bytes": 34652,
+   "tint": "#303031"
+  },
+  "lincoln/nautilus-2019": {
+   "bytes": 33272,
+   "tint": "#2D2D2E"
+  },
+  "lincoln/navigator": {
+   "bytes": 29342,
+   "tint": "#303030"
+  },
+  "lincoln/navigator-1998": {
+   "bytes": 28918,
+   "tint": "#0C0C0E"
+  },
+  "lincoln/navigator-2003": {
+   "bytes": 23962,
+   "tint": "#0D0D0D"
+  },
+  "lincoln/navigator-2007": {
+   "bytes": 27084,
+   "tint": "#0C0C0C"
+  },
+  "lincoln/town-car-1990": {
+   "bytes": 24200,
+   "tint": "#0C0C0C"
+  },
+  "lincoln/town-car-1998": {
+   "bytes": 23304,
+   "tint": "#111211"
+  },
+  "lincoln/town-car-2003": {
+   "bytes": 23072,
+   "tint": "#0E0E0E"
+  },
+  "lincoln/zephyr-2006": {
+   "bytes": 28326,
+   "tint": "#AFB0B0"
+  },
+  "localmotors/rally-fighter": {
+   "bytes": 41502,
+   "tint": "#EF670F"
+  },
+  "lotus/2-eleven": {
+   "bytes": 28694,
+   "tint": "#E6AD03"
+  },
+  "lotus/340r": {
+   "bytes": 34356,
+   "tint": "#EFB109"
+  },
+  "lotus/elan": {
+   "bytes": 26142,
+   "tint": "#EBB206"
+  },
+  "lotus/eletre": {
+   "bytes": 29100,
+   "tint": "#FEE34B"
+  },
+  "lotus/elise": {
+   "bytes": 25386,
+   "tint": "#D39503"
+  },
+  "lotus/emira": {
+   "bytes": 33056,
+   "tint": "#EAAB06"
+  },
+  "lotus/esprit": {
+   "bytes": 25404,
+   "tint": "#C50F24"
+  },
+  "lotus/esprit-v8": {
+   "bytes": 28592,
+   "tint": "#AC0C11"
+  },
+  "lotus/evija": {
+   "bytes": 25034,
+   "tint": "#E9B508"
+  },
+  "lotus/evora": {
+   "bytes": 28856,
+   "tint": "#DBA203"
+  },
+  "lotus/evora-gt430": {
+   "bytes": 32556,
+   "tint": "#EAAA05"
+  },
+  "lotus/exige": {
+   "bytes": 33164,
+   "tint": "#E8B009"
+  },
+  "lotus/exige-s": {
+   "bytes": 33008,
+   "tint": "#E8B209"
+  },
+  "lucid/air": {
+   "bytes": 23194,
+   "tint": "#0B0B0B"
+  },
+  "lucid/air-dream-edition-2021": {
+   "bytes": 22944,
+   "tint": "#101010"
+  },
+  "lucid/air-sapphire-2023": {
+   "bytes": 28606,
+   "tint": "#051A4A"
+  },
+  "lucid/gravity": {
+   "bytes": 24524,
+   "tint": "#CECDCB"
+  },
+  "maserati/3200-gt": {
+   "bytes": 28228,
+   "tint": "#092D6A"
+  },
+  "maserati/coupe": {
+   "bytes": 26132,
+   "tint": "#011549"
+  },
+  "maserati/ghibli": {
+   "bytes": 30380,
+   "tint": "#132849"
+  },
+  "maserati/gransport": {
+   "bytes": 27938,
+   "tint": "#10264D"
   },
   "maserati/granturismo-2007": {
    "bytes": 28958,
@@ -5355,6 +5923,34 @@
   "mercedes-benz/e55-amg-1999": {
    "bytes": 22796,
    "tint": "#ADAEAF"
+  },
+  "mercedes-benz/e55-amg-2003": {
+   "bytes": 28150,
+   "tint": "#ADAFB0"
+  },
+  "mercedes-benz/e63-amg-2010": {
+   "bytes": 27370,
+   "tint": "#AAABAE"
+  },
+  "mercedes-benz/e63-s-amg-2017": {
+   "bytes": 27906,
+   "tint": "#929395"
+  },
+  "mercedes-benz/eqb": {
+   "bytes": 27674,
+   "tint": "#303030"
+  },
+  "mercedes-benz/eqe": {
+   "bytes": 28614,
+   "tint": "#ACAEAF"
+  },
+  "mercedes-benz/eqs": {
+   "bytes": 28270,
+   "tint": "#ABADB1"
+  },
+  "mercedes-benz/g-class-1990": {
+   "bytes": 30966,
+   "tint": "#0C0C0C"
   },
   "mercedes-benz/glc": {
    "bytes": 27186,

@@ -563,50 +563,50 @@
  "lamborghini/huracan": {
   "desc": "green Lamborghini Huracan coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:53"
  },
  "lamborghini/urus": {
   "desc": "yellow Lamborghini Urus SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:53"
  },
  "lexus/es-350": {
   "desc": "black Lexus ES 350 sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:53"
  },
  "lexus/gx": {
   "desc": "gray Lexus GX SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:53"
  },
  "lexus/is-350": {
   "desc": "white Lexus IS 350 F Sport sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:53"
  },
  "lexus/lc-500": {
   "desc": "yellow Lexus LC 500 coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:53"
  },
  "lexus/rc-f": {
   "desc": "blue Lexus RC F coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:53"
  },
  "lexus/rx-350": {
   "desc": "silver Lexus RX 350 SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:53"
  },
  "mazda/cx-30": {
   "desc": "white Mazda CX-30 compact SUV, 2025 model year",
@@ -677,8 +677,8 @@
  "mercedes-benz/g-class": {
   "desc": "matte black Mercedes-AMG G63 G-Wagon SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:53"
  },
  "mercedes-benz/glc": {
   "desc": "white Mercedes-Benz GLC SUV, 2025 model year",
