@@ -803,14 +803,14 @@
  "porsche/macan": {
   "desc": "white Porsche Macan SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-17 15:28"
  },
  "porsche/panamera": {
   "desc": "gray Porsche Panamera sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-17 15:28"
  },
  "porsche/taycan": {
   "desc": "blue Porsche Taycan sedan, 2025 model year",
@@ -863,8 +863,8 @@
  "subaru/wrx": {
   "desc": "blue Subaru WRX sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-17 15:28"
  },
  "subaru/wrx-sti": {
   "desc": "blue Subaru WRX STI sedan with rear wing, 2019",

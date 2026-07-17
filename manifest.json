@@ -7425,6 +7425,30 @@
     "oldsmobile/ninety-eight-1991"
    ]
   ],
+  "peugeot/205-gti": [
+   [
+    1984,
+    "peugeot/205-gti-1984"
+   ]
+  ],
+  "peugeot/206-gti": [
+   [
+    1999,
+    "peugeot/206-gti-1999"
+   ]
+  ],
+  "peugeot/208-gti": [
+   [
+    2012,
+    "peugeot/208-gti-2012"
+   ]
+  ],
+  "peugeot/306-gti-6": [
+   [
+    1996,
+    "peugeot/306-gti-6-1996"
+   ]
+  ],
   "pontiac/grand-am": [
    [
     1985,
@@ -7441,6 +7465,18 @@
    [
     1999,
     "pontiac/montana-1999"
+   ]
+  ],
+  "pontiac/solstice": [
+   [
+    2006,
+    "pontiac/solstice-2006"
+   ]
+  ],
+  "pontiac/solstice-gxp": [
+   [
+    2006,
+    "pontiac/solstice-gxp-2006"
    ]
   ],
   "pontiac/sunbird": [
@@ -7791,6 +7827,10 @@
    [
     2014,
     "porsche/macan-2014"
+   ],
+   [
+    2024,
+    "porsche/macan"
    ]
   ],
   "porsche/macan-turbo": [
@@ -7801,14 +7841,32 @@
   ],
   "porsche/panamera": [
    [
+    2009,
+    "porsche/panamera-2009"
+   ],
+   [
     2016,
     "porsche/panamera-2016"
+   ],
+   [
+    2024,
+    "porsche/panamera"
    ]
   ],
   "porsche/panamera-sport-turismo": [
    [
     2017,
     "porsche/panamera-sport-turismo-2017"
+   ]
+  ],
+  "porsche/panamera-turbo-s": [
+   [
+    2013,
+    "porsche/panamera-turbo-s-2013"
+   ],
+   [
+    2016,
+    "porsche/panamera-turbo-s-2016"
    ]
   ],
   "porsche/taycan": [
@@ -7819,6 +7877,18 @@
    [
     2020,
     "porsche/taycan"
+   ]
+  ],
+  "porsche/taycan-cross-turismo": [
+   [
+    2020,
+    "porsche/taycan-cross-turismo-2020"
+   ]
+  ],
+  "porsche/taycan-turbo-s": [
+   [
+    2019,
+    "porsche/taycan-turbo-s-2019"
    ]
   ],
   "ram/1500": [
@@ -7881,6 +7951,12 @@
    [
     2017,
     "rolls-royce/phantom-2017"
+   ]
+  ],
+  "ruf/ctr-yellowbird": [
+   [
+    1987,
+    "ruf/ctr-yellowbird-1987"
    ]
   ],
   "saab/9-2x": [
@@ -8283,6 +8359,14 @@
    [
     2008,
     "subaru/wrx-2008"
+   ],
+   [
+    2015,
+    "subaru/wrx-2015"
+   ],
+   [
+    2022,
+    "subaru/wrx"
    ]
   ],
   "subaru/wrx-sti": [
@@ -8293,6 +8377,10 @@
    [
     2004,
     "subaru/wrx-sti-2004"
+   ],
+   [
+    2008,
+    "subaru/wrx-sti-2008"
    ],
    [
     2015,
@@ -8311,10 +8399,26 @@
     "subaru/wrx-sti-type-r-1998"
    ]
   ],
+  "subaru/wrx-sti-type-ra": [
+   [
+    2018,
+    "subaru/wrx-sti-type-ra-2018"
+   ]
+  ],
   "suzuki/jimny": [
    [
     1981,
     "suzuki/jimny-1981"
+   ]
+  ],
+  "tesla/model-3": [
+   [
+    2017,
+    "tesla/model-3-2017"
+   ],
+   [
+    2024,
+    "tesla/model-3"
    ]
   ],
   "tesla/model-3-highland": [
@@ -8325,8 +8429,16 @@
   ],
   "tesla/model-s": [
    [
+    2012,
+    "tesla/model-s-2012"
+   ],
+   [
     2016,
     "tesla/model-s-2016"
+   ],
+   [
+    2021,
+    "tesla/model-s-2021"
    ],
    [
     2024,
@@ -8341,12 +8453,22 @@
   ],
   "tesla/model-x": [
    [
+    2016,
+    "tesla/model-x-2016"
+   ],
+   [
     2021,
     "tesla/model-x-2021"
    ],
    [
     2024,
     "tesla/model-x"
+   ]
+  ],
+  "tesla/model-x-plaid": [
+   [
+    2021,
+    "tesla/model-x-plaid-2021"
    ]
   ],
   "tesla/model-y": [
@@ -8359,16 +8481,34 @@
     "tesla/model-y"
    ]
   ],
+  "tesla/model-y-juniper": [
+   [
+    2025,
+    "tesla/model-y-juniper-2025"
+   ]
+  ],
   "tesla/roadster": [
    [
     2008,
     "tesla/roadster-2008"
+   ],
+   [
+    2020,
+    "tesla/roadster-2020"
    ]
   ],
   "toyota/4runner": [
    [
+    1990,
+    "toyota/4runner-1990"
+   ],
+   [
     1996,
     "toyota/4runner-1996"
+   ],
+   [
+    2003,
+    "toyota/4runner-2003"
    ],
    [
     2010,
@@ -8383,6 +8523,10 @@
    [
     2015,
     "toyota/4runner-trd-pro-2015"
+   ],
+   [
+    2025,
+    "toyota/4runner-trd-pro"
    ]
   ],
   "toyota/ae86": [
@@ -8413,6 +8557,12 @@
    [
     2025,
     "toyota/camry"
+   ]
+  ],
+  "toyota/camry-trd": [
+   [
+    2020,
+    "toyota/camry-trd-2020"
    ]
   ],
   "toyota/celica": [
@@ -16402,6 +16552,22 @@
    "bytes": 48496,
    "tint": "#6F7071"
   },
+  "peugeot/205-gti-1984": {
+   "bytes": 34048,
+   "tint": "#AA040D"
+  },
+  "peugeot/206-gti-1999": {
+   "bytes": 38880,
+   "tint": "#8E060F"
+  },
+  "peugeot/208-gti-2012": {
+   "bytes": 36928,
+   "tint": "#96050B"
+  },
+  "peugeot/306-gti-6-1996": {
+   "bytes": 27680,
+   "tint": "#91040B"
+  },
   "polestar/1": {
    "bytes": 27914,
    "tint": "#0F0F0F"
@@ -16429,6 +16595,14 @@
   "pontiac/montana-1999": {
    "bytes": 25142,
    "tint": "#2F2F2F"
+  },
+  "pontiac/solstice-2006": {
+   "bytes": 33862,
+   "tint": "#AD040B"
+  },
+  "pontiac/solstice-gxp-2006": {
+   "bytes": 29834,
+   "tint": "#131311"
   },
   "pontiac/sunbird-1988": {
    "bytes": 20822,
@@ -16730,6 +16904,10 @@
    "bytes": 28976,
    "tint": "#8E9192"
   },
+  "porsche/macan": {
+   "bytes": 31024,
+   "tint": "#8C8F92"
+  },
   "porsche/macan-2014": {
    "bytes": 30468,
    "tint": "#8B8E92"
@@ -16737,6 +16915,14 @@
   "porsche/macan-turbo-2014": {
    "bytes": 34754,
    "tint": "#8B9092"
+  },
+  "porsche/panamera": {
+   "bytes": 30038,
+   "tint": "#6D6F72"
+  },
+  "porsche/panamera-2009": {
+   "bytes": 31006,
+   "tint": "#B0B1B1"
   },
   "porsche/panamera-2016": {
    "bytes": 28762,
@@ -16746,6 +16932,14 @@
    "bytes": 29096,
    "tint": "#ACADB1"
   },
+  "porsche/panamera-turbo-s-2013": {
+   "bytes": 31612,
+   "tint": "#CDCECC"
+  },
+  "porsche/panamera-turbo-s-2016": {
+   "bytes": 30906,
+   "tint": "#AFB1B3"
+  },
   "porsche/taycan": {
    "bytes": 28676,
    "tint": "#ADADB1"
@@ -16753,6 +16947,14 @@
   "porsche/taycan-2019": {
    "bytes": 26046,
    "tint": "#ABADB0"
+  },
+  "porsche/taycan-cross-turismo-2020": {
+   "bytes": 28926,
+   "tint": "#ADB0B2"
+  },
+  "porsche/taycan-turbo-s-2019": {
+   "bytes": 26068,
+   "tint": "#ABAEAF"
   },
   "ram/1500": {
    "bytes": 26370,
@@ -16802,6 +17004,10 @@
    "bytes": 24220,
    "tint": "#C93038"
   },
+  "rivian/r2": {
+   "bytes": 23866,
+   "tint": "#2E3031"
+  },
   "rivian/r3": {
    "bytes": 23296,
    "tint": "#D0D0D0"
@@ -16849,6 +17055,10 @@
   "roush/mustang-stage-3": {
    "bytes": 30238,
    "tint": "#0B2D71"
+  },
+  "ruf/ctr-yellowbird-1987": {
+   "bytes": 35148,
+   "tint": "#D2AA2C"
   },
   "ruf/ctr3": {
    "bytes": 26312,
@@ -17006,6 +17216,10 @@
    "bytes": 31004,
    "tint": "#042D6A"
   },
+  "shelby/series-1": {
+   "bytes": 26430,
+   "tint": "#B0B1B0"
+  },
   "smart/fortwo-2008": {
    "bytes": 33250,
    "tint": "#D5D5D5"
@@ -17017,6 +17231,10 @@
   "smart/roadster-2003": {
    "bytes": 26850,
    "tint": "#ADADB1"
+  },
+  "ssc/tuatara": {
+   "bytes": 29368,
+   "tint": "#ACAEB2"
   },
   "ssc/ultimate-aero": {
    "bytes": 24484,
@@ -17174,6 +17392,10 @@
    "bytes": 25152,
    "tint": "#B0B0B0"
   },
+  "subaru/wrx": {
+   "bytes": 37118,
+   "tint": "#042255"
+  },
   "subaru/wrx-1994": {
    "bytes": 36000,
    "tint": "#0648AE"
@@ -17185,6 +17407,10 @@
   "subaru/wrx-2008": {
    "bytes": 37514,
    "tint": "#043790"
+  },
+  "subaru/wrx-2015": {
+   "bytes": 39116,
+   "tint": "#134892"
   },
   "subaru/wrx-sti": {
    "bytes": 33840,
@@ -17198,6 +17424,10 @@
    "bytes": 35560,
    "tint": "#124594"
   },
+  "subaru/wrx-sti-2008": {
+   "bytes": 37092,
+   "tint": "#2E6AB0"
+  },
   "subaru/wrx-sti-2015": {
    "bytes": 37256,
    "tint": "#022C8E"
@@ -17209,6 +17439,10 @@
   "subaru/wrx-sti-type-r-1998": {
    "bytes": 34576,
    "tint": "#02378E"
+  },
+  "subaru/wrx-sti-type-ra-2018": {
+   "bytes": 46332,
+   "tint": "#072D71"
   },
   "suzuki/alto-works": {
    "bytes": 29374,
@@ -17246,6 +17480,10 @@
    "bytes": 21934,
    "tint": "#F0F0F2"
   },
+  "tesla/model-3-2017": {
+   "bytes": 26834,
+   "tint": "#EDEEEF"
+  },
   "tesla/model-3-highland-2024": {
    "bytes": 24064,
    "tint": "#8C8C8E"
@@ -17254,9 +17492,17 @@
    "bytes": 23580,
    "tint": "#0C0E10"
   },
+  "tesla/model-s-2012": {
+   "bytes": 26926,
+   "tint": "#EBEBEA"
+  },
   "tesla/model-s-2016": {
    "bytes": 26032,
    "tint": "#8D8D90"
+  },
+  "tesla/model-s-2021": {
+   "bytes": 29600,
+   "tint": "#0B0C0F"
   },
   "tesla/model-s-plaid-2021": {
    "bytes": 28050,
@@ -17266,9 +17512,17 @@
    "bytes": 25868,
    "tint": "#484B50"
   },
+  "tesla/model-x-2016": {
+   "bytes": 25760,
+   "tint": "#101010"
+  },
   "tesla/model-x-2021": {
    "bytes": 22542,
    "tint": "#EFEFEF"
+  },
+  "tesla/model-x-plaid-2021": {
+   "bytes": 34064,
+   "tint": "#6D0312"
   },
   "tesla/model-y": {
    "bytes": 24524,
@@ -17278,9 +17532,17 @@
    "bytes": 24844,
    "tint": "#303133"
   },
+  "tesla/model-y-juniper-2025": {
+   "bytes": 25976,
+   "tint": "#CFCFD0"
+  },
   "tesla/roadster-2008": {
    "bytes": 23724,
    "tint": "#8D8D8F"
+  },
+  "tesla/roadster-2020": {
+   "bytes": 29424,
+   "tint": "#8C1826"
   },
   "tesla/semi": {
    "bytes": 17980,
@@ -17290,13 +17552,25 @@
    "bytes": 27726,
    "tint": "#4E4F50"
   },
+  "toyota/4runner-1990": {
+   "bytes": 34704,
+   "tint": "#CFCFCB"
+  },
   "toyota/4runner-1996": {
    "bytes": 32132,
    "tint": "#54696A"
   },
+  "toyota/4runner-2003": {
+   "bytes": 32722,
+   "tint": "#CDCFD0"
+  },
   "toyota/4runner-2010": {
    "bytes": 28196,
    "tint": "#4E4E50"
+  },
+  "toyota/4runner-trd-pro": {
+   "bytes": 44788,
+   "tint": "#540A0F"
   },
   "toyota/4runner-trd-pro-2015": {
    "bytes": 29082,
@@ -17329,6 +17603,10 @@
   "toyota/camry-2018": {
    "bytes": 26866,
    "tint": "#D4D5D5"
+  },
+  "toyota/camry-trd-2020": {
+   "bytes": 26934,
+   "tint": "#101010"
   },
   "toyota/celica-2000": {
    "bytes": 25982,
