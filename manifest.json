@@ -8603,6 +8603,24 @@
     "toyota/highlander"
    ]
   ],
+  "toyota/land-cruiser": [
+   [
+    1991,
+    "toyota/land-cruiser-1991"
+   ],
+   [
+    1998,
+    "toyota/land-cruiser-1998"
+   ],
+   [
+    2008,
+    "toyota/land-cruiser-2008"
+   ],
+   [
+    2024,
+    "toyota/land-cruiser"
+   ]
+  ],
   "toyota/mark-ii": [
    [
     1996,
@@ -8711,12 +8729,30 @@
     "toyota/tacoma-1995"
    ],
    [
+    2005,
+    "toyota/tacoma-2005"
+   ],
+   [
     2016,
     "toyota/tacoma-2016"
    ],
    [
     2024,
     "toyota/tacoma"
+   ]
+  ],
+  "toyota/tacoma-trd-pro": [
+   [
+    2015,
+    "toyota/tacoma-trd-pro-2015"
+   ],
+   [
+    2016,
+    "toyota/tacoma-trd-pro-2016"
+   ],
+   [
+    2024,
+    "toyota/tacoma-trd-pro"
    ]
   ],
   "toyota/tercel": [
@@ -17632,6 +17668,14 @@
    "bytes": 27648,
    "tint": "#B0B0B1"
   },
+  "toyota/gr-corolla": {
+   "bytes": 31710,
+   "tint": "#082F6B"
+  },
+  "toyota/gr-supra": {
+   "bytes": 32420,
+   "tint": "#77050D"
+  },
   "toyota/gr86": {
    "bytes": 32456,
    "tint": "#032B71"
@@ -17647,6 +17691,18 @@
   "toyota/land-cruiser": {
    "bytes": 25786,
    "tint": "#2C2C2D"
+  },
+  "toyota/land-cruiser-1991": {
+   "bytes": 42418,
+   "tint": "#D2D2CF"
+  },
+  "toyota/land-cruiser-1998": {
+   "bytes": 29154,
+   "tint": "#D3D1CF"
+  },
+  "toyota/land-cruiser-2008": {
+   "bytes": 34156,
+   "tint": "#ECECEA"
   },
   "toyota/mark-ii-1996": {
    "bytes": 24444,
@@ -17740,6 +17796,10 @@
    "bytes": 20734,
    "tint": "#D3D3D4"
   },
+  "toyota/tacoma-2005": {
+   "bytes": 28012,
+   "tint": "#8E9192"
+  },
   "toyota/tacoma-2016": {
    "bytes": 24156,
    "tint": "#4F4F50"
@@ -17747,6 +17807,14 @@
   "toyota/tacoma-trd-pro": {
    "bytes": 30734,
    "tint": "#AA0315"
+  },
+  "toyota/tacoma-trd-pro-2015": {
+   "bytes": 31966,
+   "tint": "#AB2C33"
+  },
+  "toyota/tacoma-trd-pro-2016": {
+   "bytes": 30114,
+   "tint": "#860910"
   },
   "toyota/tercel-1991": {
    "bytes": 23342,
