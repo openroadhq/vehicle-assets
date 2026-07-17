@@ -3556,9 +3556,77 @@
    "bytes": 23772,
    "tint": "#E7E7E7"
   },
+  "honda/beat": {
+   "bytes": 25142,
+   "tint": "#D6D6D6"
+  },
+  "honda/beat-1991": {
+   "bytes": 33174,
+   "tint": "#E3B104"
+  },
+  "honda/city-turbo-ii-1983": {
+   "bytes": 35508,
+   "tint": "#AF0505"
+  },
   "honda/civic": {
    "bytes": 30922,
    "tint": "#02328B"
+  },
+  "honda/civic-1988": {
+   "bytes": 22986,
+   "tint": "#AEAEAF"
+  },
+  "honda/civic-1992": {
+   "bytes": 21690,
+   "tint": "#D2D2D2"
+  },
+  "honda/civic-1996": {
+   "bytes": 26020,
+   "tint": "#ADADAF"
+  },
+  "honda/civic-2001": {
+   "bytes": 25130,
+   "tint": "#AEAFB0"
+  },
+  "honda/civic-2006": {
+   "bytes": 25332,
+   "tint": "#8F8F91"
+  },
+  "honda/civic-2012": {
+   "bytes": 28244,
+   "tint": "#D1D2D2"
+  },
+  "honda/civic-2016": {
+   "bytes": 26886,
+   "tint": "#CBCDCF"
+  },
+  "honda/civic-si-1988": {
+   "bytes": 31528,
+   "tint": "#960A0F"
+  },
+  "honda/civic-si-1993": {
+   "bytes": 29726,
+   "tint": "#AE0408"
+  },
+  "honda/civic-si-1999": {
+   "bytes": 22222,
+   "tint": "#D3D4D3"
+  },
+  "honda/civic-si-2002": {
+   "bytes": 33482,
+   "tint": "#94040D"
+  },
+  "honda/civic-si-2006": {
+   "bytes": 30018,
+   "tint": "#B30605"
+  },
+  "honda/civic-si-2012": {
+   "bytes": 31670,
+   "tint": "#A70305"
+  },
+  "honda/civic-si-2017": {
+   "bytes": 30696,
+   "tint": "#B20708"
   },
   "honda/cr-v": {
    "bytes": 30204,
