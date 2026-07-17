@@ -2560,6 +2560,10 @@
    "bytes": 27784,
    "tint": "#AE0406"
   },
+  "ferrari/812-competizione": {
+   "bytes": 32464,
+   "tint": "#D00B10"
+  },
   "ferrari/812-superfast": {
    "bytes": 32234,
    "tint": "#AF0303"
@@ -2571,6 +2575,10 @@
   "ferrari/daytona-sp3": {
    "bytes": 27504,
    "tint": "#CE180C"
+  },
+  "ferrari/enzo": {
+   "bytes": 29486,
+   "tint": "#CB0507"
   },
   "ferrari/f12": {
    "bytes": 30038,
@@ -2584,6 +2592,10 @@
    "bytes": 27472,
    "tint": "#CA070C"
   },
+  "ferrari/f40": {
+   "bytes": 28326,
+   "tint": "#C80304"
+  },
   "ferrari/f430": {
    "bytes": 30898,
    "tint": "#B2030B"
@@ -2595,6 +2607,10 @@
   "ferrari/f430-scuderia": {
    "bytes": 29474,
    "tint": "#B20307"
+  },
+  "ferrari/f50": {
+   "bytes": 27220,
+   "tint": "#B50409"
   },
   "ferrari/f8": {
    "bytes": 33254,
@@ -2612,6 +2628,10 @@
    "bytes": 29974,
    "tint": "#AF040E"
   },
+  "ferrari/laferrari": {
+   "bytes": 29374,
+   "tint": "#C70B0D"
+  },
   "ferrari/laferrari-aperta": {
    "bytes": 28842,
    "tint": "#B10202"
@@ -2623,6 +2643,10 @@
   "ferrari/monza-sp2": {
    "bytes": 26772,
    "tint": "#8E0202"
+  },
+  "ferrari/portofino": {
+   "bytes": 26904,
+   "tint": "#AB020D"
   },
   "ferrari/purosangue": {
    "bytes": 30780,
@@ -2636,6 +2660,10 @@
    "bytes": 28948,
    "tint": "#AC0406"
   },
+  "ferrari/sf90-xx": {
+   "bytes": 29642,
+   "tint": "#AF0707"
+  },
   "ferrari/testarossa": {
    "bytes": 25514,
    "tint": "#CA0409"
@@ -2647,6 +2675,10 @@
   "fiat/124-spider-abarth": {
    "bytes": 28622,
    "tint": "#B4050B"
+  },
+  "fiat/500": {
+   "bytes": 27612,
+   "tint": "#EDECEA"
   },
   "fiat/500-abarth": {
    "bytes": 35132,
@@ -2660,6 +2692,10 @@
    "bytes": 24994,
    "tint": "#AC060A"
   },
+  "fiat/panda": {
+   "bytes": 28236,
+   "tint": "#D5D6D6"
+  },
   "fiat/uno-turbo": {
    "bytes": 28730,
    "tint": "#EE3237"
@@ -2671,6 +2707,10 @@
   "fisker/ocean": {
    "bytes": 27050,
    "tint": "#CFD0CE"
+  },
+  "ford/aerostar-1986": {
+   "bytes": 24988,
+   "tint": "#ADAFB1"
   },
   "ford/aspire-1994": {
    "bytes": 24406,
@@ -2688,6 +2728,10 @@
    "bytes": 26348,
    "tint": "#D4D4D4"
   },
+  "ford/bronco-ii-1984": {
+   "bytes": 29936,
+   "tint": "#D5D6D5"
+  },
   "ford/bronco-raptor": {
    "bytes": 38110,
    "tint": "#B53702"
@@ -2704,6 +2748,10 @@
    "bytes": 26044,
    "tint": "#0C0D0D"
   },
+  "ford/crown-victoria-1992": {
+   "bytes": 24954,
+   "tint": "#B0B0B0"
+  },
   "ford/crown-victoria-1998": {
    "bytes": 24316,
    "tint": "#B0B1B1"
@@ -2715,6 +2763,10 @@
   "ford/crown-victoria-police-interceptor-1998": {
    "bytes": 22562,
    "tint": "#101010"
+  },
+  "ford/e-150-econoline-1992": {
+   "bytes": 18360,
+   "tint": "#E4E4E4"
   },
   "ford/ecosport-2018": {
    "bytes": 34758,
@@ -2735,6 +2787,10 @@
   "ford/escape": {
    "bytes": 32362,
    "tint": "#8D8E90"
+  },
+  "ford/escape-2001": {
+   "bytes": 31392,
+   "tint": "#ACB1B0"
   },
   "ford/escape-2008": {
    "bytes": 31190,
