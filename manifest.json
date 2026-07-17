@@ -32,6 +32,10 @@
    "bytes": 26094,
    "tint": "#0E0E0E"
   },
+  "acura/csx-2006": {
+   "bytes": 27246,
+   "tint": "#B0B0B1"
+  },
   "acura/ilx-2013": {
    "bytes": 26410,
    "tint": "#8E9193"
@@ -47,6 +51,10 @@
   "acura/integra-1994": {
    "bytes": 22448,
    "tint": "#EBEBEA"
+  },
+  "acura/integra-type-r-1997": {
+   "bytes": 24592,
+   "tint": "#E5E2DC"
   },
   "acura/integra-type-s": {
    "bytes": 27762,
@@ -64,6 +72,10 @@
    "bytes": 24528,
    "tint": "#0E0E0E"
   },
+  "acura/mdx-2001": {
+   "bytes": 29088,
+   "tint": "#8E8E90"
+  },
   "acura/mdx-2007": {
    "bytes": 26606,
    "tint": "#EBEBEB"
@@ -80,6 +92,10 @@
    "bytes": 32244,
    "tint": "#92060E"
   },
+  "acura/nsx-1991": {
+   "bytes": 23208,
+   "tint": "#B10809"
+  },
   "acura/nsx-2002": {
    "bytes": 24174,
    "tint": "#ACACAF"
@@ -92,6 +108,10 @@
    "bytes": 31660,
    "tint": "#A90711"
   },
+  "acura/rdx": {
+   "bytes": 32002,
+   "tint": "#4C4D50"
+  },
   "acura/rdx-2007": {
    "bytes": 28722,
    "tint": "#ABADB1"
@@ -103,6 +123,10 @@
   "acura/rl-1996": {
    "bytes": 24200,
    "tint": "#8E8E8E"
+  },
+  "acura/rl-2005": {
+   "bytes": 24074,
+   "tint": "#EFEFEF"
   },
   "acura/rlx-2014": {
    "bytes": 27310,
@@ -2752,13 +2776,197 @@
    "bytes": 31914,
    "tint": "#E94D05"
   },
+  "mclaren/artura": {
+   "bytes": 30620,
+   "tint": "#B54403"
+  },
+  "mclaren/elva": {
+   "bytes": 27122,
+   "tint": "#FB8633"
+  },
+  "mclaren/f1": {
+   "bytes": 30120,
+   "tint": "#EA6805"
+  },
+  "mclaren/gt": {
+   "bytes": 32292,
+   "tint": "#AD450F"
+  },
+  "mclaren/p1": {
+   "bytes": 30092,
+   "tint": "#F0B307"
+  },
+  "mclaren/sabre": {
+   "bytes": 30720,
+   "tint": "#EF6D13"
+  },
+  "mclaren/senna": {
+   "bytes": 28460,
+   "tint": "#CC4C03"
+  },
+  "mclaren/solus-gt": {
+   "bytes": 33064,
+   "tint": "#EE6F0C"
+  },
+  "mclaren/speedtail": {
+   "bytes": 22066,
+   "tint": "#8E8E92"
+  },
+  "mclaren/w1": {
+   "bytes": 26674,
+   "tint": "#F46D12"
+  },
+  "mercedes-benz/190e-1984": {
+   "bytes": 25724,
+   "tint": "#ABADAF"
+  },
+  "mercedes-benz/190e-2.5-16-evolution-ii-1990": {
+   "bytes": 25458,
+   "tint": "#D4D5D4"
+  },
+  "mercedes-benz/500e-1990": {
+   "bytes": 24944,
+   "tint": "#ADAEAF"
+  },
+  "mercedes-benz/a-class-2019": {
+   "bytes": 29292,
+   "tint": "#ABAFB2"
+  },
+  "mercedes-benz/a45-amg-2019": {
+   "bytes": 32034,
+   "tint": "#8F8F90"
+  },
+  "mercedes-benz/amg-gt": {
+   "bytes": 28164,
+   "tint": "#8D8E92"
+  },
+  "mercedes-benz/amg-gt-2015": {
+   "bytes": 28220,
+   "tint": "#919194"
+  },
+  "mercedes-benz/amg-gt-63-4-door-2018": {
+   "bytes": 26868,
+   "tint": "#ACACAE"
+  },
+  "mercedes-benz/amg-gt-black-series-2020": {
+   "bytes": 28612,
+   "tint": "#2D2D2E"
+  },
+  "mercedes-benz/amg-gt-r-2017": {
+   "bytes": 32354,
+   "tint": "#1C7518"
+  },
   "mercedes-benz/c-class": {
    "bytes": 29436,
    "tint": "#ACAEB0"
   },
+  "mercedes-benz/c-class-1994": {
+   "bytes": 25362,
+   "tint": "#AAACAD"
+  },
+  "mercedes-benz/c-class-2001": {
+   "bytes": 26808,
+   "tint": "#AFAFB0"
+  },
+  "mercedes-benz/c-class-2008": {
+   "bytes": 29178,
+   "tint": "#AAAEB3"
+  },
+  "mercedes-benz/c-class-2015": {
+   "bytes": 29946,
+   "tint": "#8D8F92"
+  },
+  "mercedes-benz/c32-amg-2001": {
+   "bytes": 30692,
+   "tint": "#ADB0B2"
+  },
+  "mercedes-benz/c63-amg": {
+   "bytes": 28580,
+   "tint": "#909192"
+  },
+  "mercedes-benz/c63-amg-2008": {
+   "bytes": 30754,
+   "tint": "#CCCED0"
+  },
+  "mercedes-benz/c63-amg-black-series-2012": {
+   "bytes": 28548,
+   "tint": "#2D2D2E"
+  },
+  "mercedes-benz/c63-amg-estate-2008": {
+   "bytes": 30056,
+   "tint": "#CCCDD0"
+  },
+  "mercedes-benz/c63-s-amg-2015": {
+   "bytes": 27572,
+   "tint": "#ADAEB0"
+  },
+  "mercedes-benz/cla": {
+   "bytes": 30962,
+   "tint": "#CCCED1"
+  },
+  "mercedes-benz/cla-2013": {
+   "bytes": 29268,
+   "tint": "#AFAFB1"
+  },
+  "mercedes-benz/cla-2019": {
+   "bytes": 27448,
+   "tint": "#AAAEB1"
+  },
+  "mercedes-benz/cla45-amg-2013": {
+   "bytes": 30146,
+   "tint": "#8F9091"
+  },
+  "mercedes-benz/cla45-amg-2019": {
+   "bytes": 27190,
+   "tint": "#ADADB1"
+  },
+  "mercedes-benz/clk-1997": {
+   "bytes": 24594,
+   "tint": "#8E8F8F"
+  },
+  "mercedes-benz/clk-2002": {
+   "bytes": 25088,
+   "tint": "#ABADAF"
+  },
+  "mercedes-benz/clk55-amg-1998": {
+   "bytes": 25168,
+   "tint": "#ACADAF"
+  },
+  "mercedes-benz/clk63-amg-black-series-2007": {
+   "bytes": 23454,
+   "tint": "#171717"
+  },
+  "mercedes-benz/cls-2004": {
+   "bytes": 23616,
+   "tint": "#CDCDCD"
+  },
+  "mercedes-benz/cls-2011": {
+   "bytes": 28928,
+   "tint": "#AEAFB0"
+  },
+  "mercedes-benz/cls-2019": {
+   "bytes": 25554,
+   "tint": "#ACACB0"
+  },
+  "mercedes-benz/cls55-amg-2004": {
+   "bytes": 25396,
+   "tint": "#ABACAE"
+  },
+  "mercedes-benz/cls63-amg-2007": {
+   "bytes": 27076,
+   "tint": "#919191"
+  },
+  "mercedes-benz/cls63-amg-2011": {
+   "bytes": 28888,
+   "tint": "#8E8F90"
+  },
   "mercedes-benz/e-class": {
    "bytes": 27606,
    "tint": "#101010"
+  },
+  "mercedes-benz/e-class-1986": {
+   "bytes": 25616,
+   "tint": "#AAAFB2"
   },
   "mercedes-benz/glc": {
    "bytes": 27186,

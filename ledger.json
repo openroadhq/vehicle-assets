@@ -659,14 +659,14 @@
  "mercedes-benz/c63-amg": {
   "desc": "gray Mercedes-AMG C63 sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 17:00"
  },
  "mercedes-benz/cla": {
   "desc": "red Mercedes-Benz CLA coupe sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 17:00"
  },
  "mercedes-benz/e-class": {
   "desc": "black Mercedes-Benz E-Class sedan, 2025 model year",
