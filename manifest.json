@@ -3708,25 +3708,161 @@
    "bytes": 25978,
    "tint": "#4E4E4F"
   },
+  "honda/fit-2007": {
+   "bytes": 28516,
+   "tint": "#EBEBEA"
+  },
+  "honda/fit-2009": {
+   "bytes": 29424,
+   "tint": "#AEAEAF"
+  },
+  "honda/fit-2015": {
+   "bytes": 39222,
+   "tint": "#042B72"
+  },
   "honda/hr-v": {
    "bytes": 34628,
    "tint": "#062F6E"
+  },
+  "honda/hr-v-2016": {
+   "bytes": 33154,
+   "tint": "#939495"
+  },
+  "honda/insight-1999": {
+   "bytes": 23080,
+   "tint": "#919293"
+  },
+  "honda/insight-2010": {
+   "bytes": 28438,
+   "tint": "#D3D1CD"
+  },
+  "honda/insight-2019": {
+   "bytes": 27088,
+   "tint": "#919395"
+  },
+  "honda/integra-type-r-1995": {
+   "bytes": 24054,
+   "tint": "#D6D3CE"
+  },
+  "honda/nsx-r-1992": {
+   "bytes": 22450,
+   "tint": "#EFEEEC"
   },
   "honda/odyssey": {
    "bytes": 24918,
    "tint": "#4F4F52"
   },
+  "honda/odyssey-1995": {
+   "bytes": 28026,
+   "tint": "#B3C2C4"
+  },
+  "honda/odyssey-1999": {
+   "bytes": 25040,
+   "tint": "#CFD0D0"
+  },
+  "honda/odyssey-2005": {
+   "bytes": 27546,
+   "tint": "#CECED0"
+  },
+  "honda/odyssey-2011": {
+   "bytes": 26742,
+   "tint": "#D6D4D0"
+  },
   "honda/passport": {
    "bytes": 26250,
    "tint": "#5D6169"
+  },
+  "honda/passport-1994": {
+   "bytes": 29770,
+   "tint": "#CDD0D2"
   },
   "honda/pilot": {
    "bytes": 25994,
    "tint": "#EEEEEE"
   },
+  "honda/pilot-2003": {
+   "bytes": 29220,
+   "tint": "#ADADAE"
+  },
+  "honda/pilot-2009": {
+   "bytes": 26768,
+   "tint": "#EFEEEC"
+  },
+  "honda/pilot-2016": {
+   "bytes": 29846,
+   "tint": "#919395"
+  },
+  "honda/prelude": {
+   "bytes": 26210,
+   "tint": "#CECED0"
+  },
+  "honda/prelude-1988": {
+   "bytes": 23926,
+   "tint": "#ABACAC"
+  },
+  "honda/prelude-1992": {
+   "bytes": 21238,
+   "tint": "#EAEAEA"
+  },
+  "honda/prelude-1997": {
+   "bytes": 22040,
+   "tint": "#8F9091"
+  },
+  "honda/prologue": {
+   "bytes": 25474,
+   "tint": "#EBEBEB"
+  },
   "honda/ridgeline": {
    "bytes": 23206,
    "tint": "#0D0D0D"
+  },
+  "honda/ridgeline-2006": {
+   "bytes": 23632,
+   "tint": "#ECECEF"
+  },
+  "honda/s2000-1999": {
+   "bytes": 25906,
+   "tint": "#8F9093"
+  },
+  "honda/s2000-2004": {
+   "bytes": 28248,
+   "tint": "#A90303"
+  },
+  "honda/s660-2015": {
+   "bytes": 36452,
+   "tint": "#930406"
+  },
+  "honda/vamos": {
+   "bytes": 30732,
+   "tint": "#94ADCA"
+  },
+  "hummer/h1-1992": {
+   "bytes": 29582,
+   "tint": "#D3A918"
+  },
+  "hummer/h2-2003": {
+   "bytes": 27552,
+   "tint": "#0D0D0D"
+  },
+  "hummer/h2-sut-2005": {
+   "bytes": 26208,
+   "tint": "#0C0C0C"
+  },
+  "hummer/h3-2006": {
+   "bytes": 35458,
+   "tint": "#CF500C"
+  },
+  "hummer/h3t-2009": {
+   "bytes": 25074,
+   "tint": "#0B0B0C"
+  },
+  "hyundai/accent-1995": {
+   "bytes": 24926,
+   "tint": "#D3D3D3"
+  },
+  "hyundai/accent-2000": {
+   "bytes": 24378,
+   "tint": "#CCCDCF"
   },
   "hyundai/elantra": {
    "bytes": 27888,
