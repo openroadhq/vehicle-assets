@@ -8239,6 +8239,10 @@
     "subaru/impreza-2008"
    ],
    [
+    2012,
+    "subaru/impreza-2012"
+   ],
+   [
     2017,
     "subaru/impreza-2017"
    ],
@@ -8567,8 +8571,28 @@
   ],
   "toyota/celica": [
    [
+    1990,
+    "toyota/celica-1990"
+   ],
+   [
+    1994,
+    "toyota/celica-1994"
+   ],
+   [
     2000,
     "toyota/celica-2000"
+   ]
+  ],
+  "toyota/celica-all-trac": [
+   [
+    1990,
+    "toyota/celica-all-trac-1990"
+   ]
+  ],
+  "toyota/celica-gt-four": [
+   [
+    1994,
+    "toyota/celica-gt-four-1994"
    ]
   ],
   "toyota/century": [
@@ -8637,6 +8661,18 @@
    [
     2016,
     "toyota/mirai-2016"
+   ]
+  ],
+  "toyota/mr2": [
+   [
+    1991,
+    "toyota/mr2-1991"
+   ]
+  ],
+  "toyota/mr2-spyder": [
+   [
+    2000,
+    "toyota/mr2-spyder-2000"
    ]
   ],
   "toyota/paseo": [
@@ -8769,6 +8805,16 @@
    [
     2022,
     "toyota/tundra"
+   ]
+  ],
+  "toyota/tundra-trd-pro": [
+   [
+    2015,
+    "toyota/tundra-trd-pro-2015"
+   ],
+   [
+    2022,
+    "toyota/tundra-trd-pro"
    ]
   ],
   "toyota/van": [
@@ -17344,6 +17390,10 @@
    "bytes": 25872,
    "tint": "#6D6F72"
   },
+  "subaru/impreza-2012": {
+   "bytes": 31052,
+   "tint": "#AEB0B1"
+  },
   "subaru/impreza-2017": {
    "bytes": 23482,
    "tint": "#EAEAEA"
@@ -17644,9 +17694,25 @@
    "bytes": 26934,
    "tint": "#101010"
   },
+  "toyota/celica-1990": {
+   "bytes": 25418,
+   "tint": "#D2D4D4"
+  },
+  "toyota/celica-1994": {
+   "bytes": 29574,
+   "tint": "#090B0B"
+  },
   "toyota/celica-2000": {
    "bytes": 25982,
    "tint": "#919294"
+  },
+  "toyota/celica-all-trac-1990": {
+   "bytes": 36286,
+   "tint": "#124570"
+  },
+  "toyota/celica-gt-four-1994": {
+   "bytes": 32092,
+   "tint": "#0B316C"
   },
   "toyota/century-1997": {
    "bytes": 23702,
@@ -17715,6 +17781,14 @@
   "toyota/mirai-2016": {
    "bytes": 26846,
    "tint": "#909092"
+  },
+  "toyota/mr2-1991": {
+   "bytes": 33438,
+   "tint": "#B40514"
+  },
+  "toyota/mr2-spyder-2000": {
+   "bytes": 32248,
+   "tint": "#D2AB36"
   },
   "toyota/paseo-1992": {
    "bytes": 28148,
@@ -17831,6 +17905,10 @@
   "toyota/tundra-trd-pro": {
    "bytes": 29820,
    "tint": "#B6020D"
+  },
+  "toyota/tundra-trd-pro-2015": {
+   "bytes": 27854,
+   "tint": "#890615"
   },
   "toyota/van-1984": {
    "bytes": 25890,
