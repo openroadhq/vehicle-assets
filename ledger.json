@@ -485,80 +485,80 @@
  "jeep/cherokee": {
   "desc": "silver Jeep Cherokee SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "jeep/compass": {
   "desc": "white Jeep Compass compact SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "jeep/gladiator": {
   "desc": "gray Jeep Gladiator pickup truck, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "jeep/grand-cherokee": {
   "desc": "black Jeep Grand Cherokee SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "jeep/wrangler": {
   "desc": "green Jeep Wrangler Rubicon SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "kia/forte": {
   "desc": "red Kia Forte sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "kia/k5": {
   "desc": "white Kia K5 sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "kia/sorento": {
   "desc": "gray Kia Sorento SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "kia/soul": {
   "desc": "red Kia Soul hatchback, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "kia/sportage": {
   "desc": "green Kia Sportage SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "kia/stinger": {
   "desc": "red Kia Stinger GT liftback, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "kia/telluride": {
   "desc": "dark green Kia Telluride SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "lamborghini/aventador": {
   "desc": "orange Lamborghini Aventador coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 19:42"
  },
  "lamborghini/huracan": {
   "desc": "green Lamborghini Huracan coupe, 2025 model year",

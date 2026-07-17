@@ -4384,6 +4384,462 @@
    "bytes": 26704,
    "tint": "#ADAEAD"
   },
+  "jaguar/xj-2009": {
+   "bytes": 25160,
+   "tint": "#9C9CA1"
+  },
+  "jaguar/xj220-1992": {
+   "bytes": 20364,
+   "tint": "#ACADB1"
+  },
+  "jaguar/xjr-1997": {
+   "bytes": 26922,
+   "tint": "#0D1625"
+  },
+  "jaguar/xjs-1975": {
+   "bytes": 23178,
+   "tint": "#ADAEAE"
+  },
+  "jaguar/xk120-1948": {
+   "bytes": 26600,
+   "tint": "#09170E"
+  },
+  "jaguar/xk8-1996": {
+   "bytes": 21116,
+   "tint": "#ADAEAE"
+  },
+  "jaguar/xkr-1998": {
+   "bytes": 23910,
+   "tint": "#0F3128"
+  },
+  "jaguar/xkr-2006": {
+   "bytes": 27802,
+   "tint": "#022917"
+  },
+  "jeep/cherokee": {
+   "bytes": 29002,
+   "tint": "#2E2E2E"
+  },
+  "jeep/cherokee-kl-2014": {
+   "bytes": 28534,
+   "tint": "#ACACAE"
+  },
+  "jeep/cherokee-xj-1984": {
+   "bytes": 27490,
+   "tint": "#8E8F90"
+  },
+  "jeep/commander-2006": {
+   "bytes": 27720,
+   "tint": "#CECECE"
+  },
+  "jeep/compass": {
+   "bytes": 30836,
+   "tint": "#929296"
+  },
+  "jeep/compass-2007": {
+   "bytes": 31606,
+   "tint": "#ADAFB2"
+  },
+  "jeep/gladiator": {
+   "bytes": 27806,
+   "tint": "#303030"
+  },
+  "jeep/gladiator-mojave-2020": {
+   "bytes": 31184,
+   "tint": "#F35105"
+  },
+  "jeep/gladiator-rubicon-2020": {
+   "bytes": 26222,
+   "tint": "#333329"
+  },
+  "jeep/grand-cherokee": {
+   "bytes": 31768,
+   "tint": "#8C8D91"
+  },
+  "jeep/grand-cherokee-srt-2012": {
+   "bytes": 28896,
+   "tint": "#0F0F0F"
+  },
+  "jeep/grand-cherokee-srt8-2006": {
+   "bytes": 31008,
+   "tint": "#0C0C0C"
+  },
+  "jeep/grand-cherokee-trackhawk-2018": {
+   "bytes": 33684,
+   "tint": "#280D50"
+  },
+  "jeep/grand-cherokee-wj-1999": {
+   "bytes": 29110,
+   "tint": "#AFB1B0"
+  },
+  "jeep/grand-cherokee-wk-2005": {
+   "bytes": 30308,
+   "tint": "#D0D0D0"
+  },
+  "jeep/grand-cherokee-wk2-2011": {
+   "bytes": 26238,
+   "tint": "#0E0E0E"
+  },
+  "jeep/grand-cherokee-zj-1993": {
+   "bytes": 26106,
+   "tint": "#4A4B4B"
+  },
+  "jeep/grand-wagoneer": {
+   "bytes": 28686,
+   "tint": "#0F0F0F"
+  },
+  "jeep/grand-wagoneer-1984": {
+   "bytes": 39468,
+   "tint": "#2F2F2F"
+  },
+  "jeep/liberty-2002": {
+   "bytes": 30114,
+   "tint": "#AFAFAF"
+  },
+  "jeep/liberty-2008": {
+   "bytes": 32944,
+   "tint": "#CDCDCF"
+  },
+  "jeep/patriot-2007": {
+   "bytes": 29036,
+   "tint": "#B0B0B2"
+  },
+  "jeep/renegade": {
+   "bytes": 29148,
+   "tint": "#2D2D2D"
+  },
+  "jeep/wagoneer": {
+   "bytes": 31670,
+   "tint": "#CCCCD0"
+  },
+  "jeep/wrangler": {
+   "bytes": 30510,
+   "tint": "#2F322D"
+  },
+  "jeep/wrangler-392-2021": {
+   "bytes": 34956,
+   "tint": "#121212"
+  },
+  "jeep/wrangler-jk-2007": {
+   "bytes": 32802,
+   "tint": "#3C491D"
+  },
+  "jeep/wrangler-jk-rubicon-2007": {
+   "bytes": 33852,
+   "tint": "#454D2F"
+  },
+  "jeep/wrangler-rubicon-2018": {
+   "bytes": 37516,
+   "tint": "#4C5636"
+  },
+  "jeep/wrangler-tj-1997": {
+   "bytes": 36766,
+   "tint": "#354436"
+  },
+  "jeep/wrangler-tj-rubicon-2003": {
+   "bytes": 30788,
+   "tint": "#2C302A"
+  },
+  "jeep/wrangler-yj-1987": {
+   "bytes": 38292,
+   "tint": "#29342B"
+  },
+  "karma/revero": {
+   "bytes": 28412,
+   "tint": "#121212"
+  },
+  "kia/amanti-2004": {
+   "bytes": 22876,
+   "tint": "#EAEAEA"
+  },
+  "kia/borrego-2009": {
+   "bytes": 28948,
+   "tint": "#2F2F30"
+  },
+  "kia/cadenza-2014": {
+   "bytes": 30744,
+   "tint": "#6D6D6E"
+  },
+  "kia/carnival": {
+   "bytes": 25602,
+   "tint": "#D1D0CE"
+  },
+  "kia/ev6-2022": {
+   "bytes": 27724,
+   "tint": "#EEEEEE"
+  },
+  "kia/ev6-gt-2023": {
+   "bytes": 34516,
+   "tint": "#8D020F"
+  },
+  "kia/ev9": {
+   "bytes": 26376,
+   "tint": "#101011"
+  },
+  "kia/forte": {
+   "bytes": 25352,
+   "tint": "#D0D0D0"
+  },
+  "kia/forte-2010": {
+   "bytes": 26048,
+   "tint": "#ACAFB0"
+  },
+  "kia/forte-2014": {
+   "bytes": 26482,
+   "tint": "#6D6F72"
+  },
+  "kia/forte-gt-2019": {
+   "bytes": 35786,
+   "tint": "#8D030D"
+  },
+  "kia/forte-koup-2010": {
+   "bytes": 23900,
+   "tint": "#0D0D0D"
+  },
+  "kia/k5": {
+   "bytes": 25792,
+   "tint": "#EDEDED"
+  },
+  "kia/k5-gt-2021": {
+   "bytes": 32818,
+   "tint": "#8C080E"
+  },
+  "kia/k900-2015": {
+   "bytes": 26546,
+   "tint": "#101010"
+  },
+  "kia/niro": {
+   "bytes": 28782,
+   "tint": "#505051"
+  },
+  "kia/niro-2017": {
+   "bytes": 30836,
+   "tint": "#AFAEB0"
+  },
+  "kia/optima-2001": {
+   "bytes": 24928,
+   "tint": "#CFCFD0"
+  },
+  "kia/optima-2006": {
+   "bytes": 25654,
+   "tint": "#6D6D70"
+  },
+  "kia/optima-2011": {
+   "bytes": 25666,
+   "tint": "#D1D1D3"
+  },
+  "kia/optima-2016": {
+   "bytes": 27854,
+   "tint": "#AFB0B1"
+  },
+  "kia/rio-2001": {
+   "bytes": 26720,
+   "tint": "#CDCECF"
+  },
+  "kia/rio-2006": {
+   "bytes": 23212,
+   "tint": "#CED0D0"
+  },
+  "kia/rio-2012": {
+   "bytes": 27044,
+   "tint": "#505053"
+  },
+  "kia/rio-2018": {
+   "bytes": 27774,
+   "tint": "#AEAEAE"
+  },
+  "kia/rondo-2007": {
+   "bytes": 30494,
+   "tint": "#ADAFB1"
+  },
+  "kia/sedona-2002": {
+   "bytes": 26726,
+   "tint": "#939494"
+  },
+  "kia/sedona-2006": {
+   "bytes": 27394,
+   "tint": "#4C4E51"
+  },
+  "kia/sedona-2015": {
+   "bytes": 26064,
+   "tint": "#E9E9E9"
+  },
+  "kia/seltos": {
+   "bytes": 32704,
+   "tint": "#EEEEEE"
+  },
+  "kia/sephia-1994": {
+   "bytes": 22932,
+   "tint": "#D3D3D4"
+  },
+  "kia/sorento": {
+   "bytes": 32756,
+   "tint": "#CBCED0"
+  },
+  "kia/sorento-2003": {
+   "bytes": 33214,
+   "tint": "#4E4E50"
+  },
+  "kia/sorento-2011": {
+   "bytes": 29572,
+   "tint": "#6D6D6D"
+  },
+  "kia/sorento-2016": {
+   "bytes": 29570,
+   "tint": "#ECECEC"
+  },
+  "kia/soul": {
+   "bytes": 29494,
+   "tint": "#6E6E70"
+  },
+  "kia/soul-2010": {
+   "bytes": 29706,
+   "tint": "#D0D0D2"
+  },
+  "kia/soul-2014": {
+   "bytes": 26178,
+   "tint": "#E9E9E9"
+  },
+  "kia/soul-ev-2015": {
+   "bytes": 29874,
+   "tint": "#101010"
+  },
+  "kia/soul-turbo-2020": {
+   "bytes": 33172,
+   "tint": "#AE040C"
+  },
+  "kia/spectra-2001": {
+   "bytes": 25126,
+   "tint": "#ADADAF"
+  },
+  "kia/spectra-2004": {
+   "bytes": 24616,
+   "tint": "#4C4D4F"
+  },
+  "kia/sportage": {
+   "bytes": 31488,
+   "tint": "#4F5053"
+  },
+  "kia/sportage-1995": {
+   "bytes": 30232,
+   "tint": "#8C8C8C"
+  },
+  "kia/sportage-2005": {
+   "bytes": 27498,
+   "tint": "#909092"
+  },
+  "kia/sportage-2011": {
+   "bytes": 29572,
+   "tint": "#ECECEC"
+  },
+  "kia/sportage-2017": {
+   "bytes": 31032,
+   "tint": "#CDCED2"
+  },
+  "kia/stinger": {
+   "bytes": 32256,
+   "tint": "#AF080A"
+  },
+  "kia/stinger-2018": {
+   "bytes": 27592,
+   "tint": "#8C8F90"
+  },
+  "kia/stinger-gt-2018": {
+   "bytes": 33956,
+   "tint": "#8C0314"
+  },
+  "kia/stinger-gt-line-2018": {
+   "bytes": 28558,
+   "tint": "#4F4E50"
+  },
+  "kia/stinger-gt2-2020": {
+   "bytes": 31530,
+   "tint": "#6C0305"
+  },
+  "kia/telluride": {
+   "bytes": 25124,
+   "tint": "#EDEDED"
+  },
+  "koenigsegg/agera": {
+   "bytes": 22664,
+   "tint": "#939494"
+  },
+  "koenigsegg/agera-one1": {
+   "bytes": 30102,
+   "tint": "#2F2F2E"
+  },
+  "koenigsegg/agera-rs": {
+   "bytes": 26962,
+   "tint": "#2E2D2D"
+  },
+  "koenigsegg/cc850": {
+   "bytes": 26690,
+   "tint": "#8D8E8F"
+  },
+  "koenigsegg/cc8s": {
+   "bytes": 22128,
+   "tint": "#ACACAE"
+  },
+  "koenigsegg/ccr": {
+   "bytes": 22934,
+   "tint": "#8D8D8F"
+  },
+  "koenigsegg/ccx": {
+   "bytes": 24148,
+   "tint": "#8D8D8D"
+  },
+  "koenigsegg/gemera": {
+   "bytes": 25836,
+   "tint": "#6B6B6D"
+  },
+  "koenigsegg/jesko": {
+   "bytes": 28042,
+   "tint": "#2F302F"
+  },
+  "koenigsegg/jesko-absolut": {
+   "bytes": 27756,
+   "tint": "#313232"
+  },
+  "koenigsegg/regera": {
+   "bytes": 27664,
+   "tint": "#ACAEB1"
+  },
+  "lamborghini/aventador": {
+   "bytes": 29690,
+   "tint": "#EC5503"
+  },
+  "lamborghini/aventador-sv": {
+   "bytes": 29384,
+   "tint": "#528F26"
+  },
+  "lamborghini/aventador-svj": {
+   "bytes": 29446,
+   "tint": "#65AB13"
+  },
+  "lamborghini/aventador-ultimae": {
+   "bytes": 31134,
+   "tint": "#D34904"
+  },
+  "lamborghini/centenario": {
+   "bytes": 29504,
+   "tint": "#4D4D4D"
+  },
+  "lamborghini/countach-1974": {
+   "bytes": 19820,
+   "tint": "#D0D0CE"
+  },
+  "lamborghini/countach-2022": {
+   "bytes": 24642,
+   "tint": "#D2D2D2"
+  },
+  "lamborghini/diablo-sv": {
+   "bytes": 31164,
+   "tint": "#ECB204"
+  },
+  "lamborghini/diablo-vt": {
+   "bytes": 27844,
+   "tint": "#EBB30A"
+  },
   "maserati/granturismo-2007": {
    "bytes": 28958,
    "tint": "#0E264D"
