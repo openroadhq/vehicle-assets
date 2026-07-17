@@ -6784,6 +6784,10 @@
    "bytes": 25560,
    "tint": "#0D0D0D"
   },
+  "nissan/gt-r": {
+   "bytes": 28518,
+   "tint": "#6C6E70"
+  },
   "nissan/gt-r-2009": {
    "bytes": 24904,
    "tint": "#7C7D81"
@@ -6792,17 +6796,817 @@
    "bytes": 31574,
    "tint": "#8C8E8F"
   },
+  "nissan/hardbody-1986": {
+   "bytes": 18792,
+   "tint": "#E9E9E7"
+  },
+  "nissan/juke-2011": {
+   "bytes": 27428,
+   "tint": "#EDECEA"
+  },
+  "nissan/juke-nismo-rs-2013": {
+   "bytes": 37938,
+   "tint": "#750207"
+  },
+  "nissan/kicks": {
+   "bytes": 29224,
+   "tint": "#EFEFEF"
+  },
+  "nissan/kicks-2018": {
+   "bytes": 28512,
+   "tint": "#D4D2D1"
+  },
+  "nissan/laurel-c33-1993": {
+   "bytes": 21656,
+   "tint": "#0D0E0E"
+  },
+  "nissan/leaf": {
+   "bytes": 28710,
+   "tint": "#EFEFEE"
+  },
+  "nissan/leaf-2011": {
+   "bytes": 27350,
+   "tint": "#D2D4D2"
+  },
+  "nissan/maxima-1989": {
+   "bytes": 24366,
+   "tint": "#929394"
+  },
+  "nissan/maxima-1995": {
+   "bytes": 23404,
+   "tint": "#CCCECE"
+  },
+  "nissan/maxima-2000": {
+   "bytes": 27172,
+   "tint": "#8D8E8E"
+  },
+  "nissan/maxima-2004": {
+   "bytes": 25514,
+   "tint": "#ADAEAE"
+  },
+  "nissan/maxima-2009": {
+   "bytes": 24980,
+   "tint": "#131313"
+  },
+  "nissan/maxima-2016": {
+   "bytes": 25328,
+   "tint": "#0E0E0E"
+  },
+  "nissan/maxima-4dsc-2004": {
+   "bytes": 23348,
+   "tint": "#0F0F10"
+  },
+  "nissan/maxima-se-1995": {
+   "bytes": 23260,
+   "tint": "#0E0E0E"
+  },
+  "nissan/murano": {
+   "bytes": 33644,
+   "tint": "#8F9091"
+  },
+  "nissan/murano-2003": {
+   "bytes": 27788,
+   "tint": "#909091"
+  },
+  "nissan/murano-2009": {
+   "bytes": 28940,
+   "tint": "#AFAFAF"
+  },
+  "nissan/murano-2015": {
+   "bytes": 32060,
+   "tint": "#CDCECF"
+  },
+  "nissan/nx2000-1991": {
+   "bytes": 27458,
+   "tint": "#AF0A0B"
+  },
+  "nissan/pathfinder": {
+   "bytes": 27956,
+   "tint": "#2E2E2E"
+  },
+  "nissan/pathfinder-1987": {
+   "bytes": 33368,
+   "tint": "#AFB0B1"
+  },
+  "nissan/pathfinder-1996": {
+   "bytes": 29094,
+   "tint": "#101010"
+  },
+  "nissan/pathfinder-2005": {
+   "bytes": 26376,
+   "tint": "#D0D0D1"
+  },
+  "nissan/president-1990": {
+   "bytes": 23982,
+   "tint": "#0A0A0A"
+  },
+  "nissan/pulsar-gti-r-1990": {
+   "bytes": 27730,
+   "tint": "#CECFCF"
+  },
+  "nissan/pulsar-nx-1987": {
+   "bytes": 24892,
+   "tint": "#D0D0D2"
+  },
+  "nissan/quest-1993": {
+   "bytes": 28696,
+   "tint": "#AEAEB0"
+  },
+  "nissan/rogue": {
+   "bytes": 31142,
+   "tint": "#ADADAD"
+  },
+  "nissan/rogue-2008": {
+   "bytes": 29120,
+   "tint": "#AEAEB2"
+  },
+  "nissan/sentra-1987": {
+   "bytes": 24460,
+   "tint": "#CECED1"
+  },
+  "nissan/sentra-1991": {
+   "bytes": 26306,
+   "tint": "#CDCED1"
+  },
+  "pontiac/grand-am-1985": {
+   "bytes": 22288,
+   "tint": "#CFCFCD"
+  },
+  "pontiac/grand-prix-1997": {
+   "bytes": 23004,
+   "tint": "#AEAFAE"
+  },
+  "pontiac/montana-1999": {
+   "bytes": 25142,
+   "tint": "#2F2F2F"
+  },
+  "pontiac/sunbird-1988": {
+   "bytes": 20822,
+   "tint": "#D0D1D1"
+  },
+  "pontiac/trans-am-1993": {
+   "bytes": 26238,
+   "tint": "#0F0F0F"
+  },
+  "pontiac/vibe-2003": {
+   "bytes": 26918,
+   "tint": "#CDCED1"
+  },
   "porsche/911": {
    "bytes": 28516,
    "tint": "#717273"
+  },
+  "porsche/911-993": {
+   "bytes": 25680,
+   "tint": "#909091"
+  },
+  "porsche/911-996": {
+   "bytes": 25288,
+   "tint": "#8E8E8F"
+  },
+  "porsche/911-carrera-rs-1995": {
+   "bytes": 29658,
+   "tint": "#CA0811"
+  },
+  "porsche/911-dakar-2022": {
+   "bytes": 25132,
+   "tint": "#F1F1F1"
+  },
+  "porsche/911-gt2-2001": {
+   "bytes": 26650,
+   "tint": "#8F9193"
+  },
+  "porsche/911-gt2-2007": {
+   "bytes": 29716,
+   "tint": "#ADADAF"
   },
   "porsche/911-gt3": {
    "bytes": 29456,
    "tint": "#909195"
   },
+  "porsche/911-gt3-2003": {
+   "bytes": 29360,
+   "tint": "#AC0608"
+  },
+  "porsche/911-gt3-2006": {
+   "bytes": 33218,
+   "tint": "#D01319"
+  },
   "porsche/911-gt3-rs": {
    "bytes": 29014,
    "tint": "#D1D1D1"
+  },
+  "porsche/911-gt3-rs-2013": {
+   "bytes": 33218,
+   "tint": "#D10403"
+  },
+  "porsche/911-gt3-rs-996-2003": {
+   "bytes": 34608,
+   "tint": "#C70B13"
+  },
+  "porsche/911-sport-classic-2010": {
+   "bytes": 25248,
+   "tint": "#8C8C8E"
+  },
+  "porsche/911-sport-classic-2022": {
+   "bytes": 27380,
+   "tint": "#8E8F90"
+  },
+  "porsche/911-turbo-2000": {
+   "bytes": 26124,
+   "tint": "#939395"
+  },
+  "porsche/911-turbo-2006": {
+   "bytes": 30378,
+   "tint": "#919192"
+  },
+  "porsche/911-turbo-s-2004": {
+   "bytes": 27004,
+   "tint": "#ABADAD"
+  },
+  "porsche/911-turbo-s-2010": {
+   "bytes": 28378,
+   "tint": "#919192"
+  },
+  "porsche/924-1977": {
+   "bytes": 25780,
+   "tint": "#939492"
+  },
+  "porsche/928-1978": {
+   "bytes": 26072,
+   "tint": "#ACACAF"
+  },
+  "porsche/944-s2-1989": {
+   "bytes": 26514,
+   "tint": "#ADAEB0"
+  },
+  "porsche/944-turbo-1985": {
+   "bytes": 25968,
+   "tint": "#919191"
+  },
+  "porsche/968-club-sport-1992": {
+   "bytes": 22818,
+   "tint": "#D6D6D6"
+  },
+  "porsche/968-turbo-s-1993": {
+   "bytes": 26832,
+   "tint": "#8A8B8B"
+  },
+  "porsche/boxster-2005": {
+   "bytes": 24500,
+   "tint": "#8E8F93"
+  },
+  "porsche/boxster-2012": {
+   "bytes": 27312,
+   "tint": "#8E8E8F"
+  },
+  "porsche/boxster-spyder-2010": {
+   "bytes": 27346,
+   "tint": "#ADADAF"
+  },
+  "porsche/boxster-spyder-2015": {
+   "bytes": 28620,
+   "tint": "#8D8F8F"
+  },
+  "porsche/cayenne-2002": {
+   "bytes": 24854,
+   "tint": "#0F0F0F"
+  },
+  "porsche/cayenne-2010": {
+   "bytes": 32996,
+   "tint": "#0F0F0F"
+  },
+  "porsche/cayenne-turbo-2010": {
+   "bytes": 33366,
+   "tint": "#8C8D8F"
+  },
+  "porsche/cayenne-turbo-2017": {
+   "bytes": 35020,
+   "tint": "#AEB0B1"
+  },
+  "porsche/cayman-2005": {
+   "bytes": 26684,
+   "tint": "#ACACAF"
+  },
+  "porsche/cayman-2012": {
+   "bytes": 28204,
+   "tint": "#8E8E8E"
+  },
+  "porsche/cayman-gt4-2019": {
+   "bytes": 31658,
+   "tint": "#4A9739"
+  },
+  "porsche/cayman-gt4-rs": {
+   "bytes": 31004,
+   "tint": "#1B6524"
+  },
+  "porsche/macan-2014": {
+   "bytes": 30468,
+   "tint": "#8B8E92"
+  },
+  "porsche/macan-turbo-2014": {
+   "bytes": 34754,
+   "tint": "#8B9092"
+  },
+  "porsche/panamera-2016": {
+   "bytes": 28762,
+   "tint": "#ADADAF"
+  },
+  "porsche/panamera-sport-turismo-2017": {
+   "bytes": 29096,
+   "tint": "#ACADB1"
+  },
+  "porsche/taycan": {
+   "bytes": 28676,
+   "tint": "#ADADB1"
+  },
+  "porsche/taycan-2019": {
+   "bytes": 26046,
+   "tint": "#ABADB0"
+  },
+  "ram/1500": {
+   "bytes": 26370,
+   "tint": "#929295"
+  },
+  "ram/1500-2011": {
+   "bytes": 23860,
+   "tint": "#8D8E8E"
+  },
+  "ram/1500-trx-2021": {
+   "bytes": 25638,
+   "tint": "#0D0D0D"
+  },
+  "ram/2500": {
+   "bytes": 24202,
+   "tint": "#E8E9E9"
+  },
+  "ram/3500-2010": {
+   "bytes": 22272,
+   "tint": "#ECECEC"
+  },
+  "renault/5-turbo-1980": {
+   "bytes": 28656,
+   "tint": "#064B8F"
+  },
+  "renault/clio-williams-1993": {
+   "bytes": 37184,
+   "tint": "#152951"
+  },
+  "renault/megane-rs-r26r-2008": {
+   "bytes": 33600,
+   "tint": "#D9A305"
+  },
+  "renault/megane-rs-trophy-r-2019": {
+   "bytes": 41762,
+   "tint": "#D7A90D"
+  },
+  "rivian/edv": {
+   "bytes": 16532,
+   "tint": "#E3E4E3"
+  },
+  "rivian/r1s": {
+   "bytes": 25434,
+   "tint": "#0C3256"
+  },
+  "rivian/r1t": {
+   "bytes": 24220,
+   "tint": "#C93038"
+  },
+  "rivian/r3": {
+   "bytes": 23296,
+   "tint": "#D0D0D0"
+  },
+  "rivian/r3x": {
+   "bytes": 33226,
+   "tint": "#D34C0B"
+  },
+  "rolls-royce/corniche": {
+   "bytes": 24736,
+   "tint": "#072219"
+  },
+  "rolls-royce/cullinan-black-badge": {
+   "bytes": 26632,
+   "tint": "#0C0C0D"
+  },
+  "rolls-royce/dawn": {
+   "bytes": 23196,
+   "tint": "#111111"
+  },
+  "rolls-royce/ghost-2009": {
+   "bytes": 22744,
+   "tint": "#111111"
+  },
+  "rolls-royce/ghost-black-badge": {
+   "bytes": 23218,
+   "tint": "#0A090A"
+  },
+  "rolls-royce/phantom-2003": {
+   "bytes": 23226,
+   "tint": "#292928"
+  },
+  "rolls-royce/phantom-2017": {
+   "bytes": 23452,
+   "tint": "#121212"
+  },
+  "rolls-royce/spectre": {
+   "bytes": 24622,
+   "tint": "#0F1113"
+  },
+  "rolls-royce/wraith": {
+   "bytes": 22342,
+   "tint": "#0C0C0C"
+  },
+  "roush/mustang-stage-3": {
+   "bytes": 30238,
+   "tint": "#0B2D71"
+  },
+  "ruf/ctr3": {
+   "bytes": 26312,
+   "tint": "#696A6C"
+  },
+  "ruf/rodeo": {
+   "bytes": 32064,
+   "tint": "#2F302F"
+  },
+  "saab/9-2x-2005": {
+   "bytes": 27416,
+   "tint": "#ABABAF"
+  },
+  "saab/9-3-1998": {
+   "bytes": 25900,
+   "tint": "#ABAFB0"
+  },
+  "saab/9-3-2003": {
+   "bytes": 25414,
+   "tint": "#ACACAE"
+  },
+  "saab/9-3-aero-2003": {
+   "bytes": 27840,
+   "tint": "#0D0D0D"
+  },
+  "saab/9-4x-2011": {
+   "bytes": 29262,
+   "tint": "#CBCED3"
+  },
+  "saab/9-5-1997": {
+   "bytes": 24552,
+   "tint": "#AAACAD"
+  },
+  "saab/9-5-2010": {
+   "bytes": 26050,
+   "tint": "#939393"
+  },
+  "saab/9-5-aero-2010": {
+   "bytes": 25004,
+   "tint": "#0E0E0E"
+  },
+  "saab/9-7x-2005": {
+   "bytes": 27836,
+   "tint": "#4E4E50"
+  },
+  "saab/900-1978": {
+   "bytes": 26442,
+   "tint": "#ABABAC"
+  },
+  "saab/900-spg-1985": {
+   "bytes": 23544,
+   "tint": "#0E0E0E"
+  },
+  "saab/900-turbo-1978": {
+   "bytes": 26804,
+   "tint": "#0D0D0D"
+  },
+  "saab/99-turbo-1978": {
+   "bytes": 25742,
+   "tint": "#0D0D0D"
+  },
+  "saleen/s281": {
+   "bytes": 25976,
+   "tint": "#909293"
+  },
+  "saleen/s7": {
+   "bytes": 28626,
+   "tint": "#AC0308"
+  },
+  "saturn/astra-2008": {
+   "bytes": 25828,
+   "tint": "#D4D4D4"
+  },
+  "saturn/aura-xr-2007": {
+   "bytes": 23516,
+   "tint": "#D0D0D0"
+  },
+  "saturn/ion-2003": {
+   "bytes": 22700,
+   "tint": "#EDEDED"
+  },
+  "saturn/ion-redline-2003": {
+   "bytes": 28178,
+   "tint": "#900305"
+  },
+  "saturn/outlook-2007": {
+   "bytes": 26204,
+   "tint": "#EAEAEA"
+  },
+  "saturn/relay-2005": {
+   "bytes": 26916,
+   "tint": "#CDCECD"
+  },
+  "saturn/sc-1991": {
+   "bytes": 25180,
+   "tint": "#A70A11"
+  },
+  "saturn/sky-red-line-2007": {
+   "bytes": 23406,
+   "tint": "#0C0C0C"
+  },
+  "saturn/sl-1991": {
+   "bytes": 21794,
+   "tint": "#D0D0D0"
+  },
+  "saturn/sl-1996": {
+   "bytes": 25276,
+   "tint": "#CED0D1"
+  },
+  "saturn/vue-2002": {
+   "bytes": 27444,
+   "tint": "#8F8F91"
+  },
+  "saturn/vue-2008": {
+   "bytes": 28842,
+   "tint": "#EBEBEB"
+  },
+  "saturn/vue-red-line-2008": {
+   "bytes": 28928,
+   "tint": "#131313"
+  },
+  "scion/ia-2016": {
+   "bytes": 26988,
+   "tint": "#ACADB0"
+  },
+  "scion/im-2016": {
+   "bytes": 29158,
+   "tint": "#ACAEB0"
+  },
+  "scion/iq-2012": {
+   "bytes": 29202,
+   "tint": "#CECED0"
+  },
+  "scion/tc-2011": {
+   "bytes": 28848,
+   "tint": "#B1060A"
+  },
+  "scion/xa-2004": {
+   "bytes": 26044,
+   "tint": "#CFCFCF"
+  },
+  "scion/xb-2004": {
+   "bytes": 20800,
+   "tint": "#D1D2D2"
+  },
+  "scion/xd-2008": {
+   "bytes": 27352,
+   "tint": "#CECFD1"
+  },
+  "shelby/cobra-427-1965": {
+   "bytes": 28148,
+   "tint": "#03356B"
+  },
+  "shelby/gt500-super-snake": {
+   "bytes": 31004,
+   "tint": "#042D6A"
+  },
+  "smart/fortwo-2008": {
+   "bytes": 33250,
+   "tint": "#D5D5D5"
+  },
+  "smart/fortwo-2016": {
+   "bytes": 35036,
+   "tint": "#D5D6D6"
+  },
+  "smart/roadster-2003": {
+   "bytes": 26850,
+   "tint": "#ADADB1"
+  },
+  "ssc/ultimate-aero": {
+   "bytes": 24484,
+   "tint": "#919193"
+  },
+  "sterling/825": {
+   "bytes": 24062,
+   "tint": "#919294"
+  },
+  "subaru/ascent": {
+   "bytes": 32260,
+   "tint": "#ABADB1"
+  },
+  "subaru/brz": {
+   "bytes": 28582,
+   "tint": "#CFCFD2"
+  },
+  "subaru/brz-2012": {
+   "bytes": 24326,
+   "tint": "#EBEBEC"
+  },
+  "subaru/brz-ts-2018": {
+   "bytes": 33376,
+   "tint": "#0C3171"
+  },
+  "subaru/crosstrek-2013": {
+   "bytes": 33118,
+   "tint": "#D55810"
+  },
+  "subaru/crosstrek-2018": {
+   "bytes": 35372,
+   "tint": "#135697"
+  },
+  "subaru/crosstrek-wilderness-2024": {
+   "bytes": 30324,
+   "tint": "#2F302F"
+  },
+  "subaru/forester-1998": {
+   "bytes": 27126,
+   "tint": "#EBEBEB"
+  },
+  "subaru/forester-2003": {
+   "bytes": 30864,
+   "tint": "#CCCED0"
+  },
+  "subaru/forester-2009": {
+   "bytes": 28078,
+   "tint": "#4C4E51"
+  },
+  "subaru/forester-wilderness-2022": {
+   "bytes": 27392,
+   "tint": "#464C36"
+  },
+  "subaru/forester-xt-2004": {
+   "bytes": 30826,
+   "tint": "#2F2F31"
+  },
+  "subaru/impreza": {
+   "bytes": 28188,
+   "tint": "#CBCED1"
+  },
+  "subaru/impreza-2-5rs-1998": {
+   "bytes": 30440,
+   "tint": "#0C0C0C"
+  },
+  "subaru/impreza-2002": {
+   "bytes": 29052,
+   "tint": "#D1D2D2"
+  },
+  "subaru/impreza-2008": {
+   "bytes": 25872,
+   "tint": "#6D6F72"
+  },
+  "subaru/impreza-2017": {
+   "bytes": 23482,
+   "tint": "#EAEAEA"
+  },
+  "subaru/impreza-22b-sti-1998": {
+   "bytes": 34860,
+   "tint": "#01398C"
+  },
+  "subaru/justy-1987": {
+   "bytes": 29556,
+   "tint": "#B50507"
+  },
+  "subaru/legacy-1990": {
+   "bytes": 25000,
+   "tint": "#8D8D8F"
+  },
+  "subaru/legacy-1995": {
+   "bytes": 22630,
+   "tint": "#D0D2D1"
+  },
+  "subaru/legacy-2-5gt-specb-2006": {
+   "bytes": 26582,
+   "tint": "#292B2E"
+  },
+  "subaru/legacy-2005": {
+   "bytes": 25136,
+   "tint": "#2D2F31"
+  },
+  "subaru/legacy-2010": {
+   "bytes": 22584,
+   "tint": "#D2D2D2"
+  },
+  "subaru/legacy-2015": {
+   "bytes": 31528,
+   "tint": "#ADB0B2"
+  },
+  "subaru/legacy-rs-1990": {
+   "bytes": 28166,
+   "tint": "#0A1731"
+  },
+  "subaru/loyale-1990": {
+   "bytes": 25342,
+   "tint": "#E9E9EA"
+  },
+  "subaru/outback": {
+   "bytes": 30414,
+   "tint": "#2E2E2E"
+  },
+  "subaru/outback-2000": {
+   "bytes": 25580,
+   "tint": "#4D4E4D"
+  },
+  "subaru/outback-2005": {
+   "bytes": 24786,
+   "tint": "#4C4D4F"
+  },
+  "subaru/outback-2010": {
+   "bytes": 27152,
+   "tint": "#D3D3CE"
+  },
+  "subaru/outback-wilderness-2022": {
+   "bytes": 29962,
+   "tint": "#474C30"
+  },
+  "subaru/outback-xt-2005": {
+   "bytes": 27706,
+   "tint": "#2B2C2E"
+  },
+  "subaru/sambar": {
+   "bytes": 27150,
+   "tint": "#D6D6D4"
+  },
+  "subaru/solterra": {
+   "bytes": 32146,
+   "tint": "#2E2E2F"
+  },
+  "subaru/svx-1992": {
+   "bytes": 22408,
+   "tint": "#B2B1AE"
+  },
+  "subaru/tribeca-2006": {
+   "bytes": 25152,
+   "tint": "#B0B0B0"
+  },
+  "subaru/wrx-1994": {
+   "bytes": 36000,
+   "tint": "#0648AE"
+  },
+  "subaru/wrx-2002": {
+   "bytes": 36702,
+   "tint": "#01398F"
+  },
+  "subaru/wrx-2008": {
+   "bytes": 37514,
+   "tint": "#043790"
+  },
+  "subaru/wrx-sti": {
+   "bytes": 33840,
+   "tint": "#023393"
+  },
+  "subaru/wrx-sti-1994": {
+   "bytes": 35130,
+   "tint": "#053387"
+  },
+  "subaru/wrx-sti-2004": {
+   "bytes": 35560,
+   "tint": "#124594"
+  },
+  "subaru/wrx-sti-2015": {
+   "bytes": 37256,
+   "tint": "#022C8E"
+  },
+  "subaru/wrx-sti-s209-2019": {
+   "bytes": 38434,
+   "tint": "#013491"
+  },
+  "subaru/wrx-sti-type-r-1998": {
+   "bytes": 34576,
+   "tint": "#02378E"
+  },
+  "suzuki/alto-works": {
+   "bytes": 29374,
+   "tint": "#EEEEEE"
+  },
+  "suzuki/cappuccino": {
+   "bytes": 25688,
+   "tint": "#AB0308"
+  },
+  "suzuki/carry": {
+   "bytes": 28268,
+   "tint": "#E9E8EA"
+  },
+  "suzuki/jimny-1981": {
+   "bytes": 31922,
+   "tint": "#D6D6D4"
+  },
+  "suzuki/kizashi": {
+   "bytes": 31184,
+   "tint": "#4D4E51"
+  },
+  "suzuki/sidekick": {
+   "bytes": 34304,
+   "tint": "#0F0F0E"
+  },
+  "suzuki/sx4": {
+   "bytes": 36280,
+   "tint": "#084492"
   },
   "tesla/cybertruck": {
    "bytes": 20004,
@@ -6812,29 +7616,113 @@
    "bytes": 21934,
    "tint": "#F0F0F2"
   },
+  "tesla/model-3-highland-2024": {
+   "bytes": 24064,
+   "tint": "#8C8C8E"
+  },
   "tesla/model-s": {
    "bytes": 23580,
    "tint": "#0C0E10"
+  },
+  "tesla/model-s-2016": {
+   "bytes": 26032,
+   "tint": "#8D8D90"
+  },
+  "tesla/model-s-plaid-2021": {
+   "bytes": 28050,
+   "tint": "#91070C"
   },
   "tesla/model-x": {
    "bytes": 25868,
    "tint": "#484B50"
   },
+  "tesla/model-x-2021": {
+   "bytes": 22542,
+   "tint": "#EFEFEF"
+  },
   "tesla/model-y": {
    "bytes": 24524,
    "tint": "#CED0D1"
+  },
+  "tesla/model-y-2020": {
+   "bytes": 24844,
+   "tint": "#303133"
+  },
+  "tesla/roadster-2008": {
+   "bytes": 23724,
+   "tint": "#8D8D8F"
+  },
+  "tesla/semi": {
+   "bytes": 17980,
+   "tint": "#D8D8D8"
   },
   "toyota/4runner": {
    "bytes": 27726,
    "tint": "#4E4F50"
   },
+  "toyota/4runner-1996": {
+   "bytes": 32132,
+   "tint": "#54696A"
+  },
+  "toyota/4runner-2010": {
+   "bytes": 28196,
+   "tint": "#4E4E50"
+  },
+  "toyota/4runner-trd-pro-2015": {
+   "bytes": 29082,
+   "tint": "#AC0712"
+  },
+  "toyota/ae86-1983": {
+   "bytes": 21966,
+   "tint": "#131313"
+  },
+  "toyota/avalon-1995": {
+   "bytes": 26594,
+   "tint": "#A3875B"
+  },
+  "toyota/avalon-2005": {
+   "bytes": 23904,
+   "tint": "#CFCFD1"
+  },
+  "toyota/c-hr": {
+   "bytes": 34482,
+   "tint": "#F1F1F0"
+  },
   "toyota/camry": {
    "bytes": 25552,
    "tint": "#D3D3D3"
   },
+  "toyota/camry-1997": {
+   "bytes": 22536,
+   "tint": "#AFB0AF"
+  },
+  "toyota/camry-2018": {
+   "bytes": 26866,
+   "tint": "#D4D5D5"
+  },
+  "toyota/celica-2000": {
+   "bytes": 25982,
+   "tint": "#919294"
+  },
+  "toyota/century-1997": {
+   "bytes": 23702,
+   "tint": "#070707"
+  },
   "toyota/corolla": {
    "bytes": 28752,
    "tint": "#CCCED1"
+  },
+  "toyota/corolla-1998": {
+   "bytes": 26348,
+   "tint": "#AFB1B1"
+  },
+  "toyota/corolla-cross": {
+   "bytes": 34372,
+   "tint": "#8E8F92"
+  },
+  "toyota/echo-2000": {
+   "bytes": 27648,
+   "tint": "#B0B0B1"
   },
   "toyota/gr86": {
    "bytes": 32456,
@@ -6843,6 +7731,26 @@
   "toyota/highlander": {
    "bytes": 27514,
    "tint": "#EFEFF1"
+  },
+  "toyota/highlander-2001": {
+   "bytes": 26576,
+   "tint": "#CDCED1"
+  },
+  "toyota/land-cruiser": {
+   "bytes": 25786,
+   "tint": "#2C2C2D"
+  },
+  "toyota/mark-ii-1996": {
+   "bytes": 24444,
+   "tint": "#0F0F0F"
+  },
+  "toyota/matrix-2003": {
+   "bytes": 28274,
+   "tint": "#AFB0B1"
+  },
+  "toyota/mirai-2016": {
+   "bytes": 26846,
+   "tint": "#909092"
   },
   "toyota/prius": {
    "bytes": 30412,
