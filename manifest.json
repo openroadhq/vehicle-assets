@@ -2804,6 +2804,10 @@
    "bytes": 27282,
    "tint": "#919194"
   },
+  "ford/escort-1997": {
+   "bytes": 25662,
+   "tint": "#CDCFD1"
+  },
   "ford/escort-rs-cosworth-1992": {
    "bytes": 33422,
    "tint": "#032D71"
@@ -2819,6 +2823,10 @@
   "ford/expedition-1997": {
    "bytes": 29078,
    "tint": "#2D2D2D"
+  },
+  "ford/expedition-2003": {
+   "bytes": 27938,
+   "tint": "#ADAEAF"
   },
   "ford/expedition-2007": {
    "bytes": 26296,
@@ -2836,6 +2844,10 @@
    "bytes": 27784,
    "tint": "#303031"
   },
+  "ford/explorer-2002": {
+   "bytes": 28490,
+   "tint": "#ADAEAE"
+  },
   "ford/explorer-2006": {
    "bytes": 26492,
    "tint": "#AFB0AF"
@@ -2847,6 +2859,10 @@
   "ford/explorer-sport-trac-2001": {
    "bytes": 27084,
    "tint": "#2E2E2E"
+  },
+  "ford/explorer-sport-trac-2007": {
+   "bytes": 26818,
+   "tint": "#ADADAE"
   },
   "ford/explorer-st": {
    "bytes": 29682,
@@ -2864,6 +2880,10 @@
    "bytes": 20970,
    "tint": "#D7D7D8"
   },
+  "ford/f-150-1997": {
+   "bytes": 22314,
+   "tint": "#8E8F93"
+  },
   "ford/f-150-2004": {
    "bytes": 25692,
    "tint": "#AAABAE"
@@ -2875,6 +2895,10 @@
   "ford/f-150-2015": {
    "bytes": 26346,
    "tint": "#CDCED0"
+  },
+  "ford/f-150-lightning": {
+   "bytes": 29530,
+   "tint": "#04316F"
   },
   "ford/f-150-lightning-1993": {
    "bytes": 23020,
@@ -2892,6 +2916,10 @@
    "bytes": 31702,
    "tint": "#D94908"
   },
+  "ford/f-150-svt-raptor-2010": {
+   "bytes": 36682,
+   "tint": "#D23805"
+  },
   "ford/f-150-tremor-2021": {
    "bytes": 26594,
    "tint": "#4D4E51"
@@ -2903,6 +2931,10 @@
   "ford/f-250-super-duty-1999": {
    "bytes": 24300,
    "tint": "#E5E5E7"
+  },
+  "ford/f-250-super-duty-2008": {
+   "bytes": 23558,
+   "tint": "#E8E8E8"
   },
   "ford/f-250-super-duty-2011": {
    "bytes": 25630,
@@ -2916,6 +2948,10 @@
    "bytes": 28138,
    "tint": "#0B2E70"
   },
+  "ford/fiesta-2011": {
+   "bytes": 30972,
+   "tint": "#CFD0D0"
+  },
   "ford/fiesta-st-2014": {
    "bytes": 38514,
    "tint": "#092D8D"
@@ -2927,6 +2963,10 @@
   "ford/five-hundred-2005": {
    "bytes": 24906,
    "tint": "#AFB0B1"
+  },
+  "ford/flex-2009": {
+   "bytes": 26874,
+   "tint": "#909090"
   },
   "ford/focus": {
    "bytes": 30858,
@@ -2944,6 +2984,10 @@
    "bytes": 29500,
    "tint": "#AEAEB0"
   },
+  "ford/focus-rs-2016": {
+   "bytes": 36978,
+   "tint": "#036AD2"
+  },
   "ford/focus-rs-mk1-2002": {
    "bytes": 33348,
    "tint": "#062771"
@@ -2956,6 +3000,10 @@
    "bytes": 34480,
    "tint": "#122874"
   },
+  "ford/focus-svt-2002": {
+   "bytes": 26776,
+   "tint": "#959595"
+  },
   "ford/ford-gt-2005": {
    "bytes": 26380,
    "tint": "#0D2F6C"
@@ -2967,6 +3015,10 @@
   "ford/freestar-2004": {
    "bytes": 28322,
    "tint": "#8B8C8D"
+  },
+  "ford/freestyle-2005": {
+   "bytes": 27028,
+   "tint": "#ACAFB0"
   },
   "ford/fusion": {
    "bytes": 27840,
@@ -2988,6 +3040,10 @@
    "bytes": 25130,
    "tint": "#345373"
   },
+  "ford/maverick-tremor": {
+   "bytes": 27740,
+   "tint": "#575C61"
+  },
   "ford/mustang": {
    "bytes": 29550,
    "tint": "#AA010F"
@@ -2995,6 +3051,10 @@
   "ford/mustang-boss-302-2012": {
    "bytes": 31842,
    "tint": "#EC6C0B"
+  },
+  "ford/mustang-bullitt-2008": {
+   "bytes": 27084,
+   "tint": "#29332D"
   },
   "ford/mustang-cobra-1994": {
    "bytes": 27056,
