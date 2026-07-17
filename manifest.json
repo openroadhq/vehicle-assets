@@ -1908,6 +1908,10 @@
    "bytes": 25492,
    "tint": "#D2D4D5"
   },
+  "chevrolet/monte-carlo-1995": {
+   "bytes": 22072,
+   "tint": "#ECEDED"
+  },
   "chevrolet/monte-carlo-2000": {
    "bytes": 26198,
    "tint": "#ACAEAF"
@@ -1919,6 +1923,10 @@
   "chevrolet/prizm-1998": {
    "bytes": 25636,
    "tint": "#CBCDCF"
+  },
+  "chevrolet/s10-1982": {
+   "bytes": 20920,
+   "tint": "#D4D4D4"
   },
   "chevrolet/s10-1994": {
    "bytes": 24082,
@@ -1936,6 +1944,10 @@
    "bytes": 33762,
    "tint": "#E9510F"
   },
+  "chevrolet/silverado-1999": {
+   "bytes": 21000,
+   "tint": "#ECECEC"
+  },
   "chevrolet/silverado-2007": {
    "bytes": 23432,
    "tint": "#ACAEB1"
@@ -1947,6 +1959,10 @@
   "chevrolet/sonic-2012": {
    "bytes": 28648,
    "tint": "#8F9193"
+  },
+  "chevrolet/sonic-rs-2012": {
+   "bytes": 36872,
+   "tint": "#A80410"
   },
   "chevrolet/spark-2013": {
    "bytes": 39508,
@@ -1964,6 +1980,10 @@
    "bytes": 23502,
    "tint": "#D6D6D4"
   },
+  "chevrolet/suburban-2000": {
+   "bytes": 22018,
+   "tint": "#0C0C0C"
+  },
   "chevrolet/suburban-2007": {
    "bytes": 24568,
    "tint": "#CACBCB"
@@ -1979,6 +1999,10 @@
   "chevrolet/tahoe-1995": {
    "bytes": 23442,
    "tint": "#D3D3D4"
+  },
+  "chevrolet/tahoe-2000": {
+   "bytes": 27664,
+   "tint": "#090909"
   },
   "chevrolet/tahoe-2007": {
    "bytes": 28042,
@@ -1996,6 +2020,10 @@
    "bytes": 26780,
    "tint": "#D0D0D2"
   },
+  "chevrolet/trailblazer-ss-2002": {
+   "bytes": 27724,
+   "tint": "#0C0C0D"
+  },
   "chevrolet/traverse": {
    "bytes": 27114,
    "tint": "#4F5051"
@@ -2012,6 +2040,10 @@
    "bytes": 27136,
    "tint": "#EFEFF1"
   },
+  "chevrolet/trax-2015": {
+   "bytes": 31968,
+   "tint": "#ACAEAF"
+  },
   "chevrolet/uplander-2005": {
    "bytes": 25372,
    "tint": "#D5D5D5"
@@ -2023,6 +2055,10 @@
   "chevrolet/volt-2011": {
    "bytes": 30988,
    "tint": "#AEB0B4"
+  },
+  "chevrolet/volt-2016": {
+   "bytes": 29544,
+   "tint": "#EBEBEB"
   },
   "chrysler/200-2011": {
    "bytes": 26796,
@@ -2036,6 +2072,10 @@
    "bytes": 25592,
    "tint": "#939395"
   },
+  "chrysler/300-2011": {
+   "bytes": 25028,
+   "tint": "#909192"
+  },
   "chrysler/300-srt8-2012": {
    "bytes": 23790,
    "tint": "#0D0C0E"
@@ -2047,6 +2087,10 @@
   "chrysler/concorde-1993": {
    "bytes": 24436,
    "tint": "#8B8B8D"
+  },
+  "chrysler/concorde-1998": {
+   "bytes": 24496,
+   "tint": "#8F8F8F"
   },
   "chrysler/crossfire-2004": {
    "bytes": 28496,
@@ -2060,6 +2104,10 @@
    "bytes": 24146,
    "tint": "#A9ABAD"
   },
+  "chrysler/lhs-1999": {
+   "bytes": 24656,
+   "tint": "#8E8E8F"
+  },
   "chrysler/pacifica": {
    "bytes": 28118,
    "tint": "#8D8D8F"
@@ -2071,6 +2119,10 @@
   "chrysler/prowler-2001": {
    "bytes": 27194,
    "tint": "#443353"
+  },
+  "chrysler/pt-cruiser-2000": {
+   "bytes": 30976,
+   "tint": "#D0D2D3"
   },
   "chrysler/sebring-1995": {
    "bytes": 21718,
@@ -2084,6 +2136,10 @@
    "bytes": 27950,
    "tint": "#CBCDD0"
   },
+  "chrysler/town-and-country-1990": {
+   "bytes": 27322,
+   "tint": "#AEAFB2"
+  },
   "chrysler/town-and-country-1996": {
    "bytes": 31014,
    "tint": "#A9ADAE"
@@ -2095,6 +2151,10 @@
   "chrysler/town-and-country-2008": {
    "bytes": 25058,
    "tint": "#8D8E91"
+  },
+  "citroen/2cv-1948": {
+   "bytes": 29842,
+   "tint": "#6F7173"
   },
   "citroen/ds-1955": {
    "bytes": 21922,
@@ -2108,6 +2168,10 @@
    "bytes": 27898,
    "tint": "#111112"
   },
+  "daewoo/lanos": {
+   "bytes": 24490,
+   "tint": "#8E8E8F"
+  },
   "daewoo/leganza": {
    "bytes": 24164,
    "tint": "#929392"
@@ -2119,6 +2183,10 @@
   "daihatsu/charade-gtti": {
    "bytes": 27442,
    "tint": "#D4D4D5"
+  },
+  "daihatsu/copen": {
+   "bytes": 29710,
+   "tint": "#AE060C"
   },
   "daihatsu/hijet": {
    "bytes": 27126,
@@ -2132,6 +2200,10 @@
    "bytes": 28026,
    "tint": "#EAE9E8"
   },
+  "datsun/240z-1969": {
+   "bytes": 30290,
+   "tint": "#E7B309"
+  },
   "datsun/280z-1975": {
    "bytes": 30814,
    "tint": "#C51214"
@@ -2144,6 +2216,10 @@
    "bytes": 20048,
    "tint": "#D8D6D3"
   },
+  "delorean/alpha5": {
+   "bytes": 22766,
+   "tint": "#6A6C6F"
+  },
   "delorean/dmc-12-1981": {
    "bytes": 26152,
    "tint": "#969492"
@@ -2155,6 +2231,10 @@
   "dodge/avenger-2008": {
    "bytes": 24424,
    "tint": "#B0B0B2"
+  },
+  "dodge/caliber-2007": {
+   "bytes": 31902,
+   "tint": "#ADADAF"
   },
   "dodge/caliber-srt4-2008": {
    "bytes": 33332,
@@ -2172,6 +2252,10 @@
    "bytes": 26316,
    "tint": "#B20203"
   },
+  "dodge/challenger-hellcat-2015": {
+   "bytes": 24984,
+   "tint": "#2B1A4D"
+  },
   "dodge/challenger-redeye-2019": {
    "bytes": 26356,
    "tint": "#EE4609"
@@ -2188,6 +2272,10 @@
    "bytes": 26438,
    "tint": "#101011"
   },
+  "dodge/charger-2006": {
+   "bytes": 25236,
+   "tint": "#ADADAF"
+  },
   "dodge/charger-2011": {
    "bytes": 22890,
    "tint": "#707071"
@@ -2200,6 +2288,10 @@
    "bytes": 26728,
    "tint": "#381967"
   },
+  "dodge/charger-srt8-2006": {
+   "bytes": 24450,
+   "tint": "#111111"
+  },
   "dodge/charger-srt8-2012": {
    "bytes": 25000,
    "tint": "#080808"
@@ -2211,6 +2303,10 @@
   "dodge/dakota-1997": {
    "bytes": 23002,
    "tint": "#ACADAE"
+  },
+  "dodge/dakota-2005": {
+   "bytes": 23596,
+   "tint": "#AEAEB0"
   },
   "dodge/dart-2013": {
    "bytes": 27536,
@@ -2228,6 +2324,10 @@
    "bytes": 26322,
    "tint": "#2D2D2F"
   },
+  "dodge/durango-2004": {
+   "bytes": 27348,
+   "tint": "#D2D2D4"
+  },
   "dodge/durango-hellcat-2021": {
    "bytes": 27608,
    "tint": "#48316F"
@@ -2239,6 +2339,10 @@
   "dodge/grand-caravan-1991": {
    "bytes": 26512,
    "tint": "#ACB0B2"
+  },
+  "dodge/grand-caravan-1996": {
+   "bytes": 26150,
+   "tint": "#9BA8A5"
   },
   "dodge/grand-caravan-2001": {
    "bytes": 25382,
@@ -2252,6 +2356,10 @@
    "bytes": 23824,
    "tint": "#737373"
   },
+  "dodge/intrepid-1998": {
+   "bytes": 26070,
+   "tint": "#B0B0B1"
+  },
   "dodge/journey-2009": {
    "bytes": 28214,
    "tint": "#D0D0D0"
@@ -2263,6 +2371,10 @@
   "dodge/magnum-srt8-2005": {
    "bytes": 24280,
    "tint": "#0D0D0E"
+  },
+  "dodge/neon-1995": {
+   "bytes": 25280,
+   "tint": "#D1D2D2"
   },
   "dodge/neon-2000": {
    "bytes": 24010,
@@ -2276,6 +2388,10 @@
    "bytes": 28802,
    "tint": "#0B2B72"
   },
+  "dodge/nitro-2007": {
+   "bytes": 29426,
+   "tint": "#AFAFB1"
+  },
   "dodge/ram-1500-1981": {
    "bytes": 23886,
    "tint": "#CBCCCF"
@@ -2288,6 +2404,10 @@
    "bytes": 23928,
    "tint": "#ADAEB0"
   },
+  "dodge/ram-1500-2009": {
+   "bytes": 24454,
+   "tint": "#CECFD2"
+  },
   "dodge/ram-srt10-2004": {
    "bytes": 25508,
    "tint": "#AEAEB1"
@@ -2299,6 +2419,10 @@
   "dodge/spirit-1989": {
    "bytes": 22448,
    "tint": "#909091"
+  },
+  "dodge/stealth-1991": {
+   "bytes": 26688,
+   "tint": "#AE0608"
   },
   "dodge/viper": {
    "bytes": 29836,
@@ -2316,6 +2440,10 @@
    "bytes": 28482,
    "tint": "#0C3073"
   },
+  "dodge/viper-vx-2013": {
+   "bytes": 31864,
+   "tint": "#CE0908"
+  },
   "dodge/viper-zb-2003": {
    "bytes": 26292,
    "tint": "#C70407"
@@ -2328,6 +2456,10 @@
    "bytes": 23962,
    "tint": "#8D8F90"
   },
+  "eagle/talon-1990": {
+   "bytes": 26558,
+   "tint": "#950707"
+  },
   "eagle/talon-1995": {
    "bytes": 25446,
    "tint": "#940409"
@@ -2339,6 +2471,10 @@
   "eagle/vision-1993": {
    "bytes": 22782,
    "tint": "#909091"
+  },
+  "faradayfuture/ff91": {
+   "bytes": 28498,
+   "tint": "#0E0E0E"
   },
   "ferrari/12cilindri": {
    "bytes": 29648,
@@ -2356,6 +2492,10 @@
    "bytes": 28720,
    "tint": "#920709"
   },
+  "ferrari/296-gts": {
+   "bytes": 29066,
+   "tint": "#AA0409"
+  },
   "ferrari/348": {
    "bytes": 25842,
    "tint": "#B00709"
@@ -2367,6 +2507,10 @@
   "ferrari/360-modena": {
    "bytes": 31852,
    "tint": "#CB050E"
+  },
+  "ferrari/456": {
+   "bytes": 24406,
+   "tint": "#B10A0E"
   },
   "ferrari/458-italia": {
    "bytes": 28754,
@@ -2384,6 +2528,10 @@
    "bytes": 31480,
    "tint": "#AD0302"
   },
+  "ferrari/488-gtb": {
+   "bytes": 32216,
+   "tint": "#AF0D07"
+  },
   "ferrari/488-pista": {
    "bytes": 31112,
    "tint": "#B10202"
@@ -2395,6 +2543,10 @@
   "ferrari/550-maranello": {
    "bytes": 25074,
    "tint": "#AD0A0D"
+  },
+  "ferrari/575m": {
+   "bytes": 25892,
+   "tint": "#AD0210"
   },
   "ferrari/599-gtb": {
    "bytes": 27284,
