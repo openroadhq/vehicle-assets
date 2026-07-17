@@ -3,10 +3,6 @@ oldsmobile/silhouette-1997|white 2000 Oldsmobile Silhouette minivan
 oldsmobile/toronado-1986|white 1990 Oldsmobile Toronado coupe
 panoz/aiv-roadster|silver 1996 Panoz AIV Roadster sports car
 panoz/esperante|silver 2000 Panoz Esperante roadster
-peugeot/205-gti-1984|red 1984 Peugeot 205 GTI hatchback
-peugeot/206-gti-1999|red 1999 Peugeot 206 GTI hatchback
-peugeot/208-gti-2012|red 2012 Peugeot 208 GTI hatchback
-peugeot/306-gti-6-1996|red 1996 Peugeot 306 GTI-6 hatchback
 peugeot/405-mi16-1988|silver 1988 Peugeot 405 Mi16 sedan
 plymouth/breeze-1996|silver 1996 Plymouth Breeze sedan
 plymouth/laser-1990|red 1990 Plymouth Laser coupe
@@ -34,8 +30,6 @@ pontiac/grand-prix-2004|black 2006 Pontiac Grand Prix GXP sedan
 pontiac/gto-2004|yellow 2005 Pontiac GTO coupe
 pontiac/lemans-1988|white 1991 Pontiac LeMans hatchback
 pontiac/montana-sv6-2005|white 2006 Pontiac Montana SV6 minivan
-pontiac/solstice-2006|red 2007 Pontiac Solstice convertible
-pontiac/solstice-gxp-2006|black 2008 Pontiac Solstice GXP coupe
 pontiac/sunfire-1995|red 1998 Pontiac Sunfire GT coupe
 pontiac/torrent-2006|silver 2008 Pontiac Torrent crossover
 pontiac/trans-am-1982|black 1991 Pontiac Trans Am GTA coupe
@@ -43,24 +37,15 @@ pontiac/trans-am-ws6-1993|black 2000 Pontiac Trans Am WS6 Ram Air coupe
 pontiac/trans-sport-1990|silver 1994 Pontiac Trans Sport minivan
 pontiac/trans-sport-1997|white 1999 Pontiac Trans Sport minivan
 pontiac/vibe-2009|white 2010 Pontiac Vibe GT hatchback
-porsche/macan|silver 2024 Porsche Macan EV SUV
-porsche/panamera|silver 2024 Porsche Panamera sedan
-porsche/panamera-2009|silver 2010 Porsche Panamera 970 sedan
-porsche/panamera-turbo-s-2013|silver 2014 Porsche Panamera Turbo S 970 sedan
-porsche/panamera-turbo-s-2016|silver 2017 Porsche Panamera Turbo S 971 sedan
-porsche/taycan-cross-turismo-2020|silver 2021 Porsche Taycan Cross Turismo wagon
-porsche/taycan-turbo-s-2019|silver 2020 Porsche Taycan Turbo S sedan
 ram/1500-rebel-2015|black 2015 Ram 1500 Rebel pickup
 ram/1500-rebel-2019|black 2019 Ram 1500 Rebel pickup
 ram/2500-2010|white 2010 Ram 2500 pickup
 ram/3500|white 2019 Ram 3500 pickup
 renault/clio-v6-2001|blue 2001 Renault Clio V6 hatchback
 rezvani/beast|black 2014 Rezvani Beast sports car
-rivian/r2|silver 2026 Rivian R2 crossover SUV
 rolls-royce/cullinan|black 2018 Rolls-Royce Cullinan SUV
 rolls-royce/ghost-2020|black 2020 Rolls-Royce Ghost sedan
 rolls-royce/silver-seraph|green 1998 Rolls-Royce Silver Seraph sedan
-ruf/ctr-yellowbird-1987|yellow 1987 Ruf CTR Yellowbird sports car
 saab/9-2x-aero-2005|blue 2005 Saab 9-2X Aero wagon
 saab/9-3-viggen-1999|lime yellow 1999 Saab 9-3 Viggen hatchback
 saab/9-5-aero-1999|black 1999 Saab 9-5 Aero sedan
@@ -73,8 +58,6 @@ saturn/sw-1993|white 1996 Saturn SW wagon
 scion/fr-s-2013|orange 2014 Scion FR-S coupe
 scion/tc-2005|silver 2006 Scion tC coupe
 scion/xb-2008|white 2009 Scion xB box car
-shelby/series-1|silver 1999 Shelby Series 1 sports car
-ssc/tuatara|silver 2020 SSC Tuatara hypercar
 subaru/baja-2003|silver 2003 Subaru Baja sport utility truck
 subaru/crosstrek|silver 2024 Subaru Crosstrek SUV
 subaru/forester|silver 2024 Subaru Forester SUV
@@ -87,24 +70,10 @@ subaru/legacy-gt-2005|silver 2006 Subaru Legacy GT sedan
 subaru/outback-1995|green 1996 Subaru Legacy Outback wagon
 subaru/outback-2015|silver 2016 Subaru Outback wagon
 subaru/sambar-1999|white 1999 Subaru Sambar kei truck
-subaru/wrx|world rally blue 2024 Subaru WRX VB sedan with gold wheels
-subaru/wrx-2015|world rally blue 2015 Subaru WRX VA sedan with gold wheels
-subaru/wrx-sti-2008|world rally blue 2008 Subaru WRX STI GR hatchback with gold wheels
-subaru/wrx-sti-type-ra-2018|world rally blue 2018 Subaru WRX STI Type RA sedan with gold BBS wheels
 suzuki/jimny|green 2018 Suzuki Jimny JB74 kei off-roader
 suzuki/jimny-1998|green 1998 Suzuki Jimny JB23 kei off-roader
 suzuki/samurai|white 1985 Suzuki Samurai off-roader
 suzuki/swift-sport|red 2017 Suzuki Swift Sport hot hatch
-tesla/model-3-2017|white 2017 Tesla Model 3 sedan
-tesla/model-s-2012|white 2012 Tesla Model S sedan
-tesla/model-s-2021|black 2021 Tesla Model S refresh sedan
-tesla/model-x-2016|black 2016 Tesla Model X SUV
-tesla/model-x-plaid-2021|red 2021 Tesla Model X Plaid performance SUV
-tesla/model-y-juniper-2025|white 2025 Tesla Model Y Juniper refresh SUV
-tesla/roadster-2020|red 2020 Tesla Roadster next-generation sports car
-toyota/4runner-1990|white 1992 Toyota 4Runner SUV
-toyota/4runner-2003|silver 2005 Toyota 4Runner SUV
-toyota/4runner-trd-pro|red 2025 Toyota 4Runner TRD Pro SUV
 toyota/86-2017|orange 2018 Toyota 86 coupe
 toyota/altezza-1998|white 1999 Toyota Altezza sedan
 toyota/avalon-2000|silver 2001 Toyota Avalon XX20 sedan
@@ -117,7 +86,6 @@ toyota/camry-1992|silver 1994 Toyota Camry XV10 sedan
 toyota/camry-2002|silver 2004 Toyota Camry XV30 sedan
 toyota/camry-2007|gray 2009 Toyota Camry XV40 sedan
 toyota/camry-2012|silver 2014 Toyota Camry XV50 sedan
-toyota/camry-trd-2020|black 2021 Toyota Camry TRD sedan
 toyota/celica-1990|white 1991 Toyota Celica GT liftback
 toyota/celica-1994|silver 1996 Toyota Celica GT coupe
 toyota/celica-all-trac-1990|blue 1991 Toyota Celica All-Trac Turbo ST185 coupe
@@ -133,14 +101,9 @@ toyota/corolla-hatchback|red 2024 Toyota Corolla Hatchback E210
 toyota/cressida-1989|gray 1991 Toyota Cressida sedan
 toyota/crown|black 2024 Toyota Crown sedan
 toyota/fj-cruiser-2007|orange 2009 Toyota FJ Cruiser SUV
-toyota/gr-corolla|blue 2024 Toyota GR Corolla hot hatch
-toyota/gr-supra|red 2024 Toyota GR Supra A90 MkV coupe
 toyota/highlander-2008|gray 2010 Toyota Highlander SUV
 toyota/highlander-2014|silver 2016 Toyota Highlander SUV
 toyota/hilux-2015|white 2017 Toyota Hilux pickup
-toyota/land-cruiser-1991|white 1994 Toyota Land Cruiser 80 Series SUV
-toyota/land-cruiser-1998|white 2000 Toyota Land Cruiser 100 Series SUV
-toyota/land-cruiser-2008|white 2012 Toyota Land Cruiser 200 Series SUV
 toyota/matrix-2009|gray 2011 Toyota Matrix hatchback
 toyota/mirai|white 2024 Toyota Mirai hydrogen sedan
 toyota/mr2-1991|red 1993 Toyota MR2 SW20 Turbo coupe
@@ -158,9 +121,6 @@ toyota/sienna-2004|gray 2006 Toyota Sienna minivan
 toyota/soarer-1991|black 1994 Toyota Soarer Z30 coupe
 toyota/solara-1999|silver 2000 Toyota Camry Solara coupe
 toyota/t100-1993|white 1995 Toyota T100 pickup
-toyota/tacoma-2005|silver 2008 Toyota Tacoma pickup
-toyota/tacoma-trd-pro-2015|red 2015 Toyota Tacoma TRD Pro pickup
-toyota/tacoma-trd-pro-2016|red 2017 Toyota Tacoma TRD Pro pickup
 toyota/tercel-1995|silver 1997 Toyota Tercel sedan
 toyota/tundra-2000|silver 2002 Toyota Tundra pickup
 toyota/tundra-trd-pro-2015|red 2017 Toyota Tundra TRD Pro pickup
