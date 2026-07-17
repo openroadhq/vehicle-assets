@@ -3152,13 +3152,141 @@
    "bytes": 23662,
    "tint": "#ADADAF"
   },
+  "ford/probe-1993": {
+   "bytes": 25062,
+   "tint": "#8D8F90"
+  },
+  "ford/puma-1997": {
+   "bytes": 24472,
+   "tint": "#8B8D8F"
+  },
+  "ford/puma-2019": {
+   "bytes": 42260,
+   "tint": "#B54503"
+  },
   "ford/ranger": {
    "bytes": 28598,
    "tint": "#084BAE"
   },
+  "ford/ranger-1989": {
+   "bytes": 21360,
+   "tint": "#ECECEC"
+  },
+  "ford/ranger-1993": {
+   "bytes": 27644,
+   "tint": "#B20915"
+  },
+  "ford/ranger-1998": {
+   "bytes": 22480,
+   "tint": "#B0B0B2"
+  },
+  "ford/ranger-2019": {
+   "bytes": 28776,
+   "tint": "#ACACB0"
+  },
+  "ford/ranger-raptor": {
+   "bytes": 31970,
+   "tint": "#F54F17"
+  },
+  "ford/ranger-raptor-2018": {
+   "bytes": 35018,
+   "tint": "#D04C03"
+  },
+  "ford/sierra-rs-cosworth-1986": {
+   "bytes": 31576,
+   "tint": "#01184C"
+  },
+  "ford/taurus-1986": {
+   "bytes": 23562,
+   "tint": "#AEAEB1"
+  },
+  "ford/taurus-1992": {
+   "bytes": 23176,
+   "tint": "#ACAFB2"
+  },
+  "ford/taurus-1996": {
+   "bytes": 25078,
+   "tint": "#ADB0B1"
+  },
+  "ford/taurus-2000": {
+   "bytes": 23806,
+   "tint": "#ACACAE"
+  },
+  "ford/taurus-2008": {
+   "bytes": 24038,
+   "tint": "#8C8D90"
+  },
+  "ford/taurus-2010": {
+   "bytes": 27234,
+   "tint": "#AFAFB1"
+  },
+  "ford/taurus-sho-1989": {
+   "bytes": 24662,
+   "tint": "#0D0D0D"
+  },
+  "ford/taurus-sho-1992": {
+   "bytes": 21914,
+   "tint": "#0D0D0D"
+  },
+  "ford/taurus-sho-1996": {
+   "bytes": 24198,
+   "tint": "#0D0D0C"
+  },
+  "ford/taurus-sho-2010": {
+   "bytes": 25346,
+   "tint": "#131312"
+  },
+  "ford/thunderbird-1989": {
+   "bytes": 23958,
+   "tint": "#8D8D8E"
+  },
+  "ford/thunderbird-1994": {
+   "bytes": 20592,
+   "tint": "#A9AAAB"
+  },
+  "ford/thunderbird-2002": {
+   "bytes": 22730,
+   "tint": "#949494"
+  },
+  "ford/thunderbird-super-coupe-1989": {
+   "bytes": 21682,
+   "tint": "#0D0D0D"
+  },
+  "ford/transit": {
+   "bytes": 23460,
+   "tint": "#E7E7E7"
+  },
+  "ford/transit-2015": {
+   "bytes": 23356,
+   "tint": "#EAE9EC"
+  },
+  "ford/windstar-1995": {
+   "bytes": 24344,
+   "tint": "#8E9092"
+  },
+  "ford/windstar-1999": {
+   "bytes": 26584,
+   "tint": "#2E2F30"
+  },
   "genesis/g70": {
    "bytes": 29416,
    "tint": "#072E6F"
+  },
+  "genesis/g70-2019": {
+   "bytes": 28550,
+   "tint": "#8E9094"
+  },
+  "genesis/g70-2022": {
+   "bytes": 27460,
+   "tint": "#4B4C4E"
+  },
+  "genesis/g70-3-3t-2019": {
+   "bytes": 30044,
+   "tint": "#710203"
+  },
+  "genesis/g80-2017": {
+   "bytes": 25484,
+   "tint": "#CDCFD2"
   },
   "genesis/gv70": {
    "bytes": 27260,
