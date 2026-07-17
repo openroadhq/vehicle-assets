@@ -7631,6 +7631,12 @@
     "porsche/928-gts-1991"
    ]
   ],
+  "porsche/944": [
+   [
+    1982,
+    "porsche/944-1982"
+   ]
+  ],
   "porsche/944-s2": [
    [
     1989,
@@ -7641,6 +7647,18 @@
    [
     1985,
     "porsche/944-turbo-1985"
+   ]
+  ],
+  "porsche/959": [
+   [
+    1986,
+    "porsche/959-1986"
+   ]
+  ],
+  "porsche/968": [
+   [
+    1991,
+    "porsche/968-1991"
    ]
   ],
   "porsche/968-club-sport": [
@@ -7657,12 +7675,24 @@
   ],
   "porsche/boxster": [
    [
+    1997,
+    "porsche/boxster-1997"
+   ],
+   [
     2005,
     "porsche/boxster-2005"
    ],
    [
     2012,
     "porsche/boxster-2012"
+   ],
+   [
+    2016,
+    "porsche/boxster-2016"
+   ],
+   [
+    2017,
+    "porsche/boxster"
    ]
   ],
   "porsche/boxster-spyder": [
@@ -7673,6 +7703,16 @@
    [
     2015,
     "porsche/boxster-spyder-2015"
+   ],
+   [
+    2020,
+    "porsche/boxster-spyder"
+   ]
+  ],
+  "porsche/carrera-gt": [
+   [
+    2004,
+    "porsche/carrera-gt-2004"
    ]
   ],
   "porsche/cayenne": [
@@ -7683,9 +7723,21 @@
    [
     2010,
     "porsche/cayenne-2010"
+   ],
+   [
+    2017,
+    "porsche/cayenne-2017"
+   ],
+   [
+    2019,
+    "porsche/cayenne"
    ]
   ],
   "porsche/cayenne-turbo": [
+   [
+    2002,
+    "porsche/cayenne-turbo-2002"
+   ],
    [
     2010,
     "porsche/cayenne-turbo-2010"
@@ -7693,6 +7745,12 @@
    [
     2017,
     "porsche/cayenne-turbo-2017"
+   ]
+  ],
+  "porsche/cayenne-turbo-gt": [
+   [
+    2021,
+    "porsche/cayenne-turbo-gt-2021"
    ]
   ],
   "porsche/cayman": [
@@ -7703,12 +7761,30 @@
    [
     2012,
     "porsche/cayman-2012"
+   ],
+   [
+    2016,
+    "porsche/cayman-2016"
+   ],
+   [
+    2017,
+    "porsche/cayman"
    ]
   ],
   "porsche/cayman-gt4": [
    [
+    2015,
+    "porsche/cayman-gt4-2015"
+   ],
+   [
     2019,
     "porsche/cayman-gt4-2019"
+   ]
+  ],
+  "porsche/cayman-r": [
+   [
+    2011,
+    "porsche/cayman-r-2011"
    ]
   ],
   "porsche/macan": [
@@ -16526,6 +16602,10 @@
    "bytes": 27244,
    "tint": "#AFB1B0"
   },
+  "porsche/944-1982": {
+   "bytes": 26332,
+   "tint": "#D1D3CE"
+  },
   "porsche/944-s2-1989": {
    "bytes": 26514,
    "tint": "#ADAEB0"
@@ -16533,6 +16613,14 @@
   "porsche/944-turbo-1985": {
    "bytes": 25968,
    "tint": "#919191"
+  },
+  "porsche/959-1986": {
+   "bytes": 27770,
+   "tint": "#B5B7B5"
+  },
+  "porsche/968-1991": {
+   "bytes": 28720,
+   "tint": "#AAADAE"
   },
   "porsche/968-club-sport-1992": {
    "bytes": 22818,
@@ -16542,6 +16630,14 @@
    "bytes": 26832,
    "tint": "#8A8B8B"
   },
+  "porsche/boxster": {
+   "bytes": 34040,
+   "tint": "#8B0511"
+  },
+  "porsche/boxster-1997": {
+   "bytes": 24264,
+   "tint": "#AEAFAD"
+  },
   "porsche/boxster-2005": {
    "bytes": 24500,
    "tint": "#8E8F93"
@@ -16549,6 +16645,14 @@
   "porsche/boxster-2012": {
    "bytes": 27312,
    "tint": "#8E8E8F"
+  },
+  "porsche/boxster-2016": {
+   "bytes": 32996,
+   "tint": "#AFB0B0"
+  },
+  "porsche/boxster-spyder": {
+   "bytes": 30092,
+   "tint": "#920416"
   },
   "porsche/boxster-spyder-2010": {
    "bytes": 27346,
@@ -16558,6 +16662,14 @@
    "bytes": 28620,
    "tint": "#8D8F8F"
   },
+  "porsche/carrera-gt-2004": {
+   "bytes": 30530,
+   "tint": "#ADADAC"
+  },
+  "porsche/cayenne": {
+   "bytes": 29258,
+   "tint": "#101212"
+  },
   "porsche/cayenne-2002": {
    "bytes": 24854,
    "tint": "#0F0F0F"
@@ -16565,6 +16677,14 @@
   "porsche/cayenne-2010": {
    "bytes": 32996,
    "tint": "#0F0F0F"
+  },
+  "porsche/cayenne-2017": {
+   "bytes": 31612,
+   "tint": "#8E9091"
+  },
+  "porsche/cayenne-turbo-2002": {
+   "bytes": 39126,
+   "tint": "#ACAEAF"
   },
   "porsche/cayenne-turbo-2010": {
    "bytes": 33366,
@@ -16574,6 +16694,14 @@
    "bytes": 35020,
    "tint": "#AEB0B1"
   },
+  "porsche/cayenne-turbo-gt-2021": {
+   "bytes": 29182,
+   "tint": "#79858F"
+  },
+  "porsche/cayman": {
+   "bytes": 31464,
+   "tint": "#CCAA0F"
+  },
   "porsche/cayman-2005": {
    "bytes": 26684,
    "tint": "#ACACAF"
@@ -16582,6 +16710,14 @@
    "bytes": 28204,
    "tint": "#8E8E8E"
   },
+  "porsche/cayman-2016": {
+   "bytes": 31610,
+   "tint": "#8F9192"
+  },
+  "porsche/cayman-gt4-2015": {
+   "bytes": 34768,
+   "tint": "#AC0610"
+  },
   "porsche/cayman-gt4-2019": {
    "bytes": 31658,
    "tint": "#4A9739"
@@ -16589,6 +16725,10 @@
   "porsche/cayman-gt4-rs": {
    "bytes": 31004,
    "tint": "#1B6524"
+  },
+  "porsche/cayman-r-2011": {
+   "bytes": 28976,
+   "tint": "#8E9192"
   },
   "porsche/macan-2014": {
    "bytes": 30468,

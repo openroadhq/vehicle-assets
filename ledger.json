@@ -785,20 +785,20 @@
  "porsche/boxster": {
   "desc": "red Porsche 718 Boxster convertible, top up, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-17 09:47"
  },
  "porsche/cayenne": {
   "desc": "black Porsche Cayenne SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-17 09:47"
  },
  "porsche/cayman": {
   "desc": "yellow Porsche 718 Cayman coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-17 09:47"
  },
  "porsche/macan": {
   "desc": "white Porsche Macan SUV, 2025 model year",
