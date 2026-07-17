@@ -7379,6 +7379,52 @@
     "oldsmobile/aurora-2001"
    ]
   ],
+  "oldsmobile/bravada": [
+   [
+    1991,
+    "oldsmobile/bravada-1991"
+   ],
+   [
+    2002,
+    "oldsmobile/bravada-2002"
+   ]
+  ],
+  "oldsmobile/cutlass": [
+   [
+    1997,
+    "oldsmobile/cutlass-1997"
+   ]
+  ],
+  "oldsmobile/cutlass-ciera": [
+   [
+    1982,
+    "oldsmobile/cutlass-ciera-1982"
+   ]
+  ],
+  "oldsmobile/cutlass-supreme": [
+   [
+    1988,
+    "oldsmobile/cutlass-supreme-1988"
+   ]
+  ],
+  "oldsmobile/eighty-eight": [
+   [
+    1991,
+    "oldsmobile/eighty-eight-1991"
+   ]
+  ],
+  "oldsmobile/intrigue": [
+   [
+    1998,
+    "oldsmobile/intrigue-1998"
+   ]
+  ],
+  "oldsmobile/ninety-eight": [
+   [
+    1991,
+    "oldsmobile/ninety-eight-1991"
+   ]
+  ],
   "pontiac/grand-am": [
    [
     1985,
@@ -16135,6 +16181,70 @@
   "oldsmobile/aurora-2001": {
    "bytes": 30750,
    "tint": "#AEAFAE"
+  },
+  "oldsmobile/bravada-1991": {
+   "bytes": 31288,
+   "tint": "#D2D2D0"
+  },
+  "oldsmobile/bravada-2002": {
+   "bytes": 35408,
+   "tint": "#909292"
+  },
+  "oldsmobile/cutlass-1997": {
+   "bytes": 25460,
+   "tint": "#D2D2D0"
+  },
+  "oldsmobile/cutlass-ciera-1982": {
+   "bytes": 26010,
+   "tint": "#909190"
+  },
+  "oldsmobile/cutlass-supreme-1988": {
+   "bytes": 25626,
+   "tint": "#D3D2D0"
+  },
+  "oldsmobile/eighty-eight-1991": {
+   "bytes": 29876,
+   "tint": "#D2D2CF"
+  },
+  "oldsmobile/intrigue-1998": {
+   "bytes": 29218,
+   "tint": "#0D0F0F"
+  },
+  "oldsmobile/ninety-eight-1991": {
+   "bytes": 28914,
+   "tint": "#0D0F0F"
+  },
+  "pagani/huayra": {
+   "bytes": 30648,
+   "tint": "#ADAFB0"
+  },
+  "pagani/huayra-bc": {
+   "bytes": 32502,
+   "tint": "#303030"
+  },
+  "pagani/huayra-roadster": {
+   "bytes": 34228,
+   "tint": "#AEAEAF"
+  },
+  "pagani/utopia": {
+   "bytes": 37496,
+   "tint": "#AEAEB0"
+  },
+  "pagani/zonda-c12": {
+   "bytes": 33894,
+   "tint": "#B0B1B2"
+  },
+  "pagani/zonda-cinque": {
+   "bytes": 41444,
+   "tint": "#2D2F30"
+  },
+  "pagani/zonda-f": {
+   "bytes": 38106,
+   "tint": "#AEAFAE"
+  },
+  "pagani/zonda-r": {
+   "bytes": 32940,
+   "tint": "#2E2F32"
   },
   "pontiac/grand-am-1985": {
    "bytes": 22288,
