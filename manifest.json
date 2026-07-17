@@ -5948,17 +5948,849 @@
    "bytes": 28270,
    "tint": "#ABADB1"
   },
+  "mercedes-benz/g-class": {
+   "bytes": 33826,
+   "tint": "#121212"
+  },
   "mercedes-benz/g-class-1990": {
    "bytes": 30966,
    "tint": "#0C0C0C"
+  },
+  "mercedes-benz/g500-4x4-2-2016": {
+   "bytes": 36822,
+   "tint": "#2D2E30"
+  },
+  "mercedes-benz/g55-amg-2000": {
+   "bytes": 30164,
+   "tint": "#101010"
+  },
+  "mercedes-benz/g63-amg": {
+   "bytes": 31658,
+   "tint": "#2E2E31"
+  },
+  "mercedes-benz/g63-amg-2012": {
+   "bytes": 29704,
+   "tint": "#2E2E2E"
+  },
+  "mercedes-benz/g65-amg-2012": {
+   "bytes": 29576,
+   "tint": "#2D2D2E"
+  },
+  "mercedes-benz/gl-2006": {
+   "bytes": 30124,
+   "tint": "#CECED0"
+  },
+  "mercedes-benz/gl-2012": {
+   "bytes": 32378,
+   "tint": "#ABACAF"
+  },
+  "mercedes-benz/gla-2014": {
+   "bytes": 28996,
+   "tint": "#CED0D2"
+  },
+  "mercedes-benz/gla-2020": {
+   "bytes": 30930,
+   "tint": "#CDCED0"
+  },
+  "mercedes-benz/gla35-amg-2020": {
+   "bytes": 30998,
+   "tint": "#CDCED0"
+  },
+  "mercedes-benz/gla45-amg-2014": {
+   "bytes": 36214,
+   "tint": "#CECED1"
+  },
+  "mercedes-benz/glb-2019": {
+   "bytes": 32320,
+   "tint": "#AEAFB2"
+  },
+  "mercedes-benz/glb35-amg-2019": {
+   "bytes": 30272,
+   "tint": "#AAADB0"
   },
   "mercedes-benz/glc": {
    "bytes": 27186,
    "tint": "#CFD0CE"
   },
+  "mercedes-benz/glc-2015": {
+   "bytes": 32314,
+   "tint": "#AEAFB2"
+  },
+  "mercedes-benz/glc43-amg-2016": {
+   "bytes": 31086,
+   "tint": "#8C8D8F"
+  },
+  "mercedes-benz/glc63-amg": {
+   "bytes": 30754,
+   "tint": "#ACADB0"
+  },
+  "mercedes-benz/glc63-amg-2017": {
+   "bytes": 33172,
+   "tint": "#AEAFB2"
+  },
+  "mercedes-benz/gle": {
+   "bytes": 29322,
+   "tint": "#8D9094"
+  },
+  "mercedes-benz/gle-2016": {
+   "bytes": 32296,
+   "tint": "#CBCCD0"
+  },
+  "mercedes-benz/gle43-amg-2016": {
+   "bytes": 34288,
+   "tint": "#ADAFB1"
+  },
+  "mercedes-benz/gle63-amg": {
+   "bytes": 31202,
+   "tint": "#CFCED0"
+  },
+  "mercedes-benz/gle63-amg-2016": {
+   "bytes": 34856,
+   "tint": "#CECED0"
+  },
+  "mercedes-benz/gls": {
+   "bytes": 31106,
+   "tint": "#B0B0B2"
+  },
+  "mercedes-benz/gls-2016": {
+   "bytes": 31692,
+   "tint": "#2E2E2E"
+  },
+  "mercedes-benz/gls63-amg": {
+   "bytes": 28974,
+   "tint": "#CECFD1"
+  },
+  "mercedes-benz/gls63-amg-2016": {
+   "bytes": 32302,
+   "tint": "#CDCFD2"
+  },
+  "mercedes-benz/maybach-57-2002": {
+   "bytes": 24146,
+   "tint": "#0E0E0E"
+  },
+  "mercedes-benz/maybach-62-2002": {
+   "bytes": 22102,
+   "tint": "#0A0B0A"
+  },
+  "mercedes-benz/maybach-gls": {
+   "bytes": 30730,
+   "tint": "#0E0E0E"
+  },
+  "mercedes-benz/maybach-s-class": {
+   "bytes": 26938,
+   "tint": "#303031"
+  },
+  "mercedes-benz/maybach-s-class-2015": {
+   "bytes": 24032,
+   "tint": "#0D0D0C"
+  },
+  "mercedes-benz/metris-2016": {
+   "bytes": 25212,
+   "tint": "#EBEBEB"
+  },
+  "mercedes-benz/ml-1997": {
+   "bytes": 29362,
+   "tint": "#CDCFCF"
+  },
+  "mercedes-benz/ml-2005": {
+   "bytes": 28726,
+   "tint": "#AEAFB0"
+  },
+  "mercedes-benz/ml-2011": {
+   "bytes": 30406,
+   "tint": "#D1D1D3"
+  },
+  "mercedes-benz/ml55-amg-1999": {
+   "bytes": 31450,
+   "tint": "#ACADAF"
+  },
+  "mercedes-benz/ml63-amg-2006": {
+   "bytes": 36050,
+   "tint": "#ACACAC"
+  },
+  "mercedes-benz/ml63-amg-2011": {
+   "bytes": 31512,
+   "tint": "#AFB1B0"
+  },
+  "mercedes-benz/r-class-2005": {
+   "bytes": 31004,
+   "tint": "#CFD0D2"
+  },
   "mercedes-benz/s-class": {
    "bytes": 24982,
    "tint": "#101112"
+  },
+  "mercedes-benz/s-class-1991": {
+   "bytes": 23644,
+   "tint": "#0F0F10"
+  },
+  "mercedes-benz/s-class-1999": {
+   "bytes": 23760,
+   "tint": "#0F0E0F"
+  },
+  "mercedes-benz/s-class-2006": {
+   "bytes": 24704,
+   "tint": "#111111"
+  },
+  "mercedes-benz/s-class-2013": {
+   "bytes": 24958,
+   "tint": "#0E0E0E"
+  },
+  "mercedes-benz/s55-amg-2000": {
+   "bytes": 23770,
+   "tint": "#0B0B0B"
+  },
+  "mercedes-benz/s63-amg": {
+   "bytes": 27044,
+   "tint": "#100F0F"
+  },
+  "mercedes-benz/s63-amg-2006": {
+   "bytes": 24720,
+   "tint": "#0E0E0E"
+  },
+  "mercedes-benz/s63-amg-2013": {
+   "bytes": 28604,
+   "tint": "#0B0B0C"
+  },
+  "mercedes-benz/s65-amg-2004": {
+   "bytes": 24132,
+   "tint": "#121312"
+  },
+  "mercedes-benz/s65-amg-2006": {
+   "bytes": 24990,
+   "tint": "#0D0D0D"
+  },
+  "mercedes-benz/s65-amg-2013": {
+   "bytes": 25112,
+   "tint": "#101010"
+  },
+  "mercedes-benz/sl": {
+   "bytes": 26834,
+   "tint": "#8C8C8C"
+  },
+  "mercedes-benz/sl-1989": {
+   "bytes": 25458,
+   "tint": "#AE050C"
+  },
+  "mercedes-benz/sl-2001": {
+   "bytes": 23616,
+   "tint": "#939393"
+  },
+  "mercedes-benz/sl-2012": {
+   "bytes": 27898,
+   "tint": "#909194"
+  },
+  "mercedes-benz/sl55-amg-2002": {
+   "bytes": 26794,
+   "tint": "#909092"
+  },
+  "mercedes-benz/sl63-amg-2008": {
+   "bytes": 29678,
+   "tint": "#8E9093"
+  },
+  "mercedes-benz/sl63-amg-2012": {
+   "bytes": 28700,
+   "tint": "#8D8E90"
+  },
+  "mercedes-benz/sl65-black-series-2008": {
+   "bytes": 26102,
+   "tint": "#2C2D2E"
+  },
+  "mercedes-benz/slc-2016": {
+   "bytes": 29004,
+   "tint": "#8C8E91"
+  },
+  "mercedes-benz/slk-1996": {
+   "bytes": 22850,
+   "tint": "#909194"
+  },
+  "mercedes-benz/slk-2004": {
+   "bytes": 26056,
+   "tint": "#8C8C8E"
+  },
+  "mercedes-benz/slk-2011": {
+   "bytes": 27118,
+   "tint": "#6E6F73"
+  },
+  "mercedes-benz/slk32-amg-2001": {
+   "bytes": 25108,
+   "tint": "#ACACAE"
+  },
+  "mercedes-benz/slk55-amg-2004": {
+   "bytes": 25682,
+   "tint": "#8E8F92"
+  },
+  "mercedes-benz/slr-mclaren-2004": {
+   "bytes": 25694,
+   "tint": "#A9A9AB"
+  },
+  "mercedes-benz/sls-amg-2010": {
+   "bytes": 27062,
+   "tint": "#8C8F92"
+  },
+  "mercedes-benz/sls-amg-black-series-2013": {
+   "bytes": 26876,
+   "tint": "#AEAEB0"
+  },
+  "mercedes-benz/sprinter": {
+   "bytes": 20544,
+   "tint": "#ECECEC"
+  },
+  "mercedes-benz/sprinter-2002": {
+   "bytes": 20398,
+   "tint": "#E8E8E8"
+  },
+  "mercury/capri-1991": {
+   "bytes": 24412,
+   "tint": "#B50612"
+  },
+  "mercury/cougar-1989": {
+   "bytes": 24146,
+   "tint": "#AEB1B3"
+  },
+  "mercury/cougar-1999": {
+   "bytes": 24320,
+   "tint": "#B0B0B2"
+  },
+  "mercury/grand-marquis-1992": {
+   "bytes": 25302,
+   "tint": "#ADAFB1"
+  },
+  "mercury/grand-marquis-1998": {
+   "bytes": 24238,
+   "tint": "#949494"
+  },
+  "mercury/marauder-2003": {
+   "bytes": 24886,
+   "tint": "#0E0E0E"
+  },
+  "mercury/mariner-2005": {
+   "bytes": 33082,
+   "tint": "#8F8F91"
+  },
+  "mercury/milan-2006": {
+   "bytes": 24832,
+   "tint": "#ADB0AF"
+  },
+  "mercury/mountaineer-1997": {
+   "bytes": 30210,
+   "tint": "#CCCED0"
+  },
+  "mercury/mountaineer-2006": {
+   "bytes": 28808,
+   "tint": "#D0D0D2"
+  },
+  "mercury/mystique-1995": {
+   "bytes": 24348,
+   "tint": "#ADB0B2"
+  },
+  "mercury/sable-1986": {
+   "bytes": 24348,
+   "tint": "#717172"
+  },
+  "mercury/sable-1992": {
+   "bytes": 24676,
+   "tint": "#727372"
+  },
+  "mercury/sable-1996": {
+   "bytes": 22450,
+   "tint": "#ADADAD"
+  },
+  "mercury/sable-2000": {
+   "bytes": 24214,
+   "tint": "#ACACAC"
+  },
+  "mercury/sable-2008": {
+   "bytes": 28416,
+   "tint": "#AEAFAF"
+  },
+  "mercury/tracer-1991": {
+   "bytes": 24326,
+   "tint": "#ACAEB0"
+  },
+  "mercury/villager-1993": {
+   "bytes": 25196,
+   "tint": "#B1B2B3"
+  },
+  "mercury/villager-1999": {
+   "bytes": 26804,
+   "tint": "#AEAEB1"
+  },
+  "merkur/xr4ti": {
+   "bytes": 27432,
+   "tint": "#8D8E90"
+  },
+  "mg/f-1995": {
+   "bytes": 26120,
+   "tint": "#B00F0E"
+  },
+  "mg/mgb-1962": {
+   "bytes": 24518,
+   "tint": "#112A1A"
+  },
+  "mg/tf-2002": {
+   "bytes": 27890,
+   "tint": "#AB010E"
+  },
+  "mini/classic-1959": {
+   "bytes": 34274,
+   "tint": "#A8050B"
+  },
+  "mini/clubman-2008": {
+   "bytes": 25898,
+   "tint": "#919191"
+  },
+  "mini/clubman-2016": {
+   "bytes": 27222,
+   "tint": "#909292"
+  },
+  "mini/clubman-jcw-2016": {
+   "bytes": 31982,
+   "tint": "#AC0710"
+  },
+  "mini/convertible": {
+   "bytes": 28476,
+   "tint": "#8B8D8E"
+  },
+  "mini/convertible-2005": {
+   "bytes": 29028,
+   "tint": "#ABABAD"
+  },
+  "mini/convertible-2009": {
+   "bytes": 27778,
+   "tint": "#8E8F92"
+  },
+  "mini/cooper": {
+   "bytes": 29104,
+   "tint": "#ADB0B1"
+  },
+  "mini/cooper-2002": {
+   "bytes": 25410,
+   "tint": "#929396"
+  },
+  "mini/cooper-2007": {
+   "bytes": 28076,
+   "tint": "#121211"
+  },
+  "mini/cooper-s": {
+   "bytes": 29930,
+   "tint": "#0D0D0D"
+  },
+  "mini/cooper-s-2002": {
+   "bytes": 30664,
+   "tint": "#0E0E0E"
+  },
+  "mini/cooper-s-2007": {
+   "bytes": 28500,
+   "tint": "#131313"
+  },
+  "mini/cooper-s-works-gp-2006": {
+   "bytes": 28438,
+   "tint": "#D1CFCC"
+  },
+  "mini/cooper-s-works-gp-2013": {
+   "bytes": 28314,
+   "tint": "#D3D2D0"
+  },
+  "mini/cooper-se-2020": {
+   "bytes": 34572,
+   "tint": "#012D74"
+  },
+  "mini/countryman": {
+   "bytes": 28048,
+   "tint": "#919192"
+  },
+  "mini/countryman-2011": {
+   "bytes": 33010,
+   "tint": "#CECFD1"
+  },
+  "mini/countryman-2017": {
+   "bytes": 33218,
+   "tint": "#2E2E2E"
+  },
+  "mini/countryman-jcw-2017": {
+   "bytes": 33468,
+   "tint": "#91010E"
+  },
+  "mini/coupe-2012": {
+   "bytes": 29568,
+   "tint": "#A9AAAE"
+  },
+  "mini/jcw": {
+   "bytes": 35020,
+   "tint": "#A80A0B"
+  },
+  "mini/jcw-2006": {
+   "bytes": 31038,
+   "tint": "#A90712"
+  },
+  "mini/jcw-2009": {
+   "bytes": 33576,
+   "tint": "#AB050B"
+  },
+  "mini/paceman-2013": {
+   "bytes": 30776,
+   "tint": "#111010"
+  },
+  "mini/roadster-2012": {
+   "bytes": 26264,
+   "tint": "#979797"
+  },
+  "mitsubishi/3000gt-1991": {
+   "bytes": 29742,
+   "tint": "#AE070D"
+  },
+  "mitsubishi/3000gt-vr-4-1991": {
+   "bytes": 24860,
+   "tint": "#D1D1CF"
+  },
+  "mitsubishi/diamante-1992": {
+   "bytes": 26380,
+   "tint": "#8F9193"
+  },
+  "mitsubishi/diamante-1997": {
+   "bytes": 27320,
+   "tint": "#8F9090"
+  },
+  "mitsubishi/eclipse-1990": {
+   "bytes": 26146,
+   "tint": "#AAAAAF"
+  },
+  "mitsubishi/eclipse-1995": {
+   "bytes": 25780,
+   "tint": "#8C8E92"
+  },
+  "mitsubishi/eclipse-2000": {
+   "bytes": 26616,
+   "tint": "#8E8E8F"
+  },
+  "mitsubishi/eclipse-2006": {
+   "bytes": 25996,
+   "tint": "#303032"
+  },
+  "mitsubishi/eclipse-cross": {
+   "bytes": 37948,
+   "tint": "#ADADAF"
+  },
+  "mitsubishi/eclipse-gsx-1995": {
+   "bytes": 33280,
+   "tint": "#AA050D"
+  },
+  "mitsubishi/endeavor-2004": {
+   "bytes": 31364,
+   "tint": "#AFAFAF"
+  },
+  "mitsubishi/fto-1994": {
+   "bytes": 28588,
+   "tint": "#B20405"
+  },
+  "mitsubishi/galant-1989": {
+   "bytes": 25906,
+   "tint": "#ADADAF"
+  },
+  "mitsubishi/galant-1994": {
+   "bytes": 23944,
+   "tint": "#919293"
+  },
+  "mitsubishi/galant-1999": {
+   "bytes": 25274,
+   "tint": "#ABAEB0"
+  },
+  "mitsubishi/galant-2004": {
+   "bytes": 25532,
+   "tint": "#929293"
+  },
+  "mitsubishi/galant-vr-4-1991": {
+   "bytes": 24432,
+   "tint": "#D2D3D5"
+  },
+  "mitsubishi/gto-1990": {
+   "bytes": 29488,
+   "tint": "#C80510"
+  },
+  "mitsubishi/i-miev-2012": {
+   "bytes": 29774,
+   "tint": "#D2D1D0"
+  },
+  "mitsubishi/lancer-2002": {
+   "bytes": 26508,
+   "tint": "#8F8F91"
+  },
+  "mitsubishi/lancer-2008": {
+   "bytes": 23952,
+   "tint": "#D0D0D1"
+  },
+  "mitsubishi/lancer-evolution-i-1992": {
+   "bytes": 34702,
+   "tint": "#B10205"
+  },
+  "mitsubishi/lancer-evolution-iv-1996": {
+   "bytes": 33962,
+   "tint": "#B10404"
+  },
+  "mitsubishi/lancer-evolution-ix-2005": {
+   "bytes": 32700,
+   "tint": "#910303"
+  },
+  "mitsubishi/lancer-evolution-ix-mr-2006": {
+   "bytes": 29186,
+   "tint": "#D1D2D2"
+  },
+  "mitsubishi/lancer-evolution-v-1998": {
+   "bytes": 33856,
+   "tint": "#C90709"
+  },
+  "mitsubishi/lancer-evolution-vi-1999": {
+   "bytes": 34272,
+   "tint": "#AD080C"
+  },
+  "mitsubishi/lancer-evolution-vi-tme-1999": {
+   "bytes": 25766,
+   "tint": "#D3D4D3"
+  },
+  "mitsubishi/lancer-evolution-vii-2001": {
+   "bytes": 34330,
+   "tint": "#B20504"
+  },
+  "mitsubishi/lancer-evolution-viii-2003": {
+   "bytes": 34554,
+   "tint": "#AD0707"
+  },
+  "mitsubishi/lancer-evolution-viii-mr-2004": {
+   "bytes": 27714,
+   "tint": "#ECECEC"
+  },
+  "mitsubishi/lancer-evolution-x-2008": {
+   "bytes": 34840,
+   "tint": "#AE030B"
+  },
+  "mitsubishi/lancer-evolution-x-final-edition-2015": {
+   "bytes": 34098,
+   "tint": "#A9070A"
+  },
+  "mitsubishi/lancer-evolution-x-mr-2010": {
+   "bytes": 26942,
+   "tint": "#D0D0D0"
+  },
+  "mitsubishi/lancer-ralliart-2009": {
+   "bytes": 27770,
+   "tint": "#EAEAEA"
+  },
+  "mitsubishi/minicab": {
+   "bytes": 25434,
+   "tint": "#E8E8E8"
+  },
+  "mitsubishi/minicab-1990": {
+   "bytes": 26120,
+   "tint": "#D6D7D5"
+  },
+  "mitsubishi/mirage-1989": {
+   "bytes": 27770,
+   "tint": "#AAAAAE"
+  },
+  "mitsubishi/mirage-1993": {
+   "bytes": 26910,
+   "tint": "#919294"
+  },
+  "mitsubishi/mirage-1997": {
+   "bytes": 25112,
+   "tint": "#ABADAF"
+  },
+  "mitsubishi/mirage-2014": {
+   "bytes": 29944,
+   "tint": "#E8E8E8"
+  },
+  "mitsubishi/montero-1983": {
+   "bytes": 28480,
+   "tint": "#E8E8E8"
+  },
+  "mitsubishi/montero-1992": {
+   "bytes": 32556,
+   "tint": "#ABAFAE"
+  },
+  "mitsubishi/montero-2001": {
+   "bytes": 33204,
+   "tint": "#8C8E91"
+  },
+  "mitsubishi/montero-sport-1997": {
+   "bytes": 31286,
+   "tint": "#132926"
+  },
+  "mitsubishi/outlander": {
+   "bytes": 30720,
+   "tint": "#D1D1D3"
+  },
+  "mitsubishi/outlander-2003": {
+   "bytes": 32128,
+   "tint": "#ACADB0"
+  },
+  "mitsubishi/outlander-2007": {
+   "bytes": 31532,
+   "tint": "#8B8E91"
+  },
+  "mitsubishi/outlander-2014": {
+   "bytes": 27982,
+   "tint": "#D4D3D0"
+  },
+  "mitsubishi/outlander-phev-2018": {
+   "bytes": 34886,
+   "tint": "#084790"
+  },
+  "mitsubishi/pajero-evolution-1997": {
+   "bytes": 29562,
+   "tint": "#EDECEC"
+  },
+  "mitsubishi/raider-2006": {
+   "bytes": 23124,
+   "tint": "#CFCFD1"
+  },
+  "mitsubishi/starion-1983": {
+   "bytes": 26174,
+   "tint": "#939394"
+  },
+  "morgan/3-wheeler-2011": {
+   "bytes": 25880,
+   "tint": "#2C2C2C"
+  },
+  "morgan/plus-four-2020": {
+   "bytes": 30030,
+   "tint": "#102515"
+  },
+  "mosler/mt900": {
+   "bytes": 23652,
+   "tint": "#ACAEB0"
+  },
+  "nissan/180sx-1989": {
+   "bytes": 21418,
+   "tint": "#D5D3D2"
+  },
+  "nissan/200sx-1995": {
+   "bytes": 24442,
+   "tint": "#959493"
+  },
+  "nissan/240sx": {
+   "bytes": 22066,
+   "tint": "#D2D2D1"
+  },
+  "nissan/240sx-1989": {
+   "bytes": 20406,
+   "tint": "#D5D5D5"
+  },
+  "nissan/240sx-1995": {
+   "bytes": 21266,
+   "tint": "#D4D2D0"
+  },
+  "nissan/300zx-1990": {
+   "bytes": 25040,
+   "tint": "#ACADAE"
+  },
+  "nissan/300zx-twin-turbo-1990": {
+   "bytes": 29504,
+   "tint": "#AC0204"
+  },
+  "nissan/350z-2003": {
+   "bytes": 29602,
+   "tint": "#E9B005"
+  },
+  "nissan/370z": {
+   "bytes": 32510,
+   "tint": "#8F0203"
+  },
+  "nissan/370z-2009": {
+   "bytes": 32322,
+   "tint": "#8D090D"
+  },
+  "nissan/370z-nismo-2015": {
+   "bytes": 30790,
+   "tint": "#8F030E"
+  },
+  "nissan/altima": {
+   "bytes": 27242,
+   "tint": "#ACAFB1"
+  },
+  "nissan/altima-1993": {
+   "bytes": 23540,
+   "tint": "#ADADB0"
+  },
+  "nissan/altima-1998": {
+   "bytes": 24398,
+   "tint": "#919191"
+  },
+  "nissan/altima-2002": {
+   "bytes": 24096,
+   "tint": "#AEAFAF"
+  },
+  "nissan/altima-2007": {
+   "bytes": 25646,
+   "tint": "#ACACAD"
+  },
+  "nissan/altima-2013": {
+   "bytes": 25460,
+   "tint": "#AEAFB0"
+  },
+  "nissan/ariya": {
+   "bytes": 25930,
+   "tint": "#CFCFCF"
+  },
+  "nissan/armada": {
+   "bytes": 32016,
+   "tint": "#2F2F2F"
+  },
+  "nissan/armada-2004": {
+   "bytes": 28106,
+   "tint": "#ADAEB0"
+  },
+  "nissan/armada-2017": {
+   "bytes": 30340,
+   "tint": "#CDCDCF"
+  },
+  "nissan/cedric-1991": {
+   "bytes": 22486,
+   "tint": "#101010"
+  },
+  "nissan/clipper": {
+   "bytes": 22896,
+   "tint": "#D5D5D5"
+  },
+  "nissan/cube-2009": {
+   "bytes": 25116,
+   "tint": "#D4D5D2"
+  },
+  "nissan/elgrand-1997": {
+   "bytes": 25330,
+   "tint": "#ACADAE"
+  },
+  "nissan/figaro-1991": {
+   "bytes": 20306,
+   "tint": "#D5D4CE"
+  },
+  "nissan/frontier": {
+   "bytes": 27224,
+   "tint": "#8D8E91"
+  },
+  "nissan/frontier-1998": {
+   "bytes": 22856,
+   "tint": "#ACADAD"
+  },
+  "nissan/frontier-2005": {
+   "bytes": 22768,
+   "tint": "#CECFD0"
+  },
+  "nissan/frontier-pro-4x-2005": {
+   "bytes": 22578,
+   "tint": "#0F0F0F"
+  },
+  "nissan/frontier-pro-4x-2022": {
+   "bytes": 25560,
+   "tint": "#0D0D0D"
+  },
+  "nissan/gt-r-2009": {
+   "bytes": 24904,
+   "tint": "#7C7D81"
+  },
+  "nissan/gt-r-nismo-2015": {
+   "bytes": 31574,
+   "tint": "#8C8E8F"
   },
   "porsche/911": {
    "bytes": 28516,

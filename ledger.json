@@ -689,8 +689,8 @@
  "mercedes-benz/gle": {
   "desc": "gray Mercedes-Benz GLE SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:04"
  },
  "mercedes-benz/s-class": {
   "desc": "black Mercedes-Benz S-Class sedan, 2025 model year",
@@ -701,32 +701,32 @@
  "nissan/240sx": {
   "desc": "white Nissan 240SX S14 coupe",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:04"
  },
  "nissan/370z": {
   "desc": "red Nissan 370Z sports coupe, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:04"
  },
  "nissan/altima": {
   "desc": "gray Nissan Altima sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:04"
  },
  "nissan/frontier": {
   "desc": "red Nissan Frontier pickup truck, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:04"
  },
  "nissan/gt-r": {
   "desc": "silver Nissan GT-R R35 sports coupe",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:04"
  },
  "nissan/pathfinder": {
   "desc": "black Nissan Pathfinder SUV, 2025 model year",
