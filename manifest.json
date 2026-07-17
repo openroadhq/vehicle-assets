@@ -3864,37 +3864,525 @@
    "bytes": 24378,
    "tint": "#CCCDCF"
   },
+  "hyundai/accent-2006": {
+   "bytes": 25366,
+   "tint": "#4D4D4F"
+  },
+  "hyundai/accent-2012": {
+   "bytes": 29732,
+   "tint": "#CECFD1"
+  },
+  "hyundai/accent-2018": {
+   "bytes": 24834,
+   "tint": "#EAEAEA"
+  },
+  "hyundai/azera-2006": {
+   "bytes": 25726,
+   "tint": "#8C8D8F"
+  },
+  "hyundai/azera-2012": {
+   "bytes": 26640,
+   "tint": "#D2D2D2"
+  },
   "hyundai/elantra": {
    "bytes": 27888,
    "tint": "#6B6C6F"
+  },
+  "hyundai/elantra-1992": {
+   "bytes": 21686,
+   "tint": "#D0D1D1"
+  },
+  "hyundai/elantra-1996": {
+   "bytes": 25730,
+   "tint": "#8E8E90"
+  },
+  "hyundai/elantra-2001": {
+   "bytes": 25504,
+   "tint": "#ABABAE"
+  },
+  "hyundai/elantra-2007": {
+   "bytes": 24318,
+   "tint": "#909091"
+  },
+  "hyundai/elantra-2011": {
+   "bytes": 24838,
+   "tint": "#D1D1D1"
+  },
+  "hyundai/elantra-2017": {
+   "bytes": 29522,
+   "tint": "#CECFD2"
+  },
+  "hyundai/elantra-gt-2013": {
+   "bytes": 29342,
+   "tint": "#2D2E30"
+  },
+  "hyundai/elantra-gt-n-line-2019": {
+   "bytes": 31610,
+   "tint": "#101010"
+  },
+  "hyundai/elantra-n": {
+   "bytes": 32258,
+   "tint": "#7298CC"
+  },
+  "hyundai/elantra-n-2022": {
+   "bytes": 31590,
+   "tint": "#2F61BA"
+  },
+  "hyundai/elantra-n-line-2021": {
+   "bytes": 28310,
+   "tint": "#151516"
+  },
+  "hyundai/elantra-touring-2009": {
+   "bytes": 29418,
+   "tint": "#CCCDCD"
+  },
+  "hyundai/entourage-2007": {
+   "bytes": 24788,
+   "tint": "#CFD0D4"
+  },
+  "hyundai/equus-2011": {
+   "bytes": 25884,
+   "tint": "#0C0C0C"
+  },
+  "hyundai/excel-1986": {
+   "bytes": 27028,
+   "tint": "#ECEDEF"
+  },
+  "hyundai/genesis-2009": {
+   "bytes": 26504,
+   "tint": "#939395"
+  },
+  "hyundai/genesis-2015": {
+   "bytes": 27092,
+   "tint": "#EFEDEB"
+  },
+  "hyundai/genesis-coupe-2010": {
+   "bytes": 31688,
+   "tint": "#AE0409"
+  },
+  "hyundai/genesis-coupe-2013": {
+   "bytes": 31144,
+   "tint": "#B3020B"
+  },
+  "hyundai/ioniq-2017": {
+   "bytes": 30666,
+   "tint": "#8E8F91"
+  },
+  "hyundai/ioniq-5": {
+   "bytes": 32514,
+   "tint": "#EAEAEA"
+  },
+  "hyundai/ioniq-5-n-2025": {
+   "bytes": 32472,
+   "tint": "#5088D2"
+  },
+  "hyundai/ioniq-6": {
+   "bytes": 27608,
+   "tint": "#AFAFB2"
+  },
+  "hyundai/kona": {
+   "bytes": 36470,
+   "tint": "#ABAFB3"
+  },
+  "hyundai/kona-2018": {
+   "bytes": 31490,
+   "tint": "#ECECEC"
+  },
+  "hyundai/kona-n-2022": {
+   "bytes": 33372,
+   "tint": "#528ACA"
+  },
+  "hyundai/nexo": {
+   "bytes": 26920,
+   "tint": "#2B2B2C"
   },
   "hyundai/palisade": {
    "bytes": 28288,
    "tint": "#ECECEC"
   },
+  "hyundai/santa-cruz": {
+   "bytes": 24312,
+   "tint": "#505152"
+  },
   "hyundai/santa-fe": {
    "bytes": 27264,
    "tint": "#2C2F2C"
+  },
+  "hyundai/santa-fe-2001": {
+   "bytes": 29314,
+   "tint": "#6C6D71"
+  },
+  "hyundai/santa-fe-2007": {
+   "bytes": 29378,
+   "tint": "#4C4D4E"
+  },
+  "hyundai/santa-fe-2013": {
+   "bytes": 32008,
+   "tint": "#ECECEB"
+  },
+  "hyundai/santa-fe-2019": {
+   "bytes": 31964,
+   "tint": "#AEAEB2"
+  },
+  "hyundai/scoupe-1990": {
+   "bytes": 24712,
+   "tint": "#8F8E90"
   },
   "hyundai/sonata": {
    "bytes": 28358,
    "tint": "#ADB0B3"
   },
+  "hyundai/sonata-1989": {
+   "bytes": 23938,
+   "tint": "#ABADB3"
+  },
+  "hyundai/sonata-1995": {
+   "bytes": 22950,
+   "tint": "#ECECED"
+  },
+  "hyundai/sonata-1999": {
+   "bytes": 24998,
+   "tint": "#919191"
+  },
+  "hyundai/sonata-2006": {
+   "bytes": 23924,
+   "tint": "#4D4E51"
+  },
+  "hyundai/sonata-2011": {
+   "bytes": 25740,
+   "tint": "#EDEDED"
+  },
+  "hyundai/sonata-2015": {
+   "bytes": 29300,
+   "tint": "#AEAFB1"
+  },
+  "hyundai/sonata-n-line-2021": {
+   "bytes": 28816,
+   "tint": "#0E0F0F"
+  },
+  "hyundai/tiburon-1997": {
+   "bytes": 25922,
+   "tint": "#8F8F91"
+  },
+  "hyundai/tiburon-2003": {
+   "bytes": 23544,
+   "tint": "#505051"
+  },
+  "hyundai/tiburon-gt-2003": {
+   "bytes": 30522,
+   "tint": "#D7A609"
+  },
   "hyundai/tucson": {
    "bytes": 39732,
    "tint": "#12396F"
+  },
+  "hyundai/tucson-2005": {
+   "bytes": 30480,
+   "tint": "#2B2B2C"
+  },
+  "hyundai/tucson-2010": {
+   "bytes": 30558,
+   "tint": "#6D6D70"
+  },
+  "hyundai/tucson-2016": {
+   "bytes": 30524,
+   "tint": "#EEEDEF"
+  },
+  "hyundai/veloster-2011": {
+   "bytes": 30974,
+   "tint": "#ADACB1"
+  },
+  "hyundai/veloster-2019": {
+   "bytes": 29644,
+   "tint": "#303132"
   },
   "hyundai/veloster-n": {
    "bytes": 28732,
    "tint": "#B2CAEB"
   },
+  "hyundai/veloster-n-2019": {
+   "bytes": 35736,
+   "tint": "#2D69B0"
+  },
+  "hyundai/veloster-turbo-2013": {
+   "bytes": 29080,
+   "tint": "#111111"
+  },
+  "hyundai/venue": {
+   "bytes": 30586,
+   "tint": "#EDEDED"
+  },
+  "hyundai/veracruz-2007": {
+   "bytes": 27664,
+   "tint": "#2E2E2E"
+  },
+  "hyundai/xg350-2001": {
+   "bytes": 25664,
+   "tint": "#4B4B4D"
+  },
+  "infiniti/ex35-2008": {
+   "bytes": 27940,
+   "tint": "#D1D2D3"
+  },
+  "infiniti/fx35-2003": {
+   "bytes": 27306,
+   "tint": "#0B0B0B"
+  },
+  "infiniti/fx50-2009": {
+   "bytes": 32370,
+   "tint": "#74050A"
+  },
+  "infiniti/g20-1991": {
+   "bytes": 24164,
+   "tint": "#8E9193"
+  },
+  "infiniti/g20-1999": {
+   "bytes": 22440,
+   "tint": "#929394"
+  },
+  "infiniti/g35-coupe-2003": {
+   "bytes": 22696,
+   "tint": "#101011"
+  },
+  "infiniti/g35-sedan-2003": {
+   "bytes": 23928,
+   "tint": "#8F8F90"
+  },
   "infiniti/g37": {
    "bytes": 25338,
    "tint": "#0D0D0D"
   },
+  "infiniti/g37-coupe-2008": {
+   "bytes": 26390,
+   "tint": "#0D0D0D"
+  },
+  "infiniti/g37-ipl-2011": {
+   "bytes": 28852,
+   "tint": "#75010A"
+  },
+  "infiniti/g37-sedan-2009": {
+   "bytes": 25672,
+   "tint": "#D0D0D2"
+  },
+  "infiniti/i30-1996": {
+   "bytes": 24666,
+   "tint": "#AEAFB1"
+  },
+  "infiniti/i30-2000": {
+   "bytes": 24194,
+   "tint": "#909194"
+  },
+  "infiniti/i35-2002": {
+   "bytes": 24884,
+   "tint": "#ABACAD"
+  },
+  "infiniti/j30-1993": {
+   "bytes": 24118,
+   "tint": "#B0B0B0"
+  },
+  "infiniti/m35-2006": {
+   "bytes": 24850,
+   "tint": "#0E0E0E"
+  },
+  "infiniti/m37-2011": {
+   "bytes": 24788,
+   "tint": "#101010"
+  },
+  "infiniti/m45-2003": {
+   "bytes": 24130,
+   "tint": "#0D0D0D"
+  },
+  "infiniti/q30-2017": {
+   "bytes": 30794,
+   "tint": "#ADB0B1"
+  },
+  "infiniti/q40-2015": {
+   "bytes": 26570,
+   "tint": "#101010"
+  },
+  "infiniti/q45-1990": {
+   "bytes": 23088,
+   "tint": "#0E1012"
+  },
+  "infiniti/q45-1997": {
+   "bytes": 23036,
+   "tint": "#111111"
+  },
+  "infiniti/q45-2002": {
+   "bytes": 22422,
+   "tint": "#0C0C0C"
+  },
   "infiniti/q50": {
    "bytes": 31492,
    "tint": "#4E4E4F"
+  },
+  "infiniti/q50-2014": {
+   "bytes": 26026,
+   "tint": "#0D0D0E"
+  },
+  "infiniti/q50-red-sport-2016": {
+   "bytes": 29818,
+   "tint": "#8D0308"
+  },
+  "infiniti/q60-2017": {
+   "bytes": 27570,
+   "tint": "#101011"
+  },
+  "infiniti/q60-red-sport-2017": {
+   "bytes": 32108,
+   "tint": "#8B0614"
+  },
+  "infiniti/q70-2014": {
+   "bytes": 26980,
+   "tint": "#0D0D0D"
+  },
+  "infiniti/qx30-2017": {
+   "bytes": 33800,
+   "tint": "#8D8E91"
+  },
+  "infiniti/qx4-1997": {
+   "bytes": 26672,
+   "tint": "#ACADAF"
+  },
+  "infiniti/qx50": {
+   "bytes": 33288,
+   "tint": "#8E8F91"
+  },
+  "infiniti/qx50-2014": {
+   "bytes": 28510,
+   "tint": "#CECFD1"
+  },
+  "infiniti/qx55": {
+   "bytes": 30064,
+   "tint": "#4D4D50"
+  },
+  "infiniti/qx56-2004": {
+   "bytes": 25336,
+   "tint": "#0F0F0F"
+  },
+  "infiniti/qx56-2011": {
+   "bytes": 29182,
+   "tint": "#0D0D0D"
+  },
+  "infiniti/qx60": {
+   "bytes": 30920,
+   "tint": "#8F9093"
+  },
+  "infiniti/qx60-2013": {
+   "bytes": 31364,
+   "tint": "#ADADB0"
+  },
+  "infiniti/qx80": {
+   "bytes": 29952,
+   "tint": "#101010"
+  },
+  "isuzu/amigo": {
+   "bytes": 29710,
+   "tint": "#D3D3D3"
+  },
+  "isuzu/ascender": {
+   "bytes": 25572,
+   "tint": "#313131"
+  },
+  "isuzu/axiom": {
+   "bytes": 26486,
+   "tint": "#B0B0B1"
+  },
+  "isuzu/hombre": {
+   "bytes": 22606,
+   "tint": "#D3D3D3"
+  },
+  "isuzu/impulse": {
+   "bytes": 29440,
+   "tint": "#B60B0D"
+  },
+  "isuzu/rodeo": {
+   "bytes": 28582,
+   "tint": "#EDEDED"
+  },
+  "isuzu/trooper": {
+   "bytes": 29944,
+   "tint": "#D0D1D3"
+  },
+  "isuzu/vehicross": {
+   "bytes": 24950,
+   "tint": "#0D0D0D"
+  },
+  "jaguar/c-x75-2010": {
+   "bytes": 24798,
+   "tint": "#8C8C8E"
+  },
+  "jaguar/e-pace-2017": {
+   "bytes": 30150,
+   "tint": "#CDCFD2"
+  },
+  "jaguar/e-type-1961": {
+   "bytes": 25022,
+   "tint": "#1C2A21"
+  },
+  "jaguar/f-pace-2016": {
+   "bytes": 31590,
+   "tint": "#8E8F90"
+  },
+  "jaguar/f-pace-svr-2018": {
+   "bytes": 37728,
+   "tint": "#0F4FAD"
+  },
+  "jaguar/f-type-2013": {
+   "bytes": 25078,
+   "tint": "#0F221C"
+  },
+  "jaguar/f-type-project-7-2014": {
+   "bytes": 30456,
+   "tint": "#AE0608"
+  },
+  "jaguar/f-type-r-2013": {
+   "bytes": 30792,
+   "tint": "#02378A"
+  },
+  "jaguar/f-type-svr-2016": {
+   "bytes": 34570,
+   "tint": "#013A8D"
+  },
+  "jaguar/i-pace-2018": {
+   "bytes": 29706,
+   "tint": "#D5D5D5"
+  },
+  "jaguar/s-type-1998": {
+   "bytes": 26932,
+   "tint": "#939493"
+  },
+  "jaguar/s-type-r-2002": {
+   "bytes": 32972,
+   "tint": "#103072"
+  },
+  "jaguar/xe-2015": {
+   "bytes": 28402,
+   "tint": "#8E8E91"
+  },
+  "jaguar/xe-project-8-2018": {
+   "bytes": 29546,
+   "tint": "#033427"
+  },
+  "jaguar/xf-2007": {
+   "bytes": 27188,
+   "tint": "#8E8E91"
+  },
+  "jaguar/xf-2015": {
+   "bytes": 28460,
+   "tint": "#CED0D3"
+  },
+  "jaguar/xfr-s-2013": {
+   "bytes": 32484,
+   "tint": "#023C8E"
+  },
+  "jaguar/xj-1997": {
+   "bytes": 24878,
+   "tint": "#929293"
+  },
+  "jaguar/xj-2003": {
+   "bytes": 26704,
+   "tint": "#ADAEAD"
   },
   "maserati/granturismo-2007": {
    "bytes": 28958,

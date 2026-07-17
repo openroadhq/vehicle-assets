@@ -437,8 +437,8 @@
   "desc": "blue Hyundai Elantra N sedan, 2025 model year",
   "note": "gen errored 07-16, requeued",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 13:54"
+  "status": "live",
+  "ts": "07-16 19:30"
  },
  "hyundai/palisade": {
   "desc": "white Hyundai Palisade SUV, 2025 model year",
