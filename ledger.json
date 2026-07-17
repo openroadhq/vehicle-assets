@@ -975,37 +975,37 @@
  "volkswagen/atlas": {
   "desc": "black Volkswagen Atlas SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:26"
  },
  "volkswagen/golf-gti": {
   "desc": "red Volkswagen Golf GTI Mk8 hatchback",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:26"
  },
  "volkswagen/golf-r": {
   "desc": "blue Volkswagen Golf R Mk8 hatchback",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:26"
  },
  "volkswagen/jetta": {
   "desc": "silver Volkswagen Jetta sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:26"
  },
  "volkswagen/passat": {
   "desc": "gray Volkswagen Passat sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:26"
  },
  "volkswagen/tiguan": {
   "desc": "white Volkswagen Tiguan SUV, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-16 20:26"
  }
 }
