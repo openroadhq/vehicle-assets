@@ -61,7 +61,20 @@ EOF
   # Quota is account-wide, so one shut worker means the window is closed.
   # Idle instead of hammering — the cars stay pending and return next round.
   if [ "${SHUT:-0}" -gt 0 ] || [ "$DONE" -eq 0 ]; then
-    echo "quota shut — idling 15m"
-    sleep 900
+    # The 429 body carries resets_at. The ChatGPT Plus image cap is WEEKLY, not
+    # a rolling window — on 2026-07-16 it was ~6.7 days out. Polling every 15min
+    # for a week is 640 pointless rounds, so ask when it actually reopens and
+    # sleep in 1h chunks until then (1h, not until-reset, so a manual `codex
+    # login`, a plan change, or an early reset is picked up within the hour).
+    RESET=$(~/Desktop/Galahad/tools/chatgpt-imagegen/chatgpt-imagegen "ping" \
+              -o /tmp/_quota_probe.png --size 1024x1024 --timeout 30 2>&1 \
+            | grep -oE '"resets_in_seconds":[0-9]+' | grep -oE '[0-9]+$')
+    if [ -n "${RESET:-}" ] && [ "$RESET" -gt 3600 ]; then
+      echo "quota shut — reopens in $((RESET/3600))h ($(date -v+${RESET}S '+%a %b %d %H:%M')); sleeping 1h"
+      sleep 3600
+    else
+      echo "quota shut — idling 15m"
+      sleep 900
+    fi
   fi
 done
