@@ -743,8 +743,8 @@
  "nissan/sentra": {
   "desc": "blue Nissan Sentra sedan, 2025 model year",
   "renderer": "",
-  "status": "queued",
-  "ts": "07-16 11:07"
+  "status": "live",
+  "ts": "07-17 09:16"
  },
  "nissan/skyline-gt-r": {
   "desc": "blue Nissan Skyline GT-R R34 coupe",

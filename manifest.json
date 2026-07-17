@@ -18,7 +18,8979 @@
  },
  "basePath": "v1",
  "format": "webp",
- "schemaVersion": 1,
+ "generations": {
+  "acura/cl": [
+   [
+    1997,
+    "acura/cl-1997"
+   ],
+   [
+    2001,
+    "acura/cl-2001"
+   ]
+  ],
+  "acura/cl-type-s": [
+   [
+    2001,
+    "acura/cl-type-s-2001"
+   ]
+  ],
+  "acura/csx": [
+   [
+    2006,
+    "acura/csx-2006"
+   ]
+  ],
+  "acura/ilx": [
+   [
+    2013,
+    "acura/ilx-2013"
+   ]
+  ],
+  "acura/integra": [
+   [
+    1990,
+    "acura/integra-1990"
+   ],
+   [
+    1994,
+    "acura/integra-1994"
+   ],
+   [
+    2023,
+    "acura/integra"
+   ]
+  ],
+  "acura/integra-type-r": [
+   [
+    1997,
+    "acura/integra-type-r-1997"
+   ]
+  ],
+  "acura/legend": [
+   [
+    1986,
+    "acura/legend-1986"
+   ],
+   [
+    1991,
+    "acura/legend-1991"
+   ]
+  ],
+  "acura/mdx": [
+   [
+    2001,
+    "acura/mdx-2001"
+   ],
+   [
+    2007,
+    "acura/mdx-2007"
+   ],
+   [
+    2014,
+    "acura/mdx-2014"
+   ],
+   [
+    2022,
+    "acura/mdx"
+   ]
+  ],
+  "acura/nsx": [
+   [
+    1991,
+    "acura/nsx-1991"
+   ],
+   [
+    2002,
+    "acura/nsx-2002"
+   ],
+   [
+    2016,
+    "acura/nsx-2016"
+   ],
+   [
+    2017,
+    "acura/nsx"
+   ]
+  ],
+  "acura/nsx-type-s": [
+   [
+    2022,
+    "acura/nsx-type-s-2022"
+   ]
+  ],
+  "acura/rdx": [
+   [
+    2007,
+    "acura/rdx-2007"
+   ],
+   [
+    2013,
+    "acura/rdx-2013"
+   ],
+   [
+    2019,
+    "acura/rdx"
+   ]
+  ],
+  "acura/rl": [
+   [
+    1996,
+    "acura/rl-1996"
+   ],
+   [
+    2005,
+    "acura/rl-2005"
+   ]
+  ],
+  "acura/rlx": [
+   [
+    2014,
+    "acura/rlx-2014"
+   ]
+  ],
+  "acura/rsx": [
+   [
+    2002,
+    "acura/rsx-2002"
+   ],
+   [
+    2005,
+    "acura/rsx"
+   ]
+  ],
+  "acura/rsx-type-s": [
+   [
+    2002,
+    "acura/rsx-type-s-2002"
+   ]
+  ],
+  "acura/tl": [
+   [
+    1996,
+    "acura/tl-1996"
+   ],
+   [
+    1999,
+    "acura/tl-1999"
+   ],
+   [
+    2004,
+    "acura/tl-2004"
+   ],
+   [
+    2009,
+    "acura/tl-2009"
+   ]
+  ],
+  "acura/tl-type-s": [
+   [
+    2002,
+    "acura/tl-type-s-2002"
+   ],
+   [
+    2007,
+    "acura/tl-type-s-2007"
+   ]
+  ],
+  "acura/tlx": [
+   [
+    2015,
+    "acura/tlx-2015"
+   ],
+   [
+    2021,
+    "acura/tlx"
+   ]
+  ],
+  "acura/tsx": [
+   [
+    2004,
+    "acura/tsx-2004"
+   ],
+   [
+    2009,
+    "acura/tsx-2009"
+   ]
+  ],
+  "acura/tsx-v6": [
+   [
+    2010,
+    "acura/tsx-v6-2010"
+   ]
+  ],
+  "acura/vigor": [
+   [
+    1992,
+    "acura/vigor-1992"
+   ]
+  ],
+  "acura/zdx": [
+   [
+    2010,
+    "acura/zdx-2010"
+   ],
+   [
+    2024,
+    "acura/zdx"
+   ]
+  ],
+  "alpine/a110": [
+   [
+    1963,
+    "alpine/a110-1963"
+   ],
+   [
+    2017,
+    "alpine/a110-2017"
+   ]
+  ],
+  "ariel/atom": [
+   [
+    2000,
+    "ariel/atom-2000"
+   ]
+  ],
+  "ariel/nomad": [
+   [
+    2015,
+    "ariel/nomad-2015"
+   ]
+  ],
+  "aston-martin/dbs": [
+   [
+    2008,
+    "aston-martin/dbs-2008"
+   ],
+   [
+    2018,
+    "aston-martin/dbs-2018"
+   ]
+  ],
+  "aston-martin/vanquish": [
+   [
+    2001,
+    "aston-martin/vanquish-2001"
+   ],
+   [
+    2012,
+    "aston-martin/vanquish-2012"
+   ]
+  ],
+  "aston-martin/vantage": [
+   [
+    2018,
+    "aston-martin/vantage-2018"
+   ]
+  ],
+  "aston-martin/vantage-v8": [
+   [
+    2005,
+    "aston-martin/vantage-v8-2005"
+   ]
+  ],
+  "audi/200-turbo-quattro": [
+   [
+    1989,
+    "audi/200-turbo-quattro-1989"
+   ]
+  ],
+  "audi/5000": [
+   [
+    1978,
+    "audi/5000-1978"
+   ]
+  ],
+  "audi/90-quattro": [
+   [
+    1988,
+    "audi/90-quattro-1988"
+   ]
+  ],
+  "audi/a2": [
+   [
+    1999,
+    "audi/a2-1999"
+   ]
+  ],
+  "audi/a3": [
+   [
+    2006,
+    "audi/a3-2006"
+   ],
+   [
+    2015,
+    "audi/a3-2015"
+   ],
+   [
+    2022,
+    "audi/a3"
+   ]
+  ],
+  "audi/a4": [
+   [
+    1996,
+    "audi/a4-1996"
+   ],
+   [
+    2002,
+    "audi/a4-2002"
+   ],
+   [
+    2006,
+    "audi/a4-2006"
+   ],
+   [
+    2009,
+    "audi/a4-2009"
+   ],
+   [
+    2017,
+    "audi/a4-2017"
+   ],
+   [
+    2020,
+    "audi/a4"
+   ]
+  ],
+  "audi/a5": [
+   [
+    2008,
+    "audi/a5-2008"
+   ],
+   [
+    2018,
+    "audi/a5"
+   ]
+  ],
+  "audi/a6": [
+   [
+    1995,
+    "audi/a6-1995"
+   ],
+   [
+    1998,
+    "audi/a6-1998"
+   ],
+   [
+    2005,
+    "audi/a6-2005"
+   ],
+   [
+    2012,
+    "audi/a6-2012"
+   ],
+   [
+    2019,
+    "audi/a6"
+   ]
+  ],
+  "audi/a7": [
+   [
+    2012,
+    "audi/a7-2012"
+   ],
+   [
+    2019,
+    "audi/a7"
+   ]
+  ],
+  "audi/a8": [
+   [
+    1997,
+    "audi/a8-1997"
+   ],
+   [
+    2004,
+    "audi/a8-2004"
+   ],
+   [
+    2011,
+    "audi/a8-2011"
+   ],
+   [
+    2019,
+    "audi/a8"
+   ]
+  ],
+  "audi/a8-w12": [
+   [
+    2004,
+    "audi/a8-w12-2004"
+   ]
+  ],
+  "audi/allroad": [
+   [
+    2001,
+    "audi/allroad-2001"
+   ],
+   [
+    2013,
+    "audi/allroad-2013"
+   ]
+  ],
+  "audi/cabriolet": [
+   [
+    1994,
+    "audi/cabriolet-1994"
+   ]
+  ],
+  "audi/coupe-quattro": [
+   [
+    1990,
+    "audi/coupe-quattro-1990"
+   ]
+  ],
+  "audi/q3": [
+   [
+    2015,
+    "audi/q3-2015"
+   ],
+   [
+    2019,
+    "audi/q3"
+   ]
+  ],
+  "audi/q5": [
+   [
+    2009,
+    "audi/q5-2009"
+   ],
+   [
+    2018,
+    "audi/q5"
+   ]
+  ],
+  "audi/q7": [
+   [
+    2007,
+    "audi/q7-2007"
+   ],
+   [
+    2017,
+    "audi/q7"
+   ]
+  ],
+  "audi/quattro": [
+   [
+    1980,
+    "audi/quattro-1980"
+   ]
+  ],
+  "audi/r8": [
+   [
+    2008,
+    "audi/r8-2008"
+   ],
+   [
+    2016,
+    "audi/r8-2016"
+   ],
+   [
+    2017,
+    "audi/r8"
+   ]
+  ],
+  "audi/r8-v10": [
+   [
+    2009,
+    "audi/r8-v10-2009"
+   ]
+  ],
+  "audi/r8-v10-performance": [
+   [
+    2019,
+    "audi/r8-v10-performance-2019"
+   ]
+  ],
+  "audi/r8-v10-plus": [
+   [
+    2016,
+    "audi/r8-v10-plus-2016"
+   ]
+  ],
+  "audi/rs2-avant": [
+   [
+    1994,
+    "audi/rs2-avant-1994"
+   ]
+  ],
+  "audi/rs3": [
+   [
+    2017,
+    "audi/rs3-2017"
+   ],
+   [
+    2022,
+    "audi/rs3"
+   ]
+  ],
+  "audi/rs4": [
+   [
+    2007,
+    "audi/rs4-2007"
+   ]
+  ],
+  "audi/rs4-avant-b5": [
+   [
+    2000,
+    "audi/rs4-avant-b5-2000"
+   ]
+  ],
+  "audi/rs4-avant-b7": [
+   [
+    2007,
+    "audi/rs4-avant-b7-2007"
+   ]
+  ],
+  "audi/rs5": [
+   [
+    2013,
+    "audi/rs5-2013"
+   ],
+   [
+    2018,
+    "audi/rs5"
+   ]
+  ],
+  "audi/rs6": [
+   [
+    2003,
+    "audi/rs6-2003"
+   ]
+  ],
+  "audi/rs6-avant-c6": [
+   [
+    2008,
+    "audi/rs6-avant-c6-2008"
+   ]
+  ],
+  "audi/rs6-avant-c7": [
+   [
+    2013,
+    "audi/rs6-avant-c7-2013"
+   ]
+  ],
+  "audi/rs7": [
+   [
+    2014,
+    "audi/rs7-2014"
+   ],
+   [
+    2020,
+    "audi/rs7"
+   ]
+  ],
+  "audi/s3": [
+   [
+    2015,
+    "audi/s3-2015"
+   ],
+   [
+    2022,
+    "audi/s3"
+   ]
+  ],
+  "audi/s4-b5": [
+   [
+    1998,
+    "audi/s4-b5-1998"
+   ]
+  ],
+  "audi/s4-b6": [
+   [
+    2004,
+    "audi/s4-b6-2004"
+   ]
+  ],
+  "audi/s4-b7": [
+   [
+    2006,
+    "audi/s4-b7-2006"
+   ]
+  ],
+  "audi/s4-b8": [
+   [
+    2010,
+    "audi/s4-b8-2010"
+   ]
+  ],
+  "audi/s5": [
+   [
+    2008,
+    "audi/s5-2008"
+   ],
+   [
+    2018,
+    "audi/s5"
+   ]
+  ],
+  "audi/s6": [
+   [
+    1995,
+    "audi/s6-1995"
+   ],
+   [
+    2001,
+    "audi/s6-2001"
+   ],
+   [
+    2007,
+    "audi/s6-2007"
+   ],
+   [
+    2013,
+    "audi/s6-2013"
+   ],
+   [
+    2020,
+    "audi/s6"
+   ]
+  ],
+  "audi/s7": [
+   [
+    2012,
+    "audi/s7-2012"
+   ],
+   [
+    2020,
+    "audi/s7"
+   ]
+  ],
+  "audi/s8": [
+   [
+    1999,
+    "audi/s8-1999"
+   ],
+   [
+    2007,
+    "audi/s8-2007"
+   ],
+   [
+    2013,
+    "audi/s8-2013"
+   ],
+   [
+    2020,
+    "audi/s8"
+   ]
+  ],
+  "audi/sport-quattro-s1": [
+   [
+    1985,
+    "audi/sport-quattro-s1-1985"
+   ]
+  ],
+  "audi/sq5": [
+   [
+    2014,
+    "audi/sq5-2014"
+   ],
+   [
+    2018,
+    "audi/sq5"
+   ]
+  ],
+  "audi/sq7": [
+   [
+    2017,
+    "audi/sq7-2017"
+   ]
+  ],
+  "audi/tt": [
+   [
+    2000,
+    "audi/tt-2000"
+   ],
+   [
+    2008,
+    "audi/tt-2008"
+   ],
+   [
+    2016,
+    "audi/tt"
+   ]
+  ],
+  "audi/tt-rs": [
+   [
+    2012,
+    "audi/tt-rs-2012"
+   ],
+   [
+    2018,
+    "audi/tt-rs-2018"
+   ]
+  ],
+  "audi/tts": [
+   [
+    2009,
+    "audi/tts-2009"
+   ],
+   [
+    2016,
+    "audi/tts-2016"
+   ]
+  ],
+  "bentley/continental-gt": [
+   [
+    2003,
+    "bentley/continental-gt-2003"
+   ],
+   [
+    2011,
+    "bentley/continental-gt-2011"
+   ],
+   [
+    2018,
+    "bentley/continental-gt-2018"
+   ]
+  ],
+  "bmw/1-series": [
+   [
+    2008,
+    "bmw/1-series-2008"
+   ],
+   [
+    2011,
+    "bmw/1-series-2011"
+   ]
+  ],
+  "bmw/135i": [
+   [
+    2008,
+    "bmw/135i-2008"
+   ]
+  ],
+  "bmw/1m": [
+   [
+    2011,
+    "bmw/1m-2011"
+   ]
+  ],
+  "bmw/2-series": [
+   [
+    2014,
+    "bmw/2-series-2014"
+   ],
+   [
+    2022,
+    "bmw/2-series"
+   ]
+  ],
+  "bmw/2002": [
+   [
+    1968,
+    "bmw/2002-1968"
+   ]
+  ],
+  "bmw/2002-turbo": [
+   [
+    1973,
+    "bmw/2002-turbo-1973"
+   ]
+  ],
+  "bmw/3-0-csl": [
+   [
+    1971,
+    "bmw/3-0-csl-1971"
+   ]
+  ],
+  "bmw/3-series": [
+   [
+    1984,
+    "bmw/3-series-1984"
+   ],
+   [
+    1992,
+    "bmw/3-series-1992"
+   ],
+   [
+    1999,
+    "bmw/3-series-1999"
+   ],
+   [
+    2006,
+    "bmw/3-series-2006"
+   ],
+   [
+    2012,
+    "bmw/3-series-2012"
+   ],
+   [
+    2019,
+    "bmw/3-series"
+   ]
+  ],
+  "bmw/335i": [
+   [
+    2006,
+    "bmw/335i-2006"
+   ],
+   [
+    2012,
+    "bmw/335i"
+   ]
+  ],
+  "bmw/4-series": [
+   [
+    2014,
+    "bmw/4-series-2014"
+   ],
+   [
+    2021,
+    "bmw/4-series"
+   ]
+  ],
+  "bmw/5-series": [
+   [
+    1988,
+    "bmw/5-series-1988"
+   ],
+   [
+    1995,
+    "bmw/5-series-1995"
+   ],
+   [
+    2003,
+    "bmw/5-series-2003"
+   ],
+   [
+    2010,
+    "bmw/5-series-2010"
+   ],
+   [
+    2016,
+    "bmw/5-series-2016"
+   ],
+   [
+    2024,
+    "bmw/5-series"
+   ]
+  ],
+  "bmw/6-series": [
+   [
+    1977,
+    "bmw/6-series-1977"
+   ],
+   [
+    2004,
+    "bmw/6-series-2004"
+   ],
+   [
+    2012,
+    "bmw/6-series-2012"
+   ]
+  ],
+  "bmw/7-series": [
+   [
+    1988,
+    "bmw/7-series-1988"
+   ],
+   [
+    1995,
+    "bmw/7-series-1995"
+   ],
+   [
+    2002,
+    "bmw/7-series-2002"
+   ],
+   [
+    2009,
+    "bmw/7-series-2009"
+   ],
+   [
+    2016,
+    "bmw/7-series-2016"
+   ],
+   [
+    2023,
+    "bmw/7-series"
+   ]
+  ],
+  "bmw/8-series": [
+   [
+    1990,
+    "bmw/8-series-1990"
+   ],
+   [
+    2019,
+    "bmw/8-series"
+   ]
+  ],
+  "bmw/8-series-gran-coupe": [
+   [
+    2019,
+    "bmw/8-series-gran-coupe-2019"
+   ]
+  ],
+  "bmw/850csi": [
+   [
+    1994,
+    "bmw/850csi-1994"
+   ]
+  ],
+  "bmw/alpina-b10-biturbo": [
+   [
+    1989,
+    "bmw/alpina-b10-biturbo-1989"
+   ]
+  ],
+  "bmw/alpina-b7": [
+   [
+    2011,
+    "bmw/alpina-b7-2011"
+   ]
+  ],
+  "bmw/alpina-xb7": [
+   [
+    2021,
+    "bmw/alpina-xb7-2021"
+   ]
+  ],
+  "bmw/i3": [
+   [
+    2014,
+    "bmw/i3-2014"
+   ]
+  ],
+  "bmw/i8": [
+   [
+    2014,
+    "bmw/i8-2014"
+   ]
+  ],
+  "bmw/m-coupe": [
+   [
+    1999,
+    "bmw/m-coupe-1999"
+   ]
+  ],
+  "bmw/m1": [
+   [
+    1978,
+    "bmw/m1-1978"
+   ]
+  ],
+  "bmw/m2": [
+   [
+    2016,
+    "bmw/m2-2016"
+   ],
+   [
+    2023,
+    "bmw/m2"
+   ]
+  ],
+  "bmw/m2-competition": [
+   [
+    2019,
+    "bmw/m2-competition-2019"
+   ]
+  ],
+  "bmw/m2-cs": [
+   [
+    2020,
+    "bmw/m2-cs-2020"
+   ]
+  ],
+  "bmw/m3": [
+   [
+    1988,
+    "bmw/m3-1988"
+   ],
+   [
+    1995,
+    "bmw/m3-1995"
+   ],
+   [
+    2001,
+    "bmw/m3-2001"
+   ],
+   [
+    2008,
+    "bmw/m3-2008"
+   ],
+   [
+    2015,
+    "bmw/m3-2015"
+   ],
+   [
+    2021,
+    "bmw/m3"
+   ]
+  ],
+  "bmw/m3-competition": [
+   [
+    2021,
+    "bmw/m3-competition-2021"
+   ]
+  ],
+  "bmw/m3-cs": [
+   [
+    2024,
+    "bmw/m3-cs-2024"
+   ]
+  ],
+  "bmw/m3-csl": [
+   [
+    2003,
+    "bmw/m3-csl-2003"
+   ]
+  ],
+  "bmw/m3-gt": [
+   [
+    1994,
+    "bmw/m3-gt-1994"
+   ]
+  ],
+  "bmw/m3-gts": [
+   [
+    2010,
+    "bmw/m3-gts-2010"
+   ]
+  ],
+  "bmw/m3-sport-evolution": [
+   [
+    1990,
+    "bmw/m3-sport-evolution-1990"
+   ]
+  ],
+  "bmw/m3-touring": [
+   [
+    2022,
+    "bmw/m3-touring-2022"
+   ]
+  ],
+  "bmw/m4": [
+   [
+    2015,
+    "bmw/m4-2015"
+   ],
+   [
+    2021,
+    "bmw/m4"
+   ]
+  ],
+  "bmw/m4-csl": [
+   [
+    2022,
+    "bmw/m4-csl-2022"
+   ]
+  ],
+  "bmw/m4-gts": [
+   [
+    2016,
+    "bmw/m4-gts-2016"
+   ]
+  ],
+  "bmw/m5": [
+   [
+    1988,
+    "bmw/m5-1988"
+   ],
+   [
+    1999,
+    "bmw/m5-1999"
+   ],
+   [
+    2006,
+    "bmw/m5-2006"
+   ],
+   [
+    2011,
+    "bmw/m5-2011"
+   ],
+   [
+    2018,
+    "bmw/m5-2018"
+   ],
+   [
+    2025,
+    "bmw/m5"
+   ]
+  ],
+  "bmw/m5-touring": [
+   [
+    1992,
+    "bmw/m5-touring-1992"
+   ]
+  ],
+  "bmw/m535i": [
+   [
+    1985,
+    "bmw/m535i-1985"
+   ]
+  ],
+  "bmw/m550i": [
+   [
+    2018,
+    "bmw/m550i"
+   ]
+  ],
+  "bmw/m6": [
+   [
+    2006,
+    "bmw/m6-2006"
+   ],
+   [
+    2013,
+    "bmw/m6-2013"
+   ]
+  ],
+  "bmw/m8-competition": [
+   [
+    2020,
+    "bmw/m8-competition-2020"
+   ]
+  ],
+  "bmw/x1": [
+   [
+    2012,
+    "bmw/x1-2012"
+   ],
+   [
+    2016,
+    "bmw/x1-2016"
+   ],
+   [
+    2023,
+    "bmw/x1"
+   ]
+  ],
+  "bmw/x3": [
+   [
+    2004,
+    "bmw/x3-2004"
+   ],
+   [
+    2011,
+    "bmw/x3-2011"
+   ],
+   [
+    2018,
+    "bmw/x3-2018"
+   ],
+   [
+    2025,
+    "bmw/x3"
+   ]
+  ],
+  "bmw/x3-m": [
+   [
+    2020,
+    "bmw/x3-m-2020"
+   ]
+  ],
+  "bmw/x4": [
+   [
+    2015,
+    "bmw/x4-2015"
+   ],
+   [
+    2019,
+    "bmw/x4"
+   ]
+  ],
+  "bmw/x4-m": [
+   [
+    2020,
+    "bmw/x4-m-2020"
+   ]
+  ],
+  "bmw/x5": [
+   [
+    1999,
+    "bmw/x5-1999"
+   ],
+   [
+    2007,
+    "bmw/x5-2007"
+   ],
+   [
+    2013,
+    "bmw/x5-2013"
+   ],
+   [
+    2019,
+    "bmw/x5"
+   ]
+  ],
+  "bmw/x5-m": [
+   [
+    2010,
+    "bmw/x5-m-2010"
+   ],
+   [
+    2015,
+    "bmw/x5-m-2015"
+   ],
+   [
+    2020,
+    "bmw/x5-m"
+   ]
+  ],
+  "bmw/x6": [
+   [
+    2008,
+    "bmw/x6-2008"
+   ],
+   [
+    2015,
+    "bmw/x6-2015"
+   ],
+   [
+    2020,
+    "bmw/x6"
+   ]
+  ],
+  "bmw/x6-m": [
+   [
+    2010,
+    "bmw/x6-m-2010"
+   ],
+   [
+    2020,
+    "bmw/x6-m"
+   ]
+  ],
+  "bmw/z1": [
+   [
+    1989,
+    "bmw/z1-1989"
+   ]
+  ],
+  "bmw/z3": [
+   [
+    1996,
+    "bmw/z3-1996"
+   ]
+  ],
+  "bmw/z3-m-roadster": [
+   [
+    1998,
+    "bmw/z3-m-roadster-1998"
+   ]
+  ],
+  "bmw/z4": [
+   [
+    2002,
+    "bmw/z4-2002"
+   ],
+   [
+    2009,
+    "bmw/z4-2009"
+   ],
+   [
+    2019,
+    "bmw/z4"
+   ]
+  ],
+  "bmw/z4-m40i": [
+   [
+    2019,
+    "bmw/z4-m40i-2019"
+   ]
+  ],
+  "bmw/z8": [
+   [
+    2000,
+    "bmw/z8-2000"
+   ]
+  ],
+  "buick/cascada": [
+   [
+    2016,
+    "buick/cascada-2016"
+   ]
+  ],
+  "buick/century": [
+   [
+    1982,
+    "buick/century-1982"
+   ],
+   [
+    1997,
+    "buick/century-1997"
+   ]
+  ],
+  "buick/enclave": [
+   [
+    2008,
+    "buick/enclave-2008"
+   ],
+   [
+    2018,
+    "buick/enclave-2018"
+   ],
+   [
+    2024,
+    "buick/enclave"
+   ]
+  ],
+  "buick/encore": [
+   [
+    2013,
+    "buick/encore-2013"
+   ]
+  ],
+  "buick/envision": [
+   [
+    2016,
+    "buick/envision-2016"
+   ],
+   [
+    2021,
+    "buick/envision-2021"
+   ]
+  ],
+  "buick/lacrosse": [
+   [
+    2005,
+    "buick/lacrosse-2005"
+   ],
+   [
+    2010,
+    "buick/lacrosse-2010"
+   ],
+   [
+    2017,
+    "buick/lacrosse-2017"
+   ]
+  ],
+  "buick/lesabre": [
+   [
+    1992,
+    "buick/lesabre-1992"
+   ],
+   [
+    2000,
+    "buick/lesabre-2000"
+   ]
+  ],
+  "buick/lucerne": [
+   [
+    2006,
+    "buick/lucerne-2006"
+   ]
+  ],
+  "buick/park-avenue": [
+   [
+    1991,
+    "buick/park-avenue-1991"
+   ],
+   [
+    1997,
+    "buick/park-avenue-1997"
+   ]
+  ],
+  "buick/rainier": [
+   [
+    2004,
+    "buick/rainier-2004"
+   ]
+  ],
+  "buick/regal": [
+   [
+    1988,
+    "buick/regal-1988"
+   ],
+   [
+    1997,
+    "buick/regal-1997"
+   ],
+   [
+    2011,
+    "buick/regal-2011"
+   ],
+   [
+    2018,
+    "buick/regal-2018"
+   ]
+  ],
+  "buick/regal-gs": [
+   [
+    2011,
+    "buick/regal-gs-2011"
+   ]
+  ],
+  "buick/rendezvous": [
+   [
+    2002,
+    "buick/rendezvous-2002"
+   ]
+  ],
+  "buick/riviera": [
+   [
+    1995,
+    "buick/riviera-1995"
+   ]
+  ],
+  "buick/roadmaster": [
+   [
+    1991,
+    "buick/roadmaster-1991"
+   ]
+  ],
+  "buick/skylark": [
+   [
+    1986,
+    "buick/skylark-1986"
+   ]
+  ],
+  "buick/terraza": [
+   [
+    2005,
+    "buick/terraza-2005"
+   ]
+  ],
+  "buick/verano": [
+   [
+    2012,
+    "buick/verano-2012"
+   ]
+  ],
+  "cadillac/allante": [
+   [
+    1987,
+    "cadillac/allante-1987"
+   ]
+  ],
+  "cadillac/ats": [
+   [
+    2013,
+    "cadillac/ats-2013"
+   ]
+  ],
+  "cadillac/ats-v": [
+   [
+    2013,
+    "cadillac/ats-v-2013"
+   ]
+  ],
+  "cadillac/catera": [
+   [
+    1997,
+    "cadillac/catera-1997"
+   ]
+  ],
+  "cadillac/ct4": [
+   [
+    2020,
+    "cadillac/ct4-2020"
+   ]
+  ],
+  "cadillac/ct4-blackwing": [
+   [
+    2020,
+    "cadillac/ct4-blackwing-2020"
+   ]
+  ],
+  "cadillac/ct5": [
+   [
+    2020,
+    "cadillac/ct5-2020"
+   ]
+  ],
+  "cadillac/ct5-blackwing": [
+   [
+    2020,
+    "cadillac/ct5-blackwing-2020"
+   ]
+  ],
+  "cadillac/ct6": [
+   [
+    2016,
+    "cadillac/ct6-2016"
+   ]
+  ],
+  "cadillac/ct6-v": [
+   [
+    2016,
+    "cadillac/ct6-v-2016"
+   ]
+  ],
+  "cadillac/cts": [
+   [
+    2002,
+    "cadillac/cts-2002"
+   ],
+   [
+    2008,
+    "cadillac/cts-2008"
+   ],
+   [
+    2014,
+    "cadillac/cts-2014"
+   ]
+  ],
+  "cadillac/cts-v": [
+   [
+    2002,
+    "cadillac/cts-v-2002"
+   ],
+   [
+    2008,
+    "cadillac/cts-v-2008"
+   ],
+   [
+    2014,
+    "cadillac/cts-v-2014"
+   ]
+  ],
+  "cadillac/deville": [
+   [
+    1985,
+    "cadillac/deville-1985"
+   ],
+   [
+    1994,
+    "cadillac/deville-1994"
+   ],
+   [
+    2000,
+    "cadillac/deville-2000"
+   ]
+  ],
+  "cadillac/eldorado": [
+   [
+    1992,
+    "cadillac/eldorado-1992"
+   ]
+  ],
+  "cadillac/escalade": [
+   [
+    1999,
+    "cadillac/escalade-1999"
+   ],
+   [
+    2002,
+    "cadillac/escalade-2002"
+   ],
+   [
+    2007,
+    "cadillac/escalade-2007"
+   ],
+   [
+    2015,
+    "cadillac/escalade-2015"
+   ],
+   [
+    2021,
+    "cadillac/escalade"
+   ]
+  ],
+  "cadillac/escalade-ext": [
+   [
+    2002,
+    "cadillac/escalade-ext-2002"
+   ]
+  ],
+  "cadillac/fleetwood": [
+   [
+    1993,
+    "cadillac/fleetwood-1993"
+   ]
+  ],
+  "cadillac/fleetwood-fwd": [
+   [
+    1985,
+    "cadillac/fleetwood-fwd-1985"
+   ]
+  ],
+  "cadillac/seville": [
+   [
+    1992,
+    "cadillac/seville-1992"
+   ],
+   [
+    1998,
+    "cadillac/seville-1998"
+   ]
+  ],
+  "cadillac/srx": [
+   [
+    2004,
+    "cadillac/srx-2004"
+   ],
+   [
+    2010,
+    "cadillac/srx-2010"
+   ]
+  ],
+  "cadillac/xlr": [
+   [
+    2004,
+    "cadillac/xlr-2004"
+   ]
+  ],
+  "cadillac/xts": [
+   [
+    2013,
+    "cadillac/xts-2013"
+   ]
+  ],
+  "caterham/seven": [
+   [
+    1973,
+    "caterham/seven-1973"
+   ]
+  ],
+  "caterham/seven-620r": [
+   [
+    2014,
+    "caterham/seven-620r-2014"
+   ]
+  ],
+  "chevrolet/astro": [
+   [
+    1985,
+    "chevrolet/astro-1985"
+   ]
+  ],
+  "chevrolet/avalanche": [
+   [
+    2002,
+    "chevrolet/avalanche-2002"
+   ],
+   [
+    2007,
+    "chevrolet/avalanche-2007"
+   ]
+  ],
+  "chevrolet/aveo": [
+   [
+    2004,
+    "chevrolet/aveo-2004"
+   ]
+  ],
+  "chevrolet/beretta": [
+   [
+    1988,
+    "chevrolet/beretta-1988"
+   ]
+  ],
+  "chevrolet/blazer": [
+   [
+    1995,
+    "chevrolet/blazer-1995"
+   ],
+   [
+    2019,
+    "chevrolet/blazer"
+   ]
+  ],
+  "chevrolet/blazer-fullsize": [
+   [
+    1992,
+    "chevrolet/blazer-fullsize-1992"
+   ]
+  ],
+  "chevrolet/bolt": [
+   [
+    2017,
+    "chevrolet/bolt-2017"
+   ]
+  ],
+  "chevrolet/c-k": [
+   [
+    1988,
+    "chevrolet/c-k-1988"
+   ]
+  ],
+  "chevrolet/camaro": [
+   [
+    1982,
+    "chevrolet/camaro-1982"
+   ],
+   [
+    1993,
+    "chevrolet/camaro-1993"
+   ],
+   [
+    2010,
+    "chevrolet/camaro-2010"
+   ],
+   [
+    2016,
+    "chevrolet/camaro"
+   ]
+  ],
+  "chevrolet/camaro-1le": [
+   [
+    2010,
+    "chevrolet/camaro-1le-2010"
+   ]
+  ],
+  "chevrolet/camaro-ss": [
+   [
+    1993,
+    "chevrolet/camaro-ss-1993"
+   ]
+  ],
+  "chevrolet/camaro-zl1": [
+   [
+    2010,
+    "chevrolet/camaro-zl1-2010"
+   ],
+   [
+    2016,
+    "chevrolet/camaro-zl1-2016"
+   ]
+  ],
+  "chevrolet/caprice": [
+   [
+    1991,
+    "chevrolet/caprice-1991"
+   ],
+   [
+    2011,
+    "chevrolet/caprice-2011"
+   ]
+  ],
+  "chevrolet/cavalier": [
+   [
+    1988,
+    "chevrolet/cavalier-1988"
+   ],
+   [
+    1995,
+    "chevrolet/cavalier-1995"
+   ]
+  ],
+  "chevrolet/cobalt": [
+   [
+    2005,
+    "chevrolet/cobalt-2005"
+   ]
+  ],
+  "chevrolet/cobalt-ss": [
+   [
+    2005,
+    "chevrolet/cobalt-ss-2005"
+   ]
+  ],
+  "chevrolet/colorado": [
+   [
+    2004,
+    "chevrolet/colorado-2004"
+   ],
+   [
+    2015,
+    "chevrolet/colorado-2015"
+   ],
+   [
+    2023,
+    "chevrolet/colorado"
+   ]
+  ],
+  "chevrolet/colorado-zr2": [
+   [
+    2015,
+    "chevrolet/colorado-zr2-2015"
+   ]
+  ],
+  "chevrolet/corsica": [
+   [
+    1987,
+    "chevrolet/corsica-1987"
+   ]
+  ],
+  "chevrolet/corvette": [
+   [
+    1984,
+    "chevrolet/corvette-1984"
+   ],
+   [
+    1997,
+    "chevrolet/corvette-1997"
+   ],
+   [
+    2005,
+    "chevrolet/corvette-2005"
+   ],
+   [
+    2014,
+    "chevrolet/corvette-2014"
+   ],
+   [
+    2020,
+    "chevrolet/corvette"
+   ]
+  ],
+  "chevrolet/corvette-grand-sport": [
+   [
+    2005,
+    "chevrolet/corvette-grand-sport-2005"
+   ],
+   [
+    2014,
+    "chevrolet/corvette-grand-sport-2014"
+   ]
+  ],
+  "chevrolet/corvette-z06": [
+   [
+    1997,
+    "chevrolet/corvette-z06-1997"
+   ],
+   [
+    2005,
+    "chevrolet/corvette-z06-2005"
+   ],
+   [
+    2014,
+    "chevrolet/corvette-z06-2014"
+   ],
+   [
+    2023,
+    "chevrolet/corvette-z06"
+   ]
+  ],
+  "chevrolet/corvette-zr1": [
+   [
+    1990,
+    "chevrolet/corvette-zr1-1990"
+   ],
+   [
+    2005,
+    "chevrolet/corvette-zr1-2005"
+   ],
+   [
+    2014,
+    "chevrolet/corvette-zr1-2014"
+   ],
+   [
+    2020,
+    "chevrolet/corvette-zr1-2020"
+   ]
+  ],
+  "chevrolet/cruze": [
+   [
+    2011,
+    "chevrolet/cruze-2011"
+   ],
+   [
+    2016,
+    "chevrolet/cruze-2016"
+   ]
+  ],
+  "chevrolet/equinox": [
+   [
+    2005,
+    "chevrolet/equinox-2005"
+   ],
+   [
+    2010,
+    "chevrolet/equinox-2010"
+   ],
+   [
+    2018,
+    "chevrolet/equinox-2018"
+   ],
+   [
+    2025,
+    "chevrolet/equinox"
+   ]
+  ],
+  "chevrolet/express": [
+   [
+    1996,
+    "chevrolet/express-1996"
+   ]
+  ],
+  "chevrolet/hhr": [
+   [
+    2006,
+    "chevrolet/hhr-2006"
+   ]
+  ],
+  "chevrolet/hhr-ss": [
+   [
+    2006,
+    "chevrolet/hhr-ss-2006"
+   ]
+  ],
+  "chevrolet/impala": [
+   [
+    1994,
+    "chevrolet/impala-1994"
+   ],
+   [
+    2000,
+    "chevrolet/impala-2000"
+   ],
+   [
+    2006,
+    "chevrolet/impala-2006"
+   ],
+   [
+    2014,
+    "chevrolet/impala"
+   ]
+  ],
+  "chevrolet/lumina": [
+   [
+    1990,
+    "chevrolet/lumina-1990"
+   ],
+   [
+    1995,
+    "chevrolet/lumina-1995"
+   ]
+  ],
+  "chevrolet/malibu": [
+   [
+    1997,
+    "chevrolet/malibu-1997"
+   ],
+   [
+    2004,
+    "chevrolet/malibu-2004"
+   ],
+   [
+    2008,
+    "chevrolet/malibu-2008"
+   ],
+   [
+    2013,
+    "chevrolet/malibu-2013"
+   ],
+   [
+    2016,
+    "chevrolet/malibu"
+   ]
+  ],
+  "chevrolet/metro": [
+   [
+    1998,
+    "chevrolet/metro-1998"
+   ]
+  ],
+  "chevrolet/monte-carlo": [
+   [
+    1995,
+    "chevrolet/monte-carlo-1995"
+   ],
+   [
+    2000,
+    "chevrolet/monte-carlo-2000"
+   ]
+  ],
+  "chevrolet/monte-carlo-ss": [
+   [
+    2000,
+    "chevrolet/monte-carlo-ss-2000"
+   ]
+  ],
+  "chevrolet/prizm": [
+   [
+    1998,
+    "chevrolet/prizm-1998"
+   ]
+  ],
+  "chevrolet/s10": [
+   [
+    1982,
+    "chevrolet/s10-1982"
+   ],
+   [
+    1994,
+    "chevrolet/s10-1994"
+   ]
+  ],
+  "chevrolet/s10-blazer": [
+   [
+    1983,
+    "chevrolet/s10-blazer-1983"
+   ]
+  ],
+  "chevrolet/silverado": [
+   [
+    1999,
+    "chevrolet/silverado-1999"
+   ],
+   [
+    2007,
+    "chevrolet/silverado-2007"
+   ],
+   [
+    2014,
+    "chevrolet/silverado-2014"
+   ]
+  ],
+  "chevrolet/sonic": [
+   [
+    2012,
+    "chevrolet/sonic-2012"
+   ]
+  ],
+  "chevrolet/sonic-rs": [
+   [
+    2012,
+    "chevrolet/sonic-rs-2012"
+   ]
+  ],
+  "chevrolet/spark": [
+   [
+    2013,
+    "chevrolet/spark-2013"
+   ]
+  ],
+  "chevrolet/ss": [
+   [
+    2014,
+    "chevrolet/ss-2014"
+   ]
+  ],
+  "chevrolet/suburban": [
+   [
+    1992,
+    "chevrolet/suburban-1992"
+   ],
+   [
+    2000,
+    "chevrolet/suburban-2000"
+   ],
+   [
+    2007,
+    "chevrolet/suburban-2007"
+   ],
+   [
+    2015,
+    "chevrolet/suburban-2015"
+   ],
+   [
+    2021,
+    "chevrolet/suburban"
+   ]
+  ],
+  "chevrolet/tahoe": [
+   [
+    1995,
+    "chevrolet/tahoe-1995"
+   ],
+   [
+    2000,
+    "chevrolet/tahoe-2000"
+   ],
+   [
+    2007,
+    "chevrolet/tahoe-2007"
+   ],
+   [
+    2015,
+    "chevrolet/tahoe-2015"
+   ],
+   [
+    2021,
+    "chevrolet/tahoe"
+   ]
+  ],
+  "chevrolet/trailblazer": [
+   [
+    2002,
+    "chevrolet/trailblazer-2002"
+   ],
+   [
+    2021,
+    "chevrolet/trailblazer"
+   ]
+  ],
+  "chevrolet/trailblazer-ss": [
+   [
+    2002,
+    "chevrolet/trailblazer-ss-2002"
+   ]
+  ],
+  "chevrolet/traverse": [
+   [
+    2009,
+    "chevrolet/traverse-2009"
+   ],
+   [
+    2018,
+    "chevrolet/traverse-2018"
+   ],
+   [
+    2024,
+    "chevrolet/traverse"
+   ]
+  ],
+  "chevrolet/trax": [
+   [
+    2015,
+    "chevrolet/trax-2015"
+   ],
+   [
+    2024,
+    "chevrolet/trax"
+   ]
+  ],
+  "chevrolet/uplander": [
+   [
+    2005,
+    "chevrolet/uplander-2005"
+   ]
+  ],
+  "chevrolet/venture": [
+   [
+    1997,
+    "chevrolet/venture-1997"
+   ]
+  ],
+  "chevrolet/volt": [
+   [
+    2011,
+    "chevrolet/volt-2011"
+   ],
+   [
+    2016,
+    "chevrolet/volt-2016"
+   ]
+  ],
+  "chrysler/200": [
+   [
+    2011,
+    "chrysler/200-2011"
+   ],
+   [
+    2015,
+    "chrysler/200-2015"
+   ]
+  ],
+  "chrysler/300": [
+   [
+    2005,
+    "chrysler/300-2005"
+   ],
+   [
+    2011,
+    "chrysler/300-2011"
+   ]
+  ],
+  "chrysler/300-srt8": [
+   [
+    2012,
+    "chrysler/300-srt8-2012"
+   ]
+  ],
+  "chrysler/300c-srt8": [
+   [
+    2005,
+    "chrysler/300c-srt8-2005"
+   ]
+  ],
+  "chrysler/concorde": [
+   [
+    1993,
+    "chrysler/concorde-1993"
+   ],
+   [
+    1998,
+    "chrysler/concorde-1998"
+   ]
+  ],
+  "chrysler/crossfire": [
+   [
+    2004,
+    "chrysler/crossfire-2004"
+   ]
+  ],
+  "chrysler/crossfire-srt6": [
+   [
+    2005,
+    "chrysler/crossfire-srt6-2005"
+   ]
+  ],
+  "chrysler/lhs": [
+   [
+    1994,
+    "chrysler/lhs-1994"
+   ],
+   [
+    1999,
+    "chrysler/lhs-1999"
+   ]
+  ],
+  "chrysler/pacifica": [
+   [
+    2004,
+    "chrysler/pacifica-2004"
+   ],
+   [
+    2017,
+    "chrysler/pacifica"
+   ]
+  ],
+  "chrysler/prowler": [
+   [
+    2001,
+    "chrysler/prowler-2001"
+   ]
+  ],
+  "chrysler/pt-cruiser": [
+   [
+    2000,
+    "chrysler/pt-cruiser-2000"
+   ]
+  ],
+  "chrysler/sebring": [
+   [
+    1995,
+    "chrysler/sebring-1995"
+   ],
+   [
+    2001,
+    "chrysler/sebring-2001"
+   ],
+   [
+    2007,
+    "chrysler/sebring-2007"
+   ]
+  ],
+  "chrysler/town-and-country": [
+   [
+    1990,
+    "chrysler/town-and-country-1990"
+   ],
+   [
+    1996,
+    "chrysler/town-and-country-1996"
+   ],
+   [
+    2001,
+    "chrysler/town-and-country-2001"
+   ],
+   [
+    2008,
+    "chrysler/town-and-country-2008"
+   ]
+  ],
+  "citroen/2cv": [
+   [
+    1948,
+    "citroen/2cv-1948"
+   ]
+  ],
+  "citroen/ds": [
+   [
+    1955,
+    "citroen/ds-1955"
+   ]
+  ],
+  "citroen/saxo-vts": [
+   [
+    1996,
+    "citroen/saxo-vts-1996"
+   ]
+  ],
+  "datsun/240z": [
+   [
+    1969,
+    "datsun/240z-1969"
+   ]
+  ],
+  "datsun/280z": [
+   [
+    1975,
+    "datsun/280z-1975"
+   ]
+  ],
+  "datsun/510": [
+   [
+    1968,
+    "datsun/510-1968"
+   ]
+  ],
+  "datsun/sunny-truck": [
+   [
+    1971,
+    "datsun/sunny-truck-1971"
+   ]
+  ],
+  "delorean/dmc-12": [
+   [
+    1981,
+    "delorean/dmc-12-1981"
+   ]
+  ],
+  "dodge/avenger": [
+   [
+    1995,
+    "dodge/avenger-1995"
+   ],
+   [
+    2008,
+    "dodge/avenger-2008"
+   ]
+  ],
+  "dodge/caliber": [
+   [
+    2007,
+    "dodge/caliber-2007"
+   ]
+  ],
+  "dodge/caliber-srt4": [
+   [
+    2008,
+    "dodge/caliber-srt4-2008"
+   ]
+  ],
+  "dodge/challenger": [
+   [
+    2008,
+    "dodge/challenger-2008"
+   ],
+   [
+    2015,
+    "dodge/challenger"
+   ]
+  ],
+  "dodge/challenger-demon": [
+   [
+    2018,
+    "dodge/challenger-demon-2018"
+   ]
+  ],
+  "dodge/challenger-hellcat": [
+   [
+    2015,
+    "dodge/challenger-hellcat-2015"
+   ]
+  ],
+  "dodge/challenger-redeye": [
+   [
+    2019,
+    "dodge/challenger-redeye-2019"
+   ]
+  ],
+  "dodge/challenger-srt8": [
+   [
+    2008,
+    "dodge/challenger-srt8-2008"
+   ]
+  ],
+  "dodge/challenger-super-stock": [
+   [
+    2021,
+    "dodge/challenger-super-stock-2021"
+   ]
+  ],
+  "dodge/charger": [
+   [
+    2006,
+    "dodge/charger-2006"
+   ],
+   [
+    2011,
+    "dodge/charger-2011"
+   ],
+   [
+    2015,
+    "dodge/charger"
+   ]
+  ],
+  "dodge/charger-daytona": [
+   [
+    2020,
+    "dodge/charger-daytona-2020"
+   ]
+  ],
+  "dodge/charger-hellcat": [
+   [
+    2015,
+    "dodge/charger-hellcat-2015"
+   ]
+  ],
+  "dodge/charger-srt8": [
+   [
+    2006,
+    "dodge/charger-srt8-2006"
+   ],
+   [
+    2012,
+    "dodge/charger-srt8-2012"
+   ]
+  ],
+  "dodge/dakota": [
+   [
+    1987,
+    "dodge/dakota-1987"
+   ],
+   [
+    1997,
+    "dodge/dakota-1997"
+   ],
+   [
+    2005,
+    "dodge/dakota-2005"
+   ]
+  ],
+  "dodge/dart": [
+   [
+    2013,
+    "dodge/dart-2013"
+   ]
+  ],
+  "dodge/daytona": [
+   [
+    1984,
+    "dodge/daytona-1984"
+   ]
+  ],
+  "dodge/durango": [
+   [
+    1998,
+    "dodge/durango-1998"
+   ],
+   [
+    2004,
+    "dodge/durango-2004"
+   ],
+   [
+    2018,
+    "dodge/durango"
+   ]
+  ],
+  "dodge/durango-hellcat": [
+   [
+    2021,
+    "dodge/durango-hellcat-2021"
+   ]
+  ],
+  "dodge/durango-srt": [
+   [
+    2018,
+    "dodge/durango-srt-2018"
+   ]
+  ],
+  "dodge/grand-caravan": [
+   [
+    1991,
+    "dodge/grand-caravan-1991"
+   ],
+   [
+    1996,
+    "dodge/grand-caravan-1996"
+   ],
+   [
+    2001,
+    "dodge/grand-caravan-2001"
+   ],
+   [
+    2008,
+    "dodge/grand-caravan-2008"
+   ]
+  ],
+  "dodge/intrepid": [
+   [
+    1993,
+    "dodge/intrepid-1993"
+   ],
+   [
+    1998,
+    "dodge/intrepid-1998"
+   ]
+  ],
+  "dodge/journey": [
+   [
+    2009,
+    "dodge/journey-2009"
+   ]
+  ],
+  "dodge/magnum": [
+   [
+    2005,
+    "dodge/magnum-2005"
+   ]
+  ],
+  "dodge/magnum-srt8": [
+   [
+    2005,
+    "dodge/magnum-srt8-2005"
+   ]
+  ],
+  "dodge/neon": [
+   [
+    1995,
+    "dodge/neon-1995"
+   ],
+   [
+    2000,
+    "dodge/neon-2000"
+   ]
+  ],
+  "dodge/neon-acr": [
+   [
+    2004,
+    "dodge/neon-acr-2004"
+   ]
+  ],
+  "dodge/neon-srt4": [
+   [
+    2003,
+    "dodge/neon-srt4-2003"
+   ]
+  ],
+  "dodge/nitro": [
+   [
+    2007,
+    "dodge/nitro-2007"
+   ]
+  ],
+  "dodge/ram-1500": [
+   [
+    1981,
+    "dodge/ram-1500-1981"
+   ],
+   [
+    1994,
+    "dodge/ram-1500-1994"
+   ],
+   [
+    2002,
+    "dodge/ram-1500-2002"
+   ],
+   [
+    2009,
+    "dodge/ram-1500-2009"
+   ]
+  ],
+  "dodge/ram-srt10": [
+   [
+    2004,
+    "dodge/ram-srt10-2004"
+   ]
+  ],
+  "dodge/shadow": [
+   [
+    1987,
+    "dodge/shadow-1987"
+   ]
+  ],
+  "dodge/spirit": [
+   [
+    1989,
+    "dodge/spirit-1989"
+   ]
+  ],
+  "dodge/stealth": [
+   [
+    1991,
+    "dodge/stealth-1991"
+   ]
+  ],
+  "dodge/viper": [
+   [
+    1992,
+    "dodge/viper-1992"
+   ],
+   [
+    2013,
+    "dodge/viper"
+   ]
+  ],
+  "dodge/viper-acr": [
+   [
+    2016,
+    "dodge/viper-acr-2016"
+   ]
+  ],
+  "dodge/viper-gts": [
+   [
+    1996,
+    "dodge/viper-gts-1996"
+   ]
+  ],
+  "dodge/viper-vx": [
+   [
+    2013,
+    "dodge/viper-vx-2013"
+   ]
+  ],
+  "dodge/viper-zb": [
+   [
+    2003,
+    "dodge/viper-zb-2003"
+   ]
+  ],
+  "dodge/viper-zb2": [
+   [
+    2008,
+    "dodge/viper-zb2-2008"
+   ]
+  ],
+  "eagle/summit": [
+   [
+    1989,
+    "eagle/summit-1989"
+   ]
+  ],
+  "eagle/talon": [
+   [
+    1990,
+    "eagle/talon-1990"
+   ],
+   [
+    1995,
+    "eagle/talon-1995"
+   ]
+  ],
+  "eagle/talon-tsi-awd": [
+   [
+    1990,
+    "eagle/talon-tsi-awd-1990"
+   ]
+  ],
+  "eagle/vision": [
+   [
+    1993,
+    "eagle/vision-1993"
+   ]
+  ],
+  "ford/aerostar": [
+   [
+    1986,
+    "ford/aerostar-1986"
+   ]
+  ],
+  "ford/aspire": [
+   [
+    1994,
+    "ford/aspire-1994"
+   ]
+  ],
+  "ford/bronco": [
+   [
+    1987,
+    "ford/bronco-1987"
+   ],
+   [
+    1992,
+    "ford/bronco-1992"
+   ],
+   [
+    2021,
+    "ford/bronco"
+   ]
+  ],
+  "ford/bronco-ii": [
+   [
+    1984,
+    "ford/bronco-ii-1984"
+   ]
+  ],
+  "ford/contour": [
+   [
+    1995,
+    "ford/contour-1995"
+   ]
+  ],
+  "ford/contour-svt": [
+   [
+    1998,
+    "ford/contour-svt-1998"
+   ]
+  ],
+  "ford/crown-victoria": [
+   [
+    1992,
+    "ford/crown-victoria-1992"
+   ],
+   [
+    1998,
+    "ford/crown-victoria-1998"
+   ]
+  ],
+  "ford/crown-victoria-police-interceptor": [
+   [
+    1992,
+    "ford/crown-victoria-police-interceptor-1992"
+   ],
+   [
+    1998,
+    "ford/crown-victoria-police-interceptor-1998"
+   ]
+  ],
+  "ford/e-150-econoline": [
+   [
+    1992,
+    "ford/e-150-econoline-1992"
+   ]
+  ],
+  "ford/ecosport": [
+   [
+    2018,
+    "ford/ecosport-2018"
+   ]
+  ],
+  "ford/edge": [
+   [
+    2007,
+    "ford/edge-2007"
+   ],
+   [
+    2015,
+    "ford/edge"
+   ]
+  ],
+  "ford/escape": [
+   [
+    2001,
+    "ford/escape-2001"
+   ],
+   [
+    2008,
+    "ford/escape-2008"
+   ],
+   [
+    2013,
+    "ford/escape-2013"
+   ],
+   [
+    2020,
+    "ford/escape"
+   ]
+  ],
+  "ford/escort": [
+   [
+    1991,
+    "ford/escort-1991"
+   ],
+   [
+    1997,
+    "ford/escort-1997"
+   ]
+  ],
+  "ford/escort-rs-cosworth": [
+   [
+    1992,
+    "ford/escort-rs-cosworth-1992"
+   ]
+  ],
+  "ford/excursion": [
+   [
+    2000,
+    "ford/excursion-2000"
+   ]
+  ],
+  "ford/expedition": [
+   [
+    1997,
+    "ford/expedition-1997"
+   ],
+   [
+    2003,
+    "ford/expedition-2003"
+   ],
+   [
+    2007,
+    "ford/expedition-2007"
+   ],
+   [
+    2018,
+    "ford/expedition"
+   ]
+  ],
+  "ford/explorer": [
+   [
+    1991,
+    "ford/explorer-1991"
+   ],
+   [
+    1995,
+    "ford/explorer-1995"
+   ],
+   [
+    2002,
+    "ford/explorer-2002"
+   ],
+   [
+    2006,
+    "ford/explorer-2006"
+   ],
+   [
+    2011,
+    "ford/explorer-2011"
+   ],
+   [
+    2020,
+    "ford/explorer"
+   ]
+  ],
+  "ford/explorer-sport-trac": [
+   [
+    2001,
+    "ford/explorer-sport-trac-2001"
+   ],
+   [
+    2007,
+    "ford/explorer-sport-trac-2007"
+   ]
+  ],
+  "ford/f-150": [
+   [
+    1987,
+    "ford/f-150-1987"
+   ],
+   [
+    1992,
+    "ford/f-150-1992"
+   ],
+   [
+    1997,
+    "ford/f-150-1997"
+   ],
+   [
+    2004,
+    "ford/f-150-2004"
+   ],
+   [
+    2009,
+    "ford/f-150-2009"
+   ],
+   [
+    2015,
+    "ford/f-150-2015"
+   ],
+   [
+    2021,
+    "ford/f-150"
+   ]
+  ],
+  "ford/f-150-lightning": [
+   [
+    1993,
+    "ford/f-150-lightning-1993"
+   ],
+   [
+    1999,
+    "ford/f-150-lightning-1999"
+   ],
+   [
+    2022,
+    "ford/f-150-lightning"
+   ]
+  ],
+  "ford/f-150-raptor": [
+   [
+    2017,
+    "ford/f-150-raptor-2017"
+   ],
+   [
+    2021,
+    "ford/f-150-raptor"
+   ]
+  ],
+  "ford/f-150-svt-raptor": [
+   [
+    2010,
+    "ford/f-150-svt-raptor-2010"
+   ]
+  ],
+  "ford/f-150-tremor": [
+   [
+    2021,
+    "ford/f-150-tremor-2021"
+   ]
+  ],
+  "ford/f-250-super-duty": [
+   [
+    1999,
+    "ford/f-250-super-duty-1999"
+   ],
+   [
+    2008,
+    "ford/f-250-super-duty-2008"
+   ],
+   [
+    2011,
+    "ford/f-250-super-duty-2011"
+   ],
+   [
+    2017,
+    "ford/f-250-super-duty-2017"
+   ],
+   [
+    2023,
+    "ford/f-250-super-duty"
+   ]
+  ],
+  "ford/falcon-xr8": [
+   [
+    1991,
+    "ford/falcon-xr8-1991"
+   ]
+  ],
+  "ford/fiesta": [
+   [
+    2011,
+    "ford/fiesta-2011"
+   ]
+  ],
+  "ford/fiesta-st": [
+   [
+    2014,
+    "ford/fiesta-st-2014"
+   ]
+  ],
+  "ford/fiesta-st-mk7": [
+   [
+    2013,
+    "ford/fiesta-st-mk7-2013"
+   ]
+  ],
+  "ford/five-hundred": [
+   [
+    2005,
+    "ford/five-hundred-2005"
+   ]
+  ],
+  "ford/flex": [
+   [
+    2009,
+    "ford/flex-2009"
+   ]
+  ],
+  "ford/focus": [
+   [
+    2000,
+    "ford/focus-2000"
+   ],
+   [
+    2008,
+    "ford/focus-2008"
+   ],
+   [
+    2012,
+    "ford/focus-2012"
+   ],
+   [
+    2019,
+    "ford/focus"
+   ]
+  ],
+  "ford/focus-rs": [
+   [
+    2016,
+    "ford/focus-rs-2016"
+   ]
+  ],
+  "ford/focus-rs-mk1": [
+   [
+    2002,
+    "ford/focus-rs-mk1-2002"
+   ]
+  ],
+  "ford/focus-rs-mk2": [
+   [
+    2009,
+    "ford/focus-rs-mk2-2009"
+   ]
+  ],
+  "ford/focus-st": [
+   [
+    2013,
+    "ford/focus-st-2013"
+   ]
+  ],
+  "ford/focus-svt": [
+   [
+    2002,
+    "ford/focus-svt-2002"
+   ]
+  ],
+  "ford/ford-gt": [
+   [
+    2005,
+    "ford/ford-gt-2005"
+   ],
+   [
+    2017,
+    "ford/ford-gt-2017"
+   ]
+  ],
+  "ford/freestar": [
+   [
+    2004,
+    "ford/freestar-2004"
+   ]
+  ],
+  "ford/freestyle": [
+   [
+    2005,
+    "ford/freestyle-2005"
+   ]
+  ],
+  "ford/fusion": [
+   [
+    2006,
+    "ford/fusion-2006"
+   ],
+   [
+    2013,
+    "ford/fusion"
+   ]
+  ],
+  "ford/fusion-sport": [
+   [
+    2017,
+    "ford/fusion-sport-2017"
+   ]
+  ],
+  "ford/mustang-boss-302": [
+   [
+    2012,
+    "ford/mustang-boss-302-2012"
+   ]
+  ],
+  "ford/mustang-bullitt": [
+   [
+    2008,
+    "ford/mustang-bullitt-2008"
+   ],
+   [
+    2018,
+    "ford/mustang-bullitt-2018"
+   ]
+  ],
+  "ford/mustang-cobra": [
+   [
+    1993,
+    "ford/mustang-cobra-1993"
+   ],
+   [
+    1994,
+    "ford/mustang-cobra-1994"
+   ],
+   [
+    1996,
+    "ford/mustang-cobra-1996"
+   ],
+   [
+    1999,
+    "ford/mustang-cobra-1999"
+   ],
+   [
+    2003,
+    "ford/mustang-cobra-2003"
+   ]
+  ],
+  "ford/mustang-cobra-r": [
+   [
+    1993,
+    "ford/mustang-cobra-r-1993"
+   ],
+   [
+    1995,
+    "ford/mustang-cobra-r-1995"
+   ],
+   [
+    2000,
+    "ford/mustang-cobra-r-2000"
+   ]
+  ],
+  "ford/mustang-fox": [
+   [
+    1979,
+    "ford/mustang-fox-1979"
+   ]
+  ],
+  "ford/mustang-mach-1": [
+   [
+    2003,
+    "ford/mustang-mach-1-2003"
+   ],
+   [
+    2021,
+    "ford/mustang-mach-1-2021"
+   ]
+  ],
+  "ford/mustang-new-edge": [
+   [
+    1999,
+    "ford/mustang-new-edge-1999"
+   ]
+  ],
+  "ford/mustang-s197": [
+   [
+    2005,
+    "ford/mustang-s197-2005"
+   ]
+  ],
+  "ford/mustang-s550": [
+   [
+    2015,
+    "ford/mustang-s550-2015"
+   ]
+  ],
+  "ford/mustang-shelby-gt350": [
+   [
+    2015,
+    "ford/mustang-shelby-gt350-2015"
+   ]
+  ],
+  "ford/mustang-shelby-gt500": [
+   [
+    2007,
+    "ford/mustang-shelby-gt500-2007"
+   ],
+   [
+    2010,
+    "ford/mustang-shelby-gt500-2010"
+   ],
+   [
+    2013,
+    "ford/mustang-shelby-gt500-2013"
+   ],
+   [
+    2020,
+    "ford/mustang-shelby-gt500-2020"
+   ]
+  ],
+  "ford/mustang-sn95": [
+   [
+    1994,
+    "ford/mustang-sn95-1994"
+   ]
+  ],
+  "ford/mustang-svo": [
+   [
+    1984,
+    "ford/mustang-svo-1984"
+   ]
+  ],
+  "ford/probe": [
+   [
+    1989,
+    "ford/probe-1989"
+   ],
+   [
+    1993,
+    "ford/probe-1993"
+   ]
+  ],
+  "ford/puma": [
+   [
+    1997,
+    "ford/puma-1997"
+   ],
+   [
+    2019,
+    "ford/puma-2019"
+   ]
+  ],
+  "ford/ranger": [
+   [
+    1989,
+    "ford/ranger-1989"
+   ],
+   [
+    1993,
+    "ford/ranger-1993"
+   ],
+   [
+    1998,
+    "ford/ranger-1998"
+   ],
+   [
+    2019,
+    "ford/ranger-2019"
+   ],
+   [
+    2024,
+    "ford/ranger"
+   ]
+  ],
+  "ford/ranger-raptor": [
+   [
+    2018,
+    "ford/ranger-raptor-2018"
+   ],
+   [
+    2024,
+    "ford/ranger-raptor"
+   ]
+  ],
+  "ford/sierra-rs-cosworth": [
+   [
+    1986,
+    "ford/sierra-rs-cosworth-1986"
+   ]
+  ],
+  "ford/taurus": [
+   [
+    1986,
+    "ford/taurus-1986"
+   ],
+   [
+    1992,
+    "ford/taurus-1992"
+   ],
+   [
+    1996,
+    "ford/taurus-1996"
+   ],
+   [
+    2000,
+    "ford/taurus-2000"
+   ],
+   [
+    2008,
+    "ford/taurus-2008"
+   ],
+   [
+    2010,
+    "ford/taurus-2010"
+   ]
+  ],
+  "ford/taurus-sho": [
+   [
+    1989,
+    "ford/taurus-sho-1989"
+   ],
+   [
+    1992,
+    "ford/taurus-sho-1992"
+   ],
+   [
+    1996,
+    "ford/taurus-sho-1996"
+   ],
+   [
+    2010,
+    "ford/taurus-sho-2010"
+   ]
+  ],
+  "ford/thunderbird": [
+   [
+    1989,
+    "ford/thunderbird-1989"
+   ],
+   [
+    1994,
+    "ford/thunderbird-1994"
+   ],
+   [
+    2002,
+    "ford/thunderbird-2002"
+   ]
+  ],
+  "ford/thunderbird-super-coupe": [
+   [
+    1989,
+    "ford/thunderbird-super-coupe-1989"
+   ]
+  ],
+  "ford/transit": [
+   [
+    2015,
+    "ford/transit-2015"
+   ],
+   [
+    2020,
+    "ford/transit"
+   ]
+  ],
+  "ford/windstar": [
+   [
+    1995,
+    "ford/windstar-1995"
+   ],
+   [
+    1999,
+    "ford/windstar-1999"
+   ]
+  ],
+  "genesis/g70": [
+   [
+    2019,
+    "genesis/g70-2019"
+   ],
+   [
+    2022,
+    "genesis/g70-2022"
+   ],
+   [
+    2025,
+    "genesis/g70"
+   ]
+  ],
+  "genesis/g70-3-3t": [
+   [
+    2019,
+    "genesis/g70-3-3t-2019"
+   ]
+  ],
+  "genesis/g80": [
+   [
+    2017,
+    "genesis/g80-2017"
+   ],
+   [
+    2021,
+    "genesis/g80"
+   ]
+  ],
+  "genesis/g80-electrified": [
+   [
+    2022,
+    "genesis/g80-electrified-2022"
+   ]
+  ],
+  "genesis/g90": [
+   [
+    2017,
+    "genesis/g90-2017"
+   ],
+   [
+    2023,
+    "genesis/g90"
+   ]
+  ],
+  "genesis/gv60-performance": [
+   [
+    2023,
+    "genesis/gv60-performance-2023"
+   ]
+  ],
+  "genesis/gv70-electrified": [
+   [
+    2023,
+    "genesis/gv70-electrified-2023"
+   ]
+  ],
+  "genesis/gv80-coupe": [
+   [
+    2023,
+    "genesis/gv80-coupe-2023"
+   ]
+  ],
+  "gmc/acadia": [
+   [
+    2007,
+    "gmc/acadia-2007"
+   ],
+   [
+    2017,
+    "gmc/acadia-2017"
+   ],
+   [
+    2024,
+    "gmc/acadia"
+   ]
+  ],
+  "gmc/canyon": [
+   [
+    2004,
+    "gmc/canyon-2004"
+   ],
+   [
+    2015,
+    "gmc/canyon-2015"
+   ],
+   [
+    2023,
+    "gmc/canyon"
+   ]
+  ],
+  "gmc/canyon-at4": [
+   [
+    2015,
+    "gmc/canyon-at4-2015"
+   ]
+  ],
+  "gmc/envoy": [
+   [
+    1998,
+    "gmc/envoy-1998"
+   ],
+   [
+    2002,
+    "gmc/envoy-2002"
+   ]
+  ],
+  "gmc/envoy-denali": [
+   [
+    2002,
+    "gmc/envoy-denali-2002"
+   ]
+  ],
+  "gmc/envoy-xuv": [
+   [
+    2002,
+    "gmc/envoy-xuv-2002"
+   ]
+  ],
+  "gmc/jimmy": [
+   [
+    1983,
+    "gmc/jimmy-1983"
+   ],
+   [
+    1995,
+    "gmc/jimmy-1995"
+   ]
+  ],
+  "gmc/jimmy-fullsize": [
+   [
+    1992,
+    "gmc/jimmy-fullsize-1992"
+   ]
+  ],
+  "gmc/safari": [
+   [
+    1985,
+    "gmc/safari-1985"
+   ]
+  ],
+  "gmc/savana": [
+   [
+    1996,
+    "gmc/savana-1996"
+   ]
+  ],
+  "gmc/sierra": [
+   [
+    1988,
+    "gmc/sierra-1988"
+   ]
+  ],
+  "gmc/sierra-1500": [
+   [
+    1999,
+    "gmc/sierra-1500-1999"
+   ],
+   [
+    2007,
+    "gmc/sierra-1500-2007"
+   ],
+   [
+    2014,
+    "gmc/sierra-1500-2014"
+   ],
+   [
+    2019,
+    "gmc/sierra-1500"
+   ]
+  ],
+  "gmc/sonoma": [
+   [
+    1982,
+    "gmc/sonoma-1982"
+   ],
+   [
+    1994,
+    "gmc/sonoma-1994"
+   ]
+  ],
+  "gmc/suburban": [
+   [
+    1992,
+    "gmc/suburban-1992"
+   ]
+  ],
+  "gmc/syclone": [
+   [
+    1991,
+    "gmc/syclone-1991"
+   ]
+  ],
+  "gmc/terrain": [
+   [
+    2010,
+    "gmc/terrain-2010"
+   ],
+   [
+    2018,
+    "gmc/terrain-2018"
+   ],
+   [
+    2024,
+    "gmc/terrain"
+   ]
+  ],
+  "gmc/typhoon": [
+   [
+    1992,
+    "gmc/typhoon-1992"
+   ]
+  ],
+  "gmc/yukon": [
+   [
+    1992,
+    "gmc/yukon-1992"
+   ],
+   [
+    2000,
+    "gmc/yukon-2000"
+   ],
+   [
+    2007,
+    "gmc/yukon-2007"
+   ],
+   [
+    2015,
+    "gmc/yukon-2015"
+   ],
+   [
+    2021,
+    "gmc/yukon"
+   ]
+  ],
+  "gmc/yukon-xl": [
+   [
+    2000,
+    "gmc/yukon-xl-2000"
+   ]
+  ],
+  "honda/accord": [
+   [
+    1990,
+    "honda/accord-1990"
+   ],
+   [
+    1994,
+    "honda/accord-1994"
+   ],
+   [
+    1998,
+    "honda/accord-1998"
+   ],
+   [
+    2003,
+    "honda/accord-2003"
+   ],
+   [
+    2008,
+    "honda/accord-2008"
+   ],
+   [
+    2013,
+    "honda/accord-2013"
+   ],
+   [
+    2018,
+    "honda/accord-2018"
+   ],
+   [
+    2023,
+    "honda/accord"
+   ]
+  ],
+  "honda/accord-coupe": [
+   [
+    1998,
+    "honda/accord-coupe-1998"
+   ]
+  ],
+  "honda/accord-v6-6mt": [
+   [
+    2003,
+    "honda/accord-v6-6mt-2003"
+   ]
+  ],
+  "honda/beat": [
+   [
+    1991,
+    "honda/beat"
+   ]
+  ],
+  "honda/city-turbo-ii": [
+   [
+    1983,
+    "honda/city-turbo-ii-1983"
+   ]
+  ],
+  "honda/civic": [
+   [
+    1988,
+    "honda/civic-1988"
+   ],
+   [
+    1992,
+    "honda/civic-1992"
+   ],
+   [
+    1996,
+    "honda/civic-1996"
+   ],
+   [
+    2001,
+    "honda/civic-2001"
+   ],
+   [
+    2006,
+    "honda/civic-2006"
+   ],
+   [
+    2012,
+    "honda/civic-2012"
+   ],
+   [
+    2016,
+    "honda/civic-2016"
+   ],
+   [
+    2022,
+    "honda/civic"
+   ]
+  ],
+  "honda/civic-si": [
+   [
+    1988,
+    "honda/civic-si-1988"
+   ],
+   [
+    1993,
+    "honda/civic-si-1993"
+   ],
+   [
+    1999,
+    "honda/civic-si-1999"
+   ],
+   [
+    2002,
+    "honda/civic-si-2002"
+   ],
+   [
+    2006,
+    "honda/civic-si-2006"
+   ],
+   [
+    2012,
+    "honda/civic-si-2012"
+   ],
+   [
+    2017,
+    "honda/civic-si-2017"
+   ],
+   [
+    2022,
+    "honda/civic-si"
+   ]
+  ],
+  "honda/civic-type-r": [
+   [
+    1997,
+    "honda/civic-type-r-1997"
+   ],
+   [
+    2001,
+    "honda/civic-type-r-2001"
+   ],
+   [
+    2007,
+    "honda/civic-type-r-2007"
+   ],
+   [
+    2015,
+    "honda/civic-type-r-2015"
+   ],
+   [
+    2017,
+    "honda/civic-type-r-2017"
+   ],
+   [
+    2023,
+    "honda/civic-type-r"
+   ]
+  ],
+  "honda/clarity": [
+   [
+    2017,
+    "honda/clarity-2017"
+   ]
+  ],
+  "honda/cr-v": [
+   [
+    1997,
+    "honda/cr-v-1997"
+   ],
+   [
+    2002,
+    "honda/cr-v-2002"
+   ],
+   [
+    2007,
+    "honda/cr-v-2007"
+   ],
+   [
+    2012,
+    "honda/cr-v-2012"
+   ],
+   [
+    2017,
+    "honda/cr-v-2017"
+   ],
+   [
+    2023,
+    "honda/cr-v"
+   ]
+  ],
+  "honda/cr-z": [
+   [
+    2011,
+    "honda/cr-z-2011"
+   ]
+  ],
+  "honda/crosstour": [
+   [
+    2010,
+    "honda/crosstour-2010"
+   ]
+  ],
+  "honda/crx": [
+   [
+    1988,
+    "honda/crx-1988"
+   ]
+  ],
+  "honda/del-sol": [
+   [
+    1993,
+    "honda/del-sol-1993"
+   ]
+  ],
+  "honda/del-sol-vtec": [
+   [
+    1993,
+    "honda/del-sol-vtec-1993"
+   ]
+  ],
+  "honda/element": [
+   [
+    2003,
+    "honda/element-2003"
+   ]
+  ],
+  "honda/fit": [
+   [
+    2007,
+    "honda/fit-2007"
+   ],
+   [
+    2009,
+    "honda/fit-2009"
+   ],
+   [
+    2015,
+    "honda/fit-2015"
+   ]
+  ],
+  "honda/hr-v": [
+   [
+    2016,
+    "honda/hr-v-2016"
+   ],
+   [
+    2023,
+    "honda/hr-v"
+   ]
+  ],
+  "honda/insight": [
+   [
+    1999,
+    "honda/insight-1999"
+   ],
+   [
+    2010,
+    "honda/insight-2010"
+   ],
+   [
+    2019,
+    "honda/insight-2019"
+   ]
+  ],
+  "honda/integra-type-r": [
+   [
+    1995,
+    "honda/integra-type-r-1995"
+   ]
+  ],
+  "honda/nsx-r": [
+   [
+    1992,
+    "honda/nsx-r-1992"
+   ]
+  ],
+  "honda/odyssey": [
+   [
+    1995,
+    "honda/odyssey-1995"
+   ],
+   [
+    1999,
+    "honda/odyssey-1999"
+   ],
+   [
+    2005,
+    "honda/odyssey-2005"
+   ],
+   [
+    2011,
+    "honda/odyssey-2011"
+   ],
+   [
+    2018,
+    "honda/odyssey"
+   ]
+  ],
+  "honda/passport": [
+   [
+    1994,
+    "honda/passport-1994"
+   ],
+   [
+    2019,
+    "honda/passport"
+   ]
+  ],
+  "honda/pilot": [
+   [
+    2003,
+    "honda/pilot-2003"
+   ],
+   [
+    2009,
+    "honda/pilot-2009"
+   ],
+   [
+    2016,
+    "honda/pilot-2016"
+   ],
+   [
+    2023,
+    "honda/pilot"
+   ]
+  ],
+  "honda/prelude": [
+   [
+    1988,
+    "honda/prelude-1988"
+   ],
+   [
+    1992,
+    "honda/prelude-1992"
+   ],
+   [
+    1997,
+    "honda/prelude-1997"
+   ],
+   [
+    2026,
+    "honda/prelude"
+   ]
+  ],
+  "honda/ridgeline": [
+   [
+    2006,
+    "honda/ridgeline-2006"
+   ],
+   [
+    2017,
+    "honda/ridgeline"
+   ]
+  ],
+  "honda/s2000": [
+   [
+    1999,
+    "honda/s2000-1999"
+   ],
+   [
+    2004,
+    "honda/s2000-2004"
+   ]
+  ],
+  "honda/s660": [
+   [
+    2015,
+    "honda/s660-2015"
+   ]
+  ],
+  "hummer/h1": [
+   [
+    1992,
+    "hummer/h1-1992"
+   ]
+  ],
+  "hummer/h2": [
+   [
+    2003,
+    "hummer/h2-2003"
+   ]
+  ],
+  "hummer/h2-sut": [
+   [
+    2005,
+    "hummer/h2-sut-2005"
+   ]
+  ],
+  "hummer/h3": [
+   [
+    2006,
+    "hummer/h3-2006"
+   ]
+  ],
+  "hummer/h3t": [
+   [
+    2009,
+    "hummer/h3t-2009"
+   ]
+  ],
+  "hyundai/accent": [
+   [
+    1995,
+    "hyundai/accent-1995"
+   ],
+   [
+    2000,
+    "hyundai/accent-2000"
+   ],
+   [
+    2006,
+    "hyundai/accent-2006"
+   ],
+   [
+    2012,
+    "hyundai/accent-2012"
+   ],
+   [
+    2018,
+    "hyundai/accent-2018"
+   ]
+  ],
+  "hyundai/azera": [
+   [
+    2006,
+    "hyundai/azera-2006"
+   ],
+   [
+    2012,
+    "hyundai/azera-2012"
+   ]
+  ],
+  "hyundai/elantra": [
+   [
+    1992,
+    "hyundai/elantra-1992"
+   ],
+   [
+    1996,
+    "hyundai/elantra-1996"
+   ],
+   [
+    2001,
+    "hyundai/elantra-2001"
+   ],
+   [
+    2007,
+    "hyundai/elantra-2007"
+   ],
+   [
+    2011,
+    "hyundai/elantra-2011"
+   ],
+   [
+    2017,
+    "hyundai/elantra-2017"
+   ],
+   [
+    2021,
+    "hyundai/elantra"
+   ]
+  ],
+  "hyundai/elantra-gt": [
+   [
+    2013,
+    "hyundai/elantra-gt-2013"
+   ]
+  ],
+  "hyundai/elantra-gt-n-line": [
+   [
+    2019,
+    "hyundai/elantra-gt-n-line-2019"
+   ]
+  ],
+  "hyundai/elantra-n": [
+   [
+    2022,
+    "hyundai/elantra-n"
+   ]
+  ],
+  "hyundai/elantra-n-line": [
+   [
+    2021,
+    "hyundai/elantra-n-line-2021"
+   ]
+  ],
+  "hyundai/elantra-touring": [
+   [
+    2009,
+    "hyundai/elantra-touring-2009"
+   ]
+  ],
+  "hyundai/entourage": [
+   [
+    2007,
+    "hyundai/entourage-2007"
+   ]
+  ],
+  "hyundai/equus": [
+   [
+    2011,
+    "hyundai/equus-2011"
+   ]
+  ],
+  "hyundai/excel": [
+   [
+    1986,
+    "hyundai/excel-1986"
+   ]
+  ],
+  "hyundai/genesis": [
+   [
+    2009,
+    "hyundai/genesis-2009"
+   ],
+   [
+    2015,
+    "hyundai/genesis-2015"
+   ]
+  ],
+  "hyundai/genesis-coupe": [
+   [
+    2010,
+    "hyundai/genesis-coupe-2010"
+   ],
+   [
+    2013,
+    "hyundai/genesis-coupe-2013"
+   ]
+  ],
+  "hyundai/ioniq": [
+   [
+    2017,
+    "hyundai/ioniq-2017"
+   ]
+  ],
+  "hyundai/ioniq-5-n": [
+   [
+    2025,
+    "hyundai/ioniq-5-n-2025"
+   ]
+  ],
+  "hyundai/kona": [
+   [
+    2018,
+    "hyundai/kona-2018"
+   ],
+   [
+    2024,
+    "hyundai/kona"
+   ]
+  ],
+  "hyundai/kona-n": [
+   [
+    2022,
+    "hyundai/kona-n-2022"
+   ]
+  ],
+  "hyundai/santa-fe": [
+   [
+    2001,
+    "hyundai/santa-fe-2001"
+   ],
+   [
+    2007,
+    "hyundai/santa-fe-2007"
+   ],
+   [
+    2013,
+    "hyundai/santa-fe-2013"
+   ],
+   [
+    2019,
+    "hyundai/santa-fe-2019"
+   ],
+   [
+    2024,
+    "hyundai/santa-fe"
+   ]
+  ],
+  "hyundai/scoupe": [
+   [
+    1990,
+    "hyundai/scoupe-1990"
+   ]
+  ],
+  "hyundai/sonata": [
+   [
+    1989,
+    "hyundai/sonata-1989"
+   ],
+   [
+    1995,
+    "hyundai/sonata-1995"
+   ],
+   [
+    1999,
+    "hyundai/sonata-1999"
+   ],
+   [
+    2006,
+    "hyundai/sonata-2006"
+   ],
+   [
+    2011,
+    "hyundai/sonata-2011"
+   ],
+   [
+    2015,
+    "hyundai/sonata-2015"
+   ],
+   [
+    2020,
+    "hyundai/sonata"
+   ]
+  ],
+  "hyundai/sonata-n-line": [
+   [
+    2021,
+    "hyundai/sonata-n-line-2021"
+   ]
+  ],
+  "hyundai/tiburon": [
+   [
+    1997,
+    "hyundai/tiburon-1997"
+   ],
+   [
+    2003,
+    "hyundai/tiburon-2003"
+   ]
+  ],
+  "hyundai/tiburon-gt": [
+   [
+    2003,
+    "hyundai/tiburon-gt-2003"
+   ]
+  ],
+  "hyundai/tucson": [
+   [
+    2005,
+    "hyundai/tucson-2005"
+   ],
+   [
+    2010,
+    "hyundai/tucson-2010"
+   ],
+   [
+    2016,
+    "hyundai/tucson-2016"
+   ],
+   [
+    2022,
+    "hyundai/tucson"
+   ]
+  ],
+  "hyundai/veloster": [
+   [
+    2011,
+    "hyundai/veloster-2011"
+   ],
+   [
+    2019,
+    "hyundai/veloster-2019"
+   ]
+  ],
+  "hyundai/veloster-n": [
+   [
+    2019,
+    "hyundai/veloster-n"
+   ]
+  ],
+  "hyundai/veloster-turbo": [
+   [
+    2013,
+    "hyundai/veloster-turbo-2013"
+   ]
+  ],
+  "hyundai/veracruz": [
+   [
+    2007,
+    "hyundai/veracruz-2007"
+   ]
+  ],
+  "hyundai/xg350": [
+   [
+    2001,
+    "hyundai/xg350-2001"
+   ]
+  ],
+  "infiniti/ex35": [
+   [
+    2008,
+    "infiniti/ex35-2008"
+   ]
+  ],
+  "infiniti/fx35": [
+   [
+    2003,
+    "infiniti/fx35-2003"
+   ]
+  ],
+  "infiniti/fx50": [
+   [
+    2009,
+    "infiniti/fx50-2009"
+   ]
+  ],
+  "infiniti/g20": [
+   [
+    1991,
+    "infiniti/g20-1991"
+   ],
+   [
+    1999,
+    "infiniti/g20-1999"
+   ]
+  ],
+  "infiniti/g35-coupe": [
+   [
+    2003,
+    "infiniti/g35-coupe-2003"
+   ]
+  ],
+  "infiniti/g35-sedan": [
+   [
+    2003,
+    "infiniti/g35-sedan-2003"
+   ]
+  ],
+  "infiniti/g37-coupe": [
+   [
+    2008,
+    "infiniti/g37-coupe-2008"
+   ]
+  ],
+  "infiniti/g37-ipl": [
+   [
+    2011,
+    "infiniti/g37-ipl-2011"
+   ]
+  ],
+  "infiniti/g37-sedan": [
+   [
+    2009,
+    "infiniti/g37-sedan-2009"
+   ]
+  ],
+  "infiniti/i30": [
+   [
+    1996,
+    "infiniti/i30-1996"
+   ],
+   [
+    2000,
+    "infiniti/i30-2000"
+   ]
+  ],
+  "infiniti/i35": [
+   [
+    2002,
+    "infiniti/i35-2002"
+   ]
+  ],
+  "infiniti/j30": [
+   [
+    1993,
+    "infiniti/j30-1993"
+   ]
+  ],
+  "infiniti/m35": [
+   [
+    2006,
+    "infiniti/m35-2006"
+   ]
+  ],
+  "infiniti/m37": [
+   [
+    2011,
+    "infiniti/m37-2011"
+   ]
+  ],
+  "infiniti/m45": [
+   [
+    2003,
+    "infiniti/m45-2003"
+   ]
+  ],
+  "infiniti/q30": [
+   [
+    2017,
+    "infiniti/q30-2017"
+   ]
+  ],
+  "infiniti/q40": [
+   [
+    2015,
+    "infiniti/q40-2015"
+   ]
+  ],
+  "infiniti/q45": [
+   [
+    1990,
+    "infiniti/q45-1990"
+   ],
+   [
+    1997,
+    "infiniti/q45-1997"
+   ],
+   [
+    2002,
+    "infiniti/q45-2002"
+   ]
+  ],
+  "infiniti/q50": [
+   [
+    2014,
+    "infiniti/q50-2014"
+   ],
+   [
+    2018,
+    "infiniti/q50"
+   ]
+  ],
+  "infiniti/q50-red-sport": [
+   [
+    2016,
+    "infiniti/q50-red-sport-2016"
+   ]
+  ],
+  "infiniti/q60": [
+   [
+    2017,
+    "infiniti/q60-2017"
+   ]
+  ],
+  "infiniti/q60-red-sport": [
+   [
+    2017,
+    "infiniti/q60-red-sport-2017"
+   ]
+  ],
+  "infiniti/q70": [
+   [
+    2014,
+    "infiniti/q70-2014"
+   ]
+  ],
+  "infiniti/qx30": [
+   [
+    2017,
+    "infiniti/qx30-2017"
+   ]
+  ],
+  "infiniti/qx4": [
+   [
+    1997,
+    "infiniti/qx4-1997"
+   ]
+  ],
+  "infiniti/qx50": [
+   [
+    2014,
+    "infiniti/qx50-2014"
+   ],
+   [
+    2019,
+    "infiniti/qx50"
+   ]
+  ],
+  "infiniti/qx56": [
+   [
+    2004,
+    "infiniti/qx56-2004"
+   ],
+   [
+    2011,
+    "infiniti/qx56-2011"
+   ]
+  ],
+  "infiniti/qx60": [
+   [
+    2013,
+    "infiniti/qx60-2013"
+   ],
+   [
+    2022,
+    "infiniti/qx60"
+   ]
+  ],
+  "jaguar/c-x75": [
+   [
+    2010,
+    "jaguar/c-x75-2010"
+   ]
+  ],
+  "jaguar/e-pace": [
+   [
+    2017,
+    "jaguar/e-pace-2017"
+   ]
+  ],
+  "jaguar/e-type": [
+   [
+    1961,
+    "jaguar/e-type-1961"
+   ]
+  ],
+  "jaguar/f-pace": [
+   [
+    2016,
+    "jaguar/f-pace-2016"
+   ]
+  ],
+  "jaguar/f-pace-svr": [
+   [
+    2018,
+    "jaguar/f-pace-svr-2018"
+   ]
+  ],
+  "jaguar/f-type": [
+   [
+    2013,
+    "jaguar/f-type-2013"
+   ]
+  ],
+  "jaguar/f-type-project-7": [
+   [
+    2014,
+    "jaguar/f-type-project-7-2014"
+   ]
+  ],
+  "jaguar/f-type-r": [
+   [
+    2013,
+    "jaguar/f-type-r-2013"
+   ]
+  ],
+  "jaguar/f-type-svr": [
+   [
+    2016,
+    "jaguar/f-type-svr-2016"
+   ]
+  ],
+  "jaguar/i-pace": [
+   [
+    2018,
+    "jaguar/i-pace-2018"
+   ]
+  ],
+  "jaguar/s-type": [
+   [
+    1998,
+    "jaguar/s-type-1998"
+   ]
+  ],
+  "jaguar/s-type-r": [
+   [
+    2002,
+    "jaguar/s-type-r-2002"
+   ]
+  ],
+  "jaguar/xe": [
+   [
+    2015,
+    "jaguar/xe-2015"
+   ]
+  ],
+  "jaguar/xe-project-8": [
+   [
+    2018,
+    "jaguar/xe-project-8-2018"
+   ]
+  ],
+  "jaguar/xf": [
+   [
+    2007,
+    "jaguar/xf-2007"
+   ],
+   [
+    2015,
+    "jaguar/xf-2015"
+   ]
+  ],
+  "jaguar/xfr-s": [
+   [
+    2013,
+    "jaguar/xfr-s-2013"
+   ]
+  ],
+  "jaguar/xj": [
+   [
+    1997,
+    "jaguar/xj-1997"
+   ],
+   [
+    2003,
+    "jaguar/xj-2003"
+   ],
+   [
+    2009,
+    "jaguar/xj-2009"
+   ]
+  ],
+  "jaguar/xj220": [
+   [
+    1992,
+    "jaguar/xj220-1992"
+   ]
+  ],
+  "jaguar/xjr": [
+   [
+    1997,
+    "jaguar/xjr-1997"
+   ]
+  ],
+  "jaguar/xjs": [
+   [
+    1975,
+    "jaguar/xjs-1975"
+   ]
+  ],
+  "jaguar/xk120": [
+   [
+    1948,
+    "jaguar/xk120-1948"
+   ]
+  ],
+  "jaguar/xk8": [
+   [
+    1996,
+    "jaguar/xk8-1996"
+   ]
+  ],
+  "jaguar/xkr": [
+   [
+    1998,
+    "jaguar/xkr-1998"
+   ],
+   [
+    2006,
+    "jaguar/xkr-2006"
+   ]
+  ],
+  "jeep/cherokee-kl": [
+   [
+    2014,
+    "jeep/cherokee-kl-2014"
+   ]
+  ],
+  "jeep/cherokee-xj": [
+   [
+    1984,
+    "jeep/cherokee-xj-1984"
+   ]
+  ],
+  "jeep/commander": [
+   [
+    2006,
+    "jeep/commander-2006"
+   ]
+  ],
+  "jeep/compass": [
+   [
+    2007,
+    "jeep/compass-2007"
+   ],
+   [
+    2017,
+    "jeep/compass"
+   ]
+  ],
+  "jeep/gladiator-mojave": [
+   [
+    2020,
+    "jeep/gladiator-mojave-2020"
+   ]
+  ],
+  "jeep/gladiator-rubicon": [
+   [
+    2020,
+    "jeep/gladiator-rubicon-2020"
+   ]
+  ],
+  "jeep/grand-cherokee-srt": [
+   [
+    2012,
+    "jeep/grand-cherokee-srt-2012"
+   ]
+  ],
+  "jeep/grand-cherokee-srt8": [
+   [
+    2006,
+    "jeep/grand-cherokee-srt8-2006"
+   ]
+  ],
+  "jeep/grand-cherokee-trackhawk": [
+   [
+    2018,
+    "jeep/grand-cherokee-trackhawk-2018"
+   ]
+  ],
+  "jeep/grand-cherokee-wj": [
+   [
+    1999,
+    "jeep/grand-cherokee-wj-1999"
+   ]
+  ],
+  "jeep/grand-cherokee-wk": [
+   [
+    2005,
+    "jeep/grand-cherokee-wk-2005"
+   ]
+  ],
+  "jeep/grand-cherokee-wk2": [
+   [
+    2011,
+    "jeep/grand-cherokee-wk2-2011"
+   ]
+  ],
+  "jeep/grand-cherokee-zj": [
+   [
+    1993,
+    "jeep/grand-cherokee-zj-1993"
+   ]
+  ],
+  "jeep/grand-wagoneer": [
+   [
+    1984,
+    "jeep/grand-wagoneer-1984"
+   ],
+   [
+    2022,
+    "jeep/grand-wagoneer"
+   ]
+  ],
+  "jeep/liberty": [
+   [
+    2002,
+    "jeep/liberty-2002"
+   ],
+   [
+    2008,
+    "jeep/liberty-2008"
+   ]
+  ],
+  "jeep/patriot": [
+   [
+    2007,
+    "jeep/patriot-2007"
+   ]
+  ],
+  "jeep/wrangler-392": [
+   [
+    2021,
+    "jeep/wrangler-392-2021"
+   ]
+  ],
+  "jeep/wrangler-jk": [
+   [
+    2007,
+    "jeep/wrangler-jk-2007"
+   ]
+  ],
+  "jeep/wrangler-jk-rubicon": [
+   [
+    2007,
+    "jeep/wrangler-jk-rubicon-2007"
+   ]
+  ],
+  "jeep/wrangler-rubicon": [
+   [
+    2018,
+    "jeep/wrangler-rubicon-2018"
+   ]
+  ],
+  "jeep/wrangler-tj": [
+   [
+    1997,
+    "jeep/wrangler-tj-1997"
+   ]
+  ],
+  "jeep/wrangler-tj-rubicon": [
+   [
+    2003,
+    "jeep/wrangler-tj-rubicon-2003"
+   ]
+  ],
+  "jeep/wrangler-yj": [
+   [
+    1987,
+    "jeep/wrangler-yj-1987"
+   ]
+  ],
+  "kia/amanti": [
+   [
+    2004,
+    "kia/amanti-2004"
+   ]
+  ],
+  "kia/borrego": [
+   [
+    2009,
+    "kia/borrego-2009"
+   ]
+  ],
+  "kia/cadenza": [
+   [
+    2014,
+    "kia/cadenza-2014"
+   ]
+  ],
+  "kia/ev6": [
+   [
+    2022,
+    "kia/ev6-2022"
+   ]
+  ],
+  "kia/ev6-gt": [
+   [
+    2023,
+    "kia/ev6-gt-2023"
+   ]
+  ],
+  "kia/forte": [
+   [
+    2010,
+    "kia/forte-2010"
+   ],
+   [
+    2014,
+    "kia/forte-2014"
+   ],
+   [
+    2019,
+    "kia/forte"
+   ]
+  ],
+  "kia/forte-gt": [
+   [
+    2019,
+    "kia/forte-gt-2019"
+   ]
+  ],
+  "kia/forte-koup": [
+   [
+    2010,
+    "kia/forte-koup-2010"
+   ]
+  ],
+  "kia/k5-gt": [
+   [
+    2021,
+    "kia/k5-gt-2021"
+   ]
+  ],
+  "kia/k900": [
+   [
+    2015,
+    "kia/k900-2015"
+   ]
+  ],
+  "kia/niro": [
+   [
+    2017,
+    "kia/niro-2017"
+   ],
+   [
+    2023,
+    "kia/niro"
+   ]
+  ],
+  "kia/optima": [
+   [
+    2001,
+    "kia/optima-2001"
+   ],
+   [
+    2006,
+    "kia/optima-2006"
+   ],
+   [
+    2011,
+    "kia/optima-2011"
+   ],
+   [
+    2016,
+    "kia/optima-2016"
+   ]
+  ],
+  "kia/rio": [
+   [
+    2001,
+    "kia/rio-2001"
+   ],
+   [
+    2006,
+    "kia/rio-2006"
+   ],
+   [
+    2012,
+    "kia/rio-2012"
+   ],
+   [
+    2018,
+    "kia/rio-2018"
+   ]
+  ],
+  "kia/rondo": [
+   [
+    2007,
+    "kia/rondo-2007"
+   ]
+  ],
+  "kia/sedona": [
+   [
+    2002,
+    "kia/sedona-2002"
+   ],
+   [
+    2006,
+    "kia/sedona-2006"
+   ],
+   [
+    2015,
+    "kia/sedona-2015"
+   ]
+  ],
+  "kia/sephia": [
+   [
+    1994,
+    "kia/sephia-1994"
+   ]
+  ],
+  "kia/sorento": [
+   [
+    2003,
+    "kia/sorento-2003"
+   ],
+   [
+    2011,
+    "kia/sorento-2011"
+   ],
+   [
+    2016,
+    "kia/sorento-2016"
+   ],
+   [
+    2021,
+    "kia/sorento"
+   ]
+  ],
+  "kia/soul": [
+   [
+    2010,
+    "kia/soul-2010"
+   ],
+   [
+    2014,
+    "kia/soul-2014"
+   ],
+   [
+    2020,
+    "kia/soul"
+   ]
+  ],
+  "kia/soul-ev": [
+   [
+    2015,
+    "kia/soul-ev-2015"
+   ]
+  ],
+  "kia/soul-turbo": [
+   [
+    2020,
+    "kia/soul-turbo-2020"
+   ]
+  ],
+  "kia/spectra": [
+   [
+    2001,
+    "kia/spectra-2001"
+   ],
+   [
+    2004,
+    "kia/spectra-2004"
+   ]
+  ],
+  "kia/sportage": [
+   [
+    1995,
+    "kia/sportage-1995"
+   ],
+   [
+    2005,
+    "kia/sportage-2005"
+   ],
+   [
+    2011,
+    "kia/sportage-2011"
+   ],
+   [
+    2017,
+    "kia/sportage-2017"
+   ],
+   [
+    2022,
+    "kia/sportage"
+   ]
+  ],
+  "kia/stinger": [
+   [
+    2018,
+    "kia/stinger"
+   ]
+  ],
+  "kia/stinger-gt": [
+   [
+    2018,
+    "kia/stinger-gt-2018"
+   ]
+  ],
+  "kia/stinger-gt-line": [
+   [
+    2018,
+    "kia/stinger-gt-line-2018"
+   ]
+  ],
+  "kia/stinger-gt2": [
+   [
+    2020,
+    "kia/stinger-gt2-2020"
+   ]
+  ],
+  "lamborghini/countach": [
+   [
+    1974,
+    "lamborghini/countach-1974"
+   ],
+   [
+    2022,
+    "lamborghini/countach-2022"
+   ]
+  ],
+  "land-rover/defender": [
+   [
+    1983,
+    "land-rover/defender-1983"
+   ],
+   [
+    2020,
+    "land-rover/defender-2020"
+   ]
+  ],
+  "land-rover/defender-v8": [
+   [
+    2021,
+    "land-rover/defender-v8-2021"
+   ]
+  ],
+  "land-rover/discovery": [
+   [
+    1989,
+    "land-rover/discovery-1989"
+   ],
+   [
+    1998,
+    "land-rover/discovery-1998"
+   ],
+   [
+    2017,
+    "land-rover/discovery-2017"
+   ]
+  ],
+  "land-rover/discovery-sport": [
+   [
+    2014,
+    "land-rover/discovery-sport-2014"
+   ]
+  ],
+  "land-rover/freelander": [
+   [
+    1997,
+    "land-rover/freelander-1997"
+   ],
+   [
+    2006,
+    "land-rover/freelander-2006"
+   ]
+  ],
+  "land-rover/lr3": [
+   [
+    2004,
+    "land-rover/lr3-2004"
+   ]
+  ],
+  "land-rover/lr4": [
+   [
+    2009,
+    "land-rover/lr4-2009"
+   ]
+  ],
+  "land-rover/range-rover-classic": [
+   [
+    1970,
+    "land-rover/range-rover-classic-1970"
+   ]
+  ],
+  "land-rover/range-rover-evoque": [
+   [
+    2011,
+    "land-rover/range-rover-evoque-2011"
+   ],
+   [
+    2020,
+    "land-rover/range-rover-evoque"
+   ]
+  ],
+  "land-rover/range-rover-l322": [
+   [
+    2002,
+    "land-rover/range-rover-l322-2002"
+   ]
+  ],
+  "land-rover/range-rover-l405": [
+   [
+    2012,
+    "land-rover/range-rover-l405-2012"
+   ]
+  ],
+  "land-rover/range-rover-l460": [
+   [
+    2022,
+    "land-rover/range-rover-l460-2022"
+   ]
+  ],
+  "land-rover/range-rover-p38": [
+   [
+    1994,
+    "land-rover/range-rover-p38-1994"
+   ]
+  ],
+  "land-rover/range-rover-sport": [
+   [
+    2005,
+    "land-rover/range-rover-sport-2005"
+   ],
+   [
+    2013,
+    "land-rover/range-rover-sport-2013"
+   ],
+   [
+    2023,
+    "land-rover/range-rover-sport"
+   ]
+  ],
+  "land-rover/range-rover-sport-svr": [
+   [
+    2014,
+    "land-rover/range-rover-sport-svr-2014"
+   ]
+  ],
+  "land-rover/range-rover-velar": [
+   [
+    2017,
+    "land-rover/range-rover-velar-2017"
+   ]
+  ],
+  "lexus/ct-200h": [
+   [
+    2011,
+    "lexus/ct-200h-2011"
+   ]
+  ],
+  "lexus/es": [
+   [
+    1990,
+    "lexus/es-1990"
+   ],
+   [
+    1992,
+    "lexus/es-1992"
+   ],
+   [
+    1997,
+    "lexus/es-1997"
+   ],
+   [
+    2002,
+    "lexus/es-2002"
+   ],
+   [
+    2007,
+    "lexus/es-2007"
+   ],
+   [
+    2013,
+    "lexus/es-2013"
+   ],
+   [
+    2019,
+    "lexus/es"
+   ]
+  ],
+  "lexus/gs": [
+   [
+    1993,
+    "lexus/gs-1993"
+   ],
+   [
+    1998,
+    "lexus/gs-1998"
+   ],
+   [
+    2006,
+    "lexus/gs-2006"
+   ],
+   [
+    2013,
+    "lexus/gs-2013"
+   ]
+  ],
+  "lexus/gs-f": [
+   [
+    2016,
+    "lexus/gs-f-2016"
+   ]
+  ],
+  "lexus/gx": [
+   [
+    2003,
+    "lexus/gx-2003"
+   ],
+   [
+    2010,
+    "lexus/gx-2010"
+   ],
+   [
+    2024,
+    "lexus/gx"
+   ]
+  ],
+  "lexus/hs-250h": [
+   [
+    2010,
+    "lexus/hs-250h-2010"
+   ]
+  ],
+  "lexus/is": [
+   [
+    2000,
+    "lexus/is-2000"
+   ],
+   [
+    2006,
+    "lexus/is-2006"
+   ],
+   [
+    2014,
+    "lexus/is-2014"
+   ],
+   [
+    2021,
+    "lexus/is"
+   ]
+  ],
+  "lexus/is-f": [
+   [
+    2008,
+    "lexus/is-f-2008"
+   ]
+  ],
+  "lexus/lfa": [
+   [
+    2010,
+    "lexus/lfa-2010"
+   ]
+  ],
+  "lexus/ls": [
+   [
+    1990,
+    "lexus/ls-1990"
+   ],
+   [
+    1995,
+    "lexus/ls-1995"
+   ],
+   [
+    2001,
+    "lexus/ls-2001"
+   ],
+   [
+    2007,
+    "lexus/ls-2007"
+   ],
+   [
+    2018,
+    "lexus/ls"
+   ]
+  ],
+  "lexus/lx": [
+   [
+    1996,
+    "lexus/lx-1996"
+   ],
+   [
+    1998,
+    "lexus/lx-1998"
+   ],
+   [
+    2008,
+    "lexus/lx-2008"
+   ],
+   [
+    2022,
+    "lexus/lx"
+   ]
+  ],
+  "lexus/nx": [
+   [
+    2015,
+    "lexus/nx-2015"
+   ],
+   [
+    2022,
+    "lexus/nx"
+   ]
+  ],
+  "lexus/rx": [
+   [
+    1999,
+    "lexus/rx-1999"
+   ],
+   [
+    2004,
+    "lexus/rx-2004"
+   ],
+   [
+    2010,
+    "lexus/rx-2010"
+   ],
+   [
+    2016,
+    "lexus/rx-2016"
+   ],
+   [
+    2023,
+    "lexus/rx"
+   ]
+  ],
+  "lexus/sc": [
+   [
+    1992,
+    "lexus/sc-1992"
+   ],
+   [
+    2002,
+    "lexus/sc-2002"
+   ]
+  ],
+  "lincoln/aviator": [
+   [
+    2003,
+    "lincoln/aviator-2003"
+   ],
+   [
+    2020,
+    "lincoln/aviator"
+   ]
+  ],
+  "lincoln/blackwood": [
+   [
+    2002,
+    "lincoln/blackwood-2002"
+   ]
+  ],
+  "lincoln/continental": [
+   [
+    1988,
+    "lincoln/continental-1988"
+   ],
+   [
+    1995,
+    "lincoln/continental-1995"
+   ],
+   [
+    2017,
+    "lincoln/continental-2017"
+   ]
+  ],
+  "lincoln/ls": [
+   [
+    2000,
+    "lincoln/ls-2000"
+   ]
+  ],
+  "lincoln/mark-lt": [
+   [
+    2006,
+    "lincoln/mark-lt-2006"
+   ]
+  ],
+  "lincoln/mark-viii": [
+   [
+    1993,
+    "lincoln/mark-viii-1993"
+   ]
+  ],
+  "lincoln/mkc": [
+   [
+    2015,
+    "lincoln/mkc-2015"
+   ]
+  ],
+  "lincoln/mkt": [
+   [
+    2010,
+    "lincoln/mkt-2010"
+   ]
+  ],
+  "lincoln/mkx": [
+   [
+    2007,
+    "lincoln/mkx-2007"
+   ],
+   [
+    2016,
+    "lincoln/mkx-2016"
+   ]
+  ],
+  "lincoln/mkz": [
+   [
+    2007,
+    "lincoln/mkz-2007"
+   ],
+   [
+    2013,
+    "lincoln/mkz-2013"
+   ]
+  ],
+  "lincoln/nautilus": [
+   [
+    2019,
+    "lincoln/nautilus-2019"
+   ],
+   [
+    2024,
+    "lincoln/nautilus"
+   ]
+  ],
+  "lincoln/navigator": [
+   [
+    1998,
+    "lincoln/navigator-1998"
+   ],
+   [
+    2003,
+    "lincoln/navigator-2003"
+   ],
+   [
+    2007,
+    "lincoln/navigator-2007"
+   ],
+   [
+    2018,
+    "lincoln/navigator"
+   ]
+  ],
+  "lincoln/town-car": [
+   [
+    1990,
+    "lincoln/town-car-1990"
+   ],
+   [
+    1998,
+    "lincoln/town-car-1998"
+   ],
+   [
+    2003,
+    "lincoln/town-car-2003"
+   ]
+  ],
+  "lincoln/zephyr": [
+   [
+    2006,
+    "lincoln/zephyr-2006"
+   ]
+  ],
+  "lucid/air-dream-edition": [
+   [
+    2021,
+    "lucid/air-dream-edition-2021"
+   ]
+  ],
+  "lucid/air-sapphire": [
+   [
+    2023,
+    "lucid/air-sapphire-2023"
+   ]
+  ],
+  "maserati/granturismo": [
+   [
+    2007,
+    "maserati/granturismo-2007"
+   ],
+   [
+    2023,
+    "maserati/granturismo-2023"
+   ]
+  ],
+  "maserati/quattroporte": [
+   [
+    1994,
+    "maserati/quattroporte-1994"
+   ],
+   [
+    2004,
+    "maserati/quattroporte-2004"
+   ],
+   [
+    2013,
+    "maserati/quattroporte-2013"
+   ]
+  ],
+  "mazda/626": [
+   [
+    1988,
+    "mazda/626-1988"
+   ],
+   [
+    1993,
+    "mazda/626-1993"
+   ],
+   [
+    1998,
+    "mazda/626-1998"
+   ]
+  ],
+  "mazda/autozam-az-1": [
+   [
+    1992,
+    "mazda/autozam-az-1-1992"
+   ]
+  ],
+  "mazda/b-series": [
+   [
+    1994,
+    "mazda/b-series-1994"
+   ]
+  ],
+  "mazda/cx-3": [
+   [
+    2016,
+    "mazda/cx-3-2016"
+   ]
+  ],
+  "mazda/cx-5": [
+   [
+    2013,
+    "mazda/cx-5-2013"
+   ],
+   [
+    2017,
+    "mazda/cx-5-2017"
+   ],
+   [
+    2026,
+    "mazda/cx-5"
+   ]
+  ],
+  "mazda/cx-7": [
+   [
+    2007,
+    "mazda/cx-7-2007"
+   ]
+  ],
+  "mazda/cx-9": [
+   [
+    2007,
+    "mazda/cx-9-2007"
+   ],
+   [
+    2016,
+    "mazda/cx-9-2016"
+   ]
+  ],
+  "mazda/eunos-cosmo": [
+   [
+    1990,
+    "mazda/eunos-cosmo-1990"
+   ]
+  ],
+  "mazda/familia-gtr": [
+   [
+    1988,
+    "mazda/familia-gtr-1988"
+   ]
+  ],
+  "mazda/mazda2": [
+   [
+    2011,
+    "mazda/mazda2-2011"
+   ]
+  ],
+  "mazda/mazda3": [
+   [
+    2004,
+    "mazda/mazda3-2004"
+   ],
+   [
+    2010,
+    "mazda/mazda3-2010"
+   ],
+   [
+    2014,
+    "mazda/mazda3-2014"
+   ],
+   [
+    2019,
+    "mazda/mazda3"
+   ]
+  ],
+  "mazda/mazda5": [
+   [
+    2006,
+    "mazda/mazda5-2006"
+   ]
+  ],
+  "mazda/mazda6": [
+   [
+    2003,
+    "mazda/mazda6-2003"
+   ],
+   [
+    2009,
+    "mazda/mazda6-2009"
+   ],
+   [
+    2014,
+    "mazda/mazda6-2014"
+   ]
+  ],
+  "mazda/mazdaspeed-miata": [
+   [
+    2004,
+    "mazda/mazdaspeed-miata-2004"
+   ]
+  ],
+  "mazda/mazdaspeed-protege": [
+   [
+    2003,
+    "mazda/mazdaspeed-protege-2003"
+   ]
+  ],
+  "mazda/mazdaspeed3": [
+   [
+    2007,
+    "mazda/mazdaspeed3-2007"
+   ],
+   [
+    2010,
+    "mazda/mazdaspeed3-2010"
+   ]
+  ],
+  "mazda/mazdaspeed6": [
+   [
+    2006,
+    "mazda/mazdaspeed6-2006"
+   ]
+  ],
+  "mazda/miata": [
+   [
+    1989,
+    "mazda/miata-1989"
+   ],
+   [
+    1998,
+    "mazda/miata-1998"
+   ],
+   [
+    2006,
+    "mazda/miata-2006"
+   ],
+   [
+    2016,
+    "mazda/miata"
+   ]
+  ],
+  "mazda/millenia": [
+   [
+    1995,
+    "mazda/millenia-1995"
+   ]
+  ],
+  "mazda/mpv": [
+   [
+    1989,
+    "mazda/mpv-1989"
+   ],
+   [
+    1999,
+    "mazda/mpv-1999"
+   ]
+  ],
+  "mazda/mx-6": [
+   [
+    1988,
+    "mazda/mx-6-1988"
+   ],
+   [
+    1993,
+    "mazda/mx-6-1993"
+   ]
+  ],
+  "mazda/protege": [
+   [
+    1990,
+    "mazda/protege-1990"
+   ],
+   [
+    1995,
+    "mazda/protege-1995"
+   ],
+   [
+    1999,
+    "mazda/protege-1999"
+   ]
+  ],
+  "mazda/protege5": [
+   [
+    2002,
+    "mazda/protege5-2002"
+   ]
+  ],
+  "mazda/rx-3": [
+   [
+    1971,
+    "mazda/rx-3-1971"
+   ]
+  ],
+  "mazda/rx-7": [
+   [
+    1986,
+    "mazda/rx-7-1986"
+   ],
+   [
+    1993,
+    "mazda/rx-7"
+   ]
+  ],
+  "mazda/rx-7-spirit-r": [
+   [
+    2002,
+    "mazda/rx-7-spirit-r-2002"
+   ]
+  ],
+  "mazda/rx-8": [
+   [
+    2003,
+    "mazda/rx-8-2003"
+   ],
+   [
+    2004,
+    "mazda/rx-8"
+   ]
+  ],
+  "mazda/tribute": [
+   [
+    2001,
+    "mazda/tribute-2001"
+   ],
+   [
+    2008,
+    "mazda/tribute-2008"
+   ]
+  ],
+  "mercedes-benz/190e": [
+   [
+    1984,
+    "mercedes-benz/190e-1984"
+   ]
+  ],
+  "mercedes-benz/190e-2.5-16-evolution-ii": [
+   [
+    1990,
+    "mercedes-benz/190e-2.5-16-evolution-ii-1990"
+   ]
+  ],
+  "mercedes-benz/500e": [
+   [
+    1990,
+    "mercedes-benz/500e-1990"
+   ]
+  ],
+  "mercedes-benz/a-class": [
+   [
+    2019,
+    "mercedes-benz/a-class-2019"
+   ]
+  ],
+  "mercedes-benz/a45-amg": [
+   [
+    2019,
+    "mercedes-benz/a45-amg-2019"
+   ]
+  ],
+  "mercedes-benz/amg-gt": [
+   [
+    2015,
+    "mercedes-benz/amg-gt-2015"
+   ],
+   [
+    2022,
+    "mercedes-benz/amg-gt"
+   ]
+  ],
+  "mercedes-benz/amg-gt-63-4-door": [
+   [
+    2018,
+    "mercedes-benz/amg-gt-63-4-door-2018"
+   ]
+  ],
+  "mercedes-benz/amg-gt-black-series": [
+   [
+    2020,
+    "mercedes-benz/amg-gt-black-series-2020"
+   ]
+  ],
+  "mercedes-benz/amg-gt-r": [
+   [
+    2017,
+    "mercedes-benz/amg-gt-r-2017"
+   ]
+  ],
+  "mercedes-benz/c-class": [
+   [
+    1994,
+    "mercedes-benz/c-class-1994"
+   ],
+   [
+    2001,
+    "mercedes-benz/c-class-2001"
+   ],
+   [
+    2008,
+    "mercedes-benz/c-class-2008"
+   ],
+   [
+    2015,
+    "mercedes-benz/c-class-2015"
+   ],
+   [
+    2022,
+    "mercedes-benz/c-class"
+   ]
+  ],
+  "mercedes-benz/c32-amg": [
+   [
+    2001,
+    "mercedes-benz/c32-amg-2001"
+   ]
+  ],
+  "mercedes-benz/c63-amg": [
+   [
+    2008,
+    "mercedes-benz/c63-amg-2008"
+   ],
+   [
+    2015,
+    "mercedes-benz/c63-amg"
+   ]
+  ],
+  "mercedes-benz/c63-amg-black-series": [
+   [
+    2012,
+    "mercedes-benz/c63-amg-black-series-2012"
+   ]
+  ],
+  "mercedes-benz/c63-amg-estate": [
+   [
+    2008,
+    "mercedes-benz/c63-amg-estate-2008"
+   ]
+  ],
+  "mercedes-benz/c63-s-amg": [
+   [
+    2015,
+    "mercedes-benz/c63-s-amg-2015"
+   ]
+  ],
+  "mercedes-benz/cla": [
+   [
+    2013,
+    "mercedes-benz/cla-2013"
+   ],
+   [
+    2019,
+    "mercedes-benz/cla-2019"
+   ],
+   [
+    2026,
+    "mercedes-benz/cla"
+   ]
+  ],
+  "mercedes-benz/cla45-amg": [
+   [
+    2013,
+    "mercedes-benz/cla45-amg-2013"
+   ],
+   [
+    2019,
+    "mercedes-benz/cla45-amg-2019"
+   ]
+  ],
+  "mercedes-benz/clk": [
+   [
+    1997,
+    "mercedes-benz/clk-1997"
+   ],
+   [
+    2002,
+    "mercedes-benz/clk-2002"
+   ]
+  ],
+  "mercedes-benz/clk55-amg": [
+   [
+    1998,
+    "mercedes-benz/clk55-amg-1998"
+   ]
+  ],
+  "mercedes-benz/clk63-amg-black-series": [
+   [
+    2007,
+    "mercedes-benz/clk63-amg-black-series-2007"
+   ]
+  ],
+  "mercedes-benz/cls": [
+   [
+    2004,
+    "mercedes-benz/cls-2004"
+   ],
+   [
+    2011,
+    "mercedes-benz/cls-2011"
+   ],
+   [
+    2019,
+    "mercedes-benz/cls-2019"
+   ]
+  ],
+  "mercedes-benz/cls55-amg": [
+   [
+    2004,
+    "mercedes-benz/cls55-amg-2004"
+   ]
+  ],
+  "mercedes-benz/cls63-amg": [
+   [
+    2007,
+    "mercedes-benz/cls63-amg-2007"
+   ],
+   [
+    2011,
+    "mercedes-benz/cls63-amg-2011"
+   ]
+  ],
+  "mercedes-benz/e-class": [
+   [
+    1986,
+    "mercedes-benz/e-class-1986"
+   ],
+   [
+    1996,
+    "mercedes-benz/e-class-1996"
+   ],
+   [
+    2003,
+    "mercedes-benz/e-class-2003"
+   ],
+   [
+    2009,
+    "mercedes-benz/e-class-2009"
+   ],
+   [
+    2016,
+    "mercedes-benz/e-class-2016"
+   ],
+   [
+    2024,
+    "mercedes-benz/e-class"
+   ]
+  ],
+  "mercedes-benz/e55-amg": [
+   [
+    1999,
+    "mercedes-benz/e55-amg-1999"
+   ],
+   [
+    2003,
+    "mercedes-benz/e55-amg-2003"
+   ]
+  ],
+  "mercedes-benz/e63-amg": [
+   [
+    2010,
+    "mercedes-benz/e63-amg-2010"
+   ]
+  ],
+  "mercedes-benz/e63-s-amg": [
+   [
+    2017,
+    "mercedes-benz/e63-s-amg-2017"
+   ]
+  ],
+  "mercedes-benz/g-class": [
+   [
+    1990,
+    "mercedes-benz/g-class-1990"
+   ],
+   [
+    2019,
+    "mercedes-benz/g-class"
+   ]
+  ],
+  "mercedes-benz/g500-4x4-2": [
+   [
+    2016,
+    "mercedes-benz/g500-4x4-2-2016"
+   ]
+  ],
+  "mercedes-benz/g55-amg": [
+   [
+    2000,
+    "mercedes-benz/g55-amg-2000"
+   ]
+  ],
+  "mercedes-benz/g63-amg": [
+   [
+    2012,
+    "mercedes-benz/g63-amg-2012"
+   ],
+   [
+    2019,
+    "mercedes-benz/g63-amg"
+   ]
+  ],
+  "mercedes-benz/g65-amg": [
+   [
+    2012,
+    "mercedes-benz/g65-amg-2012"
+   ]
+  ],
+  "mercedes-benz/gl": [
+   [
+    2006,
+    "mercedes-benz/gl-2006"
+   ],
+   [
+    2012,
+    "mercedes-benz/gl-2012"
+   ]
+  ],
+  "mercedes-benz/gla": [
+   [
+    2014,
+    "mercedes-benz/gla-2014"
+   ],
+   [
+    2020,
+    "mercedes-benz/gla-2020"
+   ]
+  ],
+  "mercedes-benz/gla35-amg": [
+   [
+    2020,
+    "mercedes-benz/gla35-amg-2020"
+   ]
+  ],
+  "mercedes-benz/gla45-amg": [
+   [
+    2014,
+    "mercedes-benz/gla45-amg-2014"
+   ]
+  ],
+  "mercedes-benz/glb": [
+   [
+    2019,
+    "mercedes-benz/glb-2019"
+   ]
+  ],
+  "mercedes-benz/glb35-amg": [
+   [
+    2019,
+    "mercedes-benz/glb35-amg-2019"
+   ]
+  ],
+  "mercedes-benz/glc": [
+   [
+    2015,
+    "mercedes-benz/glc-2015"
+   ],
+   [
+    2023,
+    "mercedes-benz/glc"
+   ]
+  ],
+  "mercedes-benz/glc43-amg": [
+   [
+    2016,
+    "mercedes-benz/glc43-amg-2016"
+   ]
+  ],
+  "mercedes-benz/glc63-amg": [
+   [
+    2017,
+    "mercedes-benz/glc63-amg-2017"
+   ],
+   [
+    2025,
+    "mercedes-benz/glc63-amg"
+   ]
+  ],
+  "mercedes-benz/gle": [
+   [
+    2016,
+    "mercedes-benz/gle-2016"
+   ],
+   [
+    2020,
+    "mercedes-benz/gle"
+   ]
+  ],
+  "mercedes-benz/gle43-amg": [
+   [
+    2016,
+    "mercedes-benz/gle43-amg-2016"
+   ]
+  ],
+  "mercedes-benz/gle63-amg": [
+   [
+    2016,
+    "mercedes-benz/gle63-amg-2016"
+   ],
+   [
+    2021,
+    "mercedes-benz/gle63-amg"
+   ]
+  ],
+  "mercedes-benz/gls": [
+   [
+    2016,
+    "mercedes-benz/gls-2016"
+   ],
+   [
+    2020,
+    "mercedes-benz/gls"
+   ]
+  ],
+  "mercedes-benz/gls63-amg": [
+   [
+    2016,
+    "mercedes-benz/gls63-amg-2016"
+   ],
+   [
+    2021,
+    "mercedes-benz/gls63-amg"
+   ]
+  ],
+  "mercedes-benz/maybach-57": [
+   [
+    2002,
+    "mercedes-benz/maybach-57-2002"
+   ]
+  ],
+  "mercedes-benz/maybach-62": [
+   [
+    2002,
+    "mercedes-benz/maybach-62-2002"
+   ]
+  ],
+  "mercedes-benz/maybach-s-class": [
+   [
+    2015,
+    "mercedes-benz/maybach-s-class-2015"
+   ],
+   [
+    2021,
+    "mercedes-benz/maybach-s-class"
+   ]
+  ],
+  "mercedes-benz/metris": [
+   [
+    2016,
+    "mercedes-benz/metris-2016"
+   ]
+  ],
+  "mercedes-benz/ml": [
+   [
+    1997,
+    "mercedes-benz/ml-1997"
+   ],
+   [
+    2005,
+    "mercedes-benz/ml-2005"
+   ],
+   [
+    2011,
+    "mercedes-benz/ml-2011"
+   ]
+  ],
+  "mercedes-benz/ml55-amg": [
+   [
+    1999,
+    "mercedes-benz/ml55-amg-1999"
+   ]
+  ],
+  "mercedes-benz/ml63-amg": [
+   [
+    2006,
+    "mercedes-benz/ml63-amg-2006"
+   ],
+   [
+    2011,
+    "mercedes-benz/ml63-amg-2011"
+   ]
+  ],
+  "mercedes-benz/r-class": [
+   [
+    2005,
+    "mercedes-benz/r-class-2005"
+   ]
+  ],
+  "mercedes-benz/s-class": [
+   [
+    1991,
+    "mercedes-benz/s-class-1991"
+   ],
+   [
+    1999,
+    "mercedes-benz/s-class-1999"
+   ],
+   [
+    2006,
+    "mercedes-benz/s-class-2006"
+   ],
+   [
+    2013,
+    "mercedes-benz/s-class-2013"
+   ],
+   [
+    2021,
+    "mercedes-benz/s-class"
+   ]
+  ],
+  "mercedes-benz/s55-amg": [
+   [
+    2000,
+    "mercedes-benz/s55-amg-2000"
+   ]
+  ],
+  "mercedes-benz/s63-amg": [
+   [
+    2006,
+    "mercedes-benz/s63-amg-2006"
+   ],
+   [
+    2013,
+    "mercedes-benz/s63-amg-2013"
+   ],
+   [
+    2021,
+    "mercedes-benz/s63-amg"
+   ]
+  ],
+  "mercedes-benz/s65-amg": [
+   [
+    2004,
+    "mercedes-benz/s65-amg-2004"
+   ],
+   [
+    2006,
+    "mercedes-benz/s65-amg-2006"
+   ],
+   [
+    2013,
+    "mercedes-benz/s65-amg-2013"
+   ]
+  ],
+  "mercedes-benz/sl": [
+   [
+    1989,
+    "mercedes-benz/sl-1989"
+   ],
+   [
+    2001,
+    "mercedes-benz/sl-2001"
+   ],
+   [
+    2012,
+    "mercedes-benz/sl-2012"
+   ],
+   [
+    2022,
+    "mercedes-benz/sl"
+   ]
+  ],
+  "mercedes-benz/sl55-amg": [
+   [
+    2002,
+    "mercedes-benz/sl55-amg-2002"
+   ]
+  ],
+  "mercedes-benz/sl63-amg": [
+   [
+    2008,
+    "mercedes-benz/sl63-amg-2008"
+   ],
+   [
+    2012,
+    "mercedes-benz/sl63-amg-2012"
+   ]
+  ],
+  "mercedes-benz/sl65-black-series": [
+   [
+    2008,
+    "mercedes-benz/sl65-black-series-2008"
+   ]
+  ],
+  "mercedes-benz/slc": [
+   [
+    2016,
+    "mercedes-benz/slc-2016"
+   ]
+  ],
+  "mercedes-benz/slk": [
+   [
+    1996,
+    "mercedes-benz/slk-1996"
+   ],
+   [
+    2004,
+    "mercedes-benz/slk-2004"
+   ],
+   [
+    2011,
+    "mercedes-benz/slk-2011"
+   ]
+  ],
+  "mercedes-benz/slk32-amg": [
+   [
+    2001,
+    "mercedes-benz/slk32-amg-2001"
+   ]
+  ],
+  "mercedes-benz/slk55-amg": [
+   [
+    2004,
+    "mercedes-benz/slk55-amg-2004"
+   ]
+  ],
+  "mercedes-benz/slr-mclaren": [
+   [
+    2004,
+    "mercedes-benz/slr-mclaren-2004"
+   ]
+  ],
+  "mercedes-benz/sls-amg": [
+   [
+    2010,
+    "mercedes-benz/sls-amg-2010"
+   ]
+  ],
+  "mercedes-benz/sls-amg-black-series": [
+   [
+    2013,
+    "mercedes-benz/sls-amg-black-series-2013"
+   ]
+  ],
+  "mercedes-benz/sprinter": [
+   [
+    2002,
+    "mercedes-benz/sprinter-2002"
+   ],
+   [
+    2007,
+    "mercedes-benz/sprinter"
+   ]
+  ],
+  "mercury/capri": [
+   [
+    1991,
+    "mercury/capri-1991"
+   ]
+  ],
+  "mercury/cougar": [
+   [
+    1989,
+    "mercury/cougar-1989"
+   ],
+   [
+    1999,
+    "mercury/cougar-1999"
+   ]
+  ],
+  "mercury/grand-marquis": [
+   [
+    1992,
+    "mercury/grand-marquis-1992"
+   ],
+   [
+    1998,
+    "mercury/grand-marquis-1998"
+   ]
+  ],
+  "mercury/marauder": [
+   [
+    2003,
+    "mercury/marauder-2003"
+   ]
+  ],
+  "mercury/mariner": [
+   [
+    2005,
+    "mercury/mariner-2005"
+   ]
+  ],
+  "mercury/milan": [
+   [
+    2006,
+    "mercury/milan-2006"
+   ]
+  ],
+  "mercury/mountaineer": [
+   [
+    1997,
+    "mercury/mountaineer-1997"
+   ],
+   [
+    2006,
+    "mercury/mountaineer-2006"
+   ]
+  ],
+  "mercury/mystique": [
+   [
+    1995,
+    "mercury/mystique-1995"
+   ]
+  ],
+  "mercury/sable": [
+   [
+    1986,
+    "mercury/sable-1986"
+   ],
+   [
+    1992,
+    "mercury/sable-1992"
+   ],
+   [
+    1996,
+    "mercury/sable-1996"
+   ],
+   [
+    2000,
+    "mercury/sable-2000"
+   ],
+   [
+    2008,
+    "mercury/sable-2008"
+   ]
+  ],
+  "mercury/tracer": [
+   [
+    1991,
+    "mercury/tracer-1991"
+   ]
+  ],
+  "mercury/villager": [
+   [
+    1993,
+    "mercury/villager-1993"
+   ],
+   [
+    1999,
+    "mercury/villager-1999"
+   ]
+  ],
+  "mg/f": [
+   [
+    1995,
+    "mg/f-1995"
+   ]
+  ],
+  "mg/mgb": [
+   [
+    1962,
+    "mg/mgb-1962"
+   ]
+  ],
+  "mg/tf": [
+   [
+    2002,
+    "mg/tf-2002"
+   ]
+  ],
+  "mini/classic": [
+   [
+    1959,
+    "mini/classic-1959"
+   ]
+  ],
+  "mini/clubman": [
+   [
+    2008,
+    "mini/clubman-2008"
+   ],
+   [
+    2016,
+    "mini/clubman-2016"
+   ]
+  ],
+  "mini/clubman-jcw": [
+   [
+    2016,
+    "mini/clubman-jcw-2016"
+   ]
+  ],
+  "mini/convertible": [
+   [
+    2005,
+    "mini/convertible-2005"
+   ],
+   [
+    2009,
+    "mini/convertible-2009"
+   ],
+   [
+    2016,
+    "mini/convertible"
+   ]
+  ],
+  "mini/cooper": [
+   [
+    2002,
+    "mini/cooper-2002"
+   ],
+   [
+    2007,
+    "mini/cooper-2007"
+   ],
+   [
+    2014,
+    "mini/cooper"
+   ]
+  ],
+  "mini/cooper-s": [
+   [
+    2002,
+    "mini/cooper-s-2002"
+   ],
+   [
+    2007,
+    "mini/cooper-s-2007"
+   ],
+   [
+    2019,
+    "mini/cooper-s"
+   ]
+  ],
+  "mini/cooper-s-works-gp": [
+   [
+    2006,
+    "mini/cooper-s-works-gp-2006"
+   ],
+   [
+    2013,
+    "mini/cooper-s-works-gp-2013"
+   ]
+  ],
+  "mini/cooper-se": [
+   [
+    2020,
+    "mini/cooper-se-2020"
+   ]
+  ],
+  "mini/countryman": [
+   [
+    2011,
+    "mini/countryman-2011"
+   ],
+   [
+    2017,
+    "mini/countryman-2017"
+   ],
+   [
+    2024,
+    "mini/countryman"
+   ]
+  ],
+  "mini/countryman-jcw": [
+   [
+    2017,
+    "mini/countryman-jcw-2017"
+   ]
+  ],
+  "mini/coupe": [
+   [
+    2012,
+    "mini/coupe-2012"
+   ]
+  ],
+  "mini/jcw": [
+   [
+    2006,
+    "mini/jcw-2006"
+   ],
+   [
+    2009,
+    "mini/jcw-2009"
+   ],
+   [
+    2019,
+    "mini/jcw"
+   ]
+  ],
+  "mini/paceman": [
+   [
+    2013,
+    "mini/paceman-2013"
+   ]
+  ],
+  "mini/roadster": [
+   [
+    2012,
+    "mini/roadster-2012"
+   ]
+  ],
+  "mitsubishi/3000gt": [
+   [
+    1991,
+    "mitsubishi/3000gt-1991"
+   ]
+  ],
+  "mitsubishi/3000gt-vr-4": [
+   [
+    1991,
+    "mitsubishi/3000gt-vr-4-1991"
+   ]
+  ],
+  "mitsubishi/diamante": [
+   [
+    1992,
+    "mitsubishi/diamante-1992"
+   ],
+   [
+    1997,
+    "mitsubishi/diamante-1997"
+   ]
+  ],
+  "mitsubishi/eclipse": [
+   [
+    1990,
+    "mitsubishi/eclipse-1990"
+   ],
+   [
+    1995,
+    "mitsubishi/eclipse-1995"
+   ],
+   [
+    2000,
+    "mitsubishi/eclipse-2000"
+   ],
+   [
+    2006,
+    "mitsubishi/eclipse-2006"
+   ]
+  ],
+  "mitsubishi/eclipse-gsx": [
+   [
+    1995,
+    "mitsubishi/eclipse-gsx-1995"
+   ]
+  ],
+  "mitsubishi/endeavor": [
+   [
+    2004,
+    "mitsubishi/endeavor-2004"
+   ]
+  ],
+  "mitsubishi/fto": [
+   [
+    1994,
+    "mitsubishi/fto-1994"
+   ]
+  ],
+  "mitsubishi/galant": [
+   [
+    1989,
+    "mitsubishi/galant-1989"
+   ],
+   [
+    1994,
+    "mitsubishi/galant-1994"
+   ],
+   [
+    1999,
+    "mitsubishi/galant-1999"
+   ],
+   [
+    2004,
+    "mitsubishi/galant-2004"
+   ]
+  ],
+  "mitsubishi/galant-vr-4": [
+   [
+    1991,
+    "mitsubishi/galant-vr-4-1991"
+   ]
+  ],
+  "mitsubishi/gto": [
+   [
+    1990,
+    "mitsubishi/gto-1990"
+   ]
+  ],
+  "mitsubishi/i-miev": [
+   [
+    2012,
+    "mitsubishi/i-miev-2012"
+   ]
+  ],
+  "mitsubishi/lancer": [
+   [
+    2002,
+    "mitsubishi/lancer-2002"
+   ],
+   [
+    2008,
+    "mitsubishi/lancer-2008"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-i": [
+   [
+    1992,
+    "mitsubishi/lancer-evolution-i-1992"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-iv": [
+   [
+    1996,
+    "mitsubishi/lancer-evolution-iv-1996"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-ix": [
+   [
+    2005,
+    "mitsubishi/lancer-evolution-ix-2005"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-ix-mr": [
+   [
+    2006,
+    "mitsubishi/lancer-evolution-ix-mr-2006"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-v": [
+   [
+    1998,
+    "mitsubishi/lancer-evolution-v-1998"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-vi": [
+   [
+    1999,
+    "mitsubishi/lancer-evolution-vi-1999"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-vi-tme": [
+   [
+    1999,
+    "mitsubishi/lancer-evolution-vi-tme-1999"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-vii": [
+   [
+    2001,
+    "mitsubishi/lancer-evolution-vii-2001"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-viii": [
+   [
+    2003,
+    "mitsubishi/lancer-evolution-viii-2003"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-viii-mr": [
+   [
+    2004,
+    "mitsubishi/lancer-evolution-viii-mr-2004"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-x": [
+   [
+    2008,
+    "mitsubishi/lancer-evolution-x-2008"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-x-final-edition": [
+   [
+    2015,
+    "mitsubishi/lancer-evolution-x-final-edition-2015"
+   ]
+  ],
+  "mitsubishi/lancer-evolution-x-mr": [
+   [
+    2010,
+    "mitsubishi/lancer-evolution-x-mr-2010"
+   ]
+  ],
+  "mitsubishi/lancer-ralliart": [
+   [
+    2009,
+    "mitsubishi/lancer-ralliart-2009"
+   ]
+  ],
+  "mitsubishi/minicab": [
+   [
+    1990,
+    "mitsubishi/minicab-1990"
+   ],
+   [
+    1991,
+    "mitsubishi/minicab"
+   ]
+  ],
+  "mitsubishi/mirage": [
+   [
+    1989,
+    "mitsubishi/mirage-1989"
+   ],
+   [
+    1993,
+    "mitsubishi/mirage-1993"
+   ],
+   [
+    1997,
+    "mitsubishi/mirage-1997"
+   ],
+   [
+    2014,
+    "mitsubishi/mirage-2014"
+   ]
+  ],
+  "mitsubishi/montero": [
+   [
+    1983,
+    "mitsubishi/montero-1983"
+   ],
+   [
+    1992,
+    "mitsubishi/montero-1992"
+   ],
+   [
+    2001,
+    "mitsubishi/montero-2001"
+   ]
+  ],
+  "mitsubishi/montero-sport": [
+   [
+    1997,
+    "mitsubishi/montero-sport-1997"
+   ]
+  ],
+  "mitsubishi/outlander": [
+   [
+    2003,
+    "mitsubishi/outlander-2003"
+   ],
+   [
+    2007,
+    "mitsubishi/outlander-2007"
+   ],
+   [
+    2014,
+    "mitsubishi/outlander-2014"
+   ],
+   [
+    2022,
+    "mitsubishi/outlander"
+   ]
+  ],
+  "mitsubishi/outlander-phev": [
+   [
+    2018,
+    "mitsubishi/outlander-phev-2018"
+   ]
+  ],
+  "mitsubishi/pajero-evolution": [
+   [
+    1997,
+    "mitsubishi/pajero-evolution-1997"
+   ]
+  ],
+  "mitsubishi/raider": [
+   [
+    2006,
+    "mitsubishi/raider-2006"
+   ]
+  ],
+  "mitsubishi/starion": [
+   [
+    1983,
+    "mitsubishi/starion-1983"
+   ]
+  ],
+  "morgan/3-wheeler": [
+   [
+    2011,
+    "morgan/3-wheeler-2011"
+   ]
+  ],
+  "morgan/plus-four": [
+   [
+    2020,
+    "morgan/plus-four-2020"
+   ]
+  ],
+  "nissan/180sx": [
+   [
+    1989,
+    "nissan/180sx-1989"
+   ]
+  ],
+  "nissan/200sx": [
+   [
+    1995,
+    "nissan/200sx-1995"
+   ]
+  ],
+  "nissan/240sx": [
+   [
+    1989,
+    "nissan/240sx-1989"
+   ],
+   [
+    1995,
+    "nissan/240sx"
+   ]
+  ],
+  "nissan/300zx": [
+   [
+    1990,
+    "nissan/300zx-1990"
+   ]
+  ],
+  "nissan/300zx-twin-turbo": [
+   [
+    1990,
+    "nissan/300zx-twin-turbo-1990"
+   ]
+  ],
+  "nissan/350z": [
+   [
+    2003,
+    "nissan/350z-2003"
+   ]
+  ],
+  "nissan/370z": [
+   [
+    2009,
+    "nissan/370z-2009"
+   ],
+   [
+    2023,
+    "nissan/370z"
+   ]
+  ],
+  "nissan/370z-nismo": [
+   [
+    2015,
+    "nissan/370z-nismo-2015"
+   ]
+  ],
+  "nissan/altima": [
+   [
+    1993,
+    "nissan/altima-1993"
+   ],
+   [
+    1998,
+    "nissan/altima-1998"
+   ],
+   [
+    2002,
+    "nissan/altima-2002"
+   ],
+   [
+    2007,
+    "nissan/altima-2007"
+   ],
+   [
+    2013,
+    "nissan/altima-2013"
+   ],
+   [
+    2019,
+    "nissan/altima"
+   ]
+  ],
+  "nissan/armada": [
+   [
+    2004,
+    "nissan/armada-2004"
+   ],
+   [
+    2017,
+    "nissan/armada-2017"
+   ],
+   [
+    2025,
+    "nissan/armada"
+   ]
+  ],
+  "nissan/cedric": [
+   [
+    1991,
+    "nissan/cedric-1991"
+   ]
+  ],
+  "nissan/cube": [
+   [
+    2009,
+    "nissan/cube-2009"
+   ]
+  ],
+  "nissan/elgrand": [
+   [
+    1997,
+    "nissan/elgrand-1997"
+   ]
+  ],
+  "nissan/figaro": [
+   [
+    1991,
+    "nissan/figaro-1991"
+   ]
+  ],
+  "nissan/frontier": [
+   [
+    1998,
+    "nissan/frontier-1998"
+   ],
+   [
+    2005,
+    "nissan/frontier-2005"
+   ],
+   [
+    2022,
+    "nissan/frontier"
+   ]
+  ],
+  "nissan/frontier-pro-4x": [
+   [
+    2005,
+    "nissan/frontier-pro-4x-2005"
+   ],
+   [
+    2022,
+    "nissan/frontier-pro-4x-2022"
+   ]
+  ],
+  "nissan/gt-r": [
+   [
+    2009,
+    "nissan/gt-r"
+   ]
+  ],
+  "nissan/gt-r-nismo": [
+   [
+    2015,
+    "nissan/gt-r-nismo-2015"
+   ]
+  ],
+  "nissan/hardbody": [
+   [
+    1986,
+    "nissan/hardbody-1986"
+   ]
+  ],
+  "nissan/juke": [
+   [
+    2011,
+    "nissan/juke-2011"
+   ]
+  ],
+  "nissan/juke-nismo-rs": [
+   [
+    2013,
+    "nissan/juke-nismo-rs-2013"
+   ]
+  ],
+  "nissan/kicks": [
+   [
+    2018,
+    "nissan/kicks-2018"
+   ],
+   [
+    2025,
+    "nissan/kicks"
+   ]
+  ],
+  "nissan/laurel-c33": [
+   [
+    1993,
+    "nissan/laurel-c33-1993"
+   ]
+  ],
+  "nissan/leaf": [
+   [
+    2011,
+    "nissan/leaf-2011"
+   ],
+   [
+    2018,
+    "nissan/leaf"
+   ]
+  ],
+  "nissan/maxima": [
+   [
+    1989,
+    "nissan/maxima-1989"
+   ],
+   [
+    1995,
+    "nissan/maxima-1995"
+   ],
+   [
+    2000,
+    "nissan/maxima-2000"
+   ],
+   [
+    2004,
+    "nissan/maxima-2004"
+   ],
+   [
+    2009,
+    "nissan/maxima-2009"
+   ],
+   [
+    2016,
+    "nissan/maxima-2016"
+   ]
+  ],
+  "nissan/maxima-4dsc": [
+   [
+    2004,
+    "nissan/maxima-4dsc-2004"
+   ]
+  ],
+  "nissan/maxima-se": [
+   [
+    1995,
+    "nissan/maxima-se-1995"
+   ]
+  ],
+  "nissan/murano": [
+   [
+    2003,
+    "nissan/murano-2003"
+   ],
+   [
+    2009,
+    "nissan/murano-2009"
+   ],
+   [
+    2015,
+    "nissan/murano-2015"
+   ],
+   [
+    2025,
+    "nissan/murano"
+   ]
+  ],
+  "nissan/nx2000": [
+   [
+    1991,
+    "nissan/nx2000-1991"
+   ]
+  ],
+  "nissan/pathfinder": [
+   [
+    1987,
+    "nissan/pathfinder-1987"
+   ],
+   [
+    1996,
+    "nissan/pathfinder-1996"
+   ],
+   [
+    2005,
+    "nissan/pathfinder-2005"
+   ],
+   [
+    2013,
+    "nissan/pathfinder-2013"
+   ],
+   [
+    2022,
+    "nissan/pathfinder"
+   ]
+  ],
+  "nissan/president": [
+   [
+    1990,
+    "nissan/president-1990"
+   ]
+  ],
+  "nissan/pulsar-gti-r": [
+   [
+    1990,
+    "nissan/pulsar-gti-r-1990"
+   ]
+  ],
+  "nissan/pulsar-nx": [
+   [
+    1987,
+    "nissan/pulsar-nx-1987"
+   ]
+  ],
+  "nissan/quest": [
+   [
+    1993,
+    "nissan/quest-1993"
+   ],
+   [
+    1999,
+    "nissan/quest-1999"
+   ],
+   [
+    2004,
+    "nissan/quest-2004"
+   ],
+   [
+    2011,
+    "nissan/quest-2011"
+   ]
+  ],
+  "nissan/rogue": [
+   [
+    2008,
+    "nissan/rogue-2008"
+   ],
+   [
+    2014,
+    "nissan/rogue-2014"
+   ],
+   [
+    2021,
+    "nissan/rogue"
+   ]
+  ],
+  "nissan/rogue-sport": [
+   [
+    2017,
+    "nissan/rogue-sport-2017"
+   ]
+  ],
+  "nissan/sentra": [
+   [
+    1987,
+    "nissan/sentra-1987"
+   ],
+   [
+    1991,
+    "nissan/sentra-1991"
+   ],
+   [
+    1995,
+    "nissan/sentra-1995"
+   ],
+   [
+    2000,
+    "nissan/sentra-2000"
+   ],
+   [
+    2007,
+    "nissan/sentra-2007"
+   ],
+   [
+    2013,
+    "nissan/sentra-2013"
+   ],
+   [
+    2020,
+    "nissan/sentra"
+   ]
+  ],
+  "nissan/sentra-se-r": [
+   [
+    1991,
+    "nissan/sentra-se-r-1991"
+   ],
+   [
+    1995,
+    "nissan/sentra-se-r-1995"
+   ]
+  ],
+  "nissan/sentra-se-r-spec-v": [
+   [
+    2002,
+    "nissan/sentra-se-r-spec-v-2002"
+   ],
+   [
+    2007,
+    "nissan/sentra-se-r-spec-v-2007"
+   ]
+  ],
+  "nissan/silvia-s15": [
+   [
+    1999,
+    "nissan/silvia-s15-1999"
+   ]
+  ],
+  "nissan/skyline-gt-r-r34": [
+   [
+    1999,
+    "nissan/skyline-gt-r-r34-1999"
+   ]
+  ],
+  "nissan/skyline-gts-t-r32": [
+   [
+    1989,
+    "nissan/skyline-gts-t-r32-1989"
+   ]
+  ],
+  "nissan/stagea": [
+   [
+    1996,
+    "nissan/stagea-1996"
+   ]
+  ],
+  "nissan/titan": [
+   [
+    2004,
+    "nissan/titan-2004"
+   ],
+   [
+    2016,
+    "nissan/titan-2016"
+   ]
+  ],
+  "nissan/titan-pro-4x": [
+   [
+    2004,
+    "nissan/titan-pro-4x-2004"
+   ],
+   [
+    2016,
+    "nissan/titan-pro-4x-2016"
+   ]
+  ],
+  "nissan/titan-xd": [
+   [
+    2016,
+    "nissan/titan-xd-2016"
+   ]
+  ],
+  "pontiac/grand-am": [
+   [
+    1985,
+    "pontiac/grand-am-1985"
+   ]
+  ],
+  "pontiac/grand-prix": [
+   [
+    1997,
+    "pontiac/grand-prix-1997"
+   ]
+  ],
+  "pontiac/montana": [
+   [
+    1999,
+    "pontiac/montana-1999"
+   ]
+  ],
+  "pontiac/sunbird": [
+   [
+    1988,
+    "pontiac/sunbird-1988"
+   ]
+  ],
+  "pontiac/trans-am": [
+   [
+    1993,
+    "pontiac/trans-am-1993"
+   ]
+  ],
+  "pontiac/vibe": [
+   [
+    2003,
+    "pontiac/vibe-2003"
+   ]
+  ],
+  "porsche/911-carrera-rs": [
+   [
+    1995,
+    "porsche/911-carrera-rs-1995"
+   ]
+  ],
+  "porsche/911-dakar": [
+   [
+    2022,
+    "porsche/911-dakar-2022"
+   ]
+  ],
+  "porsche/911-gt2": [
+   [
+    2001,
+    "porsche/911-gt2-2001"
+   ],
+   [
+    2007,
+    "porsche/911-gt2-2007"
+   ]
+  ],
+  "porsche/911-gt3": [
+   [
+    2003,
+    "porsche/911-gt3-2003"
+   ],
+   [
+    2006,
+    "porsche/911-gt3-2006"
+   ],
+   [
+    2021,
+    "porsche/911-gt3"
+   ]
+  ],
+  "porsche/911-gt3-rs": [
+   [
+    2013,
+    "porsche/911-gt3-rs-2013"
+   ],
+   [
+    2022,
+    "porsche/911-gt3-rs"
+   ]
+  ],
+  "porsche/911-gt3-rs-996": [
+   [
+    2003,
+    "porsche/911-gt3-rs-996-2003"
+   ]
+  ],
+  "porsche/911-sport-classic": [
+   [
+    2010,
+    "porsche/911-sport-classic-2010"
+   ],
+   [
+    2022,
+    "porsche/911-sport-classic-2022"
+   ]
+  ],
+  "porsche/911-turbo": [
+   [
+    2000,
+    "porsche/911-turbo-2000"
+   ],
+   [
+    2006,
+    "porsche/911-turbo-2006"
+   ]
+  ],
+  "porsche/911-turbo-s": [
+   [
+    2004,
+    "porsche/911-turbo-s-2004"
+   ],
+   [
+    2010,
+    "porsche/911-turbo-s-2010"
+   ]
+  ],
+  "porsche/924": [
+   [
+    1977,
+    "porsche/924-1977"
+   ]
+  ],
+  "porsche/928": [
+   [
+    1978,
+    "porsche/928-1978"
+   ]
+  ],
+  "porsche/944-s2": [
+   [
+    1989,
+    "porsche/944-s2-1989"
+   ]
+  ],
+  "porsche/944-turbo": [
+   [
+    1985,
+    "porsche/944-turbo-1985"
+   ]
+  ],
+  "porsche/968-club-sport": [
+   [
+    1992,
+    "porsche/968-club-sport-1992"
+   ]
+  ],
+  "porsche/968-turbo-s": [
+   [
+    1993,
+    "porsche/968-turbo-s-1993"
+   ]
+  ],
+  "porsche/boxster": [
+   [
+    2005,
+    "porsche/boxster-2005"
+   ],
+   [
+    2012,
+    "porsche/boxster-2012"
+   ]
+  ],
+  "porsche/boxster-spyder": [
+   [
+    2010,
+    "porsche/boxster-spyder-2010"
+   ],
+   [
+    2015,
+    "porsche/boxster-spyder-2015"
+   ]
+  ],
+  "porsche/cayenne": [
+   [
+    2002,
+    "porsche/cayenne-2002"
+   ],
+   [
+    2010,
+    "porsche/cayenne-2010"
+   ]
+  ],
+  "porsche/cayenne-turbo": [
+   [
+    2010,
+    "porsche/cayenne-turbo-2010"
+   ],
+   [
+    2017,
+    "porsche/cayenne-turbo-2017"
+   ]
+  ],
+  "porsche/cayman": [
+   [
+    2005,
+    "porsche/cayman-2005"
+   ],
+   [
+    2012,
+    "porsche/cayman-2012"
+   ]
+  ],
+  "porsche/cayman-gt4": [
+   [
+    2019,
+    "porsche/cayman-gt4-2019"
+   ]
+  ],
+  "porsche/macan": [
+   [
+    2014,
+    "porsche/macan-2014"
+   ]
+  ],
+  "porsche/macan-turbo": [
+   [
+    2014,
+    "porsche/macan-turbo-2014"
+   ]
+  ],
+  "porsche/panamera": [
+   [
+    2016,
+    "porsche/panamera-2016"
+   ]
+  ],
+  "porsche/panamera-sport-turismo": [
+   [
+    2017,
+    "porsche/panamera-sport-turismo-2017"
+   ]
+  ],
+  "porsche/taycan": [
+   [
+    2019,
+    "porsche/taycan-2019"
+   ],
+   [
+    2020,
+    "porsche/taycan"
+   ]
+  ],
+  "ram/1500": [
+   [
+    2011,
+    "ram/1500-2011"
+   ],
+   [
+    2019,
+    "ram/1500"
+   ]
+  ],
+  "ram/1500-trx": [
+   [
+    2021,
+    "ram/1500-trx-2021"
+   ]
+  ],
+  "ram/3500": [
+   [
+    2010,
+    "ram/3500-2010"
+   ]
+  ],
+  "renault/5-turbo": [
+   [
+    1980,
+    "renault/5-turbo-1980"
+   ]
+  ],
+  "renault/clio-williams": [
+   [
+    1993,
+    "renault/clio-williams-1993"
+   ]
+  ],
+  "renault/megane-rs-r26r": [
+   [
+    2008,
+    "renault/megane-rs-r26r-2008"
+   ]
+  ],
+  "renault/megane-rs-trophy-r": [
+   [
+    2019,
+    "renault/megane-rs-trophy-r-2019"
+   ]
+  ],
+  "rolls-royce/ghost": [
+   [
+    2009,
+    "rolls-royce/ghost-2009"
+   ]
+  ],
+  "rolls-royce/phantom": [
+   [
+    2003,
+    "rolls-royce/phantom-2003"
+   ],
+   [
+    2017,
+    "rolls-royce/phantom-2017"
+   ]
+  ],
+  "saab/9-2x": [
+   [
+    2005,
+    "saab/9-2x-2005"
+   ]
+  ],
+  "saab/9-3": [
+   [
+    1998,
+    "saab/9-3-1998"
+   ],
+   [
+    2003,
+    "saab/9-3-2003"
+   ]
+  ],
+  "saab/9-3-aero": [
+   [
+    2003,
+    "saab/9-3-aero-2003"
+   ]
+  ],
+  "saab/9-4x": [
+   [
+    2011,
+    "saab/9-4x-2011"
+   ]
+  ],
+  "saab/9-5": [
+   [
+    1997,
+    "saab/9-5-1997"
+   ],
+   [
+    2010,
+    "saab/9-5-2010"
+   ]
+  ],
+  "saab/9-5-aero": [
+   [
+    2010,
+    "saab/9-5-aero-2010"
+   ]
+  ],
+  "saab/9-7x": [
+   [
+    2005,
+    "saab/9-7x-2005"
+   ]
+  ],
+  "saab/900": [
+   [
+    1978,
+    "saab/900-1978"
+   ]
+  ],
+  "saab/900-spg": [
+   [
+    1985,
+    "saab/900-spg-1985"
+   ]
+  ],
+  "saab/900-turbo": [
+   [
+    1978,
+    "saab/900-turbo-1978"
+   ]
+  ],
+  "saab/99-turbo": [
+   [
+    1978,
+    "saab/99-turbo-1978"
+   ]
+  ],
+  "saturn/astra": [
+   [
+    2008,
+    "saturn/astra-2008"
+   ]
+  ],
+  "saturn/aura-xr": [
+   [
+    2007,
+    "saturn/aura-xr-2007"
+   ]
+  ],
+  "saturn/ion": [
+   [
+    2003,
+    "saturn/ion-2003"
+   ]
+  ],
+  "saturn/ion-redline": [
+   [
+    2003,
+    "saturn/ion-redline-2003"
+   ]
+  ],
+  "saturn/outlook": [
+   [
+    2007,
+    "saturn/outlook-2007"
+   ]
+  ],
+  "saturn/relay": [
+   [
+    2005,
+    "saturn/relay-2005"
+   ]
+  ],
+  "saturn/sc": [
+   [
+    1991,
+    "saturn/sc-1991"
+   ]
+  ],
+  "saturn/sky-red-line": [
+   [
+    2007,
+    "saturn/sky-red-line-2007"
+   ]
+  ],
+  "saturn/sl": [
+   [
+    1991,
+    "saturn/sl-1991"
+   ],
+   [
+    1996,
+    "saturn/sl-1996"
+   ]
+  ],
+  "saturn/vue": [
+   [
+    2002,
+    "saturn/vue-2002"
+   ],
+   [
+    2008,
+    "saturn/vue-2008"
+   ]
+  ],
+  "saturn/vue-red-line": [
+   [
+    2008,
+    "saturn/vue-red-line-2008"
+   ]
+  ],
+  "scion/ia": [
+   [
+    2016,
+    "scion/ia-2016"
+   ]
+  ],
+  "scion/im": [
+   [
+    2016,
+    "scion/im-2016"
+   ]
+  ],
+  "scion/iq": [
+   [
+    2012,
+    "scion/iq-2012"
+   ]
+  ],
+  "scion/tc": [
+   [
+    2011,
+    "scion/tc-2011"
+   ]
+  ],
+  "scion/xa": [
+   [
+    2004,
+    "scion/xa-2004"
+   ]
+  ],
+  "scion/xb": [
+   [
+    2004,
+    "scion/xb-2004"
+   ]
+  ],
+  "scion/xd": [
+   [
+    2008,
+    "scion/xd-2008"
+   ]
+  ],
+  "shelby/cobra-427": [
+   [
+    1965,
+    "shelby/cobra-427-1965"
+   ]
+  ],
+  "smart/fortwo": [
+   [
+    2008,
+    "smart/fortwo-2008"
+   ],
+   [
+    2016,
+    "smart/fortwo-2016"
+   ]
+  ],
+  "smart/roadster": [
+   [
+    2003,
+    "smart/roadster-2003"
+   ]
+  ],
+  "subaru/brz": [
+   [
+    2012,
+    "subaru/brz-2012"
+   ],
+   [
+    2022,
+    "subaru/brz"
+   ]
+  ],
+  "subaru/brz-ts": [
+   [
+    2018,
+    "subaru/brz-ts-2018"
+   ]
+  ],
+  "subaru/crosstrek": [
+   [
+    2013,
+    "subaru/crosstrek-2013"
+   ],
+   [
+    2018,
+    "subaru/crosstrek-2018"
+   ]
+  ],
+  "subaru/crosstrek-wilderness": [
+   [
+    2024,
+    "subaru/crosstrek-wilderness-2024"
+   ]
+  ],
+  "subaru/forester": [
+   [
+    1998,
+    "subaru/forester-1998"
+   ],
+   [
+    2003,
+    "subaru/forester-2003"
+   ],
+   [
+    2009,
+    "subaru/forester-2009"
+   ]
+  ],
+  "subaru/forester-wilderness": [
+   [
+    2022,
+    "subaru/forester-wilderness-2022"
+   ]
+  ],
+  "subaru/forester-xt": [
+   [
+    2004,
+    "subaru/forester-xt-2004"
+   ]
+  ],
+  "subaru/impreza": [
+   [
+    2002,
+    "subaru/impreza-2002"
+   ],
+   [
+    2008,
+    "subaru/impreza-2008"
+   ],
+   [
+    2017,
+    "subaru/impreza-2017"
+   ],
+   [
+    2024,
+    "subaru/impreza"
+   ]
+  ],
+  "subaru/impreza-2-5rs": [
+   [
+    1998,
+    "subaru/impreza-2-5rs-1998"
+   ]
+  ],
+  "subaru/impreza-22b-sti": [
+   [
+    1998,
+    "subaru/impreza-22b-sti-1998"
+   ]
+  ],
+  "subaru/justy": [
+   [
+    1987,
+    "subaru/justy-1987"
+   ]
+  ],
+  "subaru/legacy": [
+   [
+    1990,
+    "subaru/legacy-1990"
+   ],
+   [
+    1995,
+    "subaru/legacy-1995"
+   ],
+   [
+    2005,
+    "subaru/legacy-2005"
+   ],
+   [
+    2010,
+    "subaru/legacy-2010"
+   ],
+   [
+    2015,
+    "subaru/legacy-2015"
+   ]
+  ],
+  "subaru/legacy-2-5gt-specb": [
+   [
+    2006,
+    "subaru/legacy-2-5gt-specb-2006"
+   ]
+  ],
+  "subaru/legacy-rs": [
+   [
+    1990,
+    "subaru/legacy-rs-1990"
+   ]
+  ],
+  "subaru/loyale": [
+   [
+    1990,
+    "subaru/loyale-1990"
+   ]
+  ],
+  "subaru/outback": [
+   [
+    2000,
+    "subaru/outback-2000"
+   ],
+   [
+    2005,
+    "subaru/outback-2005"
+   ],
+   [
+    2010,
+    "subaru/outback-2010"
+   ],
+   [
+    2020,
+    "subaru/outback"
+   ]
+  ],
+  "subaru/outback-wilderness": [
+   [
+    2022,
+    "subaru/outback-wilderness-2022"
+   ]
+  ],
+  "subaru/outback-xt": [
+   [
+    2005,
+    "subaru/outback-xt-2005"
+   ]
+  ],
+  "subaru/svx": [
+   [
+    1992,
+    "subaru/svx-1992"
+   ]
+  ],
+  "subaru/tribeca": [
+   [
+    2006,
+    "subaru/tribeca-2006"
+   ]
+  ],
+  "subaru/wrx": [
+   [
+    1994,
+    "subaru/wrx-1994"
+   ],
+   [
+    2002,
+    "subaru/wrx-2002"
+   ],
+   [
+    2008,
+    "subaru/wrx-2008"
+   ]
+  ],
+  "subaru/wrx-sti": [
+   [
+    1994,
+    "subaru/wrx-sti-1994"
+   ],
+   [
+    2004,
+    "subaru/wrx-sti-2004"
+   ],
+   [
+    2015,
+    "subaru/wrx-sti"
+   ]
+  ],
+  "subaru/wrx-sti-s209": [
+   [
+    2019,
+    "subaru/wrx-sti-s209-2019"
+   ]
+  ],
+  "subaru/wrx-sti-type-r": [
+   [
+    1998,
+    "subaru/wrx-sti-type-r-1998"
+   ]
+  ],
+  "suzuki/jimny": [
+   [
+    1981,
+    "suzuki/jimny-1981"
+   ]
+  ],
+  "tesla/model-3-highland": [
+   [
+    2024,
+    "tesla/model-3-highland-2024"
+   ]
+  ],
+  "tesla/model-s": [
+   [
+    2016,
+    "tesla/model-s-2016"
+   ],
+   [
+    2024,
+    "tesla/model-s"
+   ]
+  ],
+  "tesla/model-s-plaid": [
+   [
+    2021,
+    "tesla/model-s-plaid-2021"
+   ]
+  ],
+  "tesla/model-x": [
+   [
+    2021,
+    "tesla/model-x-2021"
+   ],
+   [
+    2024,
+    "tesla/model-x"
+   ]
+  ],
+  "tesla/model-y": [
+   [
+    2020,
+    "tesla/model-y-2020"
+   ],
+   [
+    2025,
+    "tesla/model-y"
+   ]
+  ],
+  "tesla/roadster": [
+   [
+    2008,
+    "tesla/roadster-2008"
+   ]
+  ],
+  "toyota/4runner": [
+   [
+    1996,
+    "toyota/4runner-1996"
+   ],
+   [
+    2010,
+    "toyota/4runner-2010"
+   ],
+   [
+    2025,
+    "toyota/4runner"
+   ]
+  ],
+  "toyota/4runner-trd-pro": [
+   [
+    2015,
+    "toyota/4runner-trd-pro-2015"
+   ]
+  ],
+  "toyota/ae86": [
+   [
+    1983,
+    "toyota/ae86-1983"
+   ]
+  ],
+  "toyota/avalon": [
+   [
+    1995,
+    "toyota/avalon-1995"
+   ],
+   [
+    2005,
+    "toyota/avalon-2005"
+   ]
+  ],
+  "toyota/camry": [
+   [
+    1997,
+    "toyota/camry-1997"
+   ],
+   [
+    2018,
+    "toyota/camry-2018"
+   ],
+   [
+    2025,
+    "toyota/camry"
+   ]
+  ],
+  "toyota/celica": [
+   [
+    2000,
+    "toyota/celica-2000"
+   ]
+  ],
+  "toyota/century": [
+   [
+    1997,
+    "toyota/century-1997"
+   ]
+  ],
+  "toyota/corolla": [
+   [
+    1998,
+    "toyota/corolla-1998"
+   ],
+   [
+    2020,
+    "toyota/corolla"
+   ]
+  ],
+  "toyota/echo": [
+   [
+    2000,
+    "toyota/echo-2000"
+   ]
+  ],
+  "toyota/highlander": [
+   [
+    2001,
+    "toyota/highlander-2001"
+   ],
+   [
+    2020,
+    "toyota/highlander"
+   ]
+  ],
+  "toyota/mark-ii": [
+   [
+    1996,
+    "toyota/mark-ii-1996"
+   ]
+  ],
+  "toyota/matrix": [
+   [
+    2003,
+    "toyota/matrix-2003"
+   ]
+  ],
+  "toyota/mirai": [
+   [
+    2016,
+    "toyota/mirai-2016"
+   ]
+  ],
+  "toyota/paseo": [
+   [
+    1992,
+    "toyota/paseo-1992"
+   ],
+   [
+    1996,
+    "toyota/paseo-1996"
+   ]
+  ],
+  "toyota/prius": [
+   [
+    2000,
+    "toyota/prius-2000"
+   ],
+   [
+    2004,
+    "toyota/prius-2004"
+   ],
+   [
+    2023,
+    "toyota/prius"
+   ]
+  ],
+  "toyota/prius-plug-in": [
+   [
+    2012,
+    "toyota/prius-plug-in-2012"
+   ]
+  ],
+  "toyota/rav4": [
+   [
+    1996,
+    "toyota/rav4-1996"
+   ],
+   [
+    2001,
+    "toyota/rav4-2001"
+   ],
+   [
+    2013,
+    "toyota/rav4-2013"
+   ],
+   [
+    2019,
+    "toyota/rav4"
+   ]
+  ],
+  "toyota/sequoia": [
+   [
+    2001,
+    "toyota/sequoia-2001"
+   ],
+   [
+    2008,
+    "toyota/sequoia-2008"
+   ]
+  ],
+  "toyota/sienna": [
+   [
+    2011,
+    "toyota/sienna-2011"
+   ],
+   [
+    2021,
+    "toyota/sienna"
+   ]
+  ],
+  "toyota/solara": [
+   [
+    2004,
+    "toyota/solara-2004"
+   ]
+  ],
+  "toyota/supra": [
+   [
+    1993,
+    "toyota/supra-1993"
+   ],
+   [
+    2020,
+    "toyota/supra"
+   ]
+  ],
+  "toyota/tacoma": [
+   [
+    1995,
+    "toyota/tacoma-1995"
+   ],
+   [
+    2016,
+    "toyota/tacoma-2016"
+   ],
+   [
+    2024,
+    "toyota/tacoma"
+   ]
+  ],
+  "toyota/tercel": [
+   [
+    1991,
+    "toyota/tercel-1991"
+   ]
+  ],
+  "toyota/tundra": [
+   [
+    2007,
+    "toyota/tundra-2007"
+   ],
+   [
+    2022,
+    "toyota/tundra"
+   ]
+  ],
+  "toyota/van": [
+   [
+    1984,
+    "toyota/van-1984"
+   ]
+  ],
+  "toyota/venza": [
+   [
+    2009,
+    "toyota/venza-2009"
+   ]
+  ],
+  "toyota/yaris": [
+   [
+    2007,
+    "toyota/yaris-2007"
+   ]
+  ],
+  "triumph/tr6": [
+   [
+    1968,
+    "triumph/tr6-1968"
+   ]
+  ],
+  "tvr/griffith": [
+   [
+    1991,
+    "tvr/griffith-1991"
+   ]
+  ],
+  "tvr/sagaris": [
+   [
+    2003,
+    "tvr/sagaris-2003"
+   ]
+  ],
+  "tvr/tuscan": [
+   [
+    1999,
+    "tvr/tuscan-1999"
+   ]
+  ],
+  "volkswagen/arteon": [
+   [
+    2019,
+    "volkswagen/arteon-2019"
+   ]
+  ],
+  "volkswagen/beetle": [
+   [
+    1998,
+    "volkswagen/beetle-1998"
+   ],
+   [
+    2012,
+    "volkswagen/beetle-2012"
+   ]
+  ],
+  "volkswagen/beetle-classic": [
+   [
+    1938,
+    "volkswagen/beetle-classic-1938"
+   ]
+  ],
+  "volkswagen/bus-t1": [
+   [
+    1950,
+    "volkswagen/bus-t1-1950"
+   ]
+  ],
+  "volkswagen/cabrio": [
+   [
+    1995,
+    "volkswagen/cabrio-1995"
+   ]
+  ],
+  "volkswagen/cabriolet": [
+   [
+    1990,
+    "volkswagen/cabriolet-1990"
+   ]
+  ],
+  "volkswagen/cc": [
+   [
+    2009,
+    "volkswagen/cc-2009"
+   ]
+  ],
+  "volkswagen/corrado": [
+   [
+    1990,
+    "volkswagen/corrado-1990"
+   ]
+  ],
+  "volkswagen/e-golf": [
+   [
+    2015,
+    "volkswagen/e-golf-2015"
+   ]
+  ],
+  "volkswagen/eos": [
+   [
+    2007,
+    "volkswagen/eos-2007"
+   ]
+  ],
+  "volkswagen/eurovan": [
+   [
+    1993,
+    "volkswagen/eurovan-1993"
+   ]
+  ],
+  "volkswagen/golf": [
+   [
+    1985,
+    "volkswagen/golf-1985"
+   ],
+   [
+    1993,
+    "volkswagen/golf-1993"
+   ],
+   [
+    1999,
+    "volkswagen/golf-1999"
+   ],
+   [
+    2006,
+    "volkswagen/golf-2006"
+   ],
+   [
+    2010,
+    "volkswagen/golf-2010"
+   ],
+   [
+    2015,
+    "volkswagen/golf-2015"
+   ],
+   [
+    2022,
+    "volkswagen/golf-2022"
+   ]
+  ],
+  "volkswagen/golf-alltrack": [
+   [
+    2017,
+    "volkswagen/golf-alltrack-2017"
+   ]
+  ],
+  "volkswagen/golf-city": [
+   [
+    1987,
+    "volkswagen/golf-city-1987"
+   ]
+  ],
+  "volkswagen/golf-g60": [
+   [
+    1990,
+    "volkswagen/golf-g60-1990"
+   ]
+  ],
+  "volkswagen/golf-gti-mk1": [
+   [
+    1976,
+    "volkswagen/golf-gti-mk1-1976"
+   ]
+  ],
+  "volkswagen/golf-mk1": [
+   [
+    1974,
+    "volkswagen/golf-mk1-1974"
+   ]
+  ],
+  "volkswagen/golf-r": [
+   [
+    2012,
+    "volkswagen/golf-r-2012"
+   ],
+   [
+    2015,
+    "volkswagen/golf-r-2015"
+   ],
+   [
+    2022,
+    "volkswagen/golf-r"
+   ]
+  ],
+  "volkswagen/golf-sportwagen": [
+   [
+    2015,
+    "volkswagen/golf-sportwagen-2015"
+   ]
+  ],
+  "volkswagen/golf-vr6": [
+   [
+    1992,
+    "volkswagen/golf-vr6-1992"
+   ]
+  ],
+  "volkswagen/gti": [
+   [
+    1985,
+    "volkswagen/gti-1985"
+   ],
+   [
+    1993,
+    "volkswagen/gti-1993"
+   ],
+   [
+    1999,
+    "volkswagen/gti-1999"
+   ],
+   [
+    2006,
+    "volkswagen/gti-2006"
+   ],
+   [
+    2010,
+    "volkswagen/gti-2010"
+   ],
+   [
+    2015,
+    "volkswagen/gti-2015"
+   ],
+   [
+    2022,
+    "volkswagen/gti"
+   ]
+  ],
+  "volkswagen/gti-20th-anniversary": [
+   [
+    2003,
+    "volkswagen/gti-20th-anniversary-2003"
+   ]
+  ],
+  "volkswagen/gti-337": [
+   [
+    2002,
+    "volkswagen/gti-337-2002"
+   ]
+  ],
+  "volkswagen/gti-clubsport": [
+   [
+    2016,
+    "volkswagen/gti-clubsport-2016"
+   ]
+  ],
+  "volkswagen/jetta": [
+   [
+    1985,
+    "volkswagen/jetta-1985"
+   ],
+   [
+    1993,
+    "volkswagen/jetta-1993"
+   ],
+   [
+    1999,
+    "volkswagen/jetta-1999"
+   ],
+   [
+    2005,
+    "volkswagen/jetta-2005"
+   ],
+   [
+    2011,
+    "volkswagen/jetta-2011"
+   ],
+   [
+    2019,
+    "volkswagen/jetta"
+   ]
+  ],
+  "volkswagen/jetta-gli": [
+   [
+    1985,
+    "volkswagen/jetta-gli-1985"
+   ],
+   [
+    1993,
+    "volkswagen/jetta-gli-1993"
+   ],
+   [
+    1999,
+    "volkswagen/jetta-gli-1999"
+   ],
+   [
+    2006,
+    "volkswagen/jetta-gli-2006"
+   ],
+   [
+    2012,
+    "volkswagen/jetta-gli-2012"
+   ],
+   [
+    2019,
+    "volkswagen/jetta-gli"
+   ]
+  ],
+  "volkswagen/lupo-gti": [
+   [
+    2000,
+    "volkswagen/lupo-gti-2000"
+   ]
+  ],
+  "volkswagen/passat": [
+   [
+    1990,
+    "volkswagen/passat-1990"
+   ],
+   [
+    1998,
+    "volkswagen/passat-1998"
+   ],
+   [
+    2006,
+    "volkswagen/passat-2006"
+   ],
+   [
+    2012,
+    "volkswagen/passat-2012"
+   ],
+   [
+    2016,
+    "volkswagen/passat"
+   ]
+  ],
+  "volkswagen/passat-w8": [
+   [
+    2002,
+    "volkswagen/passat-w8-2002"
+   ]
+  ],
+  "volkswagen/phaeton": [
+   [
+    2004,
+    "volkswagen/phaeton-2004"
+   ]
+  ],
+  "volkswagen/phaeton-w12": [
+   [
+    2004,
+    "volkswagen/phaeton-w12-2004"
+   ]
+  ],
+  "volkswagen/polo-gti": [
+   [
+    2010,
+    "volkswagen/polo-gti-2010"
+   ]
+  ],
+  "volkswagen/r32": [
+   [
+    2004,
+    "volkswagen/r32-2004"
+   ],
+   [
+    2008,
+    "volkswagen/r32-2008"
+   ]
+  ],
+  "volkswagen/rabbit": [
+   [
+    1975,
+    "volkswagen/rabbit-1975"
+   ],
+   [
+    2006,
+    "volkswagen/rabbit-2006"
+   ]
+  ],
+  "volkswagen/rabbit-pickup": [
+   [
+    1978,
+    "volkswagen/rabbit-pickup-1978"
+   ]
+  ],
+  "volkswagen/routan": [
+   [
+    2009,
+    "volkswagen/routan-2009"
+   ]
+  ],
+  "volkswagen/scirocco": [
+   [
+    1982,
+    "volkswagen/scirocco-1982"
+   ]
+  ],
+  "volkswagen/thing": [
+   [
+    1973,
+    "volkswagen/thing-1973"
+   ]
+  ],
+  "volkswagen/tiguan": [
+   [
+    2009,
+    "volkswagen/tiguan-2009"
+   ],
+   [
+    2018,
+    "volkswagen/tiguan"
+   ]
+  ],
+  "volkswagen/touareg": [
+   [
+    2004,
+    "volkswagen/touareg-2004"
+   ],
+   [
+    2011,
+    "volkswagen/touareg-2011"
+   ],
+   [
+    2018,
+    "volkswagen/touareg-2018"
+   ]
+  ],
+  "volkswagen/touareg-v10-tdi": [
+   [
+    2004,
+    "volkswagen/touareg-v10-tdi-2004"
+   ]
+  ],
+  "volkswagen/touareg-w12": [
+   [
+    2004,
+    "volkswagen/touareg-w12-2004"
+   ]
+  ],
+  "volkswagen/vanagon": [
+   [
+    1980,
+    "volkswagen/vanagon-1980"
+   ]
+  ],
+  "volkswagen/vanagon-syncro": [
+   [
+    1986,
+    "volkswagen/vanagon-syncro-1986"
+   ]
+  ],
+  "volkswagen/vanagon-westfalia": [
+   [
+    1980,
+    "volkswagen/vanagon-westfalia-1980"
+   ]
+  ],
+  "volvo/240": [
+   [
+    1974,
+    "volvo/240-1974"
+   ]
+  ],
+  "volvo/740": [
+   [
+    1984,
+    "volvo/740-1984"
+   ]
+  ],
+  "volvo/850": [
+   [
+    1991,
+    "volvo/850-1991"
+   ]
+  ],
+  "volvo/850-r": [
+   [
+    1995,
+    "volvo/850-r-1995"
+   ]
+  ],
+  "volvo/850-t5r": [
+   [
+    1995,
+    "volvo/850-t5r-1995"
+   ]
+  ],
+  "volvo/940": [
+   [
+    1990,
+    "volvo/940-1990"
+   ]
+  ],
+  "volvo/960": [
+   [
+    1990,
+    "volvo/960-1990"
+   ]
+  ],
+  "volvo/c30": [
+   [
+    2006,
+    "volvo/c30-2006"
+   ]
+  ],
+  "volvo/c30-polestar": [
+   [
+    2010,
+    "volvo/c30-polestar-2010"
+   ]
+  ],
+  "volvo/c40": [
+   [
+    2021,
+    "volvo/c40-2021"
+   ]
+  ],
+  "volvo/c70": [
+   [
+    1997,
+    "volvo/c70-1997"
+   ],
+   [
+    2006,
+    "volvo/c70-2006"
+   ]
+  ],
+  "volvo/ex30": [
+   [
+    2023,
+    "volvo/ex30-2023"
+   ]
+  ],
+  "volvo/ex90": [
+   [
+    2023,
+    "volvo/ex90-2023"
+   ]
+  ],
+  "volvo/p1800": [
+   [
+    1961,
+    "volvo/p1800-1961"
+   ]
+  ],
+  "volvo/s40": [
+   [
+    1995,
+    "volvo/s40-1995"
+   ],
+   [
+    2004,
+    "volvo/s40-2004"
+   ]
+  ],
+  "volvo/s60": [
+   [
+    2000,
+    "volvo/s60-2000"
+   ],
+   [
+    2010,
+    "volvo/s60-2010"
+   ],
+   [
+    2019,
+    "volvo/s60"
+   ]
+  ],
+  "volvo/s60-polestar": [
+   [
+    2015,
+    "volvo/s60-polestar-2015"
+   ]
+  ],
+  "volvo/s60-r": [
+   [
+    2003,
+    "volvo/s60-r-2003"
+   ]
+  ],
+  "volvo/s70": [
+   [
+    1997,
+    "volvo/s70-1997"
+   ]
+  ],
+  "volvo/s90": [
+   [
+    2016,
+    "volvo/s90-2016"
+   ]
+  ],
+  "volvo/v40": [
+   [
+    1995,
+    "volvo/v40-1995"
+   ],
+   [
+    2012,
+    "volvo/v40-2012"
+   ]
+  ],
+  "volvo/v60": [
+   [
+    2010,
+    "volvo/v60-2010"
+   ],
+   [
+    2019,
+    "volvo/v60"
+   ]
+  ],
+  "volvo/v60-cross-country": [
+   [
+    2015,
+    "volvo/v60-cross-country-2015"
+   ]
+  ],
+  "volvo/v60-polestar": [
+   [
+    2015,
+    "volvo/v60-polestar-2015"
+   ]
+  ],
+  "volvo/v70": [
+   [
+    1997,
+    "volvo/v70-1997"
+   ],
+   [
+    2000,
+    "volvo/v70-2000"
+   ],
+   [
+    2007,
+    "volvo/v70-2007"
+   ]
+  ],
+  "volvo/v70-r": [
+   [
+    1997,
+    "volvo/v70-r-1997"
+   ],
+   [
+    2003,
+    "volvo/v70-r-2003"
+   ]
+  ],
+  "volvo/v90": [
+   [
+    2016,
+    "volvo/v90-2016"
+   ]
+  ],
+  "volvo/xc40": [
+   [
+    2017,
+    "volvo/xc40-2017"
+   ]
+  ],
+  "volvo/xc40-recharge": [
+   [
+    2019,
+    "volvo/xc40-recharge-2019"
+   ]
+  ],
+  "volvo/xc60": [
+   [
+    2008,
+    "volvo/xc60-2008"
+   ],
+   [
+    2018,
+    "volvo/xc60"
+   ]
+  ],
+  "volvo/xc90": [
+   [
+    2002,
+    "volvo/xc90-2002"
+   ],
+   [
+    2016,
+    "volvo/xc90"
+   ]
+  ]
+ },
+ "schemaVersion": 2,
  "vehicles": {
   "acura/cl-1997": {
    "bytes": 24304,
@@ -6916,6 +15888,18 @@
    "bytes": 28696,
    "tint": "#AEAEB0"
   },
+  "nissan/quest-1999": {
+   "bytes": 31474,
+   "tint": "#AEB0AE"
+  },
+  "nissan/quest-2004": {
+   "bytes": 30868,
+   "tint": "#ADB0B2"
+  },
+  "nissan/quest-2011": {
+   "bytes": 32016,
+   "tint": "#AEB2B1"
+  },
   "nissan/rogue": {
    "bytes": 31142,
    "tint": "#ADADAD"
@@ -6924,6 +15908,18 @@
    "bytes": 29120,
    "tint": "#AEAEB2"
   },
+  "nissan/rogue-2014": {
+   "bytes": 34102,
+   "tint": "#8D8F90"
+  },
+  "nissan/rogue-sport-2017": {
+   "bytes": 36652,
+   "tint": "#CFD0CF"
+  },
+  "nissan/sentra": {
+   "bytes": 29794,
+   "tint": "#CDD0D0"
+  },
   "nissan/sentra-1987": {
    "bytes": 24460,
    "tint": "#CECED1"
@@ -6931,6 +15927,74 @@
   "nissan/sentra-1991": {
    "bytes": 26306,
    "tint": "#CDCED1"
+  },
+  "nissan/sentra-1995": {
+   "bytes": 26620,
+   "tint": "#ADAEAD"
+  },
+  "nissan/sentra-2000": {
+   "bytes": 26666,
+   "tint": "#8E9191"
+  },
+  "nissan/sentra-2007": {
+   "bytes": 28304,
+   "tint": "#8D8F90"
+  },
+  "nissan/sentra-2013": {
+   "bytes": 30918,
+   "tint": "#8D8F90"
+  },
+  "nissan/sentra-se-r-1991": {
+   "bytes": 33440,
+   "tint": "#93060F"
+  },
+  "nissan/sentra-se-r-1995": {
+   "bytes": 34008,
+   "tint": "#8A070F"
+  },
+  "nissan/sentra-se-r-spec-v-2002": {
+   "bytes": 32868,
+   "tint": "#8E0C15"
+  },
+  "nissan/sentra-se-r-spec-v-2007": {
+   "bytes": 29144,
+   "tint": "#930710"
+  },
+  "nissan/silvia-s15-1999": {
+   "bytes": 25956,
+   "tint": "#D0D1CF"
+  },
+  "nissan/skyline-gt-r-r34-1999": {
+   "bytes": 32804,
+   "tint": "#0C326A"
+  },
+  "nissan/skyline-gts-t-r32-1989": {
+   "bytes": 22302,
+   "tint": "#4C5153"
+  },
+  "nissan/stagea-1996": {
+   "bytes": 30868,
+   "tint": "#6B6E6F"
+  },
+  "nissan/titan-2004": {
+   "bytes": 30692,
+   "tint": "#8E9090"
+  },
+  "nissan/titan-2016": {
+   "bytes": 30332,
+   "tint": "#CED0CF"
+  },
+  "nissan/titan-pro-4x-2004": {
+   "bytes": 34098,
+   "tint": "#0F100F"
+  },
+  "nissan/titan-pro-4x-2016": {
+   "bytes": 29560,
+   "tint": "#0D0D0D"
+  },
+  "nissan/titan-xd-2016": {
+   "bytes": 29612,
+   "tint": "#4E4F50"
   },
   "pontiac/grand-am-1985": {
    "bytes": 22288,
