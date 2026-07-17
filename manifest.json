@@ -7339,6 +7339,44 @@
    [
     2000,
     "nissan/xterra-2000"
+   ],
+   [
+    2005,
+    "nissan/xterra-2005"
+   ]
+  ],
+  "nissan/z-nismo": [
+   [
+    2024,
+    "nissan/z-nismo-2024"
+   ]
+  ],
+  "noble/m600": [
+   [
+    2009,
+    "noble/m600-2009"
+   ]
+  ],
+  "oldsmobile/achieva": [
+   [
+    1992,
+    "oldsmobile/achieva-1992"
+   ]
+  ],
+  "oldsmobile/alero": [
+   [
+    1999,
+    "oldsmobile/alero-1999"
+   ]
+  ],
+  "oldsmobile/aurora": [
+   [
+    1995,
+    "oldsmobile/aurora-1995"
+   ],
+   [
+    2001,
+    "oldsmobile/aurora-2001"
    ]
   ],
   "pontiac/grand-am": [
@@ -16065,6 +16103,38 @@
   "nissan/xterra-2000": {
    "bytes": 33322,
    "tint": "#ADAFB0"
+  },
+  "nissan/xterra-2005": {
+   "bytes": 35144,
+   "tint": "#0E1010"
+  },
+  "nissan/z": {
+   "bytes": 30070,
+   "tint": "#8F0512"
+  },
+  "nissan/z-nismo-2024": {
+   "bytes": 33358,
+   "tint": "#AE0210"
+  },
+  "noble/m600-2009": {
+   "bytes": 33230,
+   "tint": "#ADAEAE"
+  },
+  "oldsmobile/achieva-1992": {
+   "bytes": 26380,
+   "tint": "#A9ACAB"
+  },
+  "oldsmobile/alero-1999": {
+   "bytes": 26482,
+   "tint": "#A9ACAE"
+  },
+  "oldsmobile/aurora-1995": {
+   "bytes": 27808,
+   "tint": "#0A0C0C"
+  },
+  "oldsmobile/aurora-2001": {
+   "bytes": 30750,
+   "tint": "#AEAFAE"
   },
   "pontiac/grand-am-1985": {
    "bytes": 22288,
