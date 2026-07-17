@@ -63,7 +63,6 @@ subaru/crosstrek|silver 2024 Subaru Crosstrek SUV
 subaru/forester|silver 2024 Subaru Forester SUV
 subaru/forester-2014|white 2015 Subaru Forester SUV
 subaru/impreza-1993|silver 1995 Subaru Impreza GC8 sedan
-subaru/impreza-2012|silver 2013 Subaru Impreza GJ sedan
 subaru/legacy|silver 2024 Subaru Legacy sedan
 subaru/legacy-2000|silver 2001 Subaru Legacy sedan
 subaru/legacy-gt-2005|silver 2006 Subaru Legacy GT sedan
@@ -86,10 +85,6 @@ toyota/camry-1992|silver 1994 Toyota Camry XV10 sedan
 toyota/camry-2002|silver 2004 Toyota Camry XV30 sedan
 toyota/camry-2007|gray 2009 Toyota Camry XV40 sedan
 toyota/camry-2012|silver 2014 Toyota Camry XV50 sedan
-toyota/celica-1990|white 1991 Toyota Celica GT liftback
-toyota/celica-1994|silver 1996 Toyota Celica GT coupe
-toyota/celica-all-trac-1990|blue 1991 Toyota Celica All-Trac Turbo ST185 coupe
-toyota/celica-gt-four-1994|blue 1995 Toyota Celica GT-Four ST205 rally coupe
 toyota/celica-gt-s-2000|black 2003 Toyota Celica GT-S coupe
 toyota/chaser-jzx100-1996|purple 1998 Toyota Chaser JZX100 sedan
 toyota/corolla-1988|white 1990 Toyota Corolla E90 sedan
@@ -106,8 +101,6 @@ toyota/highlander-2014|silver 2016 Toyota Highlander SUV
 toyota/hilux-2015|white 2017 Toyota Hilux pickup
 toyota/matrix-2009|gray 2011 Toyota Matrix hatchback
 toyota/mirai|white 2024 Toyota Mirai hydrogen sedan
-toyota/mr2-1991|red 1993 Toyota MR2 SW20 Turbo coupe
-toyota/mr2-spyder-2000|yellow 2001 Toyota MR2 Spyder convertible
 toyota/pickup-1989|white 1991 Toyota Pickup truck
 toyota/previa-1991|silver 1993 Toyota Previa minivan
 toyota/prius-2010|silver 2012 Toyota Prius ZVW30 hatchback
@@ -123,7 +116,6 @@ toyota/solara-1999|silver 2000 Toyota Camry Solara coupe
 toyota/t100-1993|white 1995 Toyota T100 pickup
 toyota/tercel-1995|silver 1997 Toyota Tercel sedan
 toyota/tundra-2000|silver 2002 Toyota Tundra pickup
-toyota/tundra-trd-pro-2015|red 2017 Toyota Tundra TRD Pro pickup
 toyota/venza|white 2024 Toyota Venza hybrid crossover
 toyota/yaris-2012|silver 2013 Toyota Yaris hatchback
 toyota/yaris-2019|red 2019 Toyota Yaris hatchback
