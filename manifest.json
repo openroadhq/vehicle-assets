@@ -3056,17 +3056,101 @@
    "bytes": 27084,
    "tint": "#29332D"
   },
+  "ford/mustang-bullitt-2018": {
+   "bytes": 28246,
+   "tint": "#14231D"
+  },
+  "ford/mustang-cobra-1993": {
+   "bytes": 29346,
+   "tint": "#AF0A0A"
+  },
   "ford/mustang-cobra-1994": {
    "bytes": 27056,
    "tint": "#0E0E0E"
+  },
+  "ford/mustang-cobra-1996": {
+   "bytes": 23960,
+   "tint": "#CFCFD2"
+  },
+  "ford/mustang-cobra-1999": {
+   "bytes": 30746,
+   "tint": "#EBAF06"
+  },
+  "ford/mustang-cobra-2003": {
+   "bytes": 28534,
+   "tint": "#B70908"
   },
   "ford/mustang-cobra-r-1993": {
    "bytes": 22944,
    "tint": "#D3D3D3"
   },
+  "ford/mustang-cobra-r-1995": {
+   "bytes": 23598,
+   "tint": "#D0D0D2"
+  },
+  "ford/mustang-cobra-r-2000": {
+   "bytes": 27868,
+   "tint": "#B10203"
+  },
+  "ford/mustang-fox-1979": {
+   "bytes": 26664,
+   "tint": "#8B8C8D"
+  },
   "ford/mustang-mach-1-2003": {
    "bytes": 25672,
    "tint": "#0D0D0D"
+  },
+  "ford/mustang-mach-1-2021": {
+   "bytes": 29698,
+   "tint": "#AAACAE"
+  },
+  "ford/mustang-mach-e": {
+   "bytes": 36404,
+   "tint": "#0952AC"
+  },
+  "ford/mustang-new-edge-1999": {
+   "bytes": 29734,
+   "tint": "#06296F"
+  },
+  "ford/mustang-s197-2005": {
+   "bytes": 25176,
+   "tint": "#717171"
+  },
+  "ford/mustang-s550-2015": {
+   "bytes": 29060,
+   "tint": "#ACB0B1"
+  },
+  "ford/mustang-shelby-gt350-2015": {
+   "bytes": 30336,
+   "tint": "#09296E"
+  },
+  "ford/mustang-shelby-gt500-2007": {
+   "bytes": 30790,
+   "tint": "#021949"
+  },
+  "ford/mustang-shelby-gt500-2010": {
+   "bytes": 33338,
+   "tint": "#022C6C"
+  },
+  "ford/mustang-shelby-gt500-2013": {
+   "bytes": 32892,
+   "tint": "#032A6F"
+  },
+  "ford/mustang-shelby-gt500-2020": {
+   "bytes": 30338,
+   "tint": "#062E70"
+  },
+  "ford/mustang-sn95-1994": {
+   "bytes": 27302,
+   "tint": "#B40507"
+  },
+  "ford/mustang-svo-1984": {
+   "bytes": 22938,
+   "tint": "#0C0C0D"
+  },
+  "ford/probe-1989": {
+   "bytes": 23662,
+   "tint": "#ADADAF"
   },
   "ford/ranger": {
    "bytes": 28598,
