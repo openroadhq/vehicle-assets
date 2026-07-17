@@ -3600,6 +3600,10 @@
    "bytes": 26886,
    "tint": "#CBCDCF"
   },
+  "honda/civic-si": {
+   "bytes": 30432,
+   "tint": "#970405"
+  },
   "honda/civic-si-1988": {
    "bytes": 31528,
    "tint": "#960A0F"
@@ -3628,9 +3632,81 @@
    "bytes": 30696,
    "tint": "#B20708"
   },
+  "honda/civic-type-r": {
+   "bytes": 28430,
+   "tint": "#F1EFEC"
+  },
+  "honda/civic-type-r-1997": {
+   "bytes": 25312,
+   "tint": "#E2E1DD"
+  },
+  "honda/civic-type-r-2001": {
+   "bytes": 24986,
+   "tint": "#D6D5D1"
+  },
+  "honda/civic-type-r-2007": {
+   "bytes": 26688,
+   "tint": "#D5D3D1"
+  },
+  "honda/civic-type-r-2015": {
+   "bytes": 29752,
+   "tint": "#D3D1CE"
+  },
+  "honda/civic-type-r-2017": {
+   "bytes": 31060,
+   "tint": "#EEECE9"
+  },
+  "honda/clarity-2017": {
+   "bytes": 27910,
+   "tint": "#8E9093"
+  },
   "honda/cr-v": {
    "bytes": 30204,
    "tint": "#D5D5D5"
+  },
+  "honda/cr-v-1997": {
+   "bytes": 31654,
+   "tint": "#CCCDCE"
+  },
+  "honda/cr-v-2002": {
+   "bytes": 28224,
+   "tint": "#D5D5D5"
+  },
+  "honda/cr-v-2007": {
+   "bytes": 30334,
+   "tint": "#CFD0D3"
+  },
+  "honda/cr-v-2012": {
+   "bytes": 29558,
+   "tint": "#EAEAEA"
+  },
+  "honda/cr-v-2017": {
+   "bytes": 34212,
+   "tint": "#2D2D2D"
+  },
+  "honda/cr-z-2011": {
+   "bytes": 29428,
+   "tint": "#AAAAAC"
+  },
+  "honda/crosstour-2010": {
+   "bytes": 31426,
+   "tint": "#ADAFB1"
+  },
+  "honda/crx-1988": {
+   "bytes": 25194,
+   "tint": "#D2D2D1"
+  },
+  "honda/del-sol-1993": {
+   "bytes": 23376,
+   "tint": "#8F8F90"
+  },
+  "honda/del-sol-vtec-1993": {
+   "bytes": 28794,
+   "tint": "#B4070C"
+  },
+  "honda/element-2003": {
+   "bytes": 25978,
+   "tint": "#4E4E4F"
   },
   "honda/hr-v": {
    "bytes": 34628,
