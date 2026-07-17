@@ -3284,21 +3284,157 @@
    "bytes": 30044,
    "tint": "#710203"
   },
+  "genesis/g80": {
+   "bytes": 27744,
+   "tint": "#CFCFCF"
+  },
   "genesis/g80-2017": {
    "bytes": 25484,
    "tint": "#CDCFD2"
+  },
+  "genesis/g80-electrified-2022": {
+   "bytes": 29472,
+   "tint": "#787C81"
+  },
+  "genesis/g90": {
+   "bytes": 26132,
+   "tint": "#ECECEC"
+  },
+  "genesis/g90-2017": {
+   "bytes": 26234,
+   "tint": "#0F0F0F"
+  },
+  "genesis/gv60": {
+   "bytes": 29774,
+   "tint": "#919191"
+  },
+  "genesis/gv60-performance-2023": {
+   "bytes": 30832,
+   "tint": "#4B4B4E"
   },
   "genesis/gv70": {
    "bytes": 27260,
    "tint": "#EBEBEB"
   },
+  "genesis/gv70-electrified-2023": {
+   "bytes": 35622,
+   "tint": "#8D8D90"
+  },
+  "genesis/gv80": {
+   "bytes": 28952,
+   "tint": "#EDEDED"
+  },
+  "genesis/gv80-coupe-2023": {
+   "bytes": 24352,
+   "tint": "#0E0E0F"
+  },
+  "geo/metro": {
+   "bytes": 24414,
+   "tint": "#D1D2D1"
+  },
+  "geo/prizm": {
+   "bytes": 23774,
+   "tint": "#8B8E90"
+  },
+  "geo/storm": {
+   "bytes": 24864,
+   "tint": "#93070A"
+  },
+  "geo/tracker": {
+   "bytes": 33250,
+   "tint": "#101010"
+  },
+  "gmc/acadia": {
+   "bytes": 26726,
+   "tint": "#121213"
+  },
+  "gmc/acadia-2007": {
+   "bytes": 23516,
+   "tint": "#ECEAE8"
+  },
+  "gmc/acadia-2017": {
+   "bytes": 26324,
+   "tint": "#131313"
+  },
   "gmc/canyon": {
    "bytes": 33224,
    "tint": "#F84C51"
   },
+  "gmc/canyon-2004": {
+   "bytes": 24786,
+   "tint": "#B0B0B3"
+  },
+  "gmc/canyon-2015": {
+   "bytes": 23690,
+   "tint": "#EEEEEE"
+  },
+  "gmc/canyon-at4-2015": {
+   "bytes": 26818,
+   "tint": "#35432F"
+  },
+  "gmc/envoy-1998": {
+   "bytes": 27358,
+   "tint": "#CDCDCE"
+  },
+  "gmc/envoy-2002": {
+   "bytes": 25404,
+   "tint": "#D3D3D1"
+  },
+  "gmc/envoy-denali-2002": {
+   "bytes": 27638,
+   "tint": "#0E0E0E"
+  },
+  "gmc/envoy-xuv-2002": {
+   "bytes": 26522,
+   "tint": "#CECFCE"
+  },
+  "gmc/hummer-ev-pickup": {
+   "bytes": 23810,
+   "tint": "#0E0E0E"
+  },
+  "gmc/hummer-ev-suv": {
+   "bytes": 34708,
+   "tint": "#121212"
+  },
+  "gmc/jimmy-1983": {
+   "bytes": 26240,
+   "tint": "#F0F0EF"
+  },
+  "gmc/jimmy-1995": {
+   "bytes": 31248,
+   "tint": "#0D0D0D"
+  },
+  "gmc/jimmy-fullsize-1992": {
+   "bytes": 23824,
+   "tint": "#EBEBEC"
+  },
+  "gmc/safari-1985": {
+   "bytes": 26736,
+   "tint": "#D4D4D4"
+  },
+  "gmc/savana-1996": {
+   "bytes": 18420,
+   "tint": "#D9D9D9"
+  },
   "gmc/sierra-1500": {
    "bytes": 24728,
    "tint": "#0B0C0B"
+  },
+  "gmc/sierra-1500-1999": {
+   "bytes": 20682,
+   "tint": "#EAEAEA"
+  },
+  "gmc/sierra-1500-2007": {
+   "bytes": 23274,
+   "tint": "#6B6C6B"
+  },
+  "gmc/sierra-1500-2014": {
+   "bytes": 24680,
+   "tint": "#090909"
+  },
+  "gmc/sierra-1500-at4": {
+   "bytes": 30188,
+   "tint": "#2D322B"
   },
   "gmc/yukon": {
    "bytes": 25920,
