@@ -7463,6 +7463,10 @@
   ],
   "porsche/911-carrera-rs": [
    [
+    1991,
+    "porsche/911-carrera-rs-1991"
+   ],
+   [
     1995,
     "porsche/911-carrera-rs-1995"
    ]
@@ -7473,7 +7477,17 @@
     "porsche/911-dakar-2022"
    ]
   ],
+  "porsche/911-gt1-strassenversion": [
+   [
+    1996,
+    "porsche/911-gt1-strassenversion-1996"
+   ]
+  ],
   "porsche/911-gt2": [
+   [
+    1995,
+    "porsche/911-gt2-1995"
+   ],
    [
     2001,
     "porsche/911-gt2-2001"
@@ -7481,6 +7495,16 @@
    [
     2007,
     "porsche/911-gt2-2007"
+   ]
+  ],
+  "porsche/911-gt2-rs": [
+   [
+    2010,
+    "porsche/911-gt2-rs-2010"
+   ],
+   [
+    2017,
+    "porsche/911-gt2-rs-2017"
    ]
   ],
   "porsche/911-gt3": [
@@ -7493,11 +7517,19 @@
     "porsche/911-gt3-2006"
    ],
    [
+    2013,
+    "porsche/911-gt3-2013"
+   ],
+   [
     2021,
     "porsche/911-gt3"
    ]
   ],
   "porsche/911-gt3-rs": [
+   [
+    2006,
+    "porsche/911-gt3-rs-2006"
+   ],
    [
     2013,
     "porsche/911-gt3-rs-2013"
@@ -7513,6 +7545,18 @@
     "porsche/911-gt3-rs-996-2003"
    ]
   ],
+  "porsche/911-r": [
+   [
+    2016,
+    "porsche/911-r-2016"
+   ]
+  ],
+  "porsche/911-s-t": [
+   [
+    2023,
+    "porsche/911-s-t-2023"
+   ]
+  ],
   "porsche/911-sport-classic": [
    [
     2010,
@@ -7525,12 +7569,24 @@
   ],
   "porsche/911-turbo": [
    [
+    1990,
+    "porsche/911-turbo-1990"
+   ],
+   [
+    1995,
+    "porsche/911-turbo-1995"
+   ],
+   [
     2000,
     "porsche/911-turbo-2000"
    ],
    [
     2006,
     "porsche/911-turbo-2006"
+   ],
+   [
+    2013,
+    "porsche/911-turbo-2013"
    ]
   ],
   "porsche/911-turbo-s": [
@@ -7541,6 +7597,20 @@
    [
     2010,
     "porsche/911-turbo-s-2010"
+   ],
+   [
+    2013,
+    "porsche/911-turbo-s-2013"
+   ],
+   [
+    2020,
+    "porsche/911-turbo-s"
+   ]
+  ],
+  "porsche/918-spyder": [
+   [
+    2013,
+    "porsche/918-spyder-2013"
    ]
   ],
   "porsche/924": [
@@ -7553,6 +7623,12 @@
    [
     1978,
     "porsche/928-1978"
+   ]
+  ],
+  "porsche/928-gts": [
+   [
+    1991,
+    "porsche/928-gts-1991"
    ]
   ],
   "porsche/944-s2": [
@@ -16246,6 +16322,26 @@
    "bytes": 32940,
    "tint": "#2E2F32"
   },
+  "pagani/zonda-revolucion": {
+   "bytes": 48496,
+   "tint": "#6F7071"
+  },
+  "polestar/1": {
+   "bytes": 27914,
+   "tint": "#0F0F0F"
+  },
+  "polestar/2": {
+   "bytes": 33772,
+   "tint": "#0E2F4B"
+  },
+  "polestar/3": {
+   "bytes": 27364,
+   "tint": "#CCCCCC"
+  },
+  "polestar/4": {
+   "bytes": 25818,
+   "tint": "#2E2F31"
+  },
   "pontiac/grand-am-1985": {
    "bytes": 22288,
    "tint": "#CFCFCD"
@@ -16274,6 +16370,14 @@
    "bytes": 28516,
    "tint": "#717273"
   },
+  "porsche/911-964": {
+   "bytes": 27882,
+   "tint": "#D3D3D0"
+  },
+  "porsche/911-991": {
+   "bytes": 28350,
+   "tint": "#8E9091"
+  },
   "porsche/911-993": {
    "bytes": 25680,
    "tint": "#909091"
@@ -16281,6 +16385,14 @@
   "porsche/911-996": {
    "bytes": 25288,
    "tint": "#8E8E8F"
+  },
+  "porsche/911-997": {
+   "bytes": 26416,
+   "tint": "#909290"
+  },
+  "porsche/911-carrera-rs-1991": {
+   "bytes": 29608,
+   "tint": "#A70914"
   },
   "porsche/911-carrera-rs-1995": {
    "bytes": 29658,
@@ -16290,6 +16402,14 @@
    "bytes": 25132,
    "tint": "#F1F1F1"
   },
+  "porsche/911-gt1-strassenversion-1996": {
+   "bytes": 30250,
+   "tint": "#AAADAE"
+  },
+  "porsche/911-gt2-1995": {
+   "bytes": 27618,
+   "tint": "#8E9192"
+  },
   "porsche/911-gt2-2001": {
    "bytes": 26650,
    "tint": "#8F9193"
@@ -16297,6 +16417,14 @@
   "porsche/911-gt2-2007": {
    "bytes": 29716,
    "tint": "#ADADAF"
+  },
+  "porsche/911-gt2-rs-2010": {
+   "bytes": 28510,
+   "tint": "#ACADAD"
+  },
+  "porsche/911-gt2-rs-2017": {
+   "bytes": 28190,
+   "tint": "#141414"
   },
   "porsche/911-gt3": {
    "bytes": 29456,
@@ -16310,9 +16438,17 @@
    "bytes": 33218,
    "tint": "#D01319"
   },
+  "porsche/911-gt3-2013": {
+   "bytes": 28858,
+   "tint": "#920612"
+  },
   "porsche/911-gt3-rs": {
    "bytes": 29014,
    "tint": "#D1D1D1"
+  },
+  "porsche/911-gt3-rs-2006": {
+   "bytes": 34782,
+   "tint": "#8E070E"
   },
   "porsche/911-gt3-rs-2013": {
    "bytes": 33218,
@@ -16322,6 +16458,14 @@
    "bytes": 34608,
    "tint": "#C70B13"
   },
+  "porsche/911-r-2016": {
+   "bytes": 29460,
+   "tint": "#CFD0CF"
+  },
+  "porsche/911-s-t-2023": {
+   "bytes": 26914,
+   "tint": "#8E9091"
+  },
   "porsche/911-sport-classic-2010": {
    "bytes": 25248,
    "tint": "#8C8C8E"
@@ -16329,6 +16473,14 @@
   "porsche/911-sport-classic-2022": {
    "bytes": 27380,
    "tint": "#8E8F90"
+  },
+  "porsche/911-turbo-1990": {
+   "bytes": 26524,
+   "tint": "#ADB0B0"
+  },
+  "porsche/911-turbo-1995": {
+   "bytes": 30516,
+   "tint": "#8F9192"
   },
   "porsche/911-turbo-2000": {
    "bytes": 26124,
@@ -16338,6 +16490,14 @@
    "bytes": 30378,
    "tint": "#919192"
   },
+  "porsche/911-turbo-2013": {
+   "bytes": 32442,
+   "tint": "#ADB0B0"
+  },
+  "porsche/911-turbo-s": {
+   "bytes": 34488,
+   "tint": "#880710"
+  },
   "porsche/911-turbo-s-2004": {
    "bytes": 27004,
    "tint": "#ABADAD"
@@ -16346,6 +16506,14 @@
    "bytes": 28378,
    "tint": "#919192"
   },
+  "porsche/911-turbo-s-2013": {
+   "bytes": 27274,
+   "tint": "#8F9191"
+  },
+  "porsche/918-spyder-2013": {
+   "bytes": 32312,
+   "tint": "#D1D1CF"
+  },
   "porsche/924-1977": {
    "bytes": 25780,
    "tint": "#939492"
@@ -16353,6 +16521,10 @@
   "porsche/928-1978": {
    "bytes": 26072,
    "tint": "#ACACAF"
+  },
+  "porsche/928-gts-1991": {
+   "bytes": 27244,
+   "tint": "#AFB1B0"
   },
   "porsche/944-s2-1989": {
    "bytes": 26514,
