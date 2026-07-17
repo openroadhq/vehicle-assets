@@ -3436,13 +3436,125 @@
    "bytes": 30188,
    "tint": "#2D322B"
   },
+  "gmc/sierra-1500-denali": {
+   "bytes": 27938,
+   "tint": "#0D0D0D"
+  },
+  "gmc/sierra-1988": {
+   "bytes": 20564,
+   "tint": "#D2D2D2"
+  },
+  "gmc/sonoma-1982": {
+   "bytes": 19310,
+   "tint": "#D4D4D3"
+  },
+  "gmc/sonoma-1994": {
+   "bytes": 21572,
+   "tint": "#919091"
+  },
+  "gmc/suburban-1992": {
+   "bytes": 21218,
+   "tint": "#D1D1D1"
+  },
+  "gmc/syclone-1991": {
+   "bytes": 23606,
+   "tint": "#080809"
+  },
+  "gmc/terrain": {
+   "bytes": 27168,
+   "tint": "#F1F1F3"
+  },
+  "gmc/terrain-2010": {
+   "bytes": 28458,
+   "tint": "#ADACAE"
+  },
+  "gmc/terrain-2018": {
+   "bytes": 29084,
+   "tint": "#EAEAEA"
+  },
+  "gmc/typhoon-1992": {
+   "bytes": 20818,
+   "tint": "#0A0A0B"
+  },
   "gmc/yukon": {
    "bytes": 25920,
    "tint": "#D3D2D4"
   },
+  "gmc/yukon-1992": {
+   "bytes": 23948,
+   "tint": "#D5D5D5"
+  },
+  "gmc/yukon-2000": {
+   "bytes": 25608,
+   "tint": "#0E0E0F"
+  },
+  "gmc/yukon-2007": {
+   "bytes": 29254,
+   "tint": "#D1D0D3"
+  },
+  "gmc/yukon-2015": {
+   "bytes": 28184,
+   "tint": "#141414"
+  },
+  "gmc/yukon-denali": {
+   "bytes": 29618,
+   "tint": "#0E0E0E"
+  },
+  "gmc/yukon-xl-2000": {
+   "bytes": 24610,
+   "tint": "#D3D3D3"
+  },
+  "hennessey/venom-f5": {
+   "bytes": 28140,
+   "tint": "#0E0E0E"
+  },
+  "hennessey/venom-gt": {
+   "bytes": 30096,
+   "tint": "#B0AFB0"
+  },
   "honda/accord": {
    "bytes": 23994,
    "tint": "#131312"
+  },
+  "honda/accord-1990": {
+   "bytes": 25982,
+   "tint": "#CDCFD2"
+  },
+  "honda/accord-1994": {
+   "bytes": 22574,
+   "tint": "#D3D5D4"
+  },
+  "honda/accord-1998": {
+   "bytes": 26082,
+   "tint": "#AAADB2"
+  },
+  "honda/accord-2003": {
+   "bytes": 24762,
+   "tint": "#AEAFB0"
+  },
+  "honda/accord-2008": {
+   "bytes": 22564,
+   "tint": "#D2D4D3"
+  },
+  "honda/accord-2013": {
+   "bytes": 26354,
+   "tint": "#AEAFB0"
+  },
+  "honda/accord-2018": {
+   "bytes": 25510,
+   "tint": "#D1D1D1"
+  },
+  "honda/accord-coupe-1998": {
+   "bytes": 21628,
+   "tint": "#CFCFD0"
+  },
+  "honda/accord-v6-6mt-2003": {
+   "bytes": 23330,
+   "tint": "#111111"
+  },
+  "honda/acty": {
+   "bytes": 23772,
+   "tint": "#E7E7E7"
   },
   "honda/civic": {
    "bytes": 30922,
