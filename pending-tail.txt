@@ -43,30 +43,6 @@ pontiac/trans-am-ws6-1993|black 2000 Pontiac Trans Am WS6 Ram Air coupe
 pontiac/trans-sport-1990|silver 1994 Pontiac Trans Sport minivan
 pontiac/trans-sport-1997|white 1999 Pontiac Trans Sport minivan
 pontiac/vibe-2009|white 2010 Pontiac Vibe GT hatchback
-porsche/911-s-t-2023|silver 2024 Porsche 911 S/T 992 coupe
-porsche/911-turbo-1990|silver 1991 Porsche 911 Turbo 964 coupe
-porsche/911-turbo-1995|silver 1996 Porsche 911 Turbo 993 coupe
-porsche/911-turbo-2013|silver 2014 Porsche 911 Turbo 991 coupe
-porsche/911-turbo-s|guards red 2024 Porsche 911 Turbo S 992 coupe
-porsche/911-turbo-s-2013|silver 2014 Porsche 911 Turbo S 991 coupe
-porsche/918-spyder-2013|white 2014 Porsche 918 Spyder coupe
-porsche/928-gts-1991|silver 1993 Porsche 928 GTS coupe
-porsche/944-1982|white 1985 Porsche 944 coupe
-porsche/959-1986|white 1987 Porsche 959 coupe
-porsche/968-1991|silver 1992 Porsche 968 coupe
-porsche/boxster|red Porsche 718 Boxster convertible, top up, 2025 model year
-porsche/boxster-1997|silver 1998 Porsche Boxster 986 roadster
-porsche/boxster-2016|silver 2017 Porsche 718 Boxster 982 roadster
-porsche/boxster-spyder|guards red 2024 Porsche 718 Boxster Spyder 982 roadster
-porsche/carrera-gt-2004|silver 2004 Porsche Carrera GT coupe
-porsche/cayenne|black Porsche Cayenne SUV, 2025 model year
-porsche/cayenne-2017|silver 2018 Porsche Cayenne 9Y0 SUV
-porsche/cayenne-turbo-2002|silver 2003 Porsche Cayenne Turbo 955 SUV
-porsche/cayenne-turbo-gt-2021|silver 2022 Porsche Cayenne Turbo GT 9Y0 SUV
-porsche/cayman|yellow Porsche 718 Cayman coupe, 2025 model year
-porsche/cayman-2016|silver 2017 Porsche 718 Cayman 982 coupe
-porsche/cayman-gt4-2015|guards red 2016 Porsche Cayman GT4 981 coupe
-porsche/cayman-r-2011|silver 2012 Porsche Cayman R 987 coupe
 porsche/macan|silver 2024 Porsche Macan EV SUV
 porsche/panamera|silver 2024 Porsche Panamera sedan
 porsche/panamera-2009|silver 2010 Porsche Panamera 970 sedan
