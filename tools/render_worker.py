@@ -20,8 +20,16 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from generate import CIMG, GEN_SIZE, PROMPT_TEMPLATE, V1  # noqa: E402
 
 # ChatGPT's image quota is a rolling window; 429 means wait, not fail.
-MAX_429_RETRIES = 6
-BACKOFF_BASE = 60  # 60s, 2m, 4m, 8m, 16m, 32m — ~1h of patience per car
+#
+# The quota is GLOBAL, not per-car: if one car 429s, every car will. So a long
+# per-car backoff is worse than useless — it burns ~1h per car while the whole
+# account is shut (266 cars would take ~68h). Retry briefly in case it's a
+# momentary throttle, then bail out of the WHOLE worker and let supervisor.sh
+# idle once and start a fresh round. Nothing is lost: the next round rebuilds
+# the pending list from the filesystem, so unrendered cars simply come back.
+MAX_429_RETRIES = 3
+BACKOFF_BASE = 20          # 20s, 40s, 80s — ~2min before we call the quota shut
+QUOTA_SHUT_EXIT = 42       # exit code supervisor.sh reads as "quota is closed"
 
 
 def already_done(slug: str, stage: Path) -> bool:
@@ -71,11 +79,15 @@ def main() -> int:
                 err = (e.stderr.decode() if e.stderr else "") + (e.stdout.decode() if e.stdout else "")
                 if "429" in err or "usage_limit" in err or "Rate limit" in err:
                     if attempt == MAX_429_RETRIES - 1:
-                        fail += 1
-                        print(f"[w{args.id}] FAIL {slug}: still 429 after {MAX_429_RETRIES} tries", flush=True)
-                        break
+                        # Quota is shut account-wide — every remaining car would
+                        # 429 too. Stop the worker; supervisor.sh idles and
+                        # re-rounds. This car stays pending and comes back.
+                        print(f"[w{args.id}] QUOTA SHUT at {slug} — "
+                              f"rendered={ok} this run, {len(jobs)-ok-fail-skip} still pending",
+                              flush=True)
+                        return QUOTA_SHUT_EXIT
                     wait = BACKOFF_BASE * (2 ** attempt)
-                    print(f"[w{args.id}] 429 on {slug} — sleeping {wait}s (try {attempt+1})", flush=True)
+                    print(f"[w{args.id}] 429 on {slug} — retrying in {wait}s", flush=True)
                     time.sleep(wait)
                     continue
                 fail += 1
