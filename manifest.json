@@ -144,6 +144,10 @@
    "bytes": 25822,
    "tint": "#D4D2CF"
   },
+  "acura/tl-1996": {
+   "bytes": 25518,
+   "tint": "#AEAEB0"
+  },
   "acura/tl-1999": {
    "bytes": 25604,
    "tint": "#D0CFCC"
@@ -155,6 +159,10 @@
   "acura/tl-2009": {
    "bytes": 26258,
    "tint": "#ECEBE7"
+  },
+  "acura/tl-type-s-2002": {
+   "bytes": 23316,
+   "tint": "#0C0C0D"
   },
   "acura/tl-type-s-2007": {
    "bytes": 25662,
@@ -172,6 +180,10 @@
    "bytes": 26020,
    "tint": "#111111"
   },
+  "acura/tsx-2004": {
+   "bytes": 27222,
+   "tint": "#929294"
+  },
   "acura/tsx-2009": {
    "bytes": 23796,
    "tint": "#D4D4D4"
@@ -183,6 +195,10 @@
   "acura/vigor-1992": {
    "bytes": 25756,
    "tint": "#909192"
+  },
+  "acura/zdx": {
+   "bytes": 28424,
+   "tint": "#D2D3D5"
   },
   "acura/zdx-2010": {
    "bytes": 29818,
@@ -196,6 +212,10 @@
    "bytes": 30354,
    "tint": "#8A070C"
   },
+  "alfa-romeo/33-stradale": {
+   "bytes": 32426,
+   "tint": "#8E030B"
+  },
   "alfa-romeo/4c": {
    "bytes": 29680,
    "tint": "#A8040F"
@@ -207,6 +227,10 @@
   "alfa-romeo/giulia": {
    "bytes": 38142,
    "tint": "#8C0405"
+  },
+  "alfa-romeo/giulia-gta": {
+   "bytes": 36600,
+   "tint": "#74040B"
   },
   "alfa-romeo/giulia-quadrifoglio": {
    "bytes": 34458,
@@ -220,6 +244,10 @@
    "bytes": 39438,
    "tint": "#8F0911"
   },
+  "alfa-romeo/stelvio-quadrifoglio": {
+   "bytes": 39644,
+   "tint": "#8D070C"
+  },
   "alfa-romeo/tonale": {
    "bytes": 35224,
    "tint": "#8E020F"
@@ -231,6 +259,10 @@
   "alpine/a110-2017": {
    "bytes": 32886,
    "tint": "#0455AC"
+  },
+  "amc/eagle": {
+   "bytes": 27708,
+   "tint": "#2A2C2C"
   },
   "aptera/aptera": {
    "bytes": 23086,
@@ -244,6 +276,10 @@
    "bytes": 42566,
    "tint": "#2E2E2E"
   },
+  "aston-martin/db11": {
+   "bytes": 27542,
+   "tint": "#314738"
+  },
   "aston-martin/db12": {
    "bytes": 28014,
    "tint": "#2B4C34"
@@ -255,6 +291,10 @@
   "aston-martin/db9": {
    "bytes": 26232,
    "tint": "#8A8A8C"
+  },
+  "aston-martin/dbs-2008": {
+   "bytes": 25774,
+   "tint": "#101010"
   },
   "aston-martin/dbs-2018": {
    "bytes": 29102,
@@ -268,6 +308,10 @@
    "bytes": 32864,
    "tint": "#0A4D35"
   },
+  "aston-martin/one-77": {
+   "bytes": 25598,
+   "tint": "#8E8E90"
+  },
   "aston-martin/rapide": {
    "bytes": 24788,
    "tint": "#8F9091"
@@ -279,6 +323,10 @@
   "aston-martin/v12-zagato": {
    "bytes": 26870,
    "tint": "#8B8C8F"
+  },
+  "aston-martin/valhalla": {
+   "bytes": 24562,
+   "tint": "#2E2F2E"
   },
   "aston-martin/valkyrie": {
    "bytes": 25564,
@@ -292,6 +340,10 @@
    "bytes": 27106,
    "tint": "#929293"
   },
+  "aston-martin/vantage-2018": {
+   "bytes": 25602,
+   "tint": "#2C4A34"
+  },
   "aston-martin/vantage-v8-2005": {
    "bytes": 25604,
    "tint": "#8C8F93"
@@ -304,6 +356,10 @@
    "bytes": 24174,
    "tint": "#2C4B37"
   },
+  "audi/200-turbo-quattro-1989": {
+   "bytes": 22986,
+   "tint": "#D1D0CC"
+  },
   "audi/5000-1978": {
    "bytes": 24220,
    "tint": "#959596"
@@ -315,6 +371,10 @@
   "audi/a2-1999": {
    "bytes": 27960,
    "tint": "#ACADB0"
+  },
+  "audi/a3": {
+   "bytes": 28280,
+   "tint": "#8B8D90"
   },
   "audi/a3-2006": {
    "bytes": 27894,
@@ -332,6 +392,10 @@
    "bytes": 25846,
    "tint": "#8D9091"
   },
+  "audi/a4-2002": {
+   "bytes": 26684,
+   "tint": "#AFB0B3"
+  },
   "audi/a4-2006": {
    "bytes": 27098,
    "tint": "#8D8D8F"
@@ -348,6 +412,10 @@
    "bytes": 36752,
    "tint": "#06356C"
   },
+  "audi/a5-2008": {
+   "bytes": 23762,
+   "tint": "#EEEEEE"
+  },
   "audi/a6": {
    "bytes": 28062,
    "tint": "#0E0E0E"
@@ -358,6 +426,10 @@
   },
   "audi/a6-1998": {
    "bytes": 23022,
+   "tint": "#111111"
+  },
+  "audi/a6-2005": {
+   "bytes": 24184,
    "tint": "#111111"
   },
   "audi/a6-2012": {
@@ -372,6 +444,10 @@
    "bytes": 26550,
    "tint": "#6D6D6F"
   },
+  "audi/a8": {
+   "bytes": 29120,
+   "tint": "#101010"
+  },
   "audi/a8-1997": {
    "bytes": 23272,
    "tint": "#141414"
@@ -383,6 +459,10 @@
   "audi/a8-2011": {
    "bytes": 25034,
    "tint": "#0F0F0F"
+  },
+  "audi/a8-w12-2004": {
+   "bytes": 24790,
+   "tint": "#0C0C0C"
   },
   "audi/allroad-2001": {
    "bytes": 26096,
@@ -396,6 +476,10 @@
    "bytes": 21874,
    "tint": "#0F0F0F"
   },
+  "audi/coupe-quattro-1990": {
+   "bytes": 29100,
+   "tint": "#AE0511"
+  },
   "audi/e-tron-gt": {
    "bytes": 26978,
    "tint": "#4B4C4F"
@@ -407,6 +491,10 @@
   "audi/q3-2015": {
    "bytes": 29658,
    "tint": "#E9E9E9"
+  },
+  "audi/q4-e-tron": {
+   "bytes": 34216,
+   "tint": "#163965"
   },
   "audi/q5": {
    "bytes": 31458,
@@ -428,6 +516,10 @@
    "bytes": 31984,
    "tint": "#0C0C0C"
   },
+  "audi/q8-e-tron": {
+   "bytes": 34982,
+   "tint": "#4E4F51"
+  },
   "audi/quattro-1980": {
    "bytes": 28642,
    "tint": "#930408"
@@ -444,6 +536,10 @@
    "bytes": 27152,
    "tint": "#D2D2D2"
   },
+  "audi/r8-v10-2009": {
+   "bytes": 32480,
+   "tint": "#B00309"
+  },
   "audi/r8-v10-performance-2019": {
    "bytes": 31190,
    "tint": "#B00308"
@@ -455,6 +551,10 @@
   "audi/rs-e-tron-gt": {
    "bytes": 27260,
    "tint": "#6C6E71"
+  },
+  "audi/rs-q8": {
+   "bytes": 31800,
+   "tint": "#676A6E"
   },
   "audi/rs2-avant-1994": {
    "bytes": 26842,
@@ -468,6 +568,10 @@
    "bytes": 32712,
    "tint": "#053989"
   },
+  "audi/rs4-2007": {
+   "bytes": 30738,
+   "tint": "#053279"
+  },
   "audi/rs4-avant-b5-2000": {
    "bytes": 29356,
    "tint": "#022F89"
@@ -479,6 +583,10 @@
   "audi/rs5": {
    "bytes": 26596,
    "tint": "#6C6C6F"
+  },
+  "audi/rs5-2013": {
+   "bytes": 26074,
+   "tint": "#505051"
   },
   "audi/rs6-2003": {
    "bytes": 30304,
@@ -500,6 +608,10 @@
    "bytes": 27362,
    "tint": "#4F5052"
   },
+  "audi/rs7-2014": {
+   "bytes": 27200,
+   "tint": "#6D6E70"
+  },
   "audi/s3": {
    "bytes": 27704,
    "tint": "#4D4F50"
@@ -515,6 +627,10 @@
   "audi/s4-b5-1998": {
    "bytes": 23438,
    "tint": "#0D0D0D"
+  },
+  "audi/s4-b6-2004": {
+   "bytes": 27228,
+   "tint": "#0B0B0B"
   },
   "audi/s4-b7-2006": {
    "bytes": 25566,
@@ -532,6 +648,10 @@
    "bytes": 26650,
    "tint": "#4D4F51"
   },
+  "audi/s6": {
+   "bytes": 29366,
+   "tint": "#494A4E"
+  },
   "audi/s6-1995": {
    "bytes": 23104,
    "tint": "#505052"
@@ -543,6 +663,10 @@
   "audi/s6-2007": {
    "bytes": 25804,
    "tint": "#4D4F52"
+  },
+  "audi/s6-2013": {
+   "bytes": 27346,
+   "tint": "#4C4D50"
   },
   "audi/s7": {
    "bytes": 28902,
@@ -2967,6 +3091,26 @@
   "mercedes-benz/e-class-1986": {
    "bytes": 25616,
    "tint": "#AAAFB2"
+  },
+  "mercedes-benz/e-class-1996": {
+   "bytes": 23480,
+   "tint": "#8D8F8F"
+  },
+  "mercedes-benz/e-class-2003": {
+   "bytes": 26916,
+   "tint": "#CFCFD1"
+  },
+  "mercedes-benz/e-class-2009": {
+   "bytes": 27388,
+   "tint": "#ACADAF"
+  },
+  "mercedes-benz/e-class-2016": {
+   "bytes": 26206,
+   "tint": "#ACADB0"
+  },
+  "mercedes-benz/e55-amg-1999": {
+   "bytes": 22796,
+   "tint": "#ADAEAF"
   },
   "mercedes-benz/glc": {
    "bytes": 27186,
