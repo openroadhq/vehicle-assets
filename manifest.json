@@ -7425,6 +7425,22 @@
     "oldsmobile/ninety-eight-1991"
    ]
   ],
+  "oldsmobile/silhouette": [
+   [
+    1990,
+    "oldsmobile/silhouette-1990"
+   ],
+   [
+    1997,
+    "oldsmobile/silhouette-1997"
+   ]
+  ],
+  "oldsmobile/toronado": [
+   [
+    1986,
+    "oldsmobile/toronado-1986"
+   ]
+  ],
   "peugeot/205-gti": [
    [
     1984,
@@ -7449,10 +7465,128 @@
     "peugeot/306-gti-6-1996"
    ]
   ],
+  "peugeot/405-mi16": [
+   [
+    1988,
+    "peugeot/405-mi16-1988"
+   ]
+  ],
+  "plymouth/breeze": [
+   [
+    1996,
+    "plymouth/breeze-1996"
+   ]
+  ],
+  "plymouth/laser": [
+   [
+    1990,
+    "plymouth/laser-1990"
+   ]
+  ],
+  "plymouth/neon": [
+   [
+    1995,
+    "plymouth/neon-1995"
+   ],
+   [
+    2000,
+    "plymouth/neon-2000"
+   ]
+  ],
+  "plymouth/prowler": [
+   [
+    1997,
+    "plymouth/prowler-1997"
+   ]
+  ],
+  "plymouth/voyager": [
+   [
+    1991,
+    "plymouth/voyager-1991"
+   ],
+   [
+    1996,
+    "plymouth/voyager-1996"
+   ]
+  ],
+  "pontiac/6000": [
+   [
+    1982,
+    "pontiac/6000-1982"
+   ]
+  ],
+  "pontiac/aztek": [
+   [
+    2001,
+    "pontiac/aztek-2001"
+   ]
+  ],
+  "pontiac/bonneville": [
+   [
+    1987,
+    "pontiac/bonneville-1987"
+   ],
+   [
+    1992,
+    "pontiac/bonneville-1992"
+   ],
+   [
+    2000,
+    "pontiac/bonneville-2000"
+   ]
+  ],
+  "pontiac/firebird": [
+   [
+    1982,
+    "pontiac/firebird-1982"
+   ],
+   [
+    1993,
+    "pontiac/firebird-1993"
+   ]
+  ],
+  "pontiac/g3": [
+   [
+    2009,
+    "pontiac/g3-2009"
+   ]
+  ],
+  "pontiac/g5": [
+   [
+    2007,
+    "pontiac/g5-2007"
+   ]
+  ],
+  "pontiac/g6": [
+   [
+    2005,
+    "pontiac/g6-2005"
+   ]
+  ],
+  "pontiac/g6-gxp": [
+   [
+    2005,
+    "pontiac/g6-gxp-2005"
+   ]
+  ],
+  "pontiac/g8": [
+   [
+    2008,
+    "pontiac/g8-2008"
+   ]
+  ],
   "pontiac/grand-am": [
    [
     1985,
     "pontiac/grand-am-1985"
+   ],
+   [
+    1992,
+    "pontiac/grand-am-1992"
+   ],
+   [
+    1999,
+    "pontiac/grand-am-1999"
    ]
   ],
   "pontiac/grand-prix": [
@@ -16598,6 +16732,18 @@
    "bytes": 28914,
    "tint": "#0D0F0F"
   },
+  "oldsmobile/silhouette-1990": {
+   "bytes": 31984,
+   "tint": "#8D9192"
+  },
+  "oldsmobile/silhouette-1997": {
+   "bytes": 29138,
+   "tint": "#D2D2CF"
+  },
+  "oldsmobile/toronado-1986": {
+   "bytes": 26352,
+   "tint": "#D2D2D0"
+  },
   "pagani/huayra": {
    "bytes": 30648,
    "tint": "#ADAFB0"
@@ -16634,6 +16780,14 @@
    "bytes": 48496,
    "tint": "#6F7071"
   },
+  "panoz/aiv-roadster": {
+   "bytes": 34400,
+   "tint": "#B1B0AF"
+  },
+  "panoz/esperante": {
+   "bytes": 28614,
+   "tint": "#AFB0AF"
+  },
   "peugeot/205-gti-1984": {
    "bytes": 34048,
    "tint": "#AA040D"
@@ -16649,6 +16803,38 @@
   "peugeot/306-gti-6-1996": {
    "bytes": 27680,
    "tint": "#91040B"
+  },
+  "peugeot/405-mi16-1988": {
+   "bytes": 28894,
+   "tint": "#78848C"
+  },
+  "plymouth/breeze-1996": {
+   "bytes": 28248,
+   "tint": "#B2B2B2"
+  },
+  "plymouth/laser-1990": {
+   "bytes": 33046,
+   "tint": "#91060F"
+  },
+  "plymouth/neon-1995": {
+   "bytes": 29356,
+   "tint": "#CDCCC9"
+  },
+  "plymouth/neon-2000": {
+   "bytes": 28124,
+   "tint": "#ABADAC"
+  },
+  "plymouth/prowler-1997": {
+   "bytes": 33388,
+   "tint": "#473151"
+  },
+  "plymouth/voyager-1991": {
+   "bytes": 34048,
+   "tint": "#AEAFAE"
+  },
+  "plymouth/voyager-1996": {
+   "bytes": 29342,
+   "tint": "#8F9191"
   },
   "polestar/1": {
    "bytes": 27914,
@@ -16666,9 +16852,65 @@
    "bytes": 25818,
    "tint": "#2E2F31"
   },
+  "pontiac/6000-1982": {
+   "bytes": 24848,
+   "tint": "#D1D2D0"
+  },
+  "pontiac/aztek-2001": {
+   "bytes": 34410,
+   "tint": "#1A4522"
+  },
+  "pontiac/bonneville-1987": {
+   "bytes": 25996,
+   "tint": "#ECECEB"
+  },
+  "pontiac/bonneville-1992": {
+   "bytes": 26836,
+   "tint": "#AFB2B2"
+  },
+  "pontiac/bonneville-2000": {
+   "bytes": 26148,
+   "tint": "#0D100D"
+  },
+  "pontiac/firebird-1982": {
+   "bytes": 24242,
+   "tint": "#0B0C0C"
+  },
+  "pontiac/firebird-1993": {
+   "bytes": 29268,
+   "tint": "#8E070E"
+  },
+  "pontiac/g3-2009": {
+   "bytes": 32774,
+   "tint": "#CDD0D0"
+  },
+  "pontiac/g5-2007": {
+   "bytes": 31244,
+   "tint": "#91090D"
+  },
+  "pontiac/g6-2005": {
+   "bytes": 29730,
+   "tint": "#EEEEED"
+  },
+  "pontiac/g6-gxp-2005": {
+   "bytes": 28470,
+   "tint": "#0D0E0D"
+  },
+  "pontiac/g8-2008": {
+   "bytes": 31834,
+   "tint": "#0E0F0E"
+  },
   "pontiac/grand-am-1985": {
    "bytes": 22288,
    "tint": "#CFCFCD"
+  },
+  "pontiac/grand-am-1992": {
+   "bytes": 28486,
+   "tint": "#AFB1AF"
+  },
+  "pontiac/grand-am-1999": {
+   "bytes": 28096,
+   "tint": "#0A0C0D"
   },
   "pontiac/grand-prix-1997": {
    "bytes": 23004,
