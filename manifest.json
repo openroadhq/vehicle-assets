@@ -7591,14 +7591,40 @@
   ],
   "pontiac/grand-prix": [
    [
+    1988,
+    "pontiac/grand-prix-1988"
+   ],
+   [
     1997,
     "pontiac/grand-prix-1997"
+   ],
+   [
+    2004,
+    "pontiac/grand-prix-2004"
+   ]
+  ],
+  "pontiac/gto": [
+   [
+    2004,
+    "pontiac/gto-2004"
+   ]
+  ],
+  "pontiac/lemans": [
+   [
+    1988,
+    "pontiac/lemans-1988"
    ]
   ],
   "pontiac/montana": [
    [
     1999,
     "pontiac/montana-1999"
+   ]
+  ],
+  "pontiac/montana-sv6": [
+   [
+    2005,
+    "pontiac/montana-sv6-2005"
    ]
   ],
   "pontiac/solstice": [
@@ -7619,7 +7645,23 @@
     "pontiac/sunbird-1988"
    ]
   ],
+  "pontiac/sunfire": [
+   [
+    1995,
+    "pontiac/sunfire-1995"
+   ]
+  ],
+  "pontiac/torrent": [
+   [
+    2006,
+    "pontiac/torrent-2006"
+   ]
+  ],
   "pontiac/trans-am": [
+   [
+    1982,
+    "pontiac/trans-am-1982"
+   ],
    [
     1993,
     "pontiac/trans-am-1993"
@@ -16912,13 +16954,33 @@
    "bytes": 28096,
    "tint": "#0A0C0D"
   },
+  "pontiac/grand-prix-1988": {
+   "bytes": 25052,
+   "tint": "#EAEBEA"
+  },
   "pontiac/grand-prix-1997": {
    "bytes": 23004,
    "tint": "#AEAFAE"
   },
+  "pontiac/grand-prix-2004": {
+   "bytes": 27872,
+   "tint": "#0A0B0C"
+  },
+  "pontiac/gto-2004": {
+   "bytes": 30248,
+   "tint": "#D1AA28"
+  },
+  "pontiac/lemans-1988": {
+   "bytes": 28244,
+   "tint": "#EBEBEA"
+  },
   "pontiac/montana-1999": {
    "bytes": 25142,
    "tint": "#2F2F2F"
+  },
+  "pontiac/montana-sv6-2005": {
+   "bytes": 30498,
+   "tint": "#EBEBEA"
   },
   "pontiac/solstice-2006": {
    "bytes": 33862,
@@ -16931,6 +16993,18 @@
   "pontiac/sunbird-1988": {
    "bytes": 20822,
    "tint": "#D0D1D1"
+  },
+  "pontiac/sunfire-1995": {
+   "bytes": 29376,
+   "tint": "#A9020C"
+  },
+  "pontiac/torrent-2006": {
+   "bytes": 30714,
+   "tint": "#8F9191"
+  },
+  "pontiac/trans-am-1982": {
+   "bytes": 28738,
+   "tint": "#090B0C"
   },
   "pontiac/trans-am-1993": {
    "bytes": 26238,
