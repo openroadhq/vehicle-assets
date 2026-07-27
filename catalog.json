@@ -1,6 +1,6 @@
 {
  "schemaVersion": 2,
- "generated": "2026-07-02",
+ "generated": "2026-07-27",
  "vehicles": [
   {
    "slug": "abarth/595",
@@ -310,6 +310,59 @@
    "zeroToSixty": 4.5,
    "weightKg": 1100,
    "tier": 2
+  },
+  {
+   "slug": "aprilia/rsv4-factory",
+   "make": "Aprilia",
+   "model": "RSV4",
+   "variant": "Factory",
+   "display": "RSV4 Factory",
+   "search": [
+    "rsv4",
+    "rsv4 factory",
+    "rsv"
+   ],
+   "shape": "motorcycle",
+   "years": "2009–",
+   "hp": 217,
+   "zeroToSixty": 2.9,
+   "weightKg": 202,
+   "tier": 1
+  },
+  {
+   "slug": "aprilia/tuareg-660",
+   "make": "Aprilia",
+   "model": "Tuareg 660",
+   "variant": null,
+   "display": "Tuareg 660",
+   "search": [
+    "tuareg",
+    "tuareg 660"
+   ],
+   "shape": "motorcycle",
+   "years": "2022–",
+   "hp": 80,
+   "zeroToSixty": 4.0,
+   "weightKg": 204,
+   "tier": 2
+  },
+  {
+   "slug": "aprilia/tuono-v4",
+   "make": "Aprilia",
+   "model": "Tuono V4",
+   "variant": null,
+   "display": "Tuono V4",
+   "search": [
+    "tuono",
+    "tuono v4",
+    "tuono factory"
+   ],
+   "shape": "motorcycle",
+   "years": "2011–",
+   "hp": 175,
+   "zeroToSixty": 2.9,
+   "weightKg": 209,
+   "tier": 1
   },
   {
    "slug": "aston-martin/db11",
@@ -1125,6 +1178,42 @@
    "tier": 3
   },
   {
+   "slug": "bmw/c-400-gt",
+   "make": "BMW",
+   "model": "C 400 GT",
+   "variant": null,
+   "display": "C 400 GT",
+   "search": [
+    "c400gt",
+    "c 400 gt",
+    "bmw scooter"
+   ],
+   "shape": "motorcycle",
+   "years": "2019–",
+   "hp": 34,
+   "zeroToSixty": 7.5,
+   "weightKg": 214,
+   "tier": 3
+  },
+  {
+   "slug": "bmw/f-850-gs",
+   "make": "BMW",
+   "model": "F 850 GS",
+   "variant": null,
+   "display": "F 850 GS",
+   "search": [
+    "f850gs",
+    "f 850 gs",
+    "850 gs"
+   ],
+   "shape": "motorcycle",
+   "years": "2018–",
+   "hp": 95,
+   "zeroToSixty": 4.0,
+   "weightKg": 229,
+   "tier": 2
+  },
+  {
    "slug": "bmw/i4-m50",
    "make": "BMW",
    "model": "i4",
@@ -1207,6 +1296,42 @@
    "zeroToSixty": 4.6,
    "weightKg": 2565,
    "tier": 3
+  },
+  {
+   "slug": "bmw/k-1600-gtl",
+   "make": "BMW",
+   "model": "K 1600 GTL",
+   "variant": null,
+   "display": "K 1600 GTL",
+   "search": [
+    "k1600",
+    "k 1600",
+    "gtl"
+   ],
+   "shape": "motorcycle",
+   "years": "2011–",
+   "hp": 160,
+   "zeroToSixty": 3.6,
+   "weightKg": 362,
+   "tier": 2
+  },
+  {
+   "slug": "bmw/m-1000-rr",
+   "make": "BMW",
+   "model": "M 1000 RR",
+   "variant": null,
+   "display": "M 1000 RR",
+   "search": [
+    "m1000rr",
+    "m 1000 rr",
+    "m rr"
+   ],
+   "shape": "motorcycle",
+   "years": "2021–",
+   "hp": 212,
+   "zeroToSixty": 2.9,
+   "weightKg": 192,
+   "tier": 1
   },
   {
    "slug": "bmw/m135i",
@@ -1511,6 +1636,116 @@
    "zeroToSixty": 3.6,
    "weightKg": 1965,
    "tier": 3
+  },
+  {
+   "slug": "bmw/r-1250-gs-adventure",
+   "make": "BMW",
+   "model": "R 1250 GS",
+   "variant": "Adventure",
+   "display": "R 1250 GS Adventure",
+   "search": [
+    "r1250gs",
+    "gsa",
+    "1250 gs",
+    "gs adventure"
+   ],
+   "shape": "motorcycle",
+   "years": "2019–2023",
+   "hp": 136,
+   "zeroToSixty": 3.5,
+   "weightKg": 268,
+   "tier": 1
+  },
+  {
+   "slug": "bmw/r-1300-gs",
+   "make": "BMW",
+   "model": "R 1300 GS",
+   "variant": null,
+   "display": "R 1300 GS",
+   "search": [
+    "r1300gs",
+    "r 1300 gs",
+    "gs",
+    "1300 gs"
+   ],
+   "shape": "motorcycle",
+   "years": "2024–",
+   "hp": 145,
+   "zeroToSixty": 3.3,
+   "weightKg": 237,
+   "tier": 1
+  },
+  {
+   "slug": "bmw/r-18",
+   "make": "BMW",
+   "model": "R 18",
+   "variant": null,
+   "display": "R 18",
+   "search": [
+    "r18",
+    "r 18",
+    "big boxer"
+   ],
+   "shape": "motorcycle",
+   "years": "2020–",
+   "hp": 91,
+   "zeroToSixty": 4.5,
+   "weightKg": 345,
+   "tier": 2
+  },
+  {
+   "slug": "bmw/r-nine-t",
+   "make": "BMW",
+   "model": "R nineT",
+   "variant": null,
+   "display": "R nineT",
+   "search": [
+    "r ninet",
+    "rninet",
+    "nine t",
+    "r9t"
+   ],
+   "shape": "motorcycle",
+   "years": "2014–",
+   "hp": 109,
+   "zeroToSixty": 3.5,
+   "weightKg": 222,
+   "tier": 1
+  },
+  {
+   "slug": "bmw/s-1000-r",
+   "make": "BMW",
+   "model": "S 1000 R",
+   "variant": null,
+   "display": "S 1000 R",
+   "search": [
+    "s1000r",
+    "s 1000 r"
+   ],
+   "shape": "motorcycle",
+   "years": "2014–",
+   "hp": 165,
+   "zeroToSixty": 3.1,
+   "weightKg": 199,
+   "tier": 2
+  },
+  {
+   "slug": "bmw/s-1000-rr",
+   "make": "BMW",
+   "model": "S 1000 RR",
+   "variant": null,
+   "display": "S 1000 RR",
+   "search": [
+    "s1000rr",
+    "s 1000 rr",
+    "double r"
+   ],
+   "shape": "motorcycle",
+   "years": "2009–",
+   "hp": 205,
+   "zeroToSixty": 2.9,
+   "weightKg": 197,
+   "tier": 1
   },
   {
    "slug": "bmw/x3-m",
@@ -3072,6 +3307,132 @@
    "tier": 2
   },
   {
+   "slug": "ducati/diavel-v4",
+   "make": "Ducati",
+   "model": "Diavel V4",
+   "variant": null,
+   "display": "Diavel V4",
+   "search": [
+    "diavel",
+    "diavel v4"
+   ],
+   "shape": "motorcycle",
+   "years": "2011–",
+   "hp": 168,
+   "zeroToSixty": 2.9,
+   "weightKg": 236,
+   "tier": 1
+  },
+  {
+   "slug": "ducati/monster",
+   "make": "Ducati",
+   "model": "Monster",
+   "variant": null,
+   "display": "Monster",
+   "search": [
+    "monster",
+    "monster 937",
+    "m937"
+   ],
+   "shape": "motorcycle",
+   "years": "1993–",
+   "hp": 111,
+   "zeroToSixty": 3.4,
+   "weightKg": 188,
+   "tier": 1
+  },
+  {
+   "slug": "ducati/multistrada-v4-s",
+   "make": "Ducati",
+   "model": "Multistrada V4",
+   "variant": "S",
+   "display": "Multistrada V4 S",
+   "search": [
+    "multistrada",
+    "multi",
+    "multistrada v4"
+   ],
+   "shape": "motorcycle",
+   "years": "2021–",
+   "hp": 170,
+   "zeroToSixty": 3.2,
+   "weightKg": 240,
+   "tier": 1
+  },
+  {
+   "slug": "ducati/panigale-v2",
+   "make": "Ducati",
+   "model": "Panigale V2",
+   "variant": null,
+   "display": "Panigale V2",
+   "search": [
+    "panigale v2",
+    "v2",
+    "959",
+    "899"
+   ],
+   "shape": "motorcycle",
+   "years": "2020–",
+   "hp": 155,
+   "zeroToSixty": 3.1,
+   "weightKg": 200,
+   "tier": 1
+  },
+  {
+   "slug": "ducati/panigale-v4-s",
+   "make": "Ducati",
+   "model": "Panigale V4",
+   "variant": "S",
+   "display": "Panigale V4 S",
+   "search": [
+    "panigale",
+    "panigale v4",
+    "v4s",
+    "panigale v4 s"
+   ],
+   "shape": "motorcycle",
+   "years": "2018–",
+   "hp": 214,
+   "zeroToSixty": 2.8,
+   "weightKg": 195,
+   "tier": 1
+  },
+  {
+   "slug": "ducati/streetfighter-v4-s",
+   "make": "Ducati",
+   "model": "Streetfighter V4",
+   "variant": "S",
+   "display": "Streetfighter V4 S",
+   "search": [
+    "streetfighter",
+    "streetfighter v4",
+    "sfv4"
+   ],
+   "shape": "motorcycle",
+   "years": "2020–",
+   "hp": 208,
+   "zeroToSixty": 2.9,
+   "weightKg": 199,
+   "tier": 1
+  },
+  {
+   "slug": "ducati/superleggera-v4",
+   "make": "Ducati",
+   "model": "Superleggera V4",
+   "variant": null,
+   "display": "Superleggera V4",
+   "search": [
+    "superleggera",
+    "superleggera v4"
+   ],
+   "shape": "motorcycle",
+   "years": "2020–",
+   "hp": 224,
+   "zeroToSixty": 2.6,
+   "weightKg": 159,
+   "tier": 1
+  },
+  {
    "slug": "ferrari/296",
    "make": "Ferrari",
    "model": "296",
@@ -4402,6 +4763,307 @@
    "tier": 2
   },
   {
+   "slug": "harley-davidson/breakout",
+   "make": "Harley-Davidson",
+   "model": "Breakout",
+   "variant": null,
+   "display": "Breakout",
+   "search": [
+    "breakout",
+    "fxbr"
+   ],
+   "shape": "motorcycle",
+   "years": "2013–",
+   "hp": 101,
+   "zeroToSixty": 4.3,
+   "weightKg": 305,
+   "tier": 2
+  },
+  {
+   "slug": "harley-davidson/cvo-road-glide",
+   "make": "Harley-Davidson",
+   "model": "CVO Road Glide",
+   "variant": null,
+   "display": "CVO Road Glide",
+   "search": [
+    "cvo",
+    "cvo road glide",
+    "screamin eagle"
+   ],
+   "shape": "motorcycle",
+   "years": "2011–",
+   "hp": 127,
+   "zeroToSixty": 4.3,
+   "weightKg": 383,
+   "tier": 1
+  },
+  {
+   "slug": "harley-davidson/electra-glide",
+   "make": "Harley-Davidson",
+   "model": "Electra Glide",
+   "variant": null,
+   "display": "Electra Glide",
+   "search": [
+    "electra glide",
+    "flht",
+    "ultra"
+   ],
+   "shape": "motorcycle",
+   "years": "1965–",
+   "hp": 93,
+   "zeroToSixty": 5.1,
+   "weightKg": 383,
+   "tier": 3
+  },
+  {
+   "slug": "harley-davidson/fat-bob",
+   "make": "Harley-Davidson",
+   "model": "Fat Bob",
+   "variant": null,
+   "display": "Fat Bob",
+   "search": [
+    "fat bob",
+    "fxfbs"
+   ],
+   "shape": "motorcycle",
+   "years": "2008–",
+   "hp": 93,
+   "zeroToSixty": 4.4,
+   "weightKg": 295,
+   "tier": 2
+  },
+  {
+   "slug": "harley-davidson/fat-boy",
+   "make": "Harley-Davidson",
+   "model": "Fat Boy",
+   "variant": null,
+   "display": "Fat Boy",
+   "search": [
+    "fat boy",
+    "fatboy",
+    "flfbs"
+   ],
+   "shape": "motorcycle",
+   "years": "1990–",
+   "hp": 93,
+   "zeroToSixty": 4.7,
+   "weightKg": 317,
+   "tier": 1
+  },
+  {
+   "slug": "harley-davidson/forty-eight",
+   "make": "Harley-Davidson",
+   "model": "Forty-Eight",
+   "variant": null,
+   "display": "Forty-Eight",
+   "search": [
+    "forty eight",
+    "48",
+    "xl1200x"
+   ],
+   "shape": "motorcycle",
+   "years": "2010–2022",
+   "hp": 60,
+   "zeroToSixty": 4.9,
+   "weightKg": 252,
+   "tier": 2
+  },
+  {
+   "slug": "harley-davidson/heritage-classic",
+   "make": "Harley-Davidson",
+   "model": "Heritage Classic",
+   "variant": null,
+   "display": "Heritage Classic",
+   "search": [
+    "heritage",
+    "heritage classic",
+    "flhcs"
+   ],
+   "shape": "motorcycle",
+   "years": "1986–",
+   "hp": 93,
+   "zeroToSixty": 4.9,
+   "weightKg": 331,
+   "tier": 3
+  },
+  {
+   "slug": "harley-davidson/iron-883",
+   "make": "Harley-Davidson",
+   "model": "Iron 883",
+   "variant": null,
+   "display": "Iron 883",
+   "search": [
+    "iron 883",
+    "883",
+    "xl883n"
+   ],
+   "shape": "motorcycle",
+   "years": "2009–2022",
+   "hp": 50,
+   "zeroToSixty": 5.4,
+   "weightKg": 256,
+   "tier": 2
+  },
+  {
+   "slug": "harley-davidson/low-rider-s",
+   "make": "Harley-Davidson",
+   "model": "Low Rider S",
+   "variant": null,
+   "display": "Low Rider S",
+   "search": [
+    "low rider",
+    "low rider s",
+    "fxlrs"
+   ],
+   "shape": "motorcycle",
+   "years": "2016–",
+   "hp": 103,
+   "zeroToSixty": 4.2,
+   "weightKg": 306,
+   "tier": 1
+  },
+  {
+   "slug": "harley-davidson/nightster",
+   "make": "Harley-Davidson",
+   "model": "Nightster",
+   "variant": null,
+   "display": "Nightster",
+   "search": [
+    "nightster",
+    "rh975"
+   ],
+   "shape": "motorcycle",
+   "years": "2022–",
+   "hp": 90,
+   "zeroToSixty": 4.3,
+   "weightKg": 221,
+   "tier": 2
+  },
+  {
+   "slug": "harley-davidson/pan-america-1250-special",
+   "make": "Harley-Davidson",
+   "model": "Pan America 1250",
+   "variant": "Special",
+   "display": "Pan America 1250 Special",
+   "search": [
+    "pan america",
+    "pan am",
+    "ra1250s"
+   ],
+   "shape": "motorcycle",
+   "years": "2021–",
+   "hp": 150,
+   "zeroToSixty": 3.5,
+   "weightKg": 258,
+   "tier": 1
+  },
+  {
+   "slug": "harley-davidson/road-glide",
+   "make": "Harley-Davidson",
+   "model": "Road Glide",
+   "variant": null,
+   "display": "Road Glide",
+   "search": [
+    "road glide",
+    "fltrx",
+    "shark nose"
+   ],
+   "shape": "motorcycle",
+   "years": "1998–",
+   "hp": 105,
+   "zeroToSixty": 4.7,
+   "weightKg": 375,
+   "tier": 1
+  },
+  {
+   "slug": "harley-davidson/road-king",
+   "make": "Harley-Davidson",
+   "model": "Road King",
+   "variant": null,
+   "display": "Road King",
+   "search": [
+    "road king",
+    "flhr"
+   ],
+   "shape": "motorcycle",
+   "years": "1994–",
+   "hp": 93,
+   "zeroToSixty": 5.0,
+   "weightKg": 376,
+   "tier": 2
+  },
+  {
+   "slug": "harley-davidson/softail-standard",
+   "make": "Harley-Davidson",
+   "model": "Softail Standard",
+   "variant": null,
+   "display": "Softail Standard",
+   "search": [
+    "softail",
+    "softail standard",
+    "fxst"
+   ],
+   "shape": "motorcycle",
+   "years": "2020–",
+   "hp": 93,
+   "zeroToSixty": 4.6,
+   "weightKg": 291,
+   "tier": 3
+  },
+  {
+   "slug": "harley-davidson/sportster-s",
+   "make": "Harley-Davidson",
+   "model": "Sportster S",
+   "variant": null,
+   "display": "Sportster S",
+   "search": [
+    "sportster s",
+    "sportster",
+    "rh1250s"
+   ],
+   "shape": "motorcycle",
+   "years": "2021–",
+   "hp": 121,
+   "zeroToSixty": 3.4,
+   "weightKg": 228,
+   "tier": 1
+  },
+  {
+   "slug": "harley-davidson/street-bob",
+   "make": "Harley-Davidson",
+   "model": "Street Bob",
+   "variant": null,
+   "display": "Street Bob",
+   "search": [
+    "street bob",
+    "fxbb"
+   ],
+   "shape": "motorcycle",
+   "years": "2006–",
+   "hp": 93,
+   "zeroToSixty": 4.5,
+   "weightKg": 294,
+   "tier": 2
+  },
+  {
+   "slug": "harley-davidson/street-glide",
+   "make": "Harley-Davidson",
+   "model": "Street Glide",
+   "variant": null,
+   "display": "Street Glide",
+   "search": [
+    "street glide",
+    "flhx",
+    "batwing"
+   ],
+   "shape": "motorcycle",
+   "years": "2006–",
+   "hp": 105,
+   "zeroToSixty": 4.7,
+   "weightKg": 371,
+   "tier": 1
+  },
+  {
    "slug": "hennessey/venom-f5",
    "make": "Hennessey",
    "model": "Venom F5",
@@ -4433,6 +5095,150 @@
    "zeroToSixty": 7.2,
    "weightKg": 1500,
    "tier": 2
+  },
+  {
+   "slug": "honda/adv160",
+   "make": "Honda",
+   "model": "ADV160",
+   "variant": null,
+   "display": "ADV160",
+   "search": [
+    "adv160",
+    "adv 150",
+    "adv scooter"
+   ],
+   "shape": "motorcycle",
+   "years": "2022–",
+   "hp": 15.8,
+   "zeroToSixty": null,
+   "weightKg": 134,
+   "tier": 3
+  },
+  {
+   "slug": "honda/africa-twin",
+   "make": "Honda",
+   "model": "Africa Twin",
+   "variant": null,
+   "display": "Africa Twin",
+   "search": [
+    "africa twin",
+    "crf1100l",
+    "crf1000l"
+   ],
+   "shape": "motorcycle",
+   "years": "1988–",
+   "hp": 101,
+   "zeroToSixty": 4.0,
+   "weightKg": 226,
+   "tier": 1
+  },
+  {
+   "slug": "honda/cb1000r",
+   "make": "Honda",
+   "model": "CB1000R",
+   "variant": null,
+   "display": "CB1000R",
+   "search": [
+    "cb1000r",
+    "cb 1000",
+    "neo sports cafe"
+   ],
+   "shape": "motorcycle",
+   "years": "2008–",
+   "hp": 143,
+   "zeroToSixty": 3.2,
+   "weightKg": 212,
+   "tier": 2
+  },
+  {
+   "slug": "honda/cb500f",
+   "make": "Honda",
+   "model": "CB500F",
+   "variant": null,
+   "display": "CB500F",
+   "search": [
+    "cb500f",
+    "cb 500"
+   ],
+   "shape": "motorcycle",
+   "years": "2013–",
+   "hp": 47,
+   "zeroToSixty": 5.0,
+   "weightKg": 189,
+   "tier": 3
+  },
+  {
+   "slug": "honda/cb650r",
+   "make": "Honda",
+   "model": "CB650R",
+   "variant": null,
+   "display": "CB650R",
+   "search": [
+    "cb650r",
+    "cb 650"
+   ],
+   "shape": "motorcycle",
+   "years": "2019–",
+   "hp": 94,
+   "zeroToSixty": 3.7,
+   "weightKg": 202,
+   "tier": 2
+  },
+  {
+   "slug": "honda/cbr1000rr-r",
+   "make": "Honda",
+   "model": "CBR1000RR-R",
+   "variant": "Fireblade SP",
+   "display": "CBR1000RR-R Fireblade SP",
+   "search": [
+    "cbr1000rr-r",
+    "fireblade",
+    "cbr1000",
+    "1000rr",
+    "blade"
+   ],
+   "shape": "motorcycle",
+   "years": "2020–",
+   "hp": 214,
+   "zeroToSixty": 2.9,
+   "weightKg": 201,
+   "tier": 1
+  },
+  {
+   "slug": "honda/cbr500r",
+   "make": "Honda",
+   "model": "CBR500R",
+   "variant": null,
+   "display": "CBR500R",
+   "search": [
+    "cbr500r",
+    "cbr 500"
+   ],
+   "shape": "motorcycle",
+   "years": "2013–",
+   "hp": 47,
+   "zeroToSixty": 5.0,
+   "weightKg": 192,
+   "tier": 3
+  },
+  {
+   "slug": "honda/cbr600rr",
+   "make": "Honda",
+   "model": "CBR600RR",
+   "variant": null,
+   "display": "CBR600RR",
+   "search": [
+    "cbr600rr",
+    "cbr 600",
+    "600rr",
+    "cbr600"
+   ],
+   "shape": "motorcycle",
+   "years": "2003–",
+   "hp": 118,
+   "zeroToSixty": 3.3,
+   "weightKg": 194,
+   "tier": 1
   },
   {
    "slug": "honda/civic",
@@ -4524,6 +5330,24 @@
    "tier": 3
   },
   {
+   "slug": "honda/crf300l",
+   "make": "Honda",
+   "model": "CRF300L",
+   "variant": null,
+   "display": "CRF300L",
+   "search": [
+    "crf300l",
+    "crf 300",
+    "crf250l"
+   ],
+   "shape": "motorcycle",
+   "years": "2021–",
+   "hp": 27,
+   "zeroToSixty": 8.0,
+   "weightKg": 142,
+   "tier": 3
+  },
+  {
    "slug": "honda/crx",
    "make": "Honda",
    "model": "CRX",
@@ -4595,6 +5419,60 @@
    "tier": 3
   },
   {
+   "slug": "honda/forza-750",
+   "make": "Honda",
+   "model": "Forza 750",
+   "variant": null,
+   "display": "Forza 750",
+   "search": [
+    "forza",
+    "forza 750",
+    "nc750d"
+   ],
+   "shape": "motorcycle",
+   "years": "2021–",
+   "hp": 58,
+   "zeroToSixty": 5.5,
+   "weightKg": 235,
+   "tier": 2
+  },
+  {
+   "slug": "honda/gold-wing",
+   "make": "Honda",
+   "model": "Gold Wing",
+   "variant": null,
+   "display": "Gold Wing",
+   "search": [
+    "gold wing",
+    "goldwing",
+    "gl1800"
+   ],
+   "shape": "motorcycle",
+   "years": "1975–",
+   "hp": 125,
+   "zeroToSixty": 4.0,
+   "weightKg": 379,
+   "tier": 1
+  },
+  {
+   "slug": "honda/grom",
+   "make": "Honda",
+   "model": "Grom",
+   "variant": null,
+   "display": "Grom",
+   "search": [
+    "grom",
+    "msx125",
+    "monkey bike"
+   ],
+   "shape": "motorcycle",
+   "years": "2013–",
+   "hp": 9.7,
+   "zeroToSixty": null,
+   "weightKg": 102,
+   "tier": 2
+  },
+  {
    "slug": "honda/hr-v",
    "make": "Honda",
    "model": "HR-V",
@@ -4646,6 +5524,24 @@
    "tier": 3
   },
   {
+   "slug": "honda/pcx160",
+   "make": "Honda",
+   "model": "PCX160",
+   "variant": null,
+   "display": "PCX160",
+   "search": [
+    "pcx",
+    "pcx160",
+    "pcx 150"
+   ],
+   "shape": "motorcycle",
+   "years": "2010–",
+   "hp": 15.8,
+   "zeroToSixty": null,
+   "weightKg": 132,
+   "tier": 2
+  },
+  {
    "slug": "honda/pilot",
    "make": "Honda",
    "model": "Pilot",
@@ -4681,6 +5577,59 @@
    "tier": 2
   },
   {
+   "slug": "honda/rc213v-s",
+   "make": "Honda",
+   "model": "RC213V-S",
+   "variant": null,
+   "display": "RC213V-S",
+   "search": [
+    "rc213v",
+    "rc213v-s",
+    "motogp replica"
+   ],
+   "shape": "motorcycle",
+   "years": "2015–2017",
+   "hp": 215,
+   "zeroToSixty": 2.9,
+   "weightKg": 160,
+   "tier": 1
+  },
+  {
+   "slug": "honda/rebel-1100",
+   "make": "Honda",
+   "model": "Rebel 1100",
+   "variant": null,
+   "display": "Rebel 1100",
+   "search": [
+    "rebel 1100",
+    "cmx1100"
+   ],
+   "shape": "motorcycle",
+   "years": "2021–",
+   "hp": 87,
+   "zeroToSixty": 4.0,
+   "weightKg": 223,
+   "tier": 2
+  },
+  {
+   "slug": "honda/rebel-500",
+   "make": "Honda",
+   "model": "Rebel 500",
+   "variant": null,
+   "display": "Rebel 500",
+   "search": [
+    "rebel",
+    "rebel 500",
+    "cmx500"
+   ],
+   "shape": "motorcycle",
+   "years": "2017–",
+   "hp": 46,
+   "zeroToSixty": 5.3,
+   "weightKg": 191,
+   "tier": 2
+  },
+  {
    "slug": "honda/ridgeline",
    "make": "Honda",
    "model": "Ridgeline",
@@ -4712,6 +5661,23 @@
    "zeroToSixty": 5.8,
    "weightKg": 1275,
    "tier": 2
+  },
+  {
+   "slug": "honda/xr650l",
+   "make": "Honda",
+   "model": "XR650L",
+   "variant": null,
+   "display": "XR650L",
+   "search": [
+    "xr650l",
+    "xr 650"
+   ],
+   "shape": "motorcycle",
+   "years": "1993–",
+   "hp": 40,
+   "zeroToSixty": 6.3,
+   "weightKg": 147,
+   "tier": 3
   },
   {
    "slug": "hummer/h1",
@@ -4763,6 +5729,24 @@
    "zeroToSixty": null,
    "weightKg": null,
    "tier": 3
+  },
+  {
+   "slug": "husqvarna/701-supermoto",
+   "make": "Husqvarna",
+   "model": "701 Supermoto",
+   "variant": null,
+   "display": "701 Supermoto",
+   "search": [
+    "701",
+    "701 supermoto",
+    "husky 701"
+   ],
+   "shape": "motorcycle",
+   "years": "2016–",
+   "hp": 74,
+   "zeroToSixty": 3.7,
+   "weightKg": 145,
+   "tier": 2
   },
   {
    "slug": "hyundai/elantra-n",
@@ -5018,6 +6002,111 @@
    "zeroToSixty": 5.6,
    "weightKg": 1395,
    "tier": 2
+  },
+  {
+   "slug": "indian/challenger",
+   "make": "Indian",
+   "model": "Challenger",
+   "variant": null,
+   "display": "Challenger",
+   "search": [
+    "challenger",
+    "indian challenger",
+    "powerplus"
+   ],
+   "shape": "motorcycle",
+   "years": "2020–",
+   "hp": 122,
+   "zeroToSixty": 4.2,
+   "weightKg": 372,
+   "tier": 2
+  },
+  {
+   "slug": "indian/chief-dark-horse",
+   "make": "Indian",
+   "model": "Chief Dark Horse",
+   "variant": null,
+   "display": "Chief Dark Horse",
+   "search": [
+    "chief",
+    "chief dark horse",
+    "dark horse"
+   ],
+   "shape": "motorcycle",
+   "years": "2022–",
+   "hp": 108,
+   "zeroToSixty": 4.4,
+   "weightKg": 304,
+   "tier": 2
+  },
+  {
+   "slug": "indian/chieftain",
+   "make": "Indian",
+   "model": "Chieftain",
+   "variant": null,
+   "display": "Chieftain",
+   "search": [
+    "chieftain",
+    "indian chieftain"
+   ],
+   "shape": "motorcycle",
+   "years": "2014–",
+   "hp": 92,
+   "zeroToSixty": 4.9,
+   "weightKg": 379,
+   "tier": 3
+  },
+  {
+   "slug": "indian/ftr-1200",
+   "make": "Indian",
+   "model": "FTR 1200",
+   "variant": null,
+   "display": "FTR 1200",
+   "search": [
+    "ftr",
+    "ftr 1200",
+    "ftr1200"
+   ],
+   "shape": "motorcycle",
+   "years": "2019–",
+   "hp": 120,
+   "zeroToSixty": 3.6,
+   "weightKg": 232,
+   "tier": 1
+  },
+  {
+   "slug": "indian/scout-bobber",
+   "make": "Indian",
+   "model": "Scout Bobber",
+   "variant": null,
+   "display": "Scout Bobber",
+   "search": [
+    "scout",
+    "scout bobber"
+   ],
+   "shape": "motorcycle",
+   "years": "2018–",
+   "hp": 100,
+   "zeroToSixty": 4.3,
+   "weightKg": 253,
+   "tier": 2
+  },
+  {
+   "slug": "indian/springfield",
+   "make": "Indian",
+   "model": "Springfield",
+   "variant": null,
+   "display": "Springfield",
+   "search": [
+    "springfield",
+    "indian springfield"
+   ],
+   "shape": "motorcycle",
+   "years": "2016–",
+   "hp": 92,
+   "zeroToSixty": 5.0,
+   "weightKg": 381,
+   "tier": 3
   },
   {
    "slug": "infiniti/g35",
@@ -5421,6 +6510,256 @@
    "tier": 2
   },
   {
+   "slug": "kawasaki/klr650",
+   "make": "Kawasaki",
+   "model": "KLR650",
+   "variant": null,
+   "display": "KLR650",
+   "search": [
+    "klr",
+    "klr650",
+    "klr 650"
+   ],
+   "shape": "motorcycle",
+   "years": "1987–",
+   "hp": 40,
+   "zeroToSixty": 6.5,
+   "weightKg": 210,
+   "tier": 2
+  },
+  {
+   "slug": "kawasaki/ninja-400",
+   "make": "Kawasaki",
+   "model": "Ninja 400",
+   "variant": null,
+   "display": "Ninja 400",
+   "search": [
+    "ninja 400",
+    "ninja400",
+    "ex400"
+   ],
+   "shape": "motorcycle",
+   "years": "2018–",
+   "hp": 45,
+   "zeroToSixty": 5.2,
+   "weightKg": 168,
+   "tier": 2
+  },
+  {
+   "slug": "kawasaki/ninja-650",
+   "make": "Kawasaki",
+   "model": "Ninja 650",
+   "variant": null,
+   "display": "Ninja 650",
+   "search": [
+    "ninja 650",
+    "ninja650",
+    "er-6f"
+   ],
+   "shape": "motorcycle",
+   "years": "2006–",
+   "hp": 67,
+   "zeroToSixty": 4.2,
+   "weightKg": 196,
+   "tier": 3
+  },
+  {
+   "slug": "kawasaki/ninja-h2",
+   "make": "Kawasaki",
+   "model": "Ninja H2",
+   "variant": null,
+   "display": "Ninja H2",
+   "search": [
+    "h2",
+    "ninja h2",
+    "supercharged kawasaki"
+   ],
+   "shape": "motorcycle",
+   "years": "2015–",
+   "hp": 197,
+   "zeroToSixty": 2.6,
+   "weightKg": 238,
+   "tier": 1
+  },
+  {
+   "slug": "kawasaki/ninja-h2r",
+   "make": "Kawasaki",
+   "model": "Ninja H2R",
+   "variant": null,
+   "display": "Ninja H2R",
+   "search": [
+    "h2r",
+    "ninja h2r"
+   ],
+   "shape": "motorcycle",
+   "years": "2015–",
+   "hp": 306,
+   "zeroToSixty": 2.5,
+   "weightKg": 216,
+   "tier": 1
+  },
+  {
+   "slug": "kawasaki/ninja-zx-10r",
+   "make": "Kawasaki",
+   "model": "Ninja ZX-10R",
+   "variant": null,
+   "display": "Ninja ZX-10R",
+   "search": [
+    "zx10r",
+    "zx-10r",
+    "ninja zx10"
+   ],
+   "shape": "motorcycle",
+   "years": "2004–",
+   "hp": 200,
+   "zeroToSixty": 2.9,
+   "weightKg": 207,
+   "tier": 1
+  },
+  {
+   "slug": "kawasaki/ninja-zx-14r",
+   "make": "Kawasaki",
+   "model": "Ninja ZX-14R",
+   "variant": null,
+   "display": "Ninja ZX-14R",
+   "search": [
+    "zx14r",
+    "zx-14r",
+    "zx14",
+    "concours killer"
+   ],
+   "shape": "motorcycle",
+   "years": "2006–2020",
+   "hp": 208,
+   "zeroToSixty": 2.7,
+   "weightKg": 269,
+   "tier": 1
+  },
+  {
+   "slug": "kawasaki/ninja-zx-6r",
+   "make": "Kawasaki",
+   "model": "Ninja ZX-6R",
+   "variant": null,
+   "display": "Ninja ZX-6R",
+   "search": [
+    "zx6r",
+    "zx-6r",
+    "ninja 636",
+    "636"
+   ],
+   "shape": "motorcycle",
+   "years": "1995–",
+   "hp": 127,
+   "zeroToSixty": 3.3,
+   "weightKg": 196,
+   "tier": 1
+  },
+  {
+   "slug": "kawasaki/versys-1000",
+   "make": "Kawasaki",
+   "model": "Versys 1000",
+   "variant": null,
+   "display": "Versys 1000",
+   "search": [
+    "versys",
+    "versys 1000"
+   ],
+   "shape": "motorcycle",
+   "years": "2012–",
+   "hp": 118,
+   "zeroToSixty": 3.5,
+   "weightKg": 257,
+   "tier": 3
+  },
+  {
+   "slug": "kawasaki/vulcan-s",
+   "make": "Kawasaki",
+   "model": "Vulcan S",
+   "variant": null,
+   "display": "Vulcan S",
+   "search": [
+    "vulcan",
+    "vulcan s",
+    "vulcan 650"
+   ],
+   "shape": "motorcycle",
+   "years": "2015–",
+   "hp": 61,
+   "zeroToSixty": 4.9,
+   "weightKg": 229,
+   "tier": 3
+  },
+  {
+   "slug": "kawasaki/z-h2",
+   "make": "Kawasaki",
+   "model": "Z H2",
+   "variant": null,
+   "display": "Z H2",
+   "search": [
+    "zh2",
+    "z h2",
+    "supercharged naked"
+   ],
+   "shape": "motorcycle",
+   "years": "2020–",
+   "hp": 197,
+   "zeroToSixty": 2.9,
+   "weightKg": 239,
+   "tier": 1
+  },
+  {
+   "slug": "kawasaki/z650",
+   "make": "Kawasaki",
+   "model": "Z650",
+   "variant": null,
+   "display": "Z650",
+   "search": [
+    "z650",
+    "z 650"
+   ],
+   "shape": "motorcycle",
+   "years": "2017–",
+   "hp": 67,
+   "zeroToSixty": 4.2,
+   "weightKg": 187,
+   "tier": 3
+  },
+  {
+   "slug": "kawasaki/z900",
+   "make": "Kawasaki",
+   "model": "Z900",
+   "variant": null,
+   "display": "Z900",
+   "search": [
+    "z900",
+    "z 900"
+   ],
+   "shape": "motorcycle",
+   "years": "2017–",
+   "hp": 125,
+   "zeroToSixty": 3.3,
+   "weightKg": 212,
+   "tier": 2
+  },
+  {
+   "slug": "kawasaki/z900rs",
+   "make": "Kawasaki",
+   "model": "Z900RS",
+   "variant": null,
+   "display": "Z900RS",
+   "search": [
+    "z900rs",
+    "z900 rs",
+    "zed"
+   ],
+   "shape": "motorcycle",
+   "years": "2018–",
+   "hp": 111,
+   "zeroToSixty": 3.5,
+   "weightKg": 215,
+   "tier": 1
+  },
+  {
    "slug": "kia/carnival",
    "make": "Kia",
    "model": "Carnival",
@@ -5670,6 +7009,165 @@
    "zeroToSixty": 2.8,
    "weightKg": 1590,
    "tier": 1
+  },
+  {
+   "slug": "ktm/1290-super-adventure-r",
+   "make": "KTM",
+   "model": "1290 Super Adventure R",
+   "variant": null,
+   "display": "1290 Super Adventure R",
+   "search": [
+    "super adventure",
+    "1290 adventure",
+    "super adv"
+   ],
+   "shape": "motorcycle",
+   "years": "2015–",
+   "hp": 160,
+   "zeroToSixty": 3.2,
+   "weightKg": 221,
+   "tier": 1
+  },
+  {
+   "slug": "ktm/1290-super-duke-r",
+   "make": "KTM",
+   "model": "1290 Super Duke R",
+   "variant": null,
+   "display": "1290 Super Duke R",
+   "search": [
+    "super duke",
+    "1290 super duke",
+    "the beast"
+   ],
+   "shape": "motorcycle",
+   "years": "2014–",
+   "hp": 180,
+   "zeroToSixty": 2.7,
+   "weightKg": 200,
+   "tier": 1
+  },
+  {
+   "slug": "ktm/390-duke",
+   "make": "KTM",
+   "model": "390 Duke",
+   "variant": null,
+   "display": "390 Duke",
+   "search": [
+    "390 duke",
+    "duke 390"
+   ],
+   "shape": "motorcycle",
+   "years": "2013–",
+   "hp": 44,
+   "zeroToSixty": 5.2,
+   "weightKg": 159,
+   "tier": 2
+  },
+  {
+   "slug": "ktm/500-exc-f",
+   "make": "KTM",
+   "model": "500 EXC-F",
+   "variant": null,
+   "display": "500 EXC-F",
+   "search": [
+    "500 exc",
+    "exc-f",
+    "500 excf"
+   ],
+   "shape": "motorcycle",
+   "years": "2012–",
+   "hp": 63,
+   "zeroToSixty": 4.0,
+   "weightKg": 113,
+   "tier": 2
+  },
+  {
+   "slug": "ktm/690-smc-r",
+   "make": "KTM",
+   "model": "690 SMC R",
+   "variant": null,
+   "display": "690 SMC R",
+   "search": [
+    "690 smc",
+    "smc r",
+    "690 supermoto"
+   ],
+   "shape": "motorcycle",
+   "years": "2019–",
+   "hp": 74,
+   "zeroToSixty": 3.7,
+   "weightKg": 147,
+   "tier": 1
+  },
+  {
+   "slug": "ktm/790-duke",
+   "make": "KTM",
+   "model": "790 Duke",
+   "variant": null,
+   "display": "790 Duke",
+   "search": [
+    "790 duke",
+    "duke 790",
+    "scalpel"
+   ],
+   "shape": "motorcycle",
+   "years": "2018–",
+   "hp": 105,
+   "zeroToSixty": 3.4,
+   "weightKg": 189,
+   "tier": 2
+  },
+  {
+   "slug": "ktm/890-adventure-r",
+   "make": "KTM",
+   "model": "890 Adventure R",
+   "variant": null,
+   "display": "890 Adventure R",
+   "search": [
+    "890 adventure",
+    "890 adv"
+   ],
+   "shape": "motorcycle",
+   "years": "2021–",
+   "hp": 105,
+   "zeroToSixty": 3.7,
+   "weightKg": 196,
+   "tier": 2
+  },
+  {
+   "slug": "ktm/890-duke-r",
+   "make": "KTM",
+   "model": "890 Duke R",
+   "variant": null,
+   "display": "890 Duke R",
+   "search": [
+    "890 duke",
+    "duke 890",
+    "890 duke r"
+   ],
+   "shape": "motorcycle",
+   "years": "2020–",
+   "hp": 121,
+   "zeroToSixty": 3.2,
+   "weightKg": 186,
+   "tier": 1
+  },
+  {
+   "slug": "ktm/rc-390",
+   "make": "KTM",
+   "model": "RC 390",
+   "variant": null,
+   "display": "RC 390",
+   "search": [
+    "rc390",
+    "rc 390"
+   ],
+   "shape": "motorcycle",
+   "years": "2014–",
+   "hp": 44,
+   "zeroToSixty": 5.2,
+   "weightKg": 155,
+   "tier": 2
   },
   {
    "slug": "lamborghini/aventador",
@@ -7891,6 +9389,78 @@
    "tier": 2
   },
   {
+   "slug": "moto-guzzi/v7-stone",
+   "make": "Moto Guzzi",
+   "model": "V7",
+   "variant": "Stone",
+   "display": "V7 Stone",
+   "search": [
+    "v7",
+    "v7 stone",
+    "guzzi v7"
+   ],
+   "shape": "motorcycle",
+   "years": "2008–",
+   "hp": 65,
+   "zeroToSixty": 5.0,
+   "weightKg": 218,
+   "tier": 3
+  },
+  {
+   "slug": "moto-guzzi/v85-tt",
+   "make": "Moto Guzzi",
+   "model": "V85 TT",
+   "variant": null,
+   "display": "V85 TT",
+   "search": [
+    "v85",
+    "v85 tt",
+    "guzzi v85"
+   ],
+   "shape": "motorcycle",
+   "years": "2019–",
+   "hp": 80,
+   "zeroToSixty": 4.4,
+   "weightKg": 229,
+   "tier": 3
+  },
+  {
+   "slug": "mv-agusta/brutale-1000-rr",
+   "make": "MV Agusta",
+   "model": "Brutale 1000",
+   "variant": "RR",
+   "display": "Brutale 1000 RR",
+   "search": [
+    "brutale",
+    "brutale 1000",
+    "mv brutale"
+   ],
+   "shape": "motorcycle",
+   "years": "2020–",
+   "hp": 208,
+   "zeroToSixty": 2.9,
+   "weightKg": 186,
+   "tier": 1
+  },
+  {
+   "slug": "mv-agusta/f3-800-rr",
+   "make": "MV Agusta",
+   "model": "F3 800",
+   "variant": "RR",
+   "display": "F3 800 RR",
+   "search": [
+    "f3",
+    "f3 800",
+    "mv f3"
+   ],
+   "shape": "motorcycle",
+   "years": "2012–",
+   "hp": 147,
+   "zeroToSixty": 3.1,
+   "weightKg": 173,
+   "tier": 1
+  },
+  {
    "slug": "nissan/240sx",
    "make": "Nissan",
    "model": "240SX",
@@ -8415,6 +9985,24 @@
    "zeroToSixty": 3.4,
    "weightKg": 1230,
    "tier": 1
+  },
+  {
+   "slug": "piaggio/beverly-400",
+   "make": "Piaggio",
+   "model": "Beverly 400",
+   "variant": null,
+   "display": "Beverly 400",
+   "search": [
+    "beverly",
+    "beverly 400",
+    "piaggio beverly"
+   ],
+   "shape": "motorcycle",
+   "years": "2021–",
+   "hp": 35,
+   "zeroToSixty": 7.0,
+   "weightKg": 190,
+   "tier": 3
   },
   {
    "slug": "pininfarina/battista",
@@ -9330,6 +10918,60 @@
    "tier": 2
   },
   {
+   "slug": "royal-enfield/continental-gt-650",
+   "make": "Royal Enfield",
+   "model": "Continental GT 650",
+   "variant": null,
+   "display": "Continental GT 650",
+   "search": [
+    "continental gt",
+    "conti gt",
+    "gt 650"
+   ],
+   "shape": "motorcycle",
+   "years": "2018–",
+   "hp": 47,
+   "zeroToSixty": 5.4,
+   "weightKg": 198,
+   "tier": 3
+  },
+  {
+   "slug": "royal-enfield/himalayan",
+   "make": "Royal Enfield",
+   "model": "Himalayan",
+   "variant": null,
+   "display": "Himalayan",
+   "search": [
+    "himalayan",
+    "he450",
+    "re himalayan"
+   ],
+   "shape": "motorcycle",
+   "years": "2016–",
+   "hp": 40,
+   "zeroToSixty": 7.0,
+   "weightKg": 196,
+   "tier": 2
+  },
+  {
+   "slug": "royal-enfield/interceptor-650",
+   "make": "Royal Enfield",
+   "model": "Interceptor 650",
+   "variant": null,
+   "display": "Interceptor 650",
+   "search": [
+    "interceptor",
+    "interceptor 650",
+    "int 650"
+   ],
+   "shape": "motorcycle",
+   "years": "2018–",
+   "hp": 47,
+   "zeroToSixty": 5.3,
+   "weightKg": 213,
+   "tier": 2
+  },
+  {
    "slug": "saleen/s7",
    "make": "Saleen",
    "model": "S7",
@@ -9571,6 +11213,117 @@
    "tier": 1
   },
   {
+   "slug": "suzuki/dr-z400sm",
+   "make": "Suzuki",
+   "model": "DR-Z400SM",
+   "variant": null,
+   "display": "DR-Z400SM",
+   "search": [
+    "drz400",
+    "dr-z400",
+    "drz",
+    "drz400sm"
+   ],
+   "shape": "motorcycle",
+   "years": "2005–",
+   "hp": 39,
+   "zeroToSixty": 5.2,
+   "weightKg": 146,
+   "tier": 2
+  },
+  {
+   "slug": "suzuki/gsx-r1000r",
+   "make": "Suzuki",
+   "model": "GSX-R1000R",
+   "variant": null,
+   "display": "GSX-R1000R",
+   "search": [
+    "gsxr1000",
+    "gsx-r1000",
+    "gixxer 1000",
+    "gsxr"
+   ],
+   "shape": "motorcycle",
+   "years": "2001–",
+   "hp": 199,
+   "zeroToSixty": 2.9,
+   "weightKg": 203,
+   "tier": 1
+  },
+  {
+   "slug": "suzuki/gsx-r600",
+   "make": "Suzuki",
+   "model": "GSX-R600",
+   "variant": null,
+   "display": "GSX-R600",
+   "search": [
+    "gsxr600",
+    "gsx-r600",
+    "gixxer 600"
+   ],
+   "shape": "motorcycle",
+   "years": "1992–",
+   "hp": 124,
+   "zeroToSixty": 3.4,
+   "weightKg": 187,
+   "tier": 2
+  },
+  {
+   "slug": "suzuki/gsx-r750",
+   "make": "Suzuki",
+   "model": "GSX-R750",
+   "variant": null,
+   "display": "GSX-R750",
+   "search": [
+    "gsxr750",
+    "gsx-r750",
+    "gixxer 750"
+   ],
+   "shape": "motorcycle",
+   "years": "1985–",
+   "hp": 148,
+   "zeroToSixty": 3.1,
+   "weightKg": 190,
+   "tier": 1
+  },
+  {
+   "slug": "suzuki/gsx-s1000",
+   "make": "Suzuki",
+   "model": "GSX-S1000",
+   "variant": null,
+   "display": "GSX-S1000",
+   "search": [
+    "gsxs1000",
+    "gsx-s1000",
+    "gsx s"
+   ],
+   "shape": "motorcycle",
+   "years": "2015–",
+   "hp": 150,
+   "zeroToSixty": 3.1,
+   "weightKg": 214,
+   "tier": 2
+  },
+  {
+   "slug": "suzuki/hayabusa",
+   "make": "Suzuki",
+   "model": "Hayabusa",
+   "variant": null,
+   "display": "Hayabusa",
+   "search": [
+    "hayabusa",
+    "busa",
+    "gsx1300r",
+    "gsx-1300r"
+   ],
+   "shape": "motorcycle",
+   "years": "1999–",
+   "hp": 187,
+   "zeroToSixty": 2.7,
+   "weightKg": 264,
+   "tier": 1
+  },
+  {
    "slug": "suzuki/jimny",
    "make": "Suzuki",
    "model": "Jimny",
@@ -9585,6 +11338,24 @@
    "hp": 102,
    "zeroToSixty": 12.0,
    "weightKg": 1090,
+   "tier": 2
+  },
+  {
+   "slug": "suzuki/sv650",
+   "make": "Suzuki",
+   "model": "SV650",
+   "variant": null,
+   "display": "SV650",
+   "search": [
+    "sv650",
+    "sv 650",
+    "sv"
+   ],
+   "shape": "motorcycle",
+   "years": "1999–",
+   "hp": 75,
+   "zeroToSixty": 3.9,
+   "weightKg": 198,
    "tier": 2
   },
   {
@@ -9603,6 +11374,25 @@
    "hp": 129,
    "zeroToSixty": 8.1,
    "weightKg": 970,
+   "tier": 3
+  },
+  {
+   "slug": "suzuki/v-strom-650",
+   "make": "Suzuki",
+   "model": "V-Strom 650",
+   "variant": null,
+   "display": "V-Strom 650",
+   "search": [
+    "v-strom",
+    "vstrom",
+    "dl650",
+    "wee strom"
+   ],
+   "shape": "motorcycle",
+   "years": "2004–",
+   "hp": 70,
+   "zeroToSixty": 4.4,
+   "weightKg": 216,
    "tier": 3
   },
   {
@@ -10485,6 +12275,182 @@
    "tier": 3
   },
   {
+   "slug": "triumph/bonneville-t120",
+   "make": "Triumph",
+   "model": "Bonneville T120",
+   "variant": null,
+   "display": "Bonneville T120",
+   "search": [
+    "bonneville",
+    "t120",
+    "bonnie"
+   ],
+   "shape": "motorcycle",
+   "years": "2016–",
+   "hp": 79,
+   "zeroToSixty": 4.3,
+   "weightKg": 236,
+   "tier": 1
+  },
+  {
+   "slug": "triumph/rocket-3-r",
+   "make": "Triumph",
+   "model": "Rocket 3",
+   "variant": "R",
+   "display": "Rocket 3 R",
+   "search": [
+    "rocket 3",
+    "rocket iii",
+    "rocket"
+   ],
+   "shape": "motorcycle",
+   "years": "2004–",
+   "hp": 165,
+   "zeroToSixty": 2.8,
+   "weightKg": 291,
+   "tier": 1
+  },
+  {
+   "slug": "triumph/scrambler-1200-xe",
+   "make": "Triumph",
+   "model": "Scrambler 1200",
+   "variant": "XE",
+   "display": "Scrambler 1200 XE",
+   "search": [
+    "scrambler 1200",
+    "scrambler xe"
+   ],
+   "shape": "motorcycle",
+   "years": "2019–",
+   "hp": 89,
+   "zeroToSixty": 4.1,
+   "weightKg": 207,
+   "tier": 2
+  },
+  {
+   "slug": "triumph/speed-triple-1200-rs",
+   "make": "Triumph",
+   "model": "Speed Triple 1200",
+   "variant": "RS",
+   "display": "Speed Triple 1200 RS",
+   "search": [
+    "speed triple",
+    "speed triple 1200"
+   ],
+   "shape": "motorcycle",
+   "years": "1994–",
+   "hp": 178,
+   "zeroToSixty": 3.0,
+   "weightKg": 198,
+   "tier": 1
+  },
+  {
+   "slug": "triumph/speed-twin-1200",
+   "make": "Triumph",
+   "model": "Speed Twin 1200",
+   "variant": null,
+   "display": "Speed Twin 1200",
+   "search": [
+    "speed twin",
+    "speed twin 1200"
+   ],
+   "shape": "motorcycle",
+   "years": "2019–",
+   "hp": 99,
+   "zeroToSixty": 3.6,
+   "weightKg": 216,
+   "tier": 2
+  },
+  {
+   "slug": "triumph/street-triple-rs",
+   "make": "Triumph",
+   "model": "Street Triple",
+   "variant": "RS",
+   "display": "Street Triple RS",
+   "search": [
+    "street triple",
+    "striple",
+    "street triple rs"
+   ],
+   "shape": "motorcycle",
+   "years": "2007–",
+   "hp": 128,
+   "zeroToSixty": 3.2,
+   "weightKg": 188,
+   "tier": 1
+  },
+  {
+   "slug": "triumph/tiger-900-rally-pro",
+   "make": "Triumph",
+   "model": "Tiger 900",
+   "variant": "Rally Pro",
+   "display": "Tiger 900 Rally Pro",
+   "search": [
+    "tiger",
+    "tiger 900",
+    "rally pro"
+   ],
+   "shape": "motorcycle",
+   "years": "2020–",
+   "hp": 107,
+   "zeroToSixty": 3.8,
+   "weightKg": 219,
+   "tier": 2
+  },
+  {
+   "slug": "triumph/trident-660",
+   "make": "Triumph",
+   "model": "Trident 660",
+   "variant": null,
+   "display": "Trident 660",
+   "search": [
+    "trident",
+    "trident 660"
+   ],
+   "shape": "motorcycle",
+   "years": "2021–",
+   "hp": 80,
+   "zeroToSixty": 3.7,
+   "weightKg": 189,
+   "tier": 2
+  },
+  {
+   "slug": "vespa/gts-300",
+   "make": "Vespa",
+   "model": "GTS 300",
+   "variant": null,
+   "display": "GTS 300",
+   "search": [
+    "gts 300",
+    "vespa gts",
+    "gts"
+   ],
+   "shape": "motorcycle",
+   "years": "2008–",
+   "hp": 23.8,
+   "zeroToSixty": 8.0,
+   "weightKg": 158,
+   "tier": 2
+  },
+  {
+   "slug": "vespa/primavera-150",
+   "make": "Vespa",
+   "model": "Primavera 150",
+   "variant": null,
+   "display": "Primavera 150",
+   "search": [
+    "vespa",
+    "primavera",
+    "primavera 150"
+   ],
+   "shape": "motorcycle",
+   "years": "2014–",
+   "hp": 12.7,
+   "zeroToSixty": null,
+   "weightKg": 114,
+   "tier": 2
+  },
+  {
    "slug": "volkswagen/arteon-r",
    "make": "Volkswagen",
    "model": "Arteon",
@@ -10672,6 +12638,258 @@
    "zeroToSixty": 4.5,
    "weightKg": 2280,
    "tier": 3
+  },
+  {
+   "slug": "yamaha/bolt",
+   "make": "Yamaha",
+   "model": "Bolt",
+   "variant": null,
+   "display": "Bolt",
+   "search": [
+    "bolt",
+    "xv950",
+    "star bolt"
+   ],
+   "shape": "motorcycle",
+   "years": "2014–",
+   "hp": 52,
+   "zeroToSixty": 5.3,
+   "weightKg": 247,
+   "tier": 3
+  },
+  {
+   "slug": "yamaha/mt-03",
+   "make": "Yamaha",
+   "model": "MT-03",
+   "variant": null,
+   "display": "MT-03",
+   "search": [
+    "mt03",
+    "mt-03"
+   ],
+   "shape": "motorcycle",
+   "years": "2016–",
+   "hp": 42,
+   "zeroToSixty": 5.6,
+   "weightKg": 168,
+   "tier": 3
+  },
+  {
+   "slug": "yamaha/mt-07",
+   "make": "Yamaha",
+   "model": "MT-07",
+   "variant": null,
+   "display": "MT-07",
+   "search": [
+    "mt07",
+    "mt-07",
+    "fz-07",
+    "fz07"
+   ],
+   "shape": "motorcycle",
+   "years": "2014–",
+   "hp": 73,
+   "zeroToSixty": 3.8,
+   "weightKg": 184,
+   "tier": 2
+  },
+  {
+   "slug": "yamaha/mt-09",
+   "make": "Yamaha",
+   "model": "MT-09",
+   "variant": null,
+   "display": "MT-09",
+   "search": [
+    "mt09",
+    "mt-09",
+    "fz-09",
+    "fz09"
+   ],
+   "shape": "motorcycle",
+   "years": "2013–",
+   "hp": 117,
+   "zeroToSixty": 3.2,
+   "weightKg": 193,
+   "tier": 1
+  },
+  {
+   "slug": "yamaha/mt-10",
+   "make": "Yamaha",
+   "model": "MT-10",
+   "variant": null,
+   "display": "MT-10",
+   "search": [
+    "mt10",
+    "mt-10",
+    "fz-10"
+   ],
+   "shape": "motorcycle",
+   "years": "2016–",
+   "hp": 165,
+   "zeroToSixty": 3.0,
+   "weightKg": 212,
+   "tier": 1
+  },
+  {
+   "slug": "yamaha/tenere-700",
+   "make": "Yamaha",
+   "model": "Ténéré 700",
+   "variant": null,
+   "display": "Ténéré 700",
+   "search": [
+    "tenere",
+    "tenere 700",
+    "t7"
+   ],
+   "shape": "motorcycle",
+   "years": "2019–",
+   "hp": 72,
+   "zeroToSixty": 4.3,
+   "weightKg": 205,
+   "tier": 1
+  },
+  {
+   "slug": "yamaha/wr250r",
+   "make": "Yamaha",
+   "model": "WR250R",
+   "variant": null,
+   "display": "WR250R",
+   "search": [
+    "wr250r",
+    "wr 250"
+   ],
+   "shape": "motorcycle",
+   "years": "2008–2020",
+   "hp": 30,
+   "zeroToSixty": 7.5,
+   "weightKg": 134,
+   "tier": 3
+  },
+  {
+   "slug": "yamaha/xmax-300",
+   "make": "Yamaha",
+   "model": "XMAX 300",
+   "variant": null,
+   "display": "XMAX 300",
+   "search": [
+    "xmax",
+    "xmax 300"
+   ],
+   "shape": "motorcycle",
+   "years": "2017–",
+   "hp": 27.6,
+   "zeroToSixty": 8.5,
+   "weightKg": 179,
+   "tier": 3
+  },
+  {
+   "slug": "yamaha/xsr900",
+   "make": "Yamaha",
+   "model": "XSR900",
+   "variant": null,
+   "display": "XSR900",
+   "search": [
+    "xsr900",
+    "xsr 900"
+   ],
+   "shape": "motorcycle",
+   "years": "2016–",
+   "hp": 117,
+   "zeroToSixty": 3.3,
+   "weightKg": 193,
+   "tier": 2
+  },
+  {
+   "slug": "yamaha/yzf-r1",
+   "make": "Yamaha",
+   "model": "YZF-R1",
+   "variant": null,
+   "display": "R1",
+   "search": [
+    "r1",
+    "yzf-r1",
+    "yzfr1",
+    "yamaha r1"
+   ],
+   "shape": "motorcycle",
+   "years": "1998–",
+   "hp": 197,
+   "zeroToSixty": 2.9,
+   "weightKg": 201,
+   "tier": 1
+  },
+  {
+   "slug": "yamaha/yzf-r1m",
+   "make": "Yamaha",
+   "model": "YZF-R1M",
+   "variant": null,
+   "display": "R1M",
+   "search": [
+    "r1m",
+    "yzf-r1m",
+    "yamaha r1m"
+   ],
+   "shape": "motorcycle",
+   "years": "2015–",
+   "hp": 197,
+   "zeroToSixty": 2.9,
+   "weightKg": 202,
+   "tier": 1
+  },
+  {
+   "slug": "yamaha/yzf-r3",
+   "make": "Yamaha",
+   "model": "YZF-R3",
+   "variant": null,
+   "display": "R3",
+   "search": [
+    "r3",
+    "yzf-r3",
+    "yamaha r3"
+   ],
+   "shape": "motorcycle",
+   "years": "2015–",
+   "hp": 42,
+   "zeroToSixty": 5.6,
+   "weightKg": 169,
+   "tier": 3
+  },
+  {
+   "slug": "yamaha/yzf-r6",
+   "make": "Yamaha",
+   "model": "YZF-R6",
+   "variant": null,
+   "display": "R6",
+   "search": [
+    "r6",
+    "yzf-r6",
+    "yzfr6",
+    "yamaha r6"
+   ],
+   "shape": "motorcycle",
+   "years": "1999–2020",
+   "hp": 117,
+   "zeroToSixty": 3.2,
+   "weightKg": 190,
+   "tier": 1
+  },
+  {
+   "slug": "yamaha/yzf-r7",
+   "make": "Yamaha",
+   "model": "YZF-R7",
+   "variant": null,
+   "display": "R7",
+   "search": [
+    "r7",
+    "yzf-r7",
+    "yamaha r7"
+   ],
+   "shape": "motorcycle",
+   "years": "2022–",
+   "hp": 72,
+   "zeroToSixty": 3.9,
+   "weightKg": 188,
+   "tier": 2
   }
  ]
 }

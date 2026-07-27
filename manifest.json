@@ -10802,6 +10802,10 @@
    "bytes": 27098,
    "tint": "#101011"
   },
+  "bmw/r-1300-gs": {
+   "bytes": 133960,
+   "tint": "#242424"
+  },
   "bmw/x1": {
    "bytes": 29844,
    "tint": "#D2D2D2"
@@ -12106,6 +12110,10 @@
    "bytes": 29518,
    "tint": "#AC0606"
   },
+  "ducati/panigale-v4-s": {
+   "bytes": 114184,
+   "tint": "#B40C0C"
+  },
   "eagle/summit-1989": {
    "bytes": 23962,
    "tint": "#8D8F90"
@@ -13158,6 +13166,14 @@
    "bytes": 24610,
    "tint": "#D3D3D3"
   },
+  "harley-davidson/road-glide": {
+   "bytes": 95940,
+   "tint": "#0C0C0C"
+  },
+  "harley-davidson/sportster-s": {
+   "bytes": 89430,
+   "tint": "#0C0C0C"
+  },
   "hennessey/venom-f5": {
    "bytes": 28140,
    "tint": "#0E0E0E"
@@ -13217,6 +13233,10 @@
   "honda/beat-1991": {
    "bytes": 33174,
    "tint": "#E3B104"
+  },
+  "honda/cbr1000rr-r": {
+   "bytes": 125390,
+   "tint": "#B40C0C"
   },
   "honda/city-turbo-ii-1983": {
    "bytes": 35508,
@@ -14202,6 +14222,10 @@
    "bytes": 28412,
    "tint": "#121212"
   },
+  "kawasaki/ninja-zx-10r": {
+   "bytes": 114924,
+   "tint": "#24840C"
+  },
   "kia/amanti-2004": {
    "bytes": 22876,
    "tint": "#EAEAEA"
@@ -14457,6 +14481,14 @@
   "koenigsegg/regera": {
    "bytes": 27664,
    "tint": "#ACAEB1"
+  },
+  "ktm/1290-super-duke-r": {
+   "bytes": 120428,
+   "tint": "#FC540C"
+  },
+  "ktm/690-smc-r": {
+   "bytes": 127902,
+   "tint": "#FC540C"
   },
   "lamborghini/aventador": {
    "bytes": 29690,
@@ -17858,6 +17890,10 @@
    "bytes": 28268,
    "tint": "#E9E8EA"
   },
+  "suzuki/hayabusa": {
+   "bytes": 93644,
+   "tint": "#0C0C0C"
+  },
   "suzuki/jimny-1981": {
    "bytes": 31922,
    "tint": "#D6D6D4"
@@ -18257,6 +18293,10 @@
   "vector/w8": {
    "bytes": 22064,
    "tint": "#B0AFB1"
+  },
+  "vespa/primavera-150": {
+   "bytes": 82006,
+   "tint": "#9CB4CC"
   },
   "vinfast/vf8": {
    "bytes": 33588,
@@ -18765,6 +18805,14 @@
   "volvo/xc90-2002": {
    "bytes": 31268,
    "tint": "#CED0D0"
+  },
+  "yamaha/mt-09": {
+   "bytes": 112638,
+   "tint": "#0C6C6C"
+  },
+  "yamaha/tenere-700": {
+   "bytes": 137028,
+   "tint": "#0C24B4"
   },
   "yugo/gv": {
    "bytes": 27360,
