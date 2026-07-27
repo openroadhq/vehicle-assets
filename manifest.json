@@ -10803,7 +10803,7 @@
    "tint": "#101011"
   },
   "bmw/r-1300-gs": {
-   "bytes": 133960,
+   "bytes": 120366,
    "tint": "#242424"
   },
   "bmw/x1": {
@@ -12111,7 +12111,7 @@
    "tint": "#AC0606"
   },
   "ducati/panigale-v4-s": {
-   "bytes": 114184,
+   "bytes": 107284,
    "tint": "#B40C0C"
   },
   "eagle/summit-1989": {
@@ -13167,11 +13167,11 @@
    "tint": "#D3D3D3"
   },
   "harley-davidson/road-glide": {
-   "bytes": 95940,
+   "bytes": 86588,
    "tint": "#0C0C0C"
   },
   "harley-davidson/sportster-s": {
-   "bytes": 89430,
+   "bytes": 84364,
    "tint": "#0C0C0C"
   },
   "hennessey/venom-f5": {
@@ -13235,7 +13235,7 @@
    "tint": "#E3B104"
   },
   "honda/cbr1000rr-r": {
-   "bytes": 125390,
+   "bytes": 112568,
    "tint": "#B40C0C"
   },
   "honda/city-turbo-ii-1983": {
@@ -14223,7 +14223,7 @@
    "tint": "#121212"
   },
   "kawasaki/ninja-zx-10r": {
-   "bytes": 114924,
+   "bytes": 106084,
    "tint": "#24840C"
   },
   "kia/amanti-2004": {
@@ -14483,11 +14483,11 @@
    "tint": "#ACAEB1"
   },
   "ktm/1290-super-duke-r": {
-   "bytes": 120428,
+   "bytes": 118044,
    "tint": "#FC540C"
   },
   "ktm/690-smc-r": {
-   "bytes": 127902,
+   "bytes": 113750,
    "tint": "#FC540C"
   },
   "lamborghini/aventador": {
@@ -17891,7 +17891,7 @@
    "tint": "#E9E8EA"
   },
   "suzuki/hayabusa": {
-   "bytes": 93644,
+   "bytes": 85378,
    "tint": "#0C0C0C"
   },
   "suzuki/jimny-1981": {
@@ -18295,7 +18295,7 @@
    "tint": "#B0AFB1"
   },
   "vespa/primavera-150": {
-   "bytes": 82006,
+   "bytes": 80172,
    "tint": "#9CB4CC"
   },
   "vinfast/vf8": {
@@ -18807,11 +18807,11 @@
    "tint": "#CED0D0"
   },
   "yamaha/mt-09": {
-   "bytes": 112638,
+   "bytes": 107420,
    "tint": "#0C6C6C"
   },
   "yamaha/tenere-700": {
-   "bytes": 137028,
+   "bytes": 123654,
    "tint": "#0C24B4"
   },
   "yugo/gv": {
