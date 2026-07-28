@@ -13210,12 +13210,68 @@
    "bytes": 24610,
    "tint": "#D3D3D3"
   },
+  "harley-davidson/breakout": {
+   "bytes": 97096,
+   "tint": "#0C0C0C"
+  },
+  "harley-davidson/cvo-road-glide": {
+   "bytes": 96844,
+   "tint": "#6C2424"
+  },
+  "harley-davidson/electra-glide": {
+   "bytes": 90808,
+   "tint": "#0C0C0C"
+  },
+  "harley-davidson/fat-bob": {
+   "bytes": 91742,
+   "tint": "#0C0C0C"
+  },
+  "harley-davidson/fat-boy": {
+   "bytes": 78374,
+   "tint": "#0C0C0C"
+  },
+  "harley-davidson/forty-eight": {
+   "bytes": 110556,
+   "tint": "#0C0C0C"
+  },
+  "harley-davidson/heritage-classic": {
+   "bytes": 110434,
+   "tint": "#242424"
+  },
+  "harley-davidson/iron-883": {
+   "bytes": 104376,
+   "tint": "#0C0C0C"
+  },
+  "harley-davidson/low-rider-s": {
+   "bytes": 96286,
+   "tint": "#0C0C0C"
+  },
+  "harley-davidson/nightster": {
+   "bytes": 88258,
+   "tint": "#0C0C0C"
+  },
   "harley-davidson/road-glide": {
    "bytes": 86588,
    "tint": "#0C0C0C"
   },
+  "harley-davidson/road-king": {
+   "bytes": 95322,
+   "tint": "#0C0C0C"
+  },
+  "harley-davidson/softail-standard": {
+   "bytes": 101002,
+   "tint": "#242424"
+  },
   "harley-davidson/sportster-s": {
    "bytes": 84364,
+   "tint": "#0C0C0C"
+  },
+  "harley-davidson/street-bob": {
+   "bytes": 109342,
+   "tint": "#242424"
+  },
+  "harley-davidson/street-glide": {
+   "bytes": 79270,
    "tint": "#0C0C0C"
   },
   "hennessey/venom-f5": {
@@ -13866,6 +13922,22 @@
    "bytes": 25664,
    "tint": "#4B4B4D"
   },
+  "indian/challenger": {
+   "bytes": 78202,
+   "tint": "#0C0C0C"
+  },
+  "indian/chief-dark-horse": {
+   "bytes": 83404,
+   "tint": "#242424"
+  },
+  "indian/chieftain": {
+   "bytes": 82720,
+   "tint": "#0C0C0C"
+  },
+  "indian/ftr-1200": {
+   "bytes": 123026,
+   "tint": "#B42424"
+  },
   "infiniti/ex35-2008": {
    "bytes": 27940,
    "tint": "#D1D2D3"
@@ -14321,6 +14393,22 @@
   "kawasaki/ninja-zx-6r": {
    "bytes": 122710,
    "tint": "#54B40C"
+  },
+  "kawasaki/z-h2": {
+   "bytes": 126598,
+   "tint": "#0C0C0C"
+  },
+  "kawasaki/z650": {
+   "bytes": 118084,
+   "tint": "#0C0C0C"
+  },
+  "kawasaki/z900": {
+   "bytes": 117302,
+   "tint": "#0C0C0C"
+  },
+  "kawasaki/z900rs": {
+   "bytes": 120314,
+   "tint": "#0C0C0C"
   },
   "kia/amanti-2004": {
    "bytes": 22876,
