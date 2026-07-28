@@ -9922,6 +9922,10 @@
    "bytes": 119454,
    "tint": "#242424"
   },
+  "aprilia/tuareg-660": {
+   "bytes": 133178,
+   "tint": "#0C0C54"
+  },
   "aprilia/tuono-v4": {
    "bytes": 123250,
    "tint": "#E42424"
@@ -10630,6 +10634,10 @@
    "bytes": 33320,
    "tint": "#111111"
   },
+  "bmw/f-850-gs": {
+   "bytes": 124214,
+   "tint": "#3C549C"
+  },
   "bmw/i3-2014": {
    "bytes": 30580,
    "tint": "#E6E6E6"
@@ -10657,6 +10665,10 @@
   "bmw/ix3": {
    "bytes": 31332,
    "tint": "#505255"
+  },
+  "bmw/k-1600-gtl": {
+   "bytes": 96040,
+   "tint": "#0C0C0C"
   },
   "bmw/m-1000-rr": {
    "bytes": 129248,
@@ -10814,9 +10826,17 @@
    "bytes": 27098,
    "tint": "#101011"
   },
+  "bmw/r-1250-gs-adventure": {
+   "bytes": 129462,
+   "tint": "#0C3C84"
+  },
   "bmw/r-1300-gs": {
    "bytes": 120366,
    "tint": "#242424"
+  },
+  "bmw/r-18": {
+   "bytes": 95436,
+   "tint": "#0C0C0C"
   },
   "bmw/r-nine-t": {
    "bytes": 106190,
@@ -12142,6 +12162,10 @@
    "bytes": 106060,
    "tint": "#CC0C0C"
   },
+  "ducati/multistrada-v4-s": {
+   "bytes": 115694,
+   "tint": "#E40C0C"
+  },
   "ducati/panigale-v2": {
    "bytes": 106408,
    "tint": "#B40C0C"
@@ -13250,6 +13274,10 @@
    "bytes": 88258,
    "tint": "#0C0C0C"
   },
+  "harley-davidson/pan-america-1250-special": {
+   "bytes": 117762,
+   "tint": "#E45424"
+  },
   "harley-davidson/road-glide": {
    "bytes": 86588,
    "tint": "#0C0C0C"
@@ -13325,6 +13353,10 @@
   "honda/acty": {
    "bytes": 23772,
    "tint": "#E7E7E7"
+  },
+  "honda/africa-twin": {
+   "bytes": 126944,
+   "tint": "#9C0C0C"
   },
   "honda/beat": {
    "bytes": 25142,
@@ -13482,6 +13514,10 @@
    "bytes": 29428,
    "tint": "#AAAAAC"
   },
+  "honda/crf300l": {
+   "bytes": 121590,
+   "tint": "#CC0C0C"
+  },
   "honda/crosstour-2010": {
    "bytes": 31426,
    "tint": "#ADAFB1"
@@ -13513,6 +13549,10 @@
   "honda/fit-2015": {
    "bytes": 39222,
    "tint": "#042B72"
+  },
+  "honda/gold-wing": {
+   "bytes": 85424,
+   "tint": "#6C0C0C"
   },
   "honda/grom": {
    "bytes": 107672,
@@ -13614,6 +13654,14 @@
    "bytes": 111566,
    "tint": "#CC0C0C"
   },
+  "honda/rebel-1100": {
+   "bytes": 92474,
+   "tint": "#242424"
+  },
+  "honda/rebel-500": {
+   "bytes": 90836,
+   "tint": "#242424"
+  },
   "honda/ridgeline": {
    "bytes": 23206,
    "tint": "#0D0D0D"
@@ -13657,6 +13705,10 @@
   "hummer/h3t-2009": {
    "bytes": 25074,
    "tint": "#0B0B0C"
+  },
+  "husqvarna/701-supermoto": {
+   "bytes": 109226,
+   "tint": "#242424"
   },
   "hyundai/accent-1995": {
    "bytes": 24926,
@@ -13937,6 +13989,14 @@
   "indian/ftr-1200": {
    "bytes": 123026,
    "tint": "#B42424"
+  },
+  "indian/scout-bobber": {
+   "bytes": 83514,
+   "tint": "#242424"
+  },
+  "indian/springfield": {
+   "bytes": 94776,
+   "tint": "#242424"
   },
   "infiniti/ex35-2008": {
    "bytes": 27940,
@@ -14366,6 +14426,10 @@
    "bytes": 28412,
    "tint": "#121212"
   },
+  "kawasaki/klr650": {
+   "bytes": 119008,
+   "tint": "#3C3C3C"
+  },
   "kawasaki/ninja-400": {
    "bytes": 121698,
    "tint": "#54B424"
@@ -14393,6 +14457,14 @@
   "kawasaki/ninja-zx-6r": {
    "bytes": 122710,
    "tint": "#54B40C"
+  },
+  "kawasaki/versys-1000": {
+   "bytes": 114296,
+   "tint": "#6CB43C"
+  },
+  "kawasaki/vulcan-s": {
+   "bytes": 90126,
+   "tint": "#0C0C0C"
   },
   "kawasaki/z-h2": {
    "bytes": 126598,
@@ -14666,13 +14738,37 @@
    "bytes": 27664,
    "tint": "#ACAEB1"
   },
+  "ktm/1290-super-adventure-r": {
+   "bytes": 130672,
+   "tint": "#FC540C"
+  },
   "ktm/1290-super-duke-r": {
    "bytes": 118044,
    "tint": "#FC540C"
   },
+  "ktm/390-duke": {
+   "bytes": 132008,
+   "tint": "#FC540C"
+  },
+  "ktm/500-exc-f": {
+   "bytes": 134426,
+   "tint": "#FC3C0C"
+  },
   "ktm/690-smc-r": {
    "bytes": 113750,
    "tint": "#FC540C"
+  },
+  "ktm/790-duke": {
+   "bytes": 126010,
+   "tint": "#FC6C24"
+  },
+  "ktm/890-adventure-r": {
+   "bytes": 127700,
+   "tint": "#FC540C"
+  },
+  "ktm/890-duke-r": {
+   "bytes": 120660,
+   "tint": "#FC6C0C"
   },
   "lamborghini/aventador": {
    "bytes": 29690,
