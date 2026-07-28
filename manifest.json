@@ -10634,6 +10634,10 @@
    "bytes": 33320,
    "tint": "#111111"
   },
+  "bmw/c-400-gt": {
+   "bytes": 75960,
+   "tint": "#242424"
+  },
   "bmw/f-850-gs": {
    "bytes": 124214,
    "tint": "#3C549C"
@@ -13354,6 +13358,10 @@
    "bytes": 23772,
    "tint": "#E7E7E7"
   },
+  "honda/adv160": {
+   "bytes": 88294,
+   "tint": "#242424"
+  },
   "honda/africa-twin": {
    "bytes": 126944,
    "tint": "#9C0C0C"
@@ -13550,6 +13558,10 @@
    "bytes": 39222,
    "tint": "#042B72"
   },
+  "honda/forza-750": {
+   "bytes": 85050,
+   "tint": "#242424"
+  },
   "honda/gold-wing": {
    "bytes": 85424,
    "tint": "#6C0C0C"
@@ -13613,6 +13625,10 @@
   "honda/passport-1994": {
    "bytes": 29770,
    "tint": "#CDD0D2"
+  },
+  "honda/pcx160": {
+   "bytes": 88170,
+   "tint": "#E4E4E4"
   },
   "honda/pilot": {
    "bytes": 25994,
@@ -13685,6 +13701,10 @@
   "honda/vamos": {
    "bytes": 30732,
    "tint": "#94ADCA"
+  },
+  "honda/xr650l": {
+   "bytes": 133230,
+   "tint": "#0C246C"
   },
   "hummer/h1-1992": {
    "bytes": 29582,
@@ -14769,6 +14789,10 @@
   "ktm/890-duke-r": {
    "bytes": 120660,
    "tint": "#FC6C0C"
+  },
+  "ktm/rc-390": {
+   "bytes": 135738,
+   "tint": "#FC540C"
   },
   "lamborghini/aventador": {
    "bytes": 29690,
@@ -16626,6 +16650,22 @@
    "bytes": 23652,
    "tint": "#ACAEB0"
   },
+  "moto-guzzi/v7-stone": {
+   "bytes": 95688,
+   "tint": "#3C3C3C"
+  },
+  "moto-guzzi/v85-tt": {
+   "bytes": 128528,
+   "tint": "#FCB424"
+  },
+  "mv-agusta/brutale-1000-rr": {
+   "bytes": 121022,
+   "tint": "#9C0C0C"
+  },
+  "mv-agusta/f3-800-rr": {
+   "bytes": 118506,
+   "tint": "#840C0C"
+  },
   "nissan/180sx-1989": {
    "bytes": 21418,
    "tint": "#D5D3D2"
@@ -17161,6 +17201,10 @@
   "peugeot/405-mi16-1988": {
    "bytes": 28894,
    "tint": "#78848C"
+  },
+  "piaggio/beverly-400": {
+   "bytes": 94076,
+   "tint": "#3C5484"
   },
   "plymouth/breeze-1996": {
    "bytes": 28248,
@@ -17766,6 +17810,18 @@
    "bytes": 30238,
    "tint": "#0B2D71"
   },
+  "royal-enfield/continental-gt-650": {
+   "bytes": 129844,
+   "tint": "#242424"
+  },
+  "royal-enfield/himalayan": {
+   "bytes": 134456,
+   "tint": "#242424"
+  },
+  "royal-enfield/interceptor-650": {
+   "bytes": 134242,
+   "tint": "#242424"
+  },
   "ruf/ctr-yellowbird-1987": {
    "bytes": 35148,
    "tint": "#D2AA2C"
@@ -18170,6 +18226,10 @@
    "bytes": 28268,
    "tint": "#E9E8EA"
   },
+  "suzuki/dr-z400sm": {
+   "bytes": 121596,
+   "tint": "#E4B40C"
+  },
   "suzuki/gsx-r1000r": {
    "bytes": 115972,
    "tint": "#0C3C84"
@@ -18177,6 +18237,14 @@
   "suzuki/gsx-r600": {
    "bytes": 118924,
    "tint": "#0C2484"
+  },
+  "suzuki/gsx-r750": {
+   "bytes": 111350,
+   "tint": "#0C3C84"
+  },
+  "suzuki/gsx-s1000": {
+   "bytes": 107780,
+   "tint": "#0C54B4"
   },
   "suzuki/hayabusa": {
    "bytes": 85378,
@@ -18194,9 +18262,17 @@
    "bytes": 34304,
    "tint": "#0F0F0E"
   },
+  "suzuki/sv650": {
+   "bytes": 119546,
+   "tint": "#0C2454"
+  },
   "suzuki/sx4": {
    "bytes": 36280,
    "tint": "#084492"
+  },
+  "suzuki/v-strom-650": {
+   "bytes": 104984,
+   "tint": "#E4CC0C"
   },
   "tesla/cybertruck": {
    "bytes": 20004,
@@ -18562,9 +18638,41 @@
    "bytes": 29382,
    "tint": "#CBCCCF"
   },
+  "triumph/bonneville-t120": {
+   "bytes": 119586,
+   "tint": "#242424"
+  },
+  "triumph/rocket-3-r": {
+   "bytes": 90846,
+   "tint": "#0C0C0C"
+  },
+  "triumph/scrambler-1200-xe": {
+   "bytes": 121724,
+   "tint": "#0C0C0C"
+  },
+  "triumph/speed-triple-1200-rs": {
+   "bytes": 116480,
+   "tint": "#0C0C0C"
+  },
+  "triumph/speed-twin-1200": {
+   "bytes": 110700,
+   "tint": "#242424"
+  },
+  "triumph/street-triple-rs": {
+   "bytes": 109034,
+   "tint": "#242424"
+  },
+  "triumph/tiger-900-rally-pro": {
+   "bytes": 134486,
+   "tint": "#242424"
+  },
   "triumph/tr6-1968": {
    "bytes": 24698,
    "tint": "#072314"
+  },
+  "triumph/trident-660": {
+   "bytes": 104582,
+   "tint": "#0C0C0C"
   },
   "tvr/griffith-1991": {
    "bytes": 25960,
@@ -18581,6 +18689,10 @@
   "vector/w8": {
    "bytes": 22064,
    "tint": "#B0AFB1"
+  },
+  "vespa/gts-300": {
+   "bytes": 78256,
+   "tint": "#3C3C3C"
   },
   "vespa/primavera-150": {
    "bytes": 80172,
@@ -19094,13 +19206,41 @@
    "bytes": 31268,
    "tint": "#CED0D0"
   },
+  "yamaha/bolt": {
+   "bytes": 95690,
+   "tint": "#0C0C0C"
+  },
+  "yamaha/mt-03": {
+   "bytes": 109696,
+   "tint": "#0C849C"
+  },
+  "yamaha/mt-07": {
+   "bytes": 113416,
+   "tint": "#0CB4CC"
+  },
   "yamaha/mt-09": {
    "bytes": 107420,
    "tint": "#0C6C6C"
   },
+  "yamaha/mt-10": {
+   "bytes": 111932,
+   "tint": "#0C2484"
+  },
   "yamaha/tenere-700": {
    "bytes": 123654,
    "tint": "#0C24B4"
+  },
+  "yamaha/wr250r": {
+   "bytes": 139878,
+   "tint": "#0C2484"
+  },
+  "yamaha/xmax-300": {
+   "bytes": 84458,
+   "tint": "#242424"
+  },
+  "yamaha/xsr900": {
+   "bytes": 110330,
+   "tint": "#849CCC"
   },
   "yamaha/yzf-r1": {
    "bytes": 106466,
@@ -19109,6 +19249,18 @@
   "yamaha/yzf-r1m": {
    "bytes": 123456,
    "tint": "#0C0C0C"
+  },
+  "yamaha/yzf-r3": {
+   "bytes": 105244,
+   "tint": "#0C2484"
+  },
+  "yamaha/yzf-r6": {
+   "bytes": 105468,
+   "tint": "#0C246C"
+  },
+  "yamaha/yzf-r7": {
+   "bytes": 104014,
+   "tint": "#242484"
   },
   "yugo/gv": {
    "bytes": 27360,
