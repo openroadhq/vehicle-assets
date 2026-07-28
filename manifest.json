@@ -9918,6 +9918,14 @@
    "bytes": 27708,
    "tint": "#2A2C2C"
   },
+  "aprilia/rsv4-factory": {
+   "bytes": 119454,
+   "tint": "#242424"
+  },
+  "aprilia/tuono-v4": {
+   "bytes": 123250,
+   "tint": "#E42424"
+  },
   "aptera/aptera": {
    "bytes": 23086,
    "tint": "#AFAFAF"
@@ -10650,6 +10658,10 @@
    "bytes": 31332,
    "tint": "#505255"
   },
+  "bmw/m-1000-rr": {
+   "bytes": 129248,
+   "tint": "#0C2454"
+  },
   "bmw/m-coupe-1999": {
    "bytes": 24936,
    "tint": "#0D0D0D"
@@ -10804,6 +10816,18 @@
   },
   "bmw/r-1300-gs": {
    "bytes": 120366,
+   "tint": "#242424"
+  },
+  "bmw/r-nine-t": {
+   "bytes": 106190,
+   "tint": "#242424"
+  },
+  "bmw/s-1000-r": {
+   "bytes": 112008,
+   "tint": "#242424"
+  },
+  "bmw/s-1000-rr": {
+   "bytes": 113794,
    "tint": "#242424"
   },
   "bmw/x1": {
@@ -12110,9 +12134,29 @@
    "bytes": 29518,
    "tint": "#AC0606"
   },
+  "ducati/diavel-v4": {
+   "bytes": 102422,
+   "tint": "#B40C0C"
+  },
+  "ducati/monster": {
+   "bytes": 106060,
+   "tint": "#CC0C0C"
+  },
+  "ducati/panigale-v2": {
+   "bytes": 106408,
+   "tint": "#B40C0C"
+  },
   "ducati/panigale-v4-s": {
    "bytes": 107284,
    "tint": "#B40C0C"
+  },
+  "ducati/streetfighter-v4-s": {
+   "bytes": 110278,
+   "tint": "#B40C0C"
+  },
+  "ducati/superleggera-v4": {
+   "bytes": 125064,
+   "tint": "#242424"
   },
   "eagle/summit-1989": {
    "bytes": 23962,
@@ -13234,9 +13278,29 @@
    "bytes": 33174,
    "tint": "#E3B104"
   },
+  "honda/cb1000r": {
+   "bytes": 109070,
+   "tint": "#242424"
+  },
+  "honda/cb500f": {
+   "bytes": 107750,
+   "tint": "#3C3C3C"
+  },
+  "honda/cb650r": {
+   "bytes": 101690,
+   "tint": "#242424"
+  },
   "honda/cbr1000rr-r": {
    "bytes": 112568,
    "tint": "#B40C0C"
+  },
+  "honda/cbr500r": {
+   "bytes": 117612,
+   "tint": "#CC0C0C"
+  },
+  "honda/cbr600rr": {
+   "bytes": 120024,
+   "tint": "#CC0C0C"
   },
   "honda/city-turbo-ii-1983": {
    "bytes": 35508,
@@ -13394,6 +13458,10 @@
    "bytes": 39222,
    "tint": "#042B72"
   },
+  "honda/grom": {
+   "bytes": 107672,
+   "tint": "#FCCC0C"
+  },
   "honda/hr-v": {
    "bytes": 34628,
    "tint": "#062F6E"
@@ -13485,6 +13553,10 @@
   "honda/prologue": {
    "bytes": 25474,
    "tint": "#EBEBEB"
+  },
+  "honda/rc213v-s": {
+   "bytes": 111566,
+   "tint": "#CC0C0C"
   },
   "honda/ridgeline": {
    "bytes": 23206,
@@ -14222,9 +14294,33 @@
    "bytes": 28412,
    "tint": "#121212"
   },
+  "kawasaki/ninja-400": {
+   "bytes": 121698,
+   "tint": "#54B424"
+  },
+  "kawasaki/ninja-650": {
+   "bytes": 117248,
+   "tint": "#54B424"
+  },
+  "kawasaki/ninja-h2": {
+   "bytes": 121170,
+   "tint": "#0C0C0C"
+  },
+  "kawasaki/ninja-h2r": {
+   "bytes": 126076,
+   "tint": "#0C0C0C"
+  },
   "kawasaki/ninja-zx-10r": {
    "bytes": 106084,
    "tint": "#24840C"
+  },
+  "kawasaki/ninja-zx-14r": {
+   "bytes": 103746,
+   "tint": "#0C0C0C"
+  },
+  "kawasaki/ninja-zx-6r": {
+   "bytes": 122710,
+   "tint": "#54B40C"
   },
   "kia/amanti-2004": {
    "bytes": 22876,
@@ -17890,6 +17986,14 @@
    "bytes": 28268,
    "tint": "#E9E8EA"
   },
+  "suzuki/gsx-r1000r": {
+   "bytes": 115972,
+   "tint": "#0C3C84"
+  },
+  "suzuki/gsx-r600": {
+   "bytes": 118924,
+   "tint": "#0C2484"
+  },
   "suzuki/hayabusa": {
    "bytes": 85378,
    "tint": "#0C0C0C"
@@ -18813,6 +18917,14 @@
   "yamaha/tenere-700": {
    "bytes": 123654,
    "tint": "#0C24B4"
+  },
+  "yamaha/yzf-r1": {
+   "bytes": 106466,
+   "tint": "#0C2484"
+  },
+  "yamaha/yzf-r1m": {
+   "bytes": 123456,
+   "tint": "#0C0C0C"
   },
   "yugo/gv": {
    "bytes": 27360,
