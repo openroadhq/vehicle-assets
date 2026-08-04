@@ -1,6 +1,9 @@
 {
  "aliases": {
   "audi/r8-v10": "audi/r8",
+  "audi/rs6": "audi/rs6-avant",
+  "bmw/m3-e46": "bmw/m3-2001",
+  "cadillac/ct4-v-blackwing": "cadillac/ct4-blackwing-2020",
   "ford/f150-raptor": "ford/f-150-raptor",
   "ford/ranger-regular-cab": "ford/ranger",
   "ford/ranger-super-cab": "ford/ranger",
