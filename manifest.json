@@ -46,7 +46,6 @@
   "audi/a6-c7-bitdi": "audi/a6",
   "audi/a6-quattro": "audi/a6",
   "audi/q7-etron": "audi/q7",
-  "audi/r8-v10": "audi/r8",
   "audi/rs5-b9": "audi/rs5",
   "audi/rsq8-performance": "audi/q8",
   "audi/s3-8v": "audi/s3",
@@ -10744,6 +10743,10 @@
    "bytes": 29818,
    "tint": "#8F8F91"
   },
+  "alfa-romeo/147": {
+   "bytes": 24870,
+   "tint": "#EDEEED"
+  },
   "alfa-romeo/147-gta": {
    "bytes": 34882,
    "tint": "#AF030A"
@@ -10751,6 +10754,10 @@
   "alfa-romeo/156": {
    "bytes": 30354,
    "tint": "#8A070C"
+  },
+  "alfa-romeo/159": {
+   "bytes": 25680,
+   "tint": "#696B6B"
   },
   "alfa-romeo/33-stradale": {
    "bytes": 32426,
@@ -10780,6 +10787,10 @@
    "bytes": 31910,
    "tint": "#8E030C"
   },
+  "alfa-romeo/mito": {
+   "bytes": 28644,
+   "tint": "#ACB2B2"
+  },
   "alfa-romeo/stelvio": {
    "bytes": 39438,
    "tint": "#8F0911"
@@ -10806,15 +10817,15 @@
   },
   "aprilia/rsv4-factory": {
    "bytes": 119454,
-   "tint": "#242424"
+   "tint": "#131313"
   },
   "aprilia/tuareg-660": {
    "bytes": 133178,
-   "tint": "#0C0C54"
+   "tint": "#2B2B2B"
   },
   "aprilia/tuono-v4": {
    "bytes": 123250,
-   "tint": "#E42424"
+   "tint": "#2D2C2C"
   },
   "aptera/aptera": {
    "bytes": 23086,
@@ -10919,6 +10930,10 @@
   "audi/90-quattro-1988": {
    "bytes": 29720,
    "tint": "#A7010E"
+  },
+  "audi/a1": {
+   "bytes": 33472,
+   "tint": "#A9ACB1"
   },
   "audi/a2-1999": {
    "bytes": 27960,
@@ -11036,6 +11051,10 @@
    "bytes": 26978,
    "tint": "#4B4C4F"
   },
+  "audi/q2": {
+   "bytes": 32624,
+   "tint": "#AEB0B2"
+  },
   "audi/q3": {
    "bytes": 29322,
    "tint": "#EDEDED"
@@ -11043,6 +11062,10 @@
   "audi/q3-2015": {
    "bytes": 29658,
    "tint": "#E9E9E9"
+  },
+  "audi/q4": {
+   "bytes": 26590,
+   "tint": "#ECECEC"
   },
   "audi/q4-e-tron": {
    "bytes": 34216,
@@ -11384,6 +11407,10 @@
    "bytes": 27780,
    "tint": "#D2D0CD"
   },
+  "bmw/3": {
+   "bytes": 28990,
+   "tint": "#4D4D4D"
+  },
   "bmw/3-0-csl-1971": {
    "bytes": 27104,
    "tint": "#D2D1CF"
@@ -11522,11 +11549,11 @@
   },
   "bmw/c-400-gt": {
    "bytes": 75960,
-   "tint": "#242424"
+   "tint": "#2D2D2F"
   },
   "bmw/f-850-gs": {
    "bytes": 124214,
-   "tint": "#3C549C"
+   "tint": "#2A2A2A"
   },
   "bmw/i3-2014": {
    "bytes": 30580,
@@ -11558,11 +11585,11 @@
   },
   "bmw/k-1600-gtl": {
    "bytes": 96040,
-   "tint": "#0C0C0C"
+   "tint": "#2E2D2E"
   },
   "bmw/m-1000-rr": {
    "bytes": 129248,
-   "tint": "#0C2454"
+   "tint": "#2C2D2E"
   },
   "bmw/m-coupe-1999": {
    "bytes": 24936,
@@ -11718,27 +11745,31 @@
   },
   "bmw/r-1250-gs-adventure": {
    "bytes": 129462,
-   "tint": "#0C3C84"
+   "tint": "#2D2D2D"
   },
   "bmw/r-1300-gs": {
    "bytes": 120366,
-   "tint": "#242424"
+   "tint": "#2C2C2C"
   },
   "bmw/r-18": {
    "bytes": 95436,
-   "tint": "#0C0C0C"
+   "tint": "#2D2D2D"
   },
   "bmw/r-nine-t": {
    "bytes": 106190,
-   "tint": "#242424"
+   "tint": "#2D2D2D"
   },
   "bmw/s-1000-r": {
    "bytes": 112008,
-   "tint": "#242424"
+   "tint": "#2D2D2D"
   },
   "bmw/s-1000-rr": {
    "bytes": 113794,
-   "tint": "#242424"
+   "tint": "#2C2C2C"
+  },
+  "bmw/s1000rr": {
+   "bytes": 60906,
+   "tint": "#2D2D2D"
   },
   "bmw/x1": {
    "bytes": 29844,
@@ -12051,6 +12082,14 @@
   "buick/verano-2012": {
    "bytes": 27306,
    "tint": "#EBEBEB"
+  },
+  "byd/seal": {
+   "bytes": 29666,
+   "tint": "#2D2F31"
+  },
+  "byd/sealion-7": {
+   "bytes": 30228,
+   "tint": "#2D2E2F"
   },
   "cadillac/allante-1987": {
    "bytes": 21476,
@@ -12672,6 +12711,10 @@
    "bytes": 23790,
    "tint": "#0D0C0E"
   },
+  "chrysler/300c": {
+   "bytes": 22736,
+   "tint": "#ECECEC"
+  },
   "chrysler/300c-srt8-2005": {
    "bytes": 26262,
    "tint": "#131313"
@@ -12748,17 +12791,85 @@
    "bytes": 29842,
    "tint": "#6F7173"
   },
+  "citroen/berlingo": {
+   "bytes": 27958,
+   "tint": "#EAEAEA"
+  },
+  "citroen/c1": {
+   "bytes": 27758,
+   "tint": "#E7E7E7"
+  },
+  "citroen/c2-vts": {
+   "bytes": 28430,
+   "tint": "#BBC4C3"
+  },
+  "citroen/c3": {
+   "bytes": 28658,
+   "tint": "#EFEFEF"
+  },
   "citroen/ds-1955": {
    "bytes": 21922,
    "tint": "#8A898C"
+  },
+  "citroen/saxo": {
+   "bytes": 26274,
+   "tint": "#4F4F4E"
   },
   "citroen/saxo-vts-1996": {
    "bytes": 31492,
    "tint": "#B40C0D"
   },
+  "citroen/xsara": {
+   "bytes": 24914,
+   "tint": "#ACAEB1"
+  },
+  "cupra/born": {
+   "bytes": 30332,
+   "tint": "#4A4C50"
+  },
+  "cupra/formentor": {
+   "bytes": 27860,
+   "tint": "#6C6D6E"
+  },
+  "cupra/formentor-vz": {
+   "bytes": 27850,
+   "tint": "#D3D3D3"
+  },
+  "cupra/leon": {
+   "bytes": 31054,
+   "tint": "#8C8E91"
+  },
   "czinger/21c": {
    "bytes": 27898,
    "tint": "#111112"
+  },
+  "dacia/dokker": {
+   "bytes": 30190,
+   "tint": "#ACAFB1"
+  },
+  "dacia/duster": {
+   "bytes": 29746,
+   "tint": "#4E4E50"
+  },
+  "dacia/lodgy": {
+   "bytes": 28992,
+   "tint": "#4F4F50"
+  },
+  "dacia/logan": {
+   "bytes": 23480,
+   "tint": "#EEEEEE"
+  },
+  "dacia/sandero": {
+   "bytes": 33058,
+   "tint": "#ADAFB0"
+  },
+  "dacia/sandero-stepway": {
+   "bytes": 29172,
+   "tint": "#8A8C8F"
+  },
+  "dacia/sanderro": {
+   "bytes": 28262,
+   "tint": "#EBEBEB"
   },
   "daewoo/lanos": {
    "bytes": 24490,
@@ -12984,6 +13095,10 @@
    "bytes": 29426,
    "tint": "#AFAFB1"
   },
+  "dodge/ram": {
+   "bytes": 26428,
+   "tint": "#505152"
+  },
   "dodge/ram-1500-1981": {
    "bytes": 23886,
    "tint": "#CBCCCF"
@@ -12999,6 +13114,10 @@
   "dodge/ram-1500-2009": {
    "bytes": 24454,
    "tint": "#CECFD2"
+  },
+  "dodge/ram-2500": {
+   "bytes": 26228,
+   "tint": "#E9E9E9"
   },
   "dodge/ram-srt10-2004": {
    "bytes": 25508,
@@ -13046,31 +13165,31 @@
   },
   "ducati/diavel-v4": {
    "bytes": 102422,
-   "tint": "#B40C0C"
+   "tint": "#B0060E"
   },
   "ducati/monster": {
    "bytes": 106060,
-   "tint": "#CC0C0C"
+   "tint": "#CA0506"
   },
   "ducati/multistrada-v4-s": {
    "bytes": 115694,
-   "tint": "#E40C0C"
+   "tint": "#2F2F2F"
   },
   "ducati/panigale-v2": {
    "bytes": 106408,
-   "tint": "#B40C0C"
+   "tint": "#B30207"
   },
   "ducati/panigale-v4-s": {
    "bytes": 107284,
-   "tint": "#B40C0C"
+   "tint": "#B20D10"
   },
   "ducati/streetfighter-v4-s": {
    "bytes": 110278,
-   "tint": "#B40C0C"
+   "tint": "#B10507"
   },
   "ducati/superleggera-v4": {
    "bytes": 125064,
-   "tint": "#242424"
+   "tint": "#2E2D2D"
   },
   "eagle/summit-1989": {
    "bytes": 23962,
@@ -13312,9 +13431,25 @@
    "bytes": 24994,
    "tint": "#AC060A"
   },
+  "fiat/egea": {
+   "bytes": 27024,
+   "tint": "#EDEDED"
+  },
+  "fiat/grande-punto": {
+   "bytes": 30518,
+   "tint": "#8E8E8F"
+  },
   "fiat/panda": {
    "bytes": 28236,
    "tint": "#D5D6D6"
+  },
+  "fiat/punto": {
+   "bytes": 27422,
+   "tint": "#D6D6D6"
+  },
+  "fiat/tipo": {
+   "bytes": 31156,
+   "tint": "#919192"
   },
   "fiat/uno-turbo": {
    "bytes": 28730,
@@ -13359,6 +13494,10 @@
   "ford/bronco-sport": {
    "bytes": 27312,
    "tint": "#2D322E"
+  },
+  "ford/c-max": {
+   "bytes": 34682,
+   "tint": "#AFB0B1"
   },
   "ford/contour-1995": {
    "bytes": 24392,
@@ -13564,6 +13703,18 @@
    "bytes": 23890,
    "tint": "#EAEAEC"
   },
+  "ford/f250": {
+   "bytes": 24448,
+   "tint": "#919191"
+  },
+  "ford/f350": {
+   "bytes": 23070,
+   "tint": "#ECECEF"
+  },
+  "ford/falcon": {
+   "bytes": 25040,
+   "tint": "#4F4F50"
+  },
   "ford/falcon-xr8-1991": {
    "bytes": 28138,
    "tint": "#0B2E70"
@@ -13656,6 +13807,14 @@
    "bytes": 28010,
    "tint": "#161616"
   },
+  "ford/galaxy": {
+   "bytes": 29052,
+   "tint": "#ECECEC"
+  },
+  "ford/ka": {
+   "bytes": 27582,
+   "tint": "#EBEBEA"
+  },
   "ford/maverick": {
    "bytes": 25130,
    "tint": "#345373"
@@ -13663,6 +13822,10 @@
   "ford/maverick-tremor": {
    "bytes": 27740,
    "tint": "#575C61"
+  },
+  "ford/mondeo": {
+   "bytes": 27958,
+   "tint": "#929292"
   },
   "ford/mustang": {
    "bytes": 29550,
@@ -13812,6 +13975,10 @@
    "bytes": 35018,
    "tint": "#D04C03"
   },
+  "ford/s-max": {
+   "bytes": 31828,
+   "tint": "#4D4D50"
+  },
   "ford/sierra-rs-cosworth-1986": {
    "bytes": 31576,
    "tint": "#01184C"
@@ -13855,6 +14022,10 @@
   "ford/taurus-sho-2010": {
    "bytes": 25346,
    "tint": "#131312"
+  },
+  "ford/territory": {
+   "bytes": 28192,
+   "tint": "#EAEAEC"
   },
   "ford/thunderbird-1989": {
    "bytes": 23958,
@@ -14126,71 +14297,71 @@
   },
   "harley-davidson/breakout": {
    "bytes": 97096,
-   "tint": "#0C0C0C"
+   "tint": "#2F2F2F"
   },
   "harley-davidson/cvo-road-glide": {
    "bytes": 96844,
-   "tint": "#6C2424"
+   "tint": "#111110"
   },
   "harley-davidson/electra-glide": {
    "bytes": 90808,
-   "tint": "#0C0C0C"
+   "tint": "#2C2C2C"
   },
   "harley-davidson/fat-bob": {
    "bytes": 91742,
-   "tint": "#0C0C0C"
+   "tint": "#2B2C2C"
   },
   "harley-davidson/fat-boy": {
    "bytes": 78374,
-   "tint": "#0C0C0C"
+   "tint": "#121212"
   },
   "harley-davidson/forty-eight": {
    "bytes": 110556,
-   "tint": "#0C0C0C"
+   "tint": "#121212"
   },
   "harley-davidson/heritage-classic": {
    "bytes": 110434,
-   "tint": "#242424"
+   "tint": "#2C2D2C"
   },
   "harley-davidson/iron-883": {
    "bytes": 104376,
-   "tint": "#0C0C0C"
+   "tint": "#2B2B2C"
   },
   "harley-davidson/low-rider-s": {
    "bytes": 96286,
-   "tint": "#0C0C0C"
+   "tint": "#101010"
   },
   "harley-davidson/nightster": {
    "bytes": 88258,
-   "tint": "#0C0C0C"
+   "tint": "#121212"
   },
   "harley-davidson/pan-america-1250-special": {
    "bytes": 117762,
-   "tint": "#E45424"
+   "tint": "#2E2E2E"
   },
   "harley-davidson/road-glide": {
    "bytes": 86588,
-   "tint": "#0C0C0C"
+   "tint": "#121312"
   },
   "harley-davidson/road-king": {
    "bytes": 95322,
-   "tint": "#0C0C0C"
+   "tint": "#131414"
   },
   "harley-davidson/softail-standard": {
    "bytes": 101002,
-   "tint": "#242424"
+   "tint": "#2C2C2C"
   },
   "harley-davidson/sportster-s": {
    "bytes": 84364,
-   "tint": "#0C0C0C"
+   "tint": "#111111"
   },
   "harley-davidson/street-bob": {
    "bytes": 109342,
-   "tint": "#242424"
+   "tint": "#2C2C2C"
   },
   "harley-davidson/street-glide": {
    "bytes": 79270,
-   "tint": "#0C0C0C"
+   "tint": "#101111"
   },
   "hennessey/venom-f5": {
    "bytes": 28140,
@@ -14199,6 +14370,26 @@
   "hennessey/venom-gt": {
    "bytes": 30096,
    "tint": "#B0AFB0"
+  },
+  "holden/barina": {
+   "bytes": 30850,
+   "tint": "#4D4C4E"
+  },
+  "holden/colorado": {
+   "bytes": 24536,
+   "tint": "#EAEAEA"
+  },
+  "holden/commodore": {
+   "bytes": 24522,
+   "tint": "#D4D4D4"
+  },
+  "holden/commodre": {
+   "bytes": 28878,
+   "tint": "#4A4B4D"
+  },
+  "holden/ute": {
+   "bytes": 20440,
+   "tint": "#E8E8E8"
   },
   "honda/accord": {
    "bytes": 23994,
@@ -14246,11 +14437,11 @@
   },
   "honda/adv160": {
    "bytes": 88294,
-   "tint": "#242424"
+   "tint": "#2B2B2B"
   },
   "honda/africa-twin": {
    "bytes": 126944,
-   "tint": "#9C0C0C"
+   "tint": "#2A2A2A"
   },
   "honda/beat": {
    "bytes": 25142,
@@ -14260,29 +14451,53 @@
    "bytes": 33174,
    "tint": "#E3B104"
   },
+  "honda/brio": {
+   "bytes": 34638,
+   "tint": "#4A4B4D"
+  },
   "honda/cb1000r": {
    "bytes": 109070,
-   "tint": "#242424"
+   "tint": "#2E2E2F"
+  },
+  "honda/cb125r": {
+   "bytes": 56536,
+   "tint": "#2D2D2D"
   },
   "honda/cb500f": {
    "bytes": 107750,
-   "tint": "#3C3C3C"
+   "tint": "#2F2F2F"
   },
   "honda/cb650r": {
    "bytes": 101690,
-   "tint": "#242424"
+   "tint": "#2C2B2B"
+  },
+  "honda/cbr": {
+   "bytes": 59320,
+   "tint": "#2D2D2D"
   },
   "honda/cbr1000rr-r": {
    "bytes": 112568,
-   "tint": "#B40C0C"
+   "tint": "#B6030A"
+  },
+  "honda/cbr125r": {
+   "bytes": 57530,
+   "tint": "#2E2E2E"
   },
   "honda/cbr500r": {
    "bytes": 117612,
-   "tint": "#CC0C0C"
+   "tint": "#C90914"
   },
   "honda/cbr600rr": {
    "bytes": 120024,
-   "tint": "#CC0C0C"
+   "tint": "#CE0409"
+  },
+  "honda/cbr650r": {
+   "bytes": 69232,
+   "tint": "#2C2B2B"
+  },
+  "honda/city": {
+   "bytes": 28532,
+   "tint": "#D3D3D3"
   },
   "honda/city-turbo-ii-1983": {
    "bytes": 35508,
@@ -14410,7 +14625,7 @@
   },
   "honda/crf300l": {
    "bytes": 121590,
-   "tint": "#CC0C0C"
+   "tint": "#2A2A2A"
   },
   "honda/crosstour-2010": {
    "bytes": 31426,
@@ -14446,15 +14661,15 @@
   },
   "honda/forza-750": {
    "bytes": 85050,
-   "tint": "#242424"
+   "tint": "#2D2D2E"
   },
   "honda/gold-wing": {
    "bytes": 85424,
-   "tint": "#6C0C0C"
+   "tint": "#71070F"
   },
   "honda/grom": {
    "bytes": 107672,
-   "tint": "#FCCC0C"
+   "tint": "#F8CC05"
   },
   "honda/hr-v": {
    "bytes": 34628,
@@ -14476,9 +14691,17 @@
    "bytes": 27088,
    "tint": "#919395"
   },
+  "honda/integra": {
+   "bytes": 25836,
+   "tint": "#4A4A4A"
+  },
   "honda/integra-type-r-1995": {
    "bytes": 24054,
    "tint": "#D6D3CE"
+  },
+  "honda/jazz": {
+   "bytes": 26238,
+   "tint": "#ECECEB"
   },
   "honda/nsx-r-1992": {
    "bytes": 22450,
@@ -14514,7 +14737,7 @@
   },
   "honda/pcx160": {
    "bytes": 88170,
-   "tint": "#E4E4E4"
+   "tint": "#2D2D2F"
   },
   "honda/pilot": {
    "bytes": 25994,
@@ -14554,15 +14777,15 @@
   },
   "honda/rc213v-s": {
    "bytes": 111566,
-   "tint": "#CC0C0C"
+   "tint": "#CE0913"
   },
   "honda/rebel-1100": {
    "bytes": 92474,
-   "tint": "#242424"
+   "tint": "#2C2C2D"
   },
   "honda/rebel-500": {
    "bytes": 90836,
-   "tint": "#242424"
+   "tint": "#2C2C2C"
   },
   "honda/ridgeline": {
    "bytes": 23206,
@@ -14590,7 +14813,7 @@
   },
   "honda/xr650l": {
    "bytes": 133230,
-   "tint": "#0C246C"
+   "tint": "#CF2D30"
   },
   "hummer/h1-1992": {
    "bytes": 29582,
@@ -14614,7 +14837,7 @@
   },
   "husqvarna/701-supermoto": {
    "bytes": 109226,
-   "tint": "#242424"
+   "tint": "#2E2F2F"
   },
   "hyundai/accent-1995": {
    "bytes": 24926,
@@ -14643,6 +14866,10 @@
   "hyundai/azera-2012": {
    "bytes": 26640,
    "tint": "#D2D2D2"
+  },
+  "hyundai/creta": {
+   "bytes": 30750,
+   "tint": "#D4D4D4"
   },
   "hyundai/elantra": {
    "bytes": 27888,
@@ -14724,6 +14951,26 @@
    "bytes": 31144,
    "tint": "#B3020B"
   },
+  "hyundai/getz": {
+   "bytes": 27352,
+   "tint": "#4C4C4E"
+  },
+  "hyundai/i10": {
+   "bytes": 35192,
+   "tint": "#AEAEB2"
+  },
+  "hyundai/i20": {
+   "bytes": 29694,
+   "tint": "#D4D6D6"
+  },
+  "hyundai/i30": {
+   "bytes": 28332,
+   "tint": "#4E4E51"
+  },
+  "hyundai/i30n": {
+   "bytes": 29824,
+   "tint": "#4E5053"
+  },
   "hyundai/ioniq-2017": {
    "bytes": 30666,
    "tint": "#8E8F91"
@@ -14788,6 +15035,10 @@
    "bytes": 24712,
    "tint": "#8F8E90"
   },
+  "hyundai/solaris": {
+   "bytes": 30840,
+   "tint": "#ADADAF"
+  },
   "hyundai/sonata": {
    "bytes": 28358,
    "tint": "#ADB0B3"
@@ -14848,6 +15099,10 @@
    "bytes": 30524,
    "tint": "#EEEDEF"
   },
+  "hyundai/tuscon": {
+   "bytes": 35714,
+   "tint": "#919192"
+  },
   "hyundai/veloster-2011": {
    "bytes": 30974,
    "tint": "#ADACB1"
@@ -14882,27 +15137,27 @@
   },
   "indian/challenger": {
    "bytes": 78202,
-   "tint": "#0C0C0C"
+   "tint": "#0F0F0F"
   },
   "indian/chief-dark-horse": {
    "bytes": 83404,
-   "tint": "#242424"
+   "tint": "#2E2E30"
   },
   "indian/chieftain": {
    "bytes": 82720,
-   "tint": "#0C0C0C"
+   "tint": "#131313"
   },
   "indian/ftr-1200": {
    "bytes": 123026,
-   "tint": "#B42424"
+   "tint": "#2E2D2D"
   },
   "indian/scout-bobber": {
    "bytes": 83514,
-   "tint": "#242424"
+   "tint": "#292A2A"
   },
   "indian/springfield": {
    "bytes": 94776,
-   "tint": "#242424"
+   "tint": "#2B2B2C"
   },
   "infiniti/ex35-2008": {
    "bytes": 27940,
@@ -14923,6 +15178,10 @@
   "infiniti/g20-1999": {
    "bytes": 22440,
    "tint": "#929394"
+  },
+  "infiniti/g35": {
+   "bytes": 22020,
+   "tint": "#ECECEC"
   },
   "infiniti/g35-coupe-2003": {
    "bytes": 22696,
@@ -15071,6 +15330,10 @@
   "isuzu/axiom": {
    "bytes": 26486,
    "tint": "#B0B0B1"
+  },
+  "isuzu/dmax": {
+   "bytes": 27238,
+   "tint": "#CECFD1"
   },
   "isuzu/hombre": {
    "bytes": 22606,
@@ -15334,59 +15597,75 @@
   },
   "kawasaki/klr650": {
    "bytes": 119008,
-   "tint": "#3C3C3C"
+   "tint": "#2F3132"
+  },
+  "kawasaki/ninja": {
+   "bytes": 63846,
+   "tint": "#2D2E2C"
   },
   "kawasaki/ninja-400": {
    "bytes": 121698,
-   "tint": "#54B424"
+   "tint": "#4DB02D"
+  },
+  "kawasaki/ninja-500": {
+   "bytes": 62152,
+   "tint": "#2B2B2C"
   },
   "kawasaki/ninja-650": {
    "bytes": 117248,
-   "tint": "#54B424"
+   "tint": "#2A2D2F"
   },
   "kawasaki/ninja-h2": {
    "bytes": 121170,
-   "tint": "#0C0C0C"
+   "tint": "#2B2C2D"
   },
   "kawasaki/ninja-h2r": {
    "bytes": 126076,
-   "tint": "#0C0C0C"
+   "tint": "#2D2D2E"
   },
   "kawasaki/ninja-zx-10r": {
    "bytes": 106084,
-   "tint": "#24840C"
+   "tint": "#2E8C11"
   },
   "kawasaki/ninja-zx-14r": {
    "bytes": 103746,
-   "tint": "#0C0C0C"
+   "tint": "#2D2F30"
   },
   "kawasaki/ninja-zx-6r": {
    "bytes": 122710,
-   "tint": "#54B40C"
+   "tint": "#51AC09"
   },
   "kawasaki/versys-1000": {
    "bytes": 114296,
-   "tint": "#6CB43C"
+   "tint": "#2C2F31"
   },
   "kawasaki/vulcan-s": {
    "bytes": 90126,
-   "tint": "#0C0C0C"
+   "tint": "#2E3031"
   },
   "kawasaki/z-h2": {
    "bytes": 126598,
-   "tint": "#0C0C0C"
+   "tint": "#2B2F31"
+  },
+  "kawasaki/z125": {
+   "bytes": 56466,
+   "tint": "#2C2C2D"
   },
   "kawasaki/z650": {
    "bytes": 118084,
-   "tint": "#0C0C0C"
+   "tint": "#2B2F30"
   },
   "kawasaki/z900": {
    "bytes": 117302,
-   "tint": "#0C0C0C"
+   "tint": "#2D2F2F"
   },
   "kawasaki/z900rs": {
    "bytes": 120314,
-   "tint": "#0C0C0C"
+   "tint": "#2A2C2F"
+  },
+  "kawasaki/zx6r": {
+   "bytes": 63248,
+   "tint": "#2D2E2F"
   },
   "kia/amanti-2004": {
    "bytes": 22876,
@@ -15403,6 +15682,10 @@
   "kia/carnival": {
    "bytes": 25602,
    "tint": "#D1D0CE"
+  },
+  "kia/ceed": {
+   "bytes": 30796,
+   "tint": "#4F5052"
   },
   "kia/ev6-2022": {
    "bytes": 27724,
@@ -15435,6 +15718,14 @@
   "kia/forte-koup-2010": {
    "bytes": 23900,
    "tint": "#0D0D0D"
+  },
+  "kia/k3": {
+   "bytes": 24804,
+   "tint": "#F0F0F0"
+  },
+  "kia/k4": {
+   "bytes": 26390,
+   "tint": "#101010"
   },
   "kia/k5": {
    "bytes": 25792,
@@ -15471,6 +15762,14 @@
   "kia/optima-2016": {
    "bytes": 27854,
    "tint": "#AFB0B1"
+  },
+  "kia/picanto": {
+   "bytes": 35412,
+   "tint": "#CED0D1"
+  },
+  "kia/proceed-gt": {
+   "bytes": 32170,
+   "tint": "#6E6E70"
   },
   "kia/rio-2001": {
    "bytes": 26720,
@@ -15511,6 +15810,10 @@
   "kia/sephia-1994": {
    "bytes": 22932,
    "tint": "#D3D3D4"
+  },
+  "kia/sonet": {
+   "bytes": 30938,
+   "tint": "#F2F2F2"
   },
   "kia/sorento": {
    "bytes": 32756,
@@ -15596,6 +15899,10 @@
    "bytes": 31530,
    "tint": "#6C0305"
   },
+  "kia/stonic": {
+   "bytes": 29588,
+   "tint": "#EDEDED"
+  },
   "kia/telluride": {
    "bytes": 25124,
    "tint": "#EDEDED"
@@ -15646,39 +15953,39 @@
   },
   "ktm/1290-super-adventure-r": {
    "bytes": 130672,
-   "tint": "#FC540C"
+   "tint": "#F54D05"
   },
   "ktm/1290-super-duke-r": {
    "bytes": 118044,
-   "tint": "#FC540C"
+   "tint": "#EE5503"
   },
   "ktm/390-duke": {
    "bytes": 132008,
-   "tint": "#FC540C"
+   "tint": "#2D2D2D"
   },
   "ktm/500-exc-f": {
    "bytes": 134426,
-   "tint": "#FC3C0C"
+   "tint": "#2C2C2B"
   },
   "ktm/690-smc-r": {
    "bytes": 113750,
-   "tint": "#FC540C"
+   "tint": "#F34F05"
   },
   "ktm/790-duke": {
    "bytes": 126010,
-   "tint": "#FC6C24"
+   "tint": "#2D2D2D"
   },
   "ktm/890-adventure-r": {
    "bytes": 127700,
-   "tint": "#FC540C"
+   "tint": "#2E2E2E"
   },
   "ktm/890-duke-r": {
    "bytes": 120660,
-   "tint": "#FC6C0C"
+   "tint": "#EF5506"
   },
   "ktm/rc-390": {
    "bytes": 135738,
-   "tint": "#FC540C"
+   "tint": "#F15508"
   },
   "lamborghini/aventador": {
    "bytes": 29690,
@@ -15847,6 +16154,10 @@
   "land-rover/lr4-2009": {
    "bytes": 28250,
    "tint": "#ECECE9"
+  },
+  "land-rover/range-rover": {
+   "bytes": 25690,
+   "tint": "#ECECED"
   },
   "land-rover/range-rover-classic-1970": {
    "bytes": 30112,
@@ -16392,6 +16703,10 @@
    "bytes": 30336,
    "tint": "#8D0611"
   },
+  "mazda/demio": {
+   "bytes": 29012,
+   "tint": "#EFEFEE"
+  },
   "mazda/eunos-cosmo-1990": {
    "bytes": 19430,
    "tint": "#D5D2CD"
@@ -16495,6 +16810,14 @@
   "mazda/mx-6-1993": {
    "bytes": 24144,
    "tint": "#8D8F91"
+  },
+  "mazda/mx5": {
+   "bytes": 26136,
+   "tint": "#8E9094"
+  },
+  "mazda/mx5-nc": {
+   "bytes": 26262,
+   "tint": "#8F8F8F"
   },
   "mazda/protege-1990": {
    "bytes": 23386,
@@ -16688,6 +17011,14 @@
    "bytes": 29946,
    "tint": "#8D8F92"
   },
+  "mercedes-benz/c220-cdi": {
+   "bytes": 29680,
+   "tint": "#AEAFB0"
+  },
+  "mercedes-benz/c300": {
+   "bytes": 24614,
+   "tint": "#EDECEA"
+  },
   "mercedes-benz/c32-amg-2001": {
    "bytes": 30692,
    "tint": "#ADB0B2"
@@ -16795,6 +17126,10 @@
   "mercedes-benz/e-class-2016": {
    "bytes": 26206,
    "tint": "#ACADB0"
+  },
+  "mercedes-benz/e350": {
+   "bytes": 24278,
+   "tint": "#EAE9E7"
   },
   "mercedes-benz/e55-amg-1999": {
    "bytes": 22796,
@@ -17304,6 +17639,10 @@
    "bytes": 33576,
    "tint": "#AB050B"
   },
+  "mini/one": {
+   "bytes": 30084,
+   "tint": "#303030"
+  },
   "mini/paceman-2013": {
    "bytes": 30776,
    "tint": "#111010"
@@ -17319,6 +17658,10 @@
   "mitsubishi/3000gt-vr-4-1991": {
    "bytes": 24860,
    "tint": "#D1D1CF"
+  },
+  "mitsubishi/colt": {
+   "bytes": 27630,
+   "tint": "#D3D3D1"
   },
   "mitsubishi/diamante-1992": {
    "bytes": 26380,
@@ -17524,6 +17867,10 @@
    "bytes": 26174,
    "tint": "#939394"
   },
+  "mitsubishi/triton": {
+   "bytes": 29416,
+   "tint": "#4F5152"
+  },
   "morgan/3-wheeler-2011": {
    "bytes": 25880,
    "tint": "#2C2C2C"
@@ -17538,19 +17885,19 @@
   },
   "moto-guzzi/v7-stone": {
    "bytes": 95688,
-   "tint": "#3C3C3C"
+   "tint": "#303030"
   },
   "moto-guzzi/v85-tt": {
    "bytes": 128528,
-   "tint": "#FCB424"
+   "tint": "#2E2E2E"
   },
   "mv-agusta/brutale-1000-rr": {
    "bytes": 121022,
-   "tint": "#9C0C0C"
+   "tint": "#2D2D2E"
   },
   "mv-agusta/f3-800-rr": {
    "bytes": 118506,
-   "tint": "#840C0C"
+   "tint": "#8F0606"
   },
   "nissan/180sx-1989": {
    "bytes": 21418,
@@ -17752,6 +18099,10 @@
    "bytes": 23260,
    "tint": "#0E0E0E"
   },
+  "nissan/micra": {
+   "bytes": 32210,
+   "tint": "#4A4B4D"
+  },
   "nissan/murano": {
    "bytes": 33644,
    "tint": "#8F9091"
@@ -17767,6 +18118,14 @@
   "nissan/murano-2015": {
    "bytes": 32060,
    "tint": "#CDCECF"
+  },
+  "nissan/navara": {
+   "bytes": 27908,
+   "tint": "#0D0D0D"
+  },
+  "nissan/np200": {
+   "bytes": 22460,
+   "tint": "#ACADB0"
   },
   "nissan/nx2000-1991": {
    "bytes": 27458,
@@ -17792,9 +18151,17 @@
    "bytes": 34594,
    "tint": "#8E9090"
   },
+  "nissan/patrol": {
+   "bytes": 29376,
+   "tint": "#EBEBEB"
+  },
   "nissan/president-1990": {
    "bytes": 23982,
    "tint": "#0A0A0A"
+  },
+  "nissan/pulsar": {
+   "bytes": 27592,
+   "tint": "#EBEBEB"
   },
   "nissan/pulsar-gti-r-1990": {
    "bytes": 27730,
@@ -17803,6 +18170,10 @@
   "nissan/pulsar-nx-1987": {
    "bytes": 24892,
    "tint": "#D0D0D2"
+  },
+  "nissan/qashqai": {
+   "bytes": 32358,
+   "tint": "#8E9094"
   },
   "nissan/quest-1993": {
    "bytes": 28696,
@@ -18024,6 +18395,38 @@
    "bytes": 26352,
    "tint": "#D2D2D0"
   },
+  "opel/astra": {
+   "bytes": 29932,
+   "tint": "#6C6C70"
+  },
+  "opel/astra-h": {
+   "bytes": 31260,
+   "tint": "#CDCECF"
+  },
+  "opel/astra-j": {
+   "bytes": 25710,
+   "tint": "#D2D3D3"
+  },
+  "opel/corsa": {
+   "bytes": 33396,
+   "tint": "#ADAEB2"
+  },
+  "opel/corsa-b": {
+   "bytes": 26654,
+   "tint": "#AEAFB2"
+  },
+  "opel/corsa-c": {
+   "bytes": 29398,
+   "tint": "#CFCFCF"
+  },
+  "opel/crossland": {
+   "bytes": 30182,
+   "tint": "#2B2B2B"
+  },
+  "opel/vectra-b": {
+   "bytes": 26774,
+   "tint": "#ACADB0"
+  },
   "pagani/huayra": {
    "bytes": 30648,
    "tint": "#ADAFB0"
@@ -18068,6 +18471,14 @@
    "bytes": 28614,
    "tint": "#AFB0AF"
   },
+  "peugeot/106": {
+   "bytes": 25388,
+   "tint": "#E7E8E8"
+  },
+  "peugeot/2008": {
+   "bytes": 31772,
+   "tint": "#2C2C2C"
+  },
   "peugeot/205-gti-1984": {
    "bytes": 34048,
    "tint": "#AA040D"
@@ -18076,21 +18487,61 @@
    "bytes": 38880,
    "tint": "#8E060F"
   },
+  "peugeot/206cc": {
+   "bytes": 29022,
+   "tint": "#505051"
+  },
+  "peugeot/207": {
+   "bytes": 28582,
+   "tint": "#EAEAEA"
+  },
+  "peugeot/208": {
+   "bytes": 30848,
+   "tint": "#4F5051"
+  },
   "peugeot/208-gti-2012": {
    "bytes": 36928,
    "tint": "#96050B"
+  },
+  "peugeot/3008": {
+   "bytes": 30668,
+   "tint": "#131313"
+  },
+  "peugeot/306": {
+   "bytes": 25544,
+   "tint": "#999BA3"
   },
   "peugeot/306-gti-6-1996": {
    "bytes": 27680,
    "tint": "#91040B"
   },
+  "peugeot/307-sw": {
+   "bytes": 27736,
+   "tint": "#4D4E4F"
+  },
+  "peugeot/308": {
+   "bytes": 25382,
+   "tint": "#EDEEF1"
+  },
   "peugeot/405-mi16-1988": {
    "bytes": 28894,
    "tint": "#78848C"
   },
+  "peugeot/407": {
+   "bytes": 27194,
+   "tint": "#ACAFB0"
+  },
+  "peugeot/508": {
+   "bytes": 25286,
+   "tint": "#8B8C8F"
+  },
+  "peugeot/partner": {
+   "bytes": 34874,
+   "tint": "#ACB1B1"
+  },
   "piaggio/beverly-400": {
    "bytes": 94076,
-   "tint": "#3C5484"
+   "tint": "#324A72"
   },
   "plymouth/breeze-1996": {
    "bytes": 28248,
@@ -18620,9 +19071,53 @@
    "bytes": 28656,
    "tint": "#064B8F"
   },
+  "renault/captur": {
+   "bytes": 32098,
+   "tint": "#CFD0D2"
+  },
+  "renault/clio": {
+   "bytes": 27200,
+   "tint": "#D5D5D5"
+  },
+  "renault/clio-2": {
+   "bytes": 27670,
+   "tint": "#D1D2D0"
+  },
+  "renault/clio-3": {
+   "bytes": 26578,
+   "tint": "#CED1D0"
+  },
+  "renault/clio-3-rs": {
+   "bytes": 28216,
+   "tint": "#4A4A4D"
+  },
+  "renault/clio-v": {
+   "bytes": 33088,
+   "tint": "#ACAEAD"
+  },
   "renault/clio-williams-1993": {
    "bytes": 37184,
    "tint": "#152951"
+  },
+  "renault/kangoo": {
+   "bytes": 32632,
+   "tint": "#909091"
+  },
+  "renault/kwid": {
+   "bytes": 29718,
+   "tint": "#4B4C4D"
+  },
+  "renault/laguna": {
+   "bytes": 24294,
+   "tint": "#D3D3D3"
+  },
+  "renault/logan": {
+   "bytes": 28772,
+   "tint": "#CDCDCF"
+  },
+  "renault/megane": {
+   "bytes": 32444,
+   "tint": "#ACAFB1"
   },
   "renault/megane-rs-r26r-2008": {
    "bytes": 33600,
@@ -18631,6 +19126,14 @@
   "renault/megane-rs-trophy-r-2019": {
    "bytes": 41762,
    "tint": "#D7A90D"
+  },
+  "renault/sandero": {
+   "bytes": 25982,
+   "tint": "#EAEAEA"
+  },
+  "renault/twingo": {
+   "bytes": 28390,
+   "tint": "#D2D4D3"
   },
   "rivian/edv": {
    "bytes": 16532,
@@ -18698,15 +19201,15 @@
   },
   "royal-enfield/continental-gt-650": {
    "bytes": 129844,
-   "tint": "#242424"
+   "tint": "#2B2C2B"
   },
   "royal-enfield/himalayan": {
    "bytes": 134456,
-   "tint": "#242424"
+   "tint": "#2D2D2D"
   },
   "royal-enfield/interceptor-650": {
    "bytes": 134242,
-   "tint": "#242424"
+   "tint": "#2C2C2B"
   },
   "ruf/ctr-yellowbird-1987": {
    "bytes": 35148,
@@ -18832,6 +19335,10 @@
    "bytes": 28928,
    "tint": "#131313"
   },
+  "scion/fr-s": {
+   "bytes": 23860,
+   "tint": "#D0D1CF"
+  },
   "scion/ia-2016": {
    "bytes": 26988,
    "tint": "#ACADB0"
@@ -18860,6 +19367,30 @@
    "bytes": 27352,
    "tint": "#CECFD1"
   },
+  "seat/alhambra": {
+   "bytes": 31710,
+   "tint": "#CCCED0"
+  },
+  "seat/arosa": {
+   "bytes": 26412,
+   "tint": "#4B4D4E"
+  },
+  "seat/ateca": {
+   "bytes": 28094,
+   "tint": "#EDEDEF"
+  },
+  "seat/ibiza": {
+   "bytes": 26360,
+   "tint": "#EEEEEE"
+  },
+  "seat/mii": {
+   "bytes": 30158,
+   "tint": "#4C4E51"
+  },
+  "seat/toledo": {
+   "bytes": 22738,
+   "tint": "#ECECEC"
+  },
   "shelby/cobra-427-1965": {
    "bytes": 28148,
    "tint": "#03356B"
@@ -18871,6 +19402,62 @@
   "shelby/series-1": {
    "bytes": 26430,
    "tint": "#B0B1B0"
+  },
+  "skoda/citigo": {
+   "bytes": 28930,
+   "tint": "#ADAFAF"
+  },
+  "skoda/fabia": {
+   "bytes": 31816,
+   "tint": "#4F5051"
+  },
+  "skoda/fabia-1": {
+   "bytes": 28768,
+   "tint": "#D0D1D0"
+  },
+  "skoda/fabia-i": {
+   "bytes": 27626,
+   "tint": "#EFEFEF"
+  },
+  "skoda/fabia-ii": {
+   "bytes": 27430,
+   "tint": "#EEEEEE"
+  },
+  "skoda/karoq": {
+   "bytes": 30794,
+   "tint": "#D4D5D5"
+  },
+  "skoda/octavia": {
+   "bytes": 33422,
+   "tint": "#ACAEB1"
+  },
+  "skoda/octavia-mk1": {
+   "bytes": 29124,
+   "tint": "#AAABAC"
+  },
+  "skoda/octavia-rs": {
+   "bytes": 26656,
+   "tint": "#525354"
+  },
+  "skoda/octavia-vrs": {
+   "bytes": 30234,
+   "tint": "#EDEDED"
+  },
+  "skoda/oktavia": {
+   "bytes": 31726,
+   "tint": "#8C8E91"
+  },
+  "skoda/rapid": {
+   "bytes": 26998,
+   "tint": "#4A4C4D"
+  },
+  "skoda/scala": {
+   "bytes": 31322,
+   "tint": "#ABB0B1"
+  },
+  "skoda/superb": {
+   "bytes": 29492,
+   "tint": "#494C4D"
   },
   "smart/fortwo-2008": {
    "bytes": 33250,
@@ -19004,6 +19591,10 @@
    "bytes": 28166,
    "tint": "#0A1731"
   },
+  "subaru/liberty": {
+   "bytes": 26558,
+   "tint": "#6C6D70"
+  },
   "subaru/loyale-1990": {
    "bytes": 25342,
    "tint": "#E9E9EA"
@@ -19039,6 +19630,10 @@
   "subaru/solterra": {
    "bytes": 32146,
    "tint": "#2E2E2F"
+  },
+  "subaru/sti": {
+   "bytes": 30568,
+   "tint": "#8E8F92"
   },
   "subaru/svx-1992": {
    "bytes": 22408,
@@ -19100,9 +19695,21 @@
    "bytes": 46332,
    "tint": "#072D71"
   },
+  "subaru/xv": {
+   "bytes": 31178,
+   "tint": "#ACADB0"
+  },
+  "suzuki/alto-k10": {
+   "bytes": 28822,
+   "tint": "#505255"
+  },
   "suzuki/alto-works": {
    "bytes": 29374,
    "tint": "#EEEEEE"
+  },
+  "suzuki/baleno": {
+   "bytes": 33304,
+   "tint": "#8F9193"
   },
   "suzuki/cappuccino": {
    "bytes": 25688,
@@ -19114,27 +19721,31 @@
   },
   "suzuki/dr-z400sm": {
    "bytes": 121596,
-   "tint": "#E4B40C"
+   "tint": "#2D2F30"
   },
   "suzuki/gsx-r1000r": {
    "bytes": 115972,
-   "tint": "#0C3C84"
+   "tint": "#068DF3"
   },
   "suzuki/gsx-r600": {
    "bytes": 118924,
-   "tint": "#0C2484"
+   "tint": "#1A2327"
   },
   "suzuki/gsx-r750": {
    "bytes": 111350,
-   "tint": "#0C3C84"
+   "tint": "#0451AD"
   },
   "suzuki/gsx-s1000": {
    "bytes": 107780,
-   "tint": "#0C54B4"
+   "tint": "#0F1213"
+  },
+  "suzuki/gsx650f": {
+   "bytes": 60836,
+   "tint": "#2D2D2E"
   },
   "suzuki/hayabusa": {
    "bytes": 85378,
-   "tint": "#0C0C0C"
+   "tint": "#101111"
   },
   "suzuki/jimny-1981": {
    "bytes": 31922,
@@ -19150,7 +19761,15 @@
   },
   "suzuki/sv650": {
    "bytes": 119546,
-   "tint": "#0C2454"
+   "tint": "#0D326E"
+  },
+  "suzuki/swift": {
+   "bytes": 28724,
+   "tint": "#494C4D"
+  },
+  "suzuki/swift-sport": {
+   "bytes": 33638,
+   "tint": "#303030"
   },
   "suzuki/sx4": {
    "bytes": 36280,
@@ -19158,7 +19777,11 @@
   },
   "suzuki/v-strom-650": {
    "bytes": 104984,
-   "tint": "#E4CC0C"
+   "tint": "#101313"
+  },
+  "suzuki/vitara": {
+   "bytes": 32930,
+   "tint": "#4F4F51"
   },
   "tesla/cybertruck": {
    "bytes": 20004,
@@ -19264,9 +19887,17 @@
    "bytes": 29082,
    "tint": "#AC0712"
   },
+  "toyota/86": {
+   "bytes": 22794,
+   "tint": "#4E4F50"
+  },
   "toyota/ae86-1983": {
    "bytes": 21966,
    "tint": "#131313"
+  },
+  "toyota/auris": {
+   "bytes": 29054,
+   "tint": "#313131"
   },
   "toyota/avalon-1995": {
    "bytes": 26594,
@@ -19275,6 +19906,14 @@
   "toyota/avalon-2005": {
    "bytes": 23904,
    "tint": "#CFCFD1"
+  },
+  "toyota/avensis": {
+   "bytes": 30350,
+   "tint": "#ACAFB0"
+  },
+  "toyota/aygo": {
+   "bytes": 27234,
+   "tint": "#CDCED0"
   },
   "toyota/c-hr": {
    "bytes": 34482,
@@ -19332,9 +19971,21 @@
    "bytes": 34372,
    "tint": "#8E8F92"
   },
+  "toyota/corrolla": {
+   "bytes": 28844,
+   "tint": "#CECFD1"
+  },
   "toyota/echo-2000": {
    "bytes": 27648,
    "tint": "#B0B0B1"
+  },
+  "toyota/fj-cruiser": {
+   "bytes": 28208,
+   "tint": "#EBEBEB"
+  },
+  "toyota/fortuner": {
+   "bytes": 29356,
+   "tint": "#EDEDED"
   },
   "toyota/gr-corolla": {
    "bytes": 31710,
@@ -19348,6 +19999,10 @@
    "bytes": 32456,
    "tint": "#032B71"
   },
+  "toyota/gt86": {
+   "bytes": 27602,
+   "tint": "#EBEBEB"
+  },
   "toyota/highlander": {
    "bytes": 27514,
    "tint": "#EFEFF1"
@@ -19355,6 +20010,14 @@
   "toyota/highlander-2001": {
    "bytes": 26576,
    "tint": "#CDCED1"
+  },
+  "toyota/hilux": {
+   "bytes": 28624,
+   "tint": "#4D4F51"
+  },
+  "toyota/innova": {
+   "bytes": 33208,
+   "tint": "#6D6D6F"
   },
   "toyota/land-cruiser": {
    "bytes": 25786,
@@ -19403,6 +20066,10 @@
   "toyota/pixis": {
    "bytes": 25164,
    "tint": "#D7D6D4"
+  },
+  "toyota/prado": {
+   "bytes": 31450,
+   "tint": "#4B4E4E"
   },
   "toyota/prius": {
    "bytes": 30412,
@@ -19455,6 +20122,10 @@
   "toyota/solara-2004": {
    "bytes": 22912,
    "tint": "#CDCDCF"
+  },
+  "toyota/starlet": {
+   "bytes": 25976,
+   "tint": "#343434"
   },
   "toyota/supra": {
    "bytes": 33556,
@@ -19512,6 +20183,10 @@
    "bytes": 27854,
    "tint": "#890615"
   },
+  "toyota/ute": {
+   "bytes": 27684,
+   "tint": "#6B6D72"
+  },
   "toyota/van-1984": {
    "bytes": 25890,
    "tint": "#4E4E4F"
@@ -19520,37 +20195,41 @@
    "bytes": 30364,
    "tint": "#ADAEAE"
   },
+  "toyota/wish": {
+   "bytes": 23128,
+   "tint": "#EBEBEB"
+  },
   "toyota/yaris-2007": {
    "bytes": 29382,
    "tint": "#CBCCCF"
   },
   "triumph/bonneville-t120": {
    "bytes": 119586,
-   "tint": "#242424"
+   "tint": "#2D2D2D"
   },
   "triumph/rocket-3-r": {
    "bytes": 90846,
-   "tint": "#0C0C0C"
+   "tint": "#2E2E2F"
   },
   "triumph/scrambler-1200-xe": {
    "bytes": 121724,
-   "tint": "#0C0C0C"
+   "tint": "#2B2B2A"
   },
   "triumph/speed-triple-1200-rs": {
    "bytes": 116480,
-   "tint": "#0C0C0C"
+   "tint": "#2D2D2D"
   },
   "triumph/speed-twin-1200": {
    "bytes": 110700,
-   "tint": "#242424"
+   "tint": "#2D2D2E"
   },
   "triumph/street-triple-rs": {
    "bytes": 109034,
-   "tint": "#242424"
+   "tint": "#2D2E2F"
   },
   "triumph/tiger-900-rally-pro": {
    "bytes": 134486,
-   "tint": "#242424"
+   "tint": "#2D2D2D"
   },
   "triumph/tr6-1968": {
    "bytes": 24698,
@@ -19558,7 +20237,7 @@
   },
   "triumph/trident-660": {
    "bytes": 104582,
-   "tint": "#0C0C0C"
+   "tint": "#2F2F2F"
   },
   "tvr/griffith-1991": {
    "bytes": 25960,
@@ -19578,11 +20257,11 @@
   },
   "vespa/gts-300": {
    "bytes": 78256,
-   "tint": "#3C3C3C"
+   "tint": "#2E2F32"
   },
   "vespa/primavera-150": {
    "bytes": 80172,
-   "tint": "#9CB4CC"
+   "tint": "#98B4C9"
   },
   "vinfast/vf8": {
    "bytes": 33588,
@@ -19612,6 +20291,10 @@
    "bytes": 31736,
    "tint": "#7491A5"
   },
+  "volkswagen/bora": {
+   "bytes": 23468,
+   "tint": "#ACB1B1"
+  },
   "volkswagen/bus-t1-1950": {
    "bytes": 24736,
    "tint": "#4586B4"
@@ -19632,6 +20315,10 @@
    "bytes": 28932,
    "tint": "#133426"
   },
+  "volkswagen/crafter": {
+   "bytes": 25782,
+   "tint": "#717173"
+  },
   "volkswagen/e-golf-2015": {
    "bytes": 32378,
    "tint": "#11366B"
@@ -19643,6 +20330,10 @@
   "volkswagen/eurovan-1993": {
    "bytes": 25914,
    "tint": "#D3D4D2"
+  },
+  "volkswagen/gol": {
+   "bytes": 31032,
+   "tint": "#323335"
   },
   "volkswagen/golf-1985": {
    "bytes": 28754,
@@ -19812,9 +20503,17 @@
    "bytes": 25262,
    "tint": "#0F0F0F"
   },
+  "volkswagen/lupo": {
+   "bytes": 25502,
+   "tint": "#B8C6C1"
+  },
   "volkswagen/lupo-gti-2000": {
    "bytes": 28834,
    "tint": "#E8B407"
+  },
+  "volkswagen/multivan": {
+   "bytes": 28852,
+   "tint": "#ADAFAF"
   },
   "volkswagen/passat": {
    "bytes": 30486,
@@ -19848,9 +20547,17 @@
    "bytes": 24172,
    "tint": "#101011"
   },
+  "volkswagen/polo": {
+   "bytes": 30802,
+   "tint": "#CCCED1"
+  },
   "volkswagen/polo-gti-2010": {
    "bytes": 35664,
    "tint": "#B40407"
+  },
+  "volkswagen/polo-vi": {
+   "bytes": 32578,
+   "tint": "#ABAFB0"
   },
   "volkswagen/r32-2004": {
    "bytes": 31514,
@@ -19879,6 +20586,10 @@
   "volkswagen/scirocco-1982": {
    "bytes": 31184,
    "tint": "#AF020C"
+  },
+  "volkswagen/sharan": {
+   "bytes": 26032,
+   "tint": "#ECECEC"
   },
   "volkswagen/thing-1973": {
    "bytes": 24182,
@@ -20016,6 +20727,10 @@
    "bytes": 24390,
    "tint": "#909091"
   },
+  "volvo/s80": {
+   "bytes": 29752,
+   "tint": "#494949"
+  },
   "volvo/s90-2016": {
    "bytes": 24412,
    "tint": "#D5D5D5"
@@ -20027,6 +20742,10 @@
   "volvo/v40-2012": {
    "bytes": 29394,
    "tint": "#ACAEB1"
+  },
+  "volvo/v50": {
+   "bytes": 26390,
+   "tint": "#525356"
   },
   "volvo/v60": {
    "bytes": 26524,
@@ -20094,59 +20813,75 @@
   },
   "yamaha/bolt": {
    "bytes": 95690,
-   "tint": "#0C0C0C"
+   "tint": "#2C2C2D"
   },
   "yamaha/mt-03": {
    "bytes": 109696,
-   "tint": "#0C849C"
+   "tint": "#2A2B2A"
   },
   "yamaha/mt-07": {
    "bytes": 113416,
-   "tint": "#0CB4CC"
+   "tint": "#2D2C2F"
   },
   "yamaha/mt-09": {
    "bytes": 107420,
-   "tint": "#0C6C6C"
+   "tint": "#2D2E2E"
   },
   "yamaha/mt-10": {
    "bytes": 111932,
-   "tint": "#0C2484"
+   "tint": "#121213"
+  },
+  "yamaha/r1": {
+   "bytes": 57258,
+   "tint": "#131313"
+  },
+  "yamaha/r125": {
+   "bytes": 58046,
+   "tint": "#2C2C2C"
+  },
+  "yamaha/r6": {
+   "bytes": 61070,
+   "tint": "#131313"
+  },
+  "yamaha/r7": {
+   "bytes": 60710,
+   "tint": "#2D2D2D"
   },
   "yamaha/tenere-700": {
    "bytes": 123654,
-   "tint": "#0C24B4"
+   "tint": "#2C2C2C"
   },
   "yamaha/wr250r": {
    "bytes": 139878,
-   "tint": "#0C2484"
+   "tint": "#092B90"
   },
   "yamaha/xmax-300": {
    "bytes": 84458,
-   "tint": "#242424"
+   "tint": "#2E2E2E"
   },
   "yamaha/xsr900": {
    "bytes": 110330,
-   "tint": "#849CCC"
+   "tint": "#2D2D2E"
   },
   "yamaha/yzf-r1": {
    "bytes": 106466,
-   "tint": "#0C2484"
+   "tint": "#021889"
   },
   "yamaha/yzf-r1m": {
    "bytes": 123456,
-   "tint": "#0C0C0C"
+   "tint": "#2E2E2F"
   },
   "yamaha/yzf-r3": {
    "bytes": 105244,
-   "tint": "#0C2484"
+   "tint": "#07126F"
   },
   "yamaha/yzf-r6": {
    "bytes": 105468,
-   "tint": "#0C246C"
+   "tint": "#0C186E"
   },
   "yamaha/yzf-r7": {
    "bytes": 104014,
-   "tint": "#242484"
+   "tint": "#0A156D"
   },
   "yugo/gv": {
    "bytes": 27360,
