@@ -14363,6 +14363,10 @@
    "bytes": 28658,
    "tint": "#EFEFEF"
   },
+  "citroen/c4": {
+   "bytes": 32816,
+   "tint": "#929294"
+  },
   "citroen/ds-1955": {
    "bytes": 21922,
    "tint": "#8A898C"
@@ -19975,9 +19979,17 @@
    "bytes": 29398,
    "tint": "#CFCFCF"
   },
+  "opel/corsa-d": {
+   "bytes": 42354,
+   "tint": "#104A94"
+  },
   "opel/crossland": {
    "bytes": 30182,
    "tint": "#2B2B2B"
+  },
+  "opel/insignia": {
+   "bytes": 31598,
+   "tint": "#333435"
   },
   "opel/vectra-b": {
    "bytes": 26774,
@@ -20687,6 +20699,10 @@
    "bytes": 25982,
    "tint": "#EAEAEA"
   },
+  "renault/scenic": {
+   "bytes": 35674,
+   "tint": "#545555"
+  },
   "renault/twingo": {
    "bytes": 28390,
    "tint": "#D2D4D3"
@@ -20938,6 +20954,10 @@
   "seat/ibiza": {
    "bytes": 26360,
    "tint": "#EEEEEE"
+  },
+  "seat/leon": {
+   "bytes": 38346,
+   "tint": "#940A12"
   },
   "seat/mii": {
    "bytes": 30158,
@@ -21862,6 +21882,10 @@
   "volkswagen/cabriolet-1990": {
    "bytes": 22130,
    "tint": "#D2D1CF"
+  },
+  "volkswagen/caddy": {
+   "bytes": 27090,
+   "tint": "#E9E9EB"
   },
   "volkswagen/cc-2009": {
    "bytes": 27224,

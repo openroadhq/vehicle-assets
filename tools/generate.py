@@ -225,7 +225,13 @@ def rebuild_manifest() -> None:
     aliases_file = REPO / "aliases.json"
     if aliases_file.exists():
         aliases = json.loads(aliases_file.read_text())
-        manifest["aliases"] = {a: t for a, t in sorted(aliases.items()) if t in vehicles}
+        # An alias may target a generation FAMILY base ("chevrolet/silverado") that
+        # has no bare file of its own, only year-suffixed ones. Manifest.resolve
+        # handles that (canonical in generations -> generation(for:year:)), so
+        # filtering on `vehicles` alone silently dropped 617 working aliases.
+        gens = manifest["generations"]
+        manifest["aliases"] = {a: t for a, t in sorted(aliases.items())
+                               if t in vehicles or t in gens}
     (REPO / "manifest.json").write_text(json.dumps(manifest, indent=1, sort_keys=True) + "\n")
     print(f"manifest: {len(vehicles)} vehicles")
 
