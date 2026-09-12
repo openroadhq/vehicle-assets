@@ -1,5 +1,5 @@
 # Day-one generation list: slug|description (top US models by garage likelihood).
-# Run: tools/generate.py --list cars-day-one.txt   (skips slugs that already exist)
+# The local vehicle asset tools repository owns execution of this list.
 # Pilot set (porsche/911-gt3-rs, audi/r8, ford/f-150-raptor, ford/ranger, honda/cr-v, honda/hr-v) already live.
 
 # Toyota
