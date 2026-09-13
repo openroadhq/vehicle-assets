@@ -17954,6 +17954,10 @@
    "bytes": 20398,
    "tint": "#E8E8E8"
   },
+  "mercedes-benz/v300": {
+   "bytes": 35928,
+   "tint": "#101213"
+  },
   "mercury/capri-1991": {
    "bytes": 24412,
    "tint": "#B50612"
@@ -18033,6 +18037,10 @@
   "merkur/xr4ti": {
    "bytes": 27432,
    "tint": "#8D8E90"
+  },
+  "mg/5": {
+   "bytes": 30646,
+   "tint": "#CFCFCF"
   },
   "mg/f-1995": {
    "bytes": 26120,
@@ -18130,6 +18138,10 @@
    "bytes": 29568,
    "tint": "#A9AAAE"
   },
+  "mini/hatch": {
+   "bytes": 31734,
+   "tint": "#123227"
+  },
   "mini/jcw": {
    "bytes": 35020,
    "tint": "#A80A0B"
@@ -18161,6 +18173,10 @@
   "mitsubishi/3000gt-vr-4-1991": {
    "bytes": 24860,
    "tint": "#D1D1CF"
+  },
+  "mitsubishi/380gt": {
+   "bytes": 28270,
+   "tint": "#101010"
   },
   "mitsubishi/colt": {
    "bytes": 27630,
@@ -18225,6 +18241,10 @@
   "mitsubishi/galant-vr-4-1991": {
    "bytes": 24432,
    "tint": "#D2D3D5"
+  },
+  "mitsubishi/grandis": {
+   "bytes": 33686,
+   "tint": "#8E9093"
   },
   "mitsubishi/gto-1990": {
    "bytes": 29488,
@@ -18626,6 +18646,10 @@
    "bytes": 27908,
    "tint": "#0D0D0D"
   },
+  "nissan/note": {
+   "bytes": 43470,
+   "tint": "#0D5191"
+  },
   "nissan/np200": {
    "bytes": 22460,
    "tint": "#ACADB0"
@@ -18693,6 +18717,10 @@
   "nissan/quest-2011": {
    "bytes": 32016,
    "tint": "#AEB2B1"
+  },
+  "nissan/roege": {
+   "bytes": 34602,
+   "tint": "#6D6B69"
   },
   "nissan/rogue": {
    "bytes": 31142,
@@ -18818,6 +18846,14 @@
    "bytes": 33480,
    "tint": "#ADAFAF"
   },
+  "nissan/x-trail": {
+   "bytes": 34950,
+   "tint": "#CFCDCA"
+  },
+  "nissan/x-trail-e-power": {
+   "bytes": 37234,
+   "tint": "#2F2F30"
+  },
   "nissan/xterra-2000": {
    "bytes": 33322,
    "tint": "#ADAFB0"
@@ -18898,6 +18934,14 @@
    "bytes": 26352,
    "tint": "#D2D2D0"
   },
+  "opel/adam": {
+   "bytes": 40024,
+   "tint": "#72090F"
+  },
+  "opel/agila": {
+   "bytes": 38706,
+   "tint": "#718CAA"
+  },
   "opel/astra": {
    "bytes": 29932,
    "tint": "#6C6C70"
@@ -18974,6 +19018,14 @@
    "bytes": 28614,
    "tint": "#AFB0AF"
   },
+  "perodua/myvi-gen-3-facelift": {
+   "bytes": 38506,
+   "tint": "#8C8E91"
+  },
+  "perodua/viva-elite": {
+   "bytes": 35944,
+   "tint": "#909193"
+  },
   "peugeot/106": {
    "bytes": 25388,
    "tint": "#E7E8E8"
@@ -18986,9 +19038,17 @@
    "bytes": 34048,
    "tint": "#AA040D"
   },
+  "peugeot/206": {
+   "bytes": 46400,
+   "tint": "#0A396E"
+  },
   "peugeot/206-gti-1999": {
    "bytes": 38880,
    "tint": "#8E060F"
+  },
+  "peugeot/206-vts": {
+   "bytes": 34804,
+   "tint": "#8E8F90"
   },
   "peugeot/206cc": {
    "bytes": 29022,
@@ -19026,6 +19086,14 @@
    "bytes": 25382,
    "tint": "#EDEEF1"
   },
+  "peugeot/308sw": {
+   "bytes": 37656,
+   "tint": "#0D3868"
+  },
+  "peugeot/405": {
+   "bytes": 31248,
+   "tint": "#586A87"
+  },
   "peugeot/405-mi16-1988": {
    "bytes": 28894,
    "tint": "#78848C"
@@ -19034,9 +19102,17 @@
    "bytes": 27194,
    "tint": "#ACAFB0"
   },
+  "peugeot/5008": {
+   "bytes": 36968,
+   "tint": "#0F2A36"
+  },
   "peugeot/508": {
    "bytes": 25286,
    "tint": "#8B8C8F"
+  },
+  "peugeot/e-rifter": {
+   "bytes": 37134,
+   "tint": "#374954"
   },
   "peugeot/partner": {
    "bytes": 34874,
@@ -19109,6 +19185,10 @@
   "pontiac/bonneville-2000": {
    "bytes": 26148,
    "tint": "#0D100D"
+  },
+  "pontiac/fiero": {
+   "bytes": 30448,
+   "tint": "#AC1010"
   },
   "pontiac/firebird-1982": {
    "bytes": 24242,
@@ -19550,6 +19630,18 @@
    "bytes": 26068,
    "tint": "#ABAEAF"
   },
+  "proton/iriz": {
+   "bytes": 49014,
+   "tint": "#0A4A8C"
+  },
+  "proton/saga": {
+   "bytes": 33290,
+   "tint": "#4B4C50"
+  },
+  "proton/satria-gti": {
+   "bytes": 38252,
+   "tint": "#162E28"
+  },
   "ram/1500": {
    "bytes": 26370,
    "tint": "#929295"
@@ -19569,6 +19661,10 @@
   "ram/3500-2010": {
    "bytes": 22272,
    "tint": "#ECECEC"
+  },
+  "ram/promaster-2500-cargo": {
+   "bytes": 26266,
+   "tint": "#E7E7E9"
   },
   "renault/5-turbo-1980": {
    "bytes": 28656,
