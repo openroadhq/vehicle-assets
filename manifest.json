@@ -14390,6 +14390,10 @@
    "bytes": 42960,
    "tint": "#0C2432"
   },
+  "genesis/coupe": {
+   "bytes": 33010,
+   "tint": "#4C4D4F"
+  },
   "genesis/g70": {
    "bytes": 29416,
    "tint": "#072E6F"
@@ -15038,9 +15042,17 @@
    "bytes": 26238,
    "tint": "#ECECEB"
   },
+  "honda/nsx": {
+   "bytes": 32780,
+   "tint": "#484B4E"
+  },
   "honda/nsx-r-1992": {
    "bytes": 22450,
    "tint": "#EFEEEC"
+  },
+  "honda/nwagon": {
+   "bytes": 31484,
+   "tint": "#D0D0D0"
   },
   "honda/odyssey": {
    "bytes": 24918,
@@ -15142,6 +15154,10 @@
    "bytes": 36452,
    "tint": "#930406"
   },
+  "honda/sport": {
+   "bytes": 31024,
+   "tint": "#0F0F0F"
+  },
   "honda/vamos": {
    "bytes": 30732,
    "tint": "#94ADCA"
@@ -15149,6 +15165,10 @@
   "honda/xr650l": {
    "bytes": 133230,
    "tint": "#CF2D30"
+  },
+  "hsv/vxr": {
+   "bytes": 39722,
+   "tint": "#013A8A"
   },
   "hummer/h1-1992": {
    "bytes": 29582,
@@ -15290,6 +15310,10 @@
    "bytes": 27352,
    "tint": "#4C4C4E"
   },
+  "hyundai/grand-i10": {
+   "bytes": 37260,
+   "tint": "#CBCCCF"
+  },
   "hyundai/i10": {
    "bytes": 35192,
    "tint": "#AEAEB2"
@@ -15305,6 +15329,10 @@
   "hyundai/i30n": {
    "bytes": 29824,
    "tint": "#4E5053"
+  },
+  "hyundai/i40": {
+   "bytes": 34110,
+   "tint": "#6D7072"
   },
   "hyundai/ioniq-2017": {
    "bytes": 30666,
@@ -15365,6 +15393,10 @@
   "hyundai/santa-fe-2019": {
    "bytes": 31964,
    "tint": "#AEAEB2"
+  },
+  "hyundai/santafe-sport": {
+   "bytes": 35320,
+   "tint": "#CFCFD0"
   },
   "hyundai/scoupe-1990": {
    "bytes": 24712,
@@ -15498,6 +15530,10 @@
    "bytes": 27940,
    "tint": "#D1D2D3"
   },
+  "infiniti/fx": {
+   "bytes": 35816,
+   "tint": "#111112"
+  },
   "infiniti/fx35-2003": {
    "bytes": 27306,
    "tint": "#0B0B0B"
@@ -15525,6 +15561,10 @@
   "infiniti/g35-sedan-2003": {
    "bytes": 23928,
    "tint": "#8F8F90"
+  },
+  "infiniti/g35x": {
+   "bytes": 29582,
+   "tint": "#8B8C8E"
   },
   "infiniti/g37": {
    "bytes": 25338,
@@ -15690,6 +15730,10 @@
    "bytes": 24950,
    "tint": "#0D0D0D"
   },
+  "iveco/daily-hi-matic": {
+   "bytes": 26284,
+   "tint": "#CDCED0"
+  },
   "jaguar/c-x75-2010": {
    "bytes": 24798,
    "tint": "#8C8C8E"
@@ -15737,6 +15781,10 @@
   "jaguar/s-type-r-2002": {
    "bytes": 32972,
    "tint": "#103072"
+  },
+  "jaguar/x-type": {
+   "bytes": 32604,
+   "tint": "#293531"
   },
   "jaguar/xe-2015": {
    "bytes": 28402,
@@ -16021,6 +16069,10 @@
   "kia/ceed": {
    "bytes": 30796,
    "tint": "#4F5052"
+  },
+  "kia/ceres": {
+   "bytes": 28640,
+   "tint": "#D2D2D2"
   },
   "kia/ev6-2022": {
    "bytes": 27724,
@@ -16322,6 +16374,14 @@
    "bytes": 135738,
    "tint": "#F15508"
   },
+  "lada/granta": {
+   "bytes": 30772,
+   "tint": "#8B8B8E"
+  },
+  "lada/vesta": {
+   "bytes": 34088,
+   "tint": "#505153"
+  },
   "lamborghini/aventador": {
    "bytes": 29690,
    "tint": "#EC5503"
@@ -16446,6 +16506,10 @@
    "bytes": 27200,
    "tint": "#2D2D2D"
   },
+  "lancia/1-3-mtj": {
+   "bytes": 34364,
+   "tint": "#7A8594"
+  },
   "land-rover/defender-1983": {
    "bytes": 27844,
    "tint": "#D7D6D5"
@@ -16473,6 +16537,10 @@
   "land-rover/discovery-sport-2014": {
    "bytes": 28246,
    "tint": "#CCCCCC"
+  },
+  "land-rover/evoque": {
+   "bytes": 36550,
+   "tint": "#2C2D2E"
   },
   "land-rover/freelander-1997": {
    "bytes": 31324,
@@ -16541,6 +16609,14 @@
   "land-rover/range-rover-velar-2017": {
    "bytes": 26032,
    "tint": "#EDECEF"
+  },
+  "land-rover/velar": {
+   "bytes": 34992,
+   "tint": "#2F2F30"
+  },
+  "lexus/coupe": {
+   "bytes": 26256,
+   "tint": "#959087"
   },
   "lexus/ct-200h-2011": {
    "bytes": 28624,
@@ -16638,6 +16714,10 @@
    "bytes": 30334,
    "tint": "#072671"
   },
+  "lexus/is250": {
+   "bytes": 29566,
+   "tint": "#909193"
+  },
   "lexus/lc-500": {
    "bytes": 31298,
    "tint": "#052C8C"
@@ -16665,6 +16745,10 @@
   "lexus/ls-2007": {
    "bytes": 25650,
    "tint": "#0F0F0F"
+  },
+  "lexus/ls500": {
+   "bytes": 33882,
+   "tint": "#2D2E2E"
   },
   "lexus/lx": {
    "bytes": 30458,
@@ -16721,6 +16805,10 @@
   "lexus/rx-350": {
    "bytes": 35444,
    "tint": "#8F8F90"
+  },
+  "lexus/rz": {
+   "bytes": 36020,
+   "tint": "#2D2E2F"
   },
   "lexus/sc-1992": {
    "bytes": 22132,
@@ -16913,6 +17001,10 @@
   "lucid/gravity": {
    "bytes": 24524,
    "tint": "#CECDCB"
+  },
+  "mahindra/scorpio": {
+   "bytes": 44298,
+   "tint": "#2F2F30"
   },
   "maruti-suzuki/brezza": {
    "bytes": 42240,
@@ -17138,6 +17230,10 @@
    "bytes": 25568,
    "tint": "#ACACAD"
   },
+  "mazda/mx-30-r-ev": {
+   "bytes": 33614,
+   "tint": "#2B2C2B"
+  },
   "mazda/mx-5-miata": {
    "bytes": 27332,
    "tint": "#AE0E11"
@@ -17173,6 +17269,10 @@
   "mazda/protege5-2002": {
    "bytes": 30736,
    "tint": "#0E3488"
+  },
+  "mazda/r-x-8": {
+   "bytes": 32754,
+   "tint": "#101010"
   },
   "mazda/rx-3-1971": {
    "bytes": 28282,
