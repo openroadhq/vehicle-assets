@@ -10738,6 +10738,14 @@
  },
  "schemaVersion": 2,
  "vehicles": {
+  "abarth/500": {
+   "bytes": 39628,
+   "tint": "#CFCFCF"
+  },
+  "abarth/695": {
+   "bytes": 40642,
+   "tint": "#2E2F2F"
+  },
   "acura/cl-1997": {
    "bytes": 24304,
    "tint": "#AAAAAD"
@@ -10922,6 +10930,10 @@
    "bytes": 29818,
    "tint": "#8F8F91"
   },
+  "aixam/gto": {
+   "bytes": 47588,
+   "tint": "#303031"
+  },
   "alfa-romeo/147": {
    "bytes": 24870,
    "tint": "#EDEEED"
@@ -11105,6 +11117,10 @@
   "audi/5000-1978": {
    "bytes": 24220,
    "tint": "#959596"
+  },
+  "audi/80": {
+   "bytes": 27990,
+   "tint": "#2D2F31"
   },
   "audi/90-quattro-1988": {
    "bytes": 29720,
@@ -11498,6 +11514,14 @@
    "bytes": 29034,
    "tint": "#AD0404"
   },
+  "baic/u5-plus": {
+   "bytes": 31812,
+   "tint": "#CDCED0"
+  },
+  "belgee/x50": {
+   "bytes": 38494,
+   "tint": "#2D2E2F"
+  },
   "bentley/arnage": {
    "bytes": 24666,
    "tint": "#173128"
@@ -11730,9 +11754,17 @@
    "bytes": 75960,
    "tint": "#2D2D2F"
   },
+  "bmw/e32-750il": {
+   "bytes": 29862,
+   "tint": "#101012"
+  },
   "bmw/f-850-gs": {
    "bytes": 124214,
    "tint": "#2A2A2A"
+  },
+  "bmw/f01": {
+   "bytes": 31022,
+   "tint": "#272B2F"
   },
   "bmw/i3-2014": {
    "bytes": 30580,
@@ -11765,6 +11797,10 @@
   "bmw/k-1600-gtl": {
    "bytes": 96040,
    "tint": "#2E2D2E"
+  },
+  "bmw/kombi": {
+   "bytes": 33016,
+   "tint": "#8C8E8F"
   },
   "bmw/m-1000-rr": {
    "bytes": 129248,
@@ -11950,6 +11986,14 @@
    "bytes": 60906,
    "tint": "#2D2D2D"
   },
+  "bmw/serie-3": {
+   "bytes": 35240,
+   "tint": "#192439"
+  },
+  "bmw/touring": {
+   "bytes": 32000,
+   "tint": "#293646"
+  },
   "bmw/x1": {
    "bytes": 29844,
    "tint": "#D2D2D2"
@@ -12094,6 +12138,10 @@
    "bytes": 32692,
    "tint": "#323233"
   },
+  "brillance/v5": {
+   "bytes": 39174,
+   "tint": "#392718"
+  },
   "bugatti/bolide": {
    "bytes": 33894,
    "tint": "#0A4DAD"
@@ -12218,6 +12266,10 @@
    "bytes": 27014,
    "tint": "#090909"
   },
+  "buick/reatta": {
+   "bytes": 26220,
+   "tint": "#6E0D13"
+  },
   "buick/regal-1988": {
    "bytes": 24076,
    "tint": "#AEAEB1"
@@ -12261,6 +12313,10 @@
   "buick/verano-2012": {
    "bytes": 27306,
    "tint": "#EBEBEB"
+  },
+  "byd/f3": {
+   "bytes": 29968,
+   "tint": "#CDCFD1"
   },
   "byd/seal": {
    "bytes": 29666,
@@ -12450,6 +12506,18 @@
    "bytes": 25410,
    "tint": "#141414"
   },
+  "changan/cs75": {
+   "bytes": 36632,
+   "tint": "#CCCCCF"
+  },
+  "chevrolet/1500": {
+   "bytes": 28408,
+   "tint": "#081A30"
+  },
+  "chevrolet/1500-regular-cab": {
+   "bytes": 30604,
+   "tint": "#B05B64"
+  },
   "chevrolet/astro-1985": {
    "bytes": 24362,
    "tint": "#F0F0F2"
@@ -12489,6 +12557,10 @@
   "chevrolet/c-k-1988": {
    "bytes": 19444,
    "tint": "#D2D2D2"
+  },
+  "chevrolet/c7-corvette": {
+   "bytes": 35540,
+   "tint": "#AF0B09"
   },
   "chevrolet/camaro": {
    "bytes": 30174,
@@ -12637,6 +12709,10 @@
   "chevrolet/cruze-2016": {
    "bytes": 26544,
    "tint": "#121212"
+  },
+  "chevrolet/cutaway": {
+   "bytes": 26724,
+   "tint": "#CDCED1"
   },
   "chevrolet/equinox": {
    "bytes": 28958,
@@ -12821,6 +12897,10 @@
   "chevrolet/tahoe-2015": {
    "bytes": 23404,
    "tint": "#101010"
+  },
+  "chevrolet/tracker": {
+   "bytes": 40824,
+   "tint": "#142A47"
   },
   "chevrolet/trailblazer": {
    "bytes": 34204,
@@ -14541,6 +14621,10 @@
   "harley-davidson/street-glide": {
    "bytes": 79270,
    "tint": "#101111"
+  },
+  "haval/h6": {
+   "bytes": 36722,
+   "tint": "#8F9091"
   },
   "hennessey/venom-f5": {
    "bytes": 28140,
@@ -16757,6 +16841,10 @@
   "lucid/gravity": {
    "bytes": 24524,
    "tint": "#CECDCB"
+  },
+  "maruti-suzuki/brezza": {
+   "bytes": 42240,
+   "tint": "#8F0F11"
   },
   "maserati/3200-gt": {
    "bytes": 28228,
@@ -19826,6 +19914,10 @@
    "bytes": 25152,
    "tint": "#B0B0B0"
   },
+  "subaru/ts": {
+   "bytes": 38742,
+   "tint": "#0C356E"
+  },
   "subaru/wrx": {
    "bytes": 37118,
    "tint": "#042255"
@@ -20773,6 +20865,10 @@
   "volkswagen/sharan": {
    "bytes": 26032,
    "tint": "#ECECEC"
+  },
+  "volkswagen/t-roc": {
+   "bytes": 39172,
+   "tint": "#F2D04E"
   },
   "volkswagen/thing-1973": {
    "bytes": 24182,
