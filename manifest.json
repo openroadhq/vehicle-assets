@@ -13066,6 +13066,14 @@
    "bytes": 28658,
    "tint": "#EFEFEF"
   },
+  "citroen/c5-aircross": {
+   "bytes": 35494,
+   "tint": "#4A4F4B"
+  },
+  "citroen/c6": {
+   "bytes": 26372,
+   "tint": "#111316"
+  },
   "citroen/ds-1955": {
    "bytes": 21922,
    "tint": "#8A898C"
@@ -13186,6 +13194,10 @@
    "bytes": 26152,
    "tint": "#969492"
   },
+  "dodge/2500": {
+   "bytes": 28162,
+   "tint": "#8E8F91"
+  },
   "dodge/avenger-1995": {
    "bytes": 24368,
    "tint": "#909090"
@@ -13229,6 +13241,10 @@
   "dodge/challenger-super-stock-2021": {
    "bytes": 19898,
    "tint": "#101010"
+  },
+  "dodge/charge": {
+   "bytes": 24342,
+   "tint": "#292A2B"
   },
   "dodge/charger": {
    "bytes": 26438,
@@ -13421,6 +13437,10 @@
   "dodge/viper-zb2-2008": {
    "bytes": 29518,
    "tint": "#AC0606"
+  },
+  "dodge/w150": {
+   "bytes": 33156,
+   "tint": "#6B0E0D"
   },
   "ducati/diavel-v4": {
    "bytes": 102422,
@@ -13686,6 +13706,14 @@
    "bytes": 27982,
    "tint": "#F0EFEC"
   },
+  "fiat/600": {
+   "bytes": 44042,
+   "tint": "#8F110E"
+  },
+  "fiat/850-coupe": {
+   "bytes": 38020,
+   "tint": "#A40D0D"
+  },
   "fiat/coupe": {
    "bytes": 24994,
    "tint": "#AC060A"
@@ -13697,6 +13725,10 @@
   "fiat/grande-punto": {
    "bytes": 30518,
    "tint": "#8E8E8F"
+  },
+  "fiat/palio": {
+   "bytes": 36698,
+   "tint": "#929294"
   },
   "fiat/panda": {
    "bytes": 28236,
