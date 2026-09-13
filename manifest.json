@@ -17274,6 +17274,10 @@
    "bytes": 32754,
    "tint": "#101010"
   },
+  "mazda/rx": {
+   "bytes": 38012,
+   "tint": "#93100F"
+  },
   "mazda/rx-3-1971": {
    "bytes": 28282,
    "tint": "#D45503"
@@ -17398,6 +17402,18 @@
    "bytes": 25458,
    "tint": "#D4D5D4"
   },
+  "mercedes-benz/220d": {
+   "bytes": 32854,
+   "tint": "#131313"
+  },
+  "mercedes-benz/300-e": {
+   "bytes": 32454,
+   "tint": "#2E2E30"
+  },
+  "mercedes-benz/430": {
+   "bytes": 25606,
+   "tint": "#8D9092"
+  },
   "mercedes-benz/500e-1990": {
    "bytes": 24944,
    "tint": "#ADAEAF"
@@ -17405,6 +17421,18 @@
   "mercedes-benz/a-class-2019": {
    "bytes": 29292,
    "tint": "#ABAFB2"
+  },
+  "mercedes-benz/a180d": {
+   "bytes": 34424,
+   "tint": "#ADB0B3"
+  },
+  "mercedes-benz/a250": {
+   "bytes": 32610,
+   "tint": "#505152"
+  },
+  "mercedes-benz/a35-amg": {
+   "bytes": 34738,
+   "tint": "#515354"
   },
   "mercedes-benz/a45-amg-2019": {
    "bytes": 32034,
@@ -17430,6 +17458,10 @@
    "bytes": 32354,
    "tint": "#1C7518"
   },
+  "mercedes-benz/b180-d": {
+   "bytes": 38792,
+   "tint": "#ADB1B4"
+  },
   "mercedes-benz/c-class": {
    "bytes": 29436,
    "tint": "#ACAEB0"
@@ -17450,9 +17482,29 @@
    "bytes": 29946,
    "tint": "#8D8F92"
   },
+  "mercedes-benz/c-klasse": {
+   "bytes": 31380,
+   "tint": "#919394"
+  },
+  "mercedes-benz/c200": {
+   "bytes": 32948,
+   "tint": "#8A8B8E"
+  },
   "mercedes-benz/c220-cdi": {
    "bytes": 29680,
    "tint": "#AEAFB0"
+  },
+  "mercedes-benz/c230-sports-coupe": {
+   "bytes": 31124,
+   "tint": "#8F8F91"
+  },
+  "mercedes-benz/c230k": {
+   "bytes": 32550,
+   "tint": "#6F7273"
+  },
+  "mercedes-benz/c240": {
+   "bytes": 30756,
+   "tint": "#929395"
   },
   "mercedes-benz/c300": {
    "bytes": 24614,
@@ -17565,6 +17617,10 @@
   "mercedes-benz/e-class-2016": {
    "bytes": 26206,
    "tint": "#ACADB0"
+  },
+  "mercedes-benz/e220-cdi": {
+   "bytes": 29998,
+   "tint": "#909191"
   },
   "mercedes-benz/e350": {
    "bytes": 24278,
@@ -17766,6 +17822,10 @@
    "bytes": 31004,
    "tint": "#CFD0D2"
   },
+  "mercedes-benz/r129-300sl": {
+   "bytes": 26352,
+   "tint": "#8D8D8F"
+  },
   "mercedes-benz/s-class": {
    "bytes": 24982,
    "tint": "#101112"
@@ -17789,6 +17849,10 @@
   "mercedes-benz/s55-amg-2000": {
    "bytes": 23770,
    "tint": "#0B0B0B"
+  },
+  "mercedes-benz/s550": {
+   "bytes": 28384,
+   "tint": "#141514"
   },
   "mercedes-benz/s63-amg": {
    "bytes": 27044,
