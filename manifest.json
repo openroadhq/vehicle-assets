@@ -13862,6 +13862,14 @@
    "bytes": 33422,
    "tint": "#032D71"
   },
+  "ford/everest": {
+   "bytes": 43436,
+   "tint": "#531412"
+  },
+  "ford/everest-titanium": {
+   "bytes": 41244,
+   "tint": "#2E3031"
+  },
   "ford/excursion-2000": {
    "bytes": 21284,
    "tint": "#E8E8E8"
@@ -14002,6 +14010,10 @@
    "bytes": 23070,
    "tint": "#ECECEF"
   },
+  "ford/fairlane": {
+   "bytes": 30814,
+   "tint": "#94918B"
+  },
   "ford/falcon": {
    "bytes": 25040,
    "tint": "#4F4F50"
@@ -14021,6 +14033,10 @@
   "ford/fiesta-st-mk7-2013": {
    "bytes": 34658,
    "tint": "#031454"
+  },
+  "ford/figo-1-4-ambiente": {
+   "bytes": 33104,
+   "tint": "#ADAFB0"
   },
   "ford/five-hundred-2005": {
    "bytes": 24906,
@@ -14105,6 +14121,10 @@
   "ford/ka": {
    "bytes": 27582,
    "tint": "#EBEBEA"
+  },
+  "ford/kuga": {
+   "bytes": 41324,
+   "tint": "#1A324E"
   },
   "ford/maverick": {
    "bytes": 25130,
@@ -14274,6 +14294,10 @@
    "bytes": 31576,
    "tint": "#01184C"
   },
+  "ford/superduty-f600": {
+   "bytes": 31168,
+   "tint": "#D0D0D2"
+  },
   "ford/taurus-1986": {
    "bytes": 23562,
    "tint": "#AEAEB1"
@@ -14349,6 +14373,22 @@
   "ford/windstar-1999": {
    "bytes": 26584,
    "tint": "#2E2F30"
+  },
+  "fuso/canter": {
+   "bytes": 34840,
+   "tint": "#D3D2D4"
+  },
+  "gac/gs8": {
+   "bytes": 38196,
+   "tint": "#162531"
+  },
+  "geely/coolray": {
+   "bytes": 40444,
+   "tint": "#2D2D2F"
+  },
+  "geely/monjaro": {
+   "bytes": 42960,
+   "tint": "#0C2432"
   },
   "genesis/g70": {
    "bytes": 29416,
