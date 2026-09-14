@@ -20426,6 +20426,18 @@
    "bytes": 32930,
    "tint": "#4F4F51"
   },
+  "suzuki/wagon-r": {
+   "bytes": 36664,
+   "tint": "#7893AC"
+  },
+  "tata/curvv": {
+   "bytes": 37910,
+   "tint": "#75584E"
+  },
+  "tata/punch": {
+   "bytes": 37078,
+   "tint": "#474B38"
+  },
   "tesla/cybertruck": {
    "bytes": 20004,
    "tint": "#ADAEB2"
@@ -20502,6 +20514,10 @@
    "bytes": 17980,
    "tint": "#D8D8D8"
   },
+  "toyota/23-camry-xse-v6": {
+   "bytes": 36416,
+   "tint": "#6E0C11"
+  },
   "toyota/4runner": {
    "bytes": 27726,
    "tint": "#4E4F50"
@@ -20550,6 +20566,10 @@
    "bytes": 23904,
    "tint": "#CFCFD1"
   },
+  "toyota/avanza": {
+   "bytes": 34664,
+   "tint": "#ABAFB0"
+  },
   "toyota/avensis": {
    "bytes": 30350,
    "tint": "#ACAFB0"
@@ -20557,6 +20577,10 @@
   "toyota/aygo": {
    "bytes": 27234,
    "tint": "#CDCED0"
+  },
+  "toyota/bz4x": {
+   "bytes": 34012,
+   "tint": "#2D2E2E"
   },
   "toyota/c-hr": {
    "bytes": 34482,
@@ -20622,6 +20646,10 @@
    "bytes": 27648,
    "tint": "#B0B0B1"
   },
+  "toyota/estima": {
+   "bytes": 31312,
+   "tint": "#CCCCCD"
+  },
   "toyota/fj-cruiser": {
    "bytes": 28208,
    "tint": "#EBEBEB"
@@ -20641,6 +20669,10 @@
   "toyota/gr86": {
    "bytes": 32456,
    "tint": "#032B71"
+  },
+  "toyota/grand-highlander-hybrid": {
+   "bytes": 35632,
+   "tint": "#08192E"
   },
   "toyota/gt86": {
    "bytes": 27602,
@@ -20729,6 +20761,10 @@
   "toyota/prius-plug-in-2012": {
    "bytes": 26384,
    "tint": "#8F9194"
+  },
+  "toyota/raize": {
+   "bytes": 34366,
+   "tint": "#CBCDCF"
   },
   "toyota/rav4": {
    "bytes": 30392,
