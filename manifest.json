@@ -18838,6 +18838,10 @@
    "bytes": 29612,
    "tint": "#4E4F50"
   },
+  "nissan/tsuru": {
+   "bytes": 26968,
+   "tint": "#CFCFD0"
+  },
   "nissan/versa": {
    "bytes": 35458,
    "tint": "#8B8E8F"
@@ -20930,6 +20934,10 @@
    "bytes": 30304,
    "tint": "#0B2C6B"
   },
+  "vauxhall/adam": {
+   "bytes": 38630,
+   "tint": "#8B0B15"
+  },
   "vector/w8": {
    "bytes": 22064,
    "tint": "#B0AFB1"
@@ -21009,6 +21017,10 @@
   "volkswagen/eurovan-1993": {
    "bytes": 25914,
    "tint": "#D3D4D2"
+  },
+  "volkswagen/gli": {
+   "bytes": 34514,
+   "tint": "#4B4E51"
   },
   "volkswagen/gol": {
    "bytes": 31032,
@@ -21125,6 +21137,10 @@
   "volkswagen/gti-clubsport-2016": {
    "bytes": 33740,
    "tint": "#F44F51"
+  },
+  "volkswagen/id-4": {
+   "bytes": 39618,
+   "tint": "#11316A"
   },
   "volkswagen/id-buzz": {
    "bytes": 29802,
@@ -21274,6 +21290,10 @@
    "bytes": 39172,
    "tint": "#F2D04E"
   },
+  "volkswagen/teramont-pro": {
+   "bytes": 36220,
+   "tint": "#2C2D2E"
+  },
   "volkswagen/thing-1973": {
    "bytes": 24182,
    "tint": "#515338"
@@ -21306,6 +21326,14 @@
    "bytes": 29198,
    "tint": "#ADAEB0"
   },
+  "volkswagen/touran-ii": {
+   "bytes": 38266,
+   "tint": "#365371"
+  },
+  "volkswagen/transporter": {
+   "bytes": 27874,
+   "tint": "#8E9093"
+  },
   "volkswagen/vanagon-1980": {
    "bytes": 24278,
    "tint": "#D7D7D5"
@@ -21317,6 +21345,10 @@
   "volkswagen/vanagon-westfalia-1980": {
    "bytes": 32138,
    "tint": "#D9631A"
+  },
+  "volkswagen/vento": {
+   "bytes": 27870,
+   "tint": "#111213"
   },
   "volvo/240-1974": {
    "bytes": 24354,
