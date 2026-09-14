@@ -14790,6 +14790,10 @@
    "bytes": 126944,
    "tint": "#2A2A2A"
   },
+  "honda/amaze": {
+   "bytes": 37104,
+   "tint": "#554F4A"
+  },
   "honda/beat": {
    "bytes": 25142,
    "tint": "#D6D6D6"
@@ -17437,6 +17441,10 @@
   "mercedes-benz/a180d": {
    "bytes": 34424,
    "tint": "#ADB0B3"
+  },
+  "mercedes-benz/a200-amg-line": {
+   "bytes": 35186,
+   "tint": "#6F6F71"
   },
   "mercedes-benz/a250": {
    "bytes": 32610,
