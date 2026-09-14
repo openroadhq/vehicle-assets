@@ -13066,6 +13066,10 @@
    "bytes": 28658,
    "tint": "#EFEFEF"
   },
+  "citroen/c5": {
+   "bytes": 32212,
+   "tint": "#303133"
+  },
   "citroen/c5-aircross": {
    "bytes": 35494,
    "tint": "#4A4F4B"
@@ -14373,6 +14377,10 @@
   "ford/windstar-1999": {
    "bytes": 26584,
    "tint": "#2E2F30"
+  },
+  "ford/xr6": {
+   "bytes": 40710,
+   "tint": "#0B4997"
   },
   "fuso/canter": {
    "bytes": 34840,
@@ -21334,6 +21342,10 @@
    "bytes": 27874,
    "tint": "#8E9093"
   },
+  "volkswagen/up": {
+   "bytes": 32682,
+   "tint": "#D1D1D1"
+  },
   "volkswagen/vanagon-1980": {
    "bytes": 24278,
    "tint": "#D7D7D5"
@@ -21525,6 +21537,14 @@
   "volvo/xc90-2002": {
    "bytes": 31268,
    "tint": "#CED0D0"
+  },
+  "xev/yoyo": {
+   "bytes": 46772,
+   "tint": "#2E2E2E"
+  },
+  "xpeng/g9-performance": {
+   "bytes": 31300,
+   "tint": "#ACAEB1"
   },
   "yamaha/bolt": {
    "bytes": 95690,
