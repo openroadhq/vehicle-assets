@@ -16510,6 +16510,10 @@
    "bytes": 34364,
    "tint": "#7A8594"
   },
+  "land-rover/autobiography": {
+   "bytes": 31196,
+   "tint": "#8C8379"
+  },
   "land-rover/defender-1983": {
    "bytes": 27844,
    "tint": "#D7D6D5"
@@ -19666,6 +19670,10 @@
    "bytes": 26266,
    "tint": "#E7E7E9"
   },
+  "renault/5": {
+   "bytes": 40926,
+   "tint": "#E4BA0B"
+  },
   "renault/5-turbo-1980": {
    "bytes": 28656,
    "tint": "#064B8F"
@@ -19725,6 +19733,10 @@
   "renault/megane-rs-trophy-r-2019": {
    "bytes": 41762,
    "tint": "#D7A90D"
+  },
+  "renault/r5-etech": {
+   "bytes": 39692,
+   "tint": "#F8CF2E"
   },
   "renault/sandero": {
    "bytes": 25982,
@@ -19934,6 +19946,10 @@
    "bytes": 28928,
    "tint": "#131313"
   },
+  "scania/s500": {
+   "bytes": 41690,
+   "tint": "#4D4F52"
+  },
   "scion/fr-s": {
    "bytes": 23860,
    "tint": "#D0D1CF"
@@ -20026,9 +20042,17 @@
    "bytes": 27430,
    "tint": "#EEEEEE"
   },
+  "skoda/felicia": {
+   "bytes": 33184,
+   "tint": "#073829"
+  },
   "skoda/karoq": {
    "bytes": 30794,
    "tint": "#D4D5D5"
+  },
+  "skoda/kodiaq": {
+   "bytes": 37840,
+   "tint": "#2D322B"
   },
   "skoda/octavia": {
    "bytes": 33422,
@@ -20053,6 +20077,10 @@
   "skoda/rapid": {
    "bytes": 26998,
    "tint": "#4A4C4D"
+  },
+  "skoda/roomster": {
+   "bytes": 37204,
+   "tint": "#798FA6"
   },
   "skoda/scala": {
    "bytes": 31322,
@@ -20133,6 +20161,10 @@
   "subaru/forester-xt-2004": {
    "bytes": 30826,
    "tint": "#2F2F31"
+  },
+  "subaru/hatchback": {
+   "bytes": 40176,
+   "tint": "#0D4793"
   },
   "subaru/impreza": {
    "bytes": 28188,
@@ -20329,6 +20361,10 @@
   "suzuki/dr-z400sm": {
    "bytes": 121596,
    "tint": "#2D2F30"
+  },
+  "suzuki/grand-vitara": {
+   "bytes": 34750,
+   "tint": "#8E8F91"
   },
   "suzuki/gsx-r1000r": {
    "bytes": 115972,
