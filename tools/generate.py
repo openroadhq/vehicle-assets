@@ -278,7 +278,11 @@ def rebuild_manifest() -> None:
     aliases = dict(existing_aliases)
     aliases_file = REPO / "aliases.json"
     if aliases_file.exists():
-        aliases.update({a: t for a, t in json.loads(aliases_file.read_text()).items() if t in vehicles})
+        proposed = json.loads(aliases_file.read_text())
+        aliases.update({
+            a: t for a, t in proposed.items()
+            if t in vehicles or t in manifest["generations"] or t in aliases
+        })
     manifest["aliases"] = dict(sorted(aliases.items()))
     manifest_path.write_text(json.dumps(manifest, indent=1, sort_keys=True) + "\n")
     print(f"manifest: {len(vehicles)} vehicles")
