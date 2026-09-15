@@ -2475,5 +2475,14 @@
  "peugeot/206-vts-2011": "peugeot/206",
  "skoda/kodiaq-vrs-2019": "skoda/kodiaq",
  "volkswagen/transporter-t28-startline-2022": "volkswagen/transporter",
- "kia/venga-2013": "kia/venga"
+ "kia/venga-2013": "kia/venga",
+ "audi/tt-bam": "audi/tt",
+ "bmw/323i-base": "bmw/3-series",
+ "chevrolet/silverado-1500-crew-cab-lt": "chevrolet/silverado-1500",
+ "chevrolet/silverado-classic-1500-hd-crew-cab-lt": "chevrolet/silverado",
+ "hyundai/i20-1-2-motion": "hyundai/i20",
+ "subaru/impreza-rs": "subaru/impreza",
+ "subaru/outback-touring-xt": "subaru/outback",
+ "tesla/model-y-lrdm": "tesla/model-y",
+ "volkswagen/polo-tdi": "volkswagen/polo"
 }

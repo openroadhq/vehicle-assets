@@ -196,6 +196,7 @@
   "audi/tt-8j": "audi/tt",
   "audi/tt-8n": "audi/tt",
   "audi/tt-8n3": "audi/tt",
+  "audi/tt-bam": "audi/tt",
   "audi/tt-ois": "audi/tt",
   "audi/tt-premium-plus": "audi/tt",
   "audi/tt-s-line": "audi/tt",
@@ -272,6 +273,7 @@
   "bmw/320i-f30": "bmw/3-series",
   "bmw/320td": "bmw/3-series",
   "bmw/323i": "bmw/3-series",
+  "bmw/323i-base": "bmw/3-series",
   "bmw/325": "bmw/3-series",
   "bmw/325-ci": "bmw/3-series",
   "bmw/325d": "bmw/3-series",
@@ -630,6 +632,7 @@
   "chevrolet/s10-regular-cab": "chevrolet/s10",
   "chevrolet/s10-ss": "chevrolet/s10",
   "chevrolet/s10-xtreme": "chevrolet/s10",
+  "chevrolet/silverado-1500-crew-cab-lt": "chevrolet/silverado-1500",
   "chevrolet/silverado-1500-extended-cab": "chevrolet/silverado-1500",
   "chevrolet/silverado-1500-ls": "chevrolet/silverado-1500",
   "chevrolet/silverado-1500-wt": "chevrolet/silverado-1500",
@@ -641,6 +644,7 @@
   "chevrolet/silverado-2500hd-high-country-fn": "chevrolet/silverado",
   "chevrolet/silverado-2500hd-lt": "chevrolet/silverado",
   "chevrolet/silverado-classic-1500-crew-cab": "chevrolet/silverado",
+  "chevrolet/silverado-classic-1500-hd-crew-cab-lt": "chevrolet/silverado",
   "chevrolet/silverado-custom": "chevrolet/silverado",
   "chevrolet/silverado-high-country": "chevrolet/silverado",
   "chevrolet/silverado-lt": "chevrolet/silverado",
@@ -1229,6 +1233,7 @@
   "hyundai/i10-nix": "hyundai/i10",
   "hyundai/i10-sportz": "hyundai/i10",
   "hyundai/i20-1-0-t-gdi-48v": "hyundai/i20",
+  "hyundai/i20-1-2-motion": "hyundai/i20",
   "hyundai/i20-active": "hyundai/i20",
   "hyundai/i20-asta-o": "hyundai/i20",
   "hyundai/i20-ultimate": "hyundai/i20",
@@ -2066,6 +2071,7 @@
   "subaru/impreza-limited": "subaru/impreza",
   "subaru/impreza-premium": "subaru/impreza",
   "subaru/impreza-r": "subaru/impreza",
+  "subaru/impreza-rs": "subaru/impreza",
   "subaru/impreza-sport": "subaru/impreza",
   "subaru/impreza-wrx": "subaru/impreza",
   "subaru/impreza-wrx-sti": "subaru/impreza",
@@ -2089,6 +2095,7 @@
   "subaru/outback-limited-3-6r": "subaru/outback",
   "subaru/outback-non-limited": "subaru/outback",
   "subaru/outback-rs": "subaru/outback",
+  "subaru/outback-touring-xt": "subaru/outback",
   "subaru/outback-wilderness-wilderness": "subaru/outback-wilderness",
   "subaru/outback-xv": "subaru/outback",
   "subaru/sti-spt": "subaru/sti",
@@ -2155,6 +2162,7 @@
   "tesla/model-y-dual-motor": "tesla/model-y",
   "tesla/model-y-long-range": "tesla/model-y",
   "tesla/model-y-lr": "tesla/model-y",
+  "tesla/model-y-lrdm": "tesla/model-y",
   "tesla/model-y-performance": "tesla/model-y",
   "tesla/model-y-premium-awd": "tesla/model-y",
   "tesla/model-y-premium-dual-motor": "tesla/model-y",
@@ -2541,6 +2549,7 @@
   "volkswagen/polo-mk5-6r": "volkswagen/polo",
   "volkswagen/polo-r-line": "volkswagen/polo",
   "volkswagen/polo-sedan-1-6": "volkswagen/polo",
+  "volkswagen/polo-tdi": "volkswagen/polo",
   "volkswagen/polo-vi-aw": "volkswagen/polo-vi",
   "volkswagen/polo-white": "volkswagen/polo",
   "volkswagen/polo-yellow-bumblbee": "volkswagen/polo",
@@ -13915,6 +13924,10 @@
    "bytes": 30228,
    "tint": "#2D2E2F"
   },
+  "byd/shark-6": {
+   "bytes": 33018,
+   "tint": "#2C2D2E"
+  },
   "cadillac/allante-1987": {
    "bytes": 21476,
    "tint": "#EEEEEE"
@@ -18911,6 +18924,10 @@
    "bytes": 25568,
    "tint": "#ACACAD"
   },
+  "mazda/mx-3": {
+   "bytes": 31794,
+   "tint": "#AC070D"
+  },
   "mazda/mx-30-r-ev": {
    "bytes": 33614,
    "tint": "#2B2C2B"
@@ -19302,6 +19319,10 @@
   "mercedes-benz/e-class-2016": {
    "bytes": 26206,
    "tint": "#ACADB0"
+  },
+  "mercedes-benz/e200": {
+   "bytes": 32240,
+   "tint": "#303235"
   },
   "mercedes-benz/e220-cdi": {
    "bytes": 29998,
