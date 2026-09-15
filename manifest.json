@@ -204,6 +204,7 @@
   "audi/ttrs": "audi/tt",
   "audi/tts-mk2": "audi/tts",
   "audi/tts-premium-plus": "audi/tts",
+  "belgee/x50-2026": "belgee/x50",
   "bmw/1-series-128i": "bmw/1-series",
   "bmw/1-series-m-sport": "bmw/1-series",
   "bmw/1-series-m-sport-pro-pack": "bmw/1-series",
@@ -1043,6 +1044,7 @@
   "gmc/sierra-slt-5-3-v8": "gmc/sierra",
   "gmc/sonoma-regular-cab-sl": "gmc/sonoma",
   "harley-davidson/softail": "harley-davidson/softail-standard",
+  "haval/h6-crossover-full-2027": "haval/h6",
   "holden/barina-base": "holden/barina",
   "holden/barina-base-tm": "holden/barina",
   "holden/colorado-rc": "holden/colorado",
@@ -1356,6 +1358,7 @@
   "kawasaki/zx6r-krt": "kawasaki/zx6r",
   "kia/carnival-grand": "kia/carnival",
   "kia/ceed-basic": "kia/ceed",
+  "kia/ceres-work-line-1998": "kia/ceres",
   "kia/forte-5": "kia/forte",
   "kia/forte-ex": "kia/forte",
   "kia/forte-fe": "kia/forte",
@@ -1464,6 +1467,7 @@
   "lexus/rx270": "lexus/rx",
   "lexus/rx350": "lexus/rx-350",
   "lexus/rx400h": "lexus/rx",
+  "lexus/rz-450e-2023": "lexus/rz",
   "lexus/tx-350": "lexus/tx",
   "lincoln/aviator-reserve": "lincoln/aviator",
   "lotus/elise-220": "lotus/elise",
@@ -1542,6 +1546,7 @@
   "mazda/protege-5": "mazda/protege5",
   "mazda/protege5-2-0-4cyl": "mazda/protege5",
   "mazda/protege5-base": "mazda/protege5",
+  "mazda/r-x-8-spirit-r-2012": "mazda/r-x-8",
   "mazda/rx-7-gxl": "mazda/rx-7",
   "mazda/rx-8-gt": "mazda/rx-8",
   "mazda/rx-8-high-power": "mazda/rx-8",
@@ -1555,12 +1560,16 @@
   "mercedes-benz/190e-1-8-w201": "mercedes-benz/190e",
   "mercedes-benz/190e-2-0": "mercedes-benz/190e",
   "mercedes-benz/190e-sportline": "mercedes-benz/190e",
+  "mercedes-benz/300-e-e-500": "mercedes-benz/300-e",
   "mercedes-benz/a-class-a220": "mercedes-benz/a-class",
+  "mercedes-benz/a250-2023": "mercedes-benz/a250",
   "mercedes-benz/amg-gt-43": "mercedes-benz/amg-gt",
   "mercedes-benz/c-class-c180": "mercedes-benz/c-class",
   "mercedes-benz/c-class-c200": "mercedes-benz/c-class",
   "mercedes-benz/c-class-c250-turbodiesel": "mercedes-benz/c-class",
   "mercedes-benz/c-class-w202": "mercedes-benz/c-class",
+  "mercedes-benz/c200-2017": "mercedes-benz/c200",
+  "mercedes-benz/c200-2023": "mercedes-benz/c200",
   "mercedes-benz/c300-coupe-coupe": "mercedes-benz/c300",
   "mercedes-benz/c300-luxury-4matic": "mercedes-benz/c300",
   "mercedes-benz/c63": "mercedes-benz/c63-amg",
@@ -1608,6 +1617,7 @@
   "mercedes-benz/ml250": "mercedes-benz/ml",
   "mercedes-benz/ml320": "mercedes-benz/ml",
   "mercedes-benz/ml350-4matic": "mercedes-benz/ml",
+  "mercedes-benz/s550-amg-2013": "mercedes-benz/s550",
   "mercedes-benz/sl-350": "mercedes-benz/sl",
   "mercedes-benz/sl-43": "mercedes-benz/sl",
   "mercedes-benz/sl-class": "mercedes-benz/sl",
@@ -1749,6 +1759,7 @@
   "nissan/murano-s": "nissan/murano",
   "nissan/murano-sl": "nissan/murano",
   "nissan/navarra": "nissan/navara",
+  "nissan/note-2016": "nissan/note",
   "nissan/np200-base-af": "nissan/np200",
   "nissan/pathfinder-plat": "nissan/pathfinder",
   "nissan/pathfinder-silver-edition": "nissan/pathfinder",
@@ -1759,6 +1770,7 @@
   "nissan/qashqai-st-at": "nissan/qashqai",
   "nissan/qashqai-tekna": "nissan/qashqai",
   "nissan/r33-gt-r": "nissan/gt-r",
+  "nissan/roege-2023": "nissan/roege",
   "nissan/rogue-awd": "nissan/rogue",
   "nissan/rogue-sv": "nissan/rogue",
   "nissan/rouge": "nissan/rogue",
@@ -1781,6 +1793,8 @@
   "nissan/versa-s": "nissan/versa",
   "nissan/versa-sense": "nissan/versa",
   "nissan/versa-sl": "nissan/versa",
+  "nissan/x-trail-2019": "nissan/x-trail",
+  "nissan/x-trail-2021": "nissan/x-trail",
   "nissan/xterra-off-road": "nissan/xterra",
   "nissan/xterra-platinum": "nissan/xterra",
   "nissan/xterra-pro-4x": "nissan/xterra",
@@ -1823,6 +1837,7 @@
   "peugeot/2008-cazzo-e": "peugeot/2008",
   "peugeot/2008-gt": "peugeot/2008",
   "peugeot/206-gti180": "peugeot/206-gti",
+  "peugeot/206-vts-2011": "peugeot/206",
   "peugeot/206cc-base": "peugeot/206cc",
   "peugeot/206cc-sport": "peugeot/206cc",
   "peugeot/208-allure": "peugeot/208",
@@ -1992,6 +2007,7 @@
   "skoda/fabia-style": "skoda/fabia",
   "skoda/fabia-voll": "skoda/fabia",
   "skoda/karoq-style": "skoda/karoq",
+  "skoda/kodiaq-vrs-2019": "skoda/kodiaq",
   "skoda/octavia-1-8-turbo": "skoda/octavia",
   "skoda/octavia-205-60-r16": "skoda/octavia",
   "skoda/octavia-4x4": "skoda/octavia",
@@ -2546,6 +2562,7 @@
   "volkswagen/tiguan-sel-r-line": "volkswagen/tiguan",
   "volkswagen/tiguan-trend-fun": "volkswagen/tiguan",
   "volkswagen/touareg-2": "volkswagen/touareg",
+  "volkswagen/transporter-t28-startline-2022": "volkswagen/transporter",
   "volkswagon/bora": "volkswagen/bora",
   "volkswagon/bora-sport-1-8t-20v": "volkswagen/bora",
   "volvo/240-polar": "volvo/240",
@@ -22041,6 +22058,10 @@
    "bytes": 34750,
    "tint": "#8E8F91"
   },
+  "suzuki/gsr-600": {
+   "bytes": 80198,
+   "tint": "#2E2E2D"
+  },
   "suzuki/gsx-r1000r": {
    "bytes": 115972,
    "tint": "#068DF3"
@@ -22576,6 +22597,10 @@
   "triumph/speed-twin-1200": {
    "bytes": 110700,
    "tint": "#2D2D2E"
+  },
+  "triumph/street-triple-675": {
+   "bytes": 75900,
+   "tint": "#2E2E2E"
   },
   "triumph/street-triple-rs": {
    "bytes": 109034,
@@ -23233,6 +23258,14 @@
    "bytes": 111932,
    "tint": "#121213"
   },
+  "yamaha/mt-125": {
+   "bytes": 74622,
+   "tint": "#2F2F2F"
+  },
+  "yamaha/nmax": {
+   "bytes": 58844,
+   "tint": "#2D2E2E"
+  },
   "yamaha/r1": {
    "bytes": 57258,
    "tint": "#131313"
@@ -23256,6 +23289,18 @@
   "yamaha/wr250r": {
    "bytes": 139878,
    "tint": "#092B90"
+  },
+  "yamaha/wr450f": {
+   "bytes": 86364,
+   "tint": "#0433CC"
+  },
+  "yamaha/xj550r": {
+   "bytes": 87440,
+   "tint": "#2D2D2C"
+  },
+  "yamaha/xj6": {
+   "bytes": 71342,
+   "tint": "#2E2E2E"
   },
   "yamaha/xmax-300": {
    "bytes": 84458,
