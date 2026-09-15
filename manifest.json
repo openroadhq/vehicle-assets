@@ -16468,6 +16468,10 @@
    "bytes": 117612,
    "tint": "#C90914"
   },
+  "honda/cbr600fa": {
+   "bytes": 72300,
+   "tint": "#2D2D2E"
+  },
   "honda/cbr600rr": {
    "bytes": 120024,
    "tint": "#CE0409"
@@ -23292,6 +23296,10 @@
    "bytes": 74622,
    "tint": "#2F2F2F"
   },
+  "yamaha/mxi-125": {
+   "bytes": 53558,
+   "tint": "#2F2E2F"
+  },
   "yamaha/nmax": {
    "bytes": 56334,
    "tint": "#2E2E2E"
@@ -23338,6 +23346,10 @@
   },
   "yamaha/xsr900": {
    "bytes": 110330,
+   "tint": "#2D2D2E"
+  },
+  "yamaha/ybr-125": {
+   "bytes": 73252,
    "tint": "#2D2D2E"
   },
   "yamaha/yzf-r1": {
