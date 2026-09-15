@@ -29,7 +29,7 @@ CIMG = Path(os.environ.get(
     "CIMG", Path.home() / "Desktop/Galahad/tools/chatgpt-imagegen/chatgpt-imagegen"
 ))
 
-# The locked style. One source of truth — realism changes happen HERE only.
+# The locked style. One source of truth: realism changes happen HERE only.
 PROMPT_TEMPLATE = (
     "Official press-style studio render of a {desc}. PERFECT flat side profile view, "
     "camera exactly perpendicular to the car, facing left, zero perspective angle, "
@@ -60,7 +60,7 @@ TWO_WHEEL_STRICT_PROMPT_TEMPLATE = (
 )
 GEN_SIZE = "1536x1024"
 WEBP_WIDTH = 1024
-# Cutout model — Razpe's pick 2026-07-16: isnet is 8s/car vs birefnet's 68s and he
+# Cutout model. Razpe's pick 2026-07-16: isnet is 8s/car vs birefnet's 68s and he
 # judged the edges equal or better. Whole-list runtime: ~5h instead of ~8 days.
 CUTOUT_MODEL = 'isnet-general-use'
 WEBP_QUALITY = 82
@@ -140,7 +140,7 @@ def qc(py: Path, png: Path) -> str | None:
         "cov = (box[2]-box[0]) * (box[3]-box[1]) / (w*h)\n"
         "if cov < 0.15: print(f'subject too small ({cov:.0%})'); sys.exit(0)\n"
         "if box[0] <= 1 or box[2] >= w-1: print('subject clipped horizontally'); sys.exit(0)\n"
-        "if (box[2]-box[0]) <= (box[3]-box[1]): print('not landscape — likely not a side profile')\n"
+        "if (box[2]-box[0]) <= (box[3]-box[1]): print('not landscape: likely not a side profile')\n"
     )
     res = subprocess.run([str(py), "-c", script, str(png)], capture_output=True, text=True)
     reason = res.stdout.strip()
@@ -191,7 +191,7 @@ def build_generations(vehicles: dict) -> dict:
     that here and ship the answer, so the client just binary-searches a list.
 
     Current-gen start years come from `current-gen-years.txt` (slug|year).
-    A base with no bare slug is a dead nameplate — historical gens only.
+    A base with no bare slug is a dead nameplate: historical gens only.
     """
     starts = {}
     f = REPO / "current-gen-years.txt"
@@ -213,13 +213,13 @@ def build_generations(vehicles: dict) -> dict:
             year = starts.get(base)
             if year is None:
                 # No curated start year: place the current gen one year after the
-                # newest historical one. Wrong-but-adjacent beats unreachable —
+                # newest historical one. Wrong-but-adjacent beats unreachable:
                 # every car newer than the last known gen still lands on it.
                 year = max(y for y, _ in gens[base]) + 1
             # A bare slug and a year-suffixed one can name the SAME generation
             # (e.g. audi/tt + audi/tt-2016 are both the 2016 car). Two entries
-            # at one year makes the lookup ambiguous, so the bare slug — the
-            # canonical "current" image — wins and the duplicate drops out.
+            # at one year makes the lookup ambiguous, so the bare slug, the
+            # canonical "current" image, wins and the duplicate drops out.
             gens[base] = [e for e in gens[base] if e[0] != year]
             gens[base].append([year, base])
         gens[base].sort()
@@ -278,7 +278,7 @@ def process(slug: str, desc: str, force: bool, py: Path, two_wheel: bool) -> boo
         cutout(py, raw, cut)
         reason = qc(py, cut)
         if reason and two_wheel:
-            _p(f"RETRY {slug}: QC rejected — {reason}")
+            _p(f"RETRY {slug}: QC rejected: {reason}")
             try:
                 generate_raw(TWO_WHEEL_STRICT_PROMPT_TEMPLATE.format(desc=desc.strip()), raw)
                 wait_for_build_clear()
@@ -288,7 +288,7 @@ def process(slug: str, desc: str, force: bool, py: Path, two_wheel: bool) -> boo
                 _p(f"FAIL {slug}: regeneration errored")
                 return False
         if reason:
-            _p(f"FAIL {slug}: QC rejected — {reason}")
+            _p(f"FAIL {slug}: QC rejected: {reason}")
             return False
         to_webp(cut, dst)
     _p(f"ok {slug} ({dst.stat().st_size // 1024}KB)")
