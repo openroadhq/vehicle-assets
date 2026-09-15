@@ -35,8 +35,19 @@ PROMPT_TEMPLATE = (
     "camera exactly perpendicular to the car, facing left, zero perspective angle, "
     "orthographic product-catalog look. Photorealistic, crisp studio lighting, clean "
     "reflections. Isolated on a plain solid light gray background, soft contact shadow "
-    "directly under the tires only, no text, no watermark, car centered filling "
+    "directly under the tires only. No text, lettering, logos, badges, model names, "
+    "decals, or watermark. Car centered filling "
     "85 percent of frame width."
+)
+CAR_STRICT_PROMPT_TEMPLATE = (
+    "Official manufacturer press render of exactly one {desc}, shown as a PERFECT "
+    "true left-facing side elevation. Camera exactly perpendicular to the vehicle, "
+    "zero perspective, no three-quarter angle, no front view, no rear view. Include "
+    "the complete vehicle in one coherent silhouette, fully inside the frame. "
+    "Photorealistic catalog studio lighting and clean reflections on a plain light "
+    "gray background. No text, lettering, logos, badges, model names, decals, "
+    "watermark, ground, floor, or cast shadow. Centered and filling 85 percent of "
+    "the frame width."
 )
 TWO_WHEEL_PROMPT_TEMPLATE = (
     "Official press-style studio render of a {desc}. PERFECT flat side profile view, "
@@ -45,7 +56,8 @@ TWO_WHEEL_PROMPT_TEMPLATE = (
     "studio lighting, clean reflections. Show exactly one complete two-wheel vehicle, "
     "including both wheels, with no rider, no person, no kickstand, no luggage stand, "
     "and no extra parts. Isolated on a plain solid light gray background, soft contact "
-    "shadows directly under the tires only, no text, no watermark, vehicle centered "
+    "shadows directly under the tires only. No text, lettering, logos, badges, model "
+    "names, decals, or watermark. Vehicle centered "
     "filling 82 percent of frame width."
 )
 TWO_WHEEL_STRICT_PROMPT_TEMPLATE = (
@@ -55,14 +67,15 @@ TWO_WHEEL_STRICT_PROMPT_TEMPLATE = (
     "or person. Include the complete frame, handlebars, seat, engine or body, and "
     "both wheels in one coherent motorcycle or scooter silhouette. Photorealistic "
     "catalog studio lighting, crisp clean reflections, plain light gray background, "
-    "subtle contact shadows under the tires only, no text, no watermark, no extra "
+    "subtle contact shadows under the tires only. No text, lettering, logos, badges, "
+    "model names, decals, watermark, or extra "
     "vehicle, centered and fully inside the frame."
 )
 GEN_SIZE = "1536x1024"
 WEBP_WIDTH = 1024
 # Cutout model. Razpe's pick 2026-07-16: isnet is 8s/car vs birefnet's 68s and he
 # judged the edges equal or better. Whole-list runtime: ~5h instead of ~8 days.
-CUTOUT_MODEL = 'isnet-general-use'
+CUTOUT_MODEL = 'birefnet-general'
 WEBP_QUALITY = 82
 
 
@@ -141,6 +154,18 @@ def qc(py: Path, png: Path) -> str | None:
         "if cov < 0.15: print(f'subject too small ({cov:.0%})'); sys.exit(0)\n"
         "if box[0] <= 1 or box[2] >= w-1: print('subject clipped horizontally'); sys.exit(0)\n"
         "if (box[2]-box[0]) <= (box[3]-box[1]): print('not landscape: likely not a side profile')\n"
+        "bottom = a.crop((box[0], max(box[1], box[3]-12), box[2], box[3]))\n"
+        "low = sum(1 for v in bottom.getdata() if 1 < v < 80)\n"
+        "solid = sum(1 for v in bottom.getdata() if v >= 180)\n"
+        "if low > max(20, solid * 2): print('ground shadow retained by cutout'); sys.exit(0)\n"
+        "import shutil, subprocess, tempfile\n"
+        "if shutil.which('tesseract'):\n"
+        "    bg = Image.new('RGB', img.size, 'white'); bg.paste(img.convert('RGB'), mask=a)\n"
+        "    with tempfile.NamedTemporaryFile(suffix='.png') as f:\n"
+        "        bg.save(f.name)\n"
+        "        ocr = subprocess.run(['tesseract', f.name, 'stdout', '--psm', '11'], capture_output=True, text=True)\n"
+        "        words = [w for w in ocr.stdout.split() if sum(c.isalpha() for c in w) >= 3]\n"
+        "        if words: print('text detected: ' + ' '.join(words[:4])); sys.exit(0)\n"
     )
     res = subprocess.run([str(py), "-c", script, str(png)], capture_output=True, text=True)
     reason = res.stdout.strip()
@@ -259,7 +284,7 @@ def rebuild_manifest() -> None:
     print(f"manifest: {len(vehicles)} vehicles")
 
 
-def process(slug: str, desc: str, force: bool, py: Path, two_wheel: bool) -> bool:
+def process(slug: str, desc: str, force: bool, py: Path, two_wheel: bool, strict: bool) -> bool:
     slug = slug.strip().lower()
     dst = V1 / f"{slug}.webp"
     if dst.exists() and not force:
@@ -269,7 +294,10 @@ def process(slug: str, desc: str, force: bool, py: Path, two_wheel: bool) -> boo
     with tempfile.TemporaryDirectory() as td:
         raw, cut = Path(td) / "raw.png", Path(td) / "cut.png"
         try:
-            template = TWO_WHEEL_PROMPT_TEMPLATE if two_wheel else PROMPT_TEMPLATE
+            if strict:
+                template = TWO_WHEEL_STRICT_PROMPT_TEMPLATE if two_wheel else CAR_STRICT_PROMPT_TEMPLATE
+            else:
+                template = TWO_WHEEL_PROMPT_TEMPLATE if two_wheel else PROMPT_TEMPLATE
             generate_raw(template.format(desc=desc.strip()), raw)
         except subprocess.CalledProcessError:
             _p(f"FAIL {slug}: generation errored")
@@ -280,7 +308,8 @@ def process(slug: str, desc: str, force: bool, py: Path, two_wheel: bool) -> boo
         if reason and two_wheel:
             _p(f"RETRY {slug}: QC rejected: {reason}")
             try:
-                generate_raw(TWO_WHEEL_STRICT_PROMPT_TEMPLATE.format(desc=desc.strip()), raw)
+                retry_template = TWO_WHEEL_STRICT_PROMPT_TEMPLATE if two_wheel else CAR_STRICT_PROMPT_TEMPLATE
+                generate_raw(retry_template.format(desc=desc.strip()), raw)
                 wait_for_build_clear()
                 cutout(py, raw, cut)
                 reason = qc(py, cut)
@@ -301,6 +330,7 @@ def main() -> int:
     ap.add_argument("--list", type=Path, help="file with slug|description lines")
     ap.add_argument("--force", action="store_true", help="regenerate even if the asset exists")
     ap.add_argument("--two-wheel", action="store_true", help="use the motorcycle or scooter side-profile prompt")
+    ap.add_argument("--strict", action="store_true", help="use the no-branding strict prompt on the first attempt")
     ap.add_argument("--rebuild-manifest", action="store_true")
     args = ap.parse_args()
 
@@ -328,7 +358,7 @@ def main() -> int:
         if not CIMG.exists():
             die(f"chatgpt-imagegen not found at {CIMG} (set CIMG)")
         py = ensure_venv()
-        failed = [slug for slug, desc in jobs if not process(slug, desc, args.force, py, args.two_wheel)]
+        failed = [slug for slug, desc in jobs if not process(slug, desc, args.force, py, args.two_wheel, args.strict)]
         if failed:
             print(f"\n{len(failed)} failed: {', '.join(failed)}")
     rebuild_manifest()

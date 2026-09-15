@@ -16796,8 +16796,8 @@
    "tint": "#0F0F0F"
   },
   "honda/trx250x": {
-   "bytes": 75742,
-   "tint": "#EE090B"
+   "bytes": 64980,
+   "tint": "#D10C15"
   },
   "honda/vamos": {
    "bytes": 30732,
@@ -23272,8 +23272,8 @@
    "tint": "#2F2F2F"
   },
   "yamaha/nmax": {
-   "bytes": 58844,
-   "tint": "#2D2E2E"
+   "bytes": 56334,
+   "tint": "#2E2E2E"
   },
   "yamaha/r1": {
    "bytes": 57258,
