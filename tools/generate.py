@@ -309,7 +309,7 @@ def process(slug: str, desc: str, force: bool, py: Path, two_wheel: bool, strict
         wait_for_build_clear()
         cutout(py, raw, cut)
         reason = qc(py, cut)
-        if reason and two_wheel:
+        if reason:
             _p(f"RETRY {slug}: QC rejected: {reason}")
             try:
                 retry_template = TWO_WHEEL_STRICT_PROMPT_TEMPLATE if two_wheel else CAR_STRICT_PROMPT_TEMPLATE
