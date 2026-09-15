@@ -1408,6 +1408,7 @@
   "kia/stinger-gt1": "kia/stinger",
   "kia/telluride-full": "kia/telluride",
   "kia/telluride-lx": "kia/telluride",
+  "kia/venga-2013": "kia/venga",
   "ktm/790-duke-proworks": "ktm/790-duke",
   "ktm/890-duke": "ktm/890-duke-r",
   "ktm/exc-f": "ktm/500-exc-f",
@@ -17950,6 +17951,10 @@
    "bytes": 25124,
    "tint": "#EDEDED"
   },
+  "kia/venga": {
+   "bytes": 37908,
+   "tint": "#635B55"
+  },
   "koenigsegg/agera": {
    "bytes": 22664,
    "tint": "#939494"
@@ -22389,6 +22394,10 @@
   "toyota/innova": {
    "bytes": 33208,
    "tint": "#6D6D6F"
+  },
+  "toyota/kluger": {
+   "bytes": 37630,
+   "tint": "#313233"
   },
   "toyota/land-cruiser": {
    "bytes": 25786,
