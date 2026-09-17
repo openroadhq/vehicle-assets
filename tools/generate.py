@@ -140,6 +140,9 @@ def cutout(py: Path, src: Path, dst: Path) -> None:
     subprocess.run([str(py), "-c", script, str(src), str(dst)], check=True)
 
 
+OCR_MIN_CONF = 80  # advisory filter only; see qc()
+
+
 def qc(py: Path, png: Path) -> str | None:
     """Heuristic gate. Returns a rejection reason or None if the image passes."""
     script = (
@@ -163,10 +166,15 @@ def qc(py: Path, png: Path) -> str | None:
         "    bg = Image.new('RGB', img.size, 'white'); bg.paste(img.convert('RGB'), mask=a)\n"
         "    with tempfile.NamedTemporaryFile(suffix='.png') as f:\n"
         "        bg.save(f.name)\n"
-        "        ocr = subprocess.run(['tesseract', f.name, 'stdout', '--psm', '11'], capture_output=True, text=True)\n"
-        "        words = [w for w in ocr.stdout.split() if sum(c.isalpha() for c in w) >= 3]\n"
-        "        if words: print('text detected: ' + ' '.join(words[:4])); sys.exit(0)\n"
+        "        ocr = subprocess.run(['tesseract', f.name, 'stdout', '--psm', '11', 'tsv'], capture_output=True, text=True)\n"
+        "        # Confident words only: grilles, spokes and reflections OCR as low-confidence noise.\n"
+        "        rows = [r.split('\\t') for r in ocr.stdout.splitlines()[1:]]\n"
+        "        words = [r[11] for r in rows if len(r) == 12 and float(r[10]) >= OCR_MIN_CONF and sum(c.isalpha() for c in r[11]) >= 3]\n"
+        "        # Advisory only (2026-09-17): tesseract missed 60px ETIOS lettering painted on a car\n"
+        "        # and rejected clean R8/GT3 RS renders on noise. Branding is caught by visual review.\n"
+        "        if words: print('ocr advisory: ' + ' '.join(words[:4]), file=sys.stderr)\n"
     )
+    script = f"OCR_MIN_CONF = {OCR_MIN_CONF}\n" + script
     res = subprocess.run([str(py), "-c", script, str(png)], capture_output=True, text=True)
     reason = res.stdout.strip()
     return reason or None
