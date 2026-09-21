@@ -1,6 +1,6 @@
 {
  "schemaVersion": 2,
- "generated": "2026-07-27",
+ "generated": "2026-09-20",
  "vehicles": [
   {
    "slug": "abarth/595",
@@ -12890,6 +12890,516 @@
    "zeroToSixty": 3.9,
    "weightKg": 188,
    "tier": 2
+  },
+  {
+   "slug": "toyota/hiace-gl-grandia-2019",
+   "make": "Toyota",
+   "model": "Hiace GL Grandia",
+   "variant": null,
+   "display": "Toyota Hiace GL Grandia",
+   "search": [
+    "toyota",
+    "hiace gl grandia",
+    "toyota hiace-gl-grandia-2019",
+    "hiace",
+    "2019 h300"
+   ],
+   "shape": "van",
+   "years": "2019",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "beta/rr-350-2021",
+   "make": "Beta",
+   "model": "RR 350",
+   "variant": null,
+   "display": "Beta RR 350",
+   "search": [
+    "beta",
+    "rr 350",
+    "beta rr-350-2021",
+    "rr",
+    "2021"
+   ],
+   "shape": "motorcycle",
+   "years": "2021",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "bmw/330ci-coupe-2003",
+   "make": "BMW",
+   "model": "330Ci M Sport Coupe",
+   "variant": null,
+   "display": "BMW 330Ci M Sport Coupe",
+   "search": [
+    "bmw",
+    "330ci m sport coupe",
+    "bmw 330ci-coupe-2003",
+    "e46 330 ci",
+    "2003 e46"
+   ],
+   "shape": "coupe",
+   "years": "2003",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "holden/captiva-5-2011",
+   "make": "Holden",
+   "model": "Captiva 5",
+   "variant": null,
+   "display": "Holden Captiva 5",
+   "search": [
+    "holden",
+    "captiva 5",
+    "holden captiva-5-2011",
+    "captiva",
+    "2013 series ii, body choice required"
+   ],
+   "shape": "suv",
+   "years": "2013",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "holden/captiva-7-2011",
+   "make": "Holden",
+   "model": "Captiva 7",
+   "variant": null,
+   "display": "Holden Captiva 7",
+   "search": [
+    "holden",
+    "captiva 7",
+    "holden captiva-7-2011",
+    "captiva",
+    "2013 series ii, body choice required"
+   ],
+   "shape": "suv",
+   "years": "2013",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "audi/s4-avant-2009",
+   "make": "Audi",
+   "model": "S4 Avant Quattro",
+   "variant": null,
+   "display": "Audi S4 Avant Quattro",
+   "search": [
+    "audi",
+    "s4 avant quattro",
+    "audi s4-avant-2009",
+    "2009 b8"
+   ],
+   "shape": "hatchback",
+   "years": "2009",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "peugeot/406-1999",
+   "make": "Peugeot",
+   "model": "406",
+   "variant": null,
+   "display": "Peugeot 406",
+   "search": [
+    "peugeot",
+    "406",
+    "peugeot 406-1999",
+    "1999-2004 facelift, year not specified"
+   ],
+   "shape": "sedan",
+   "years": null,
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "suzuki/swift-sport-2017",
+   "make": "Suzuki",
+   "model": "Swift 1.4",
+   "variant": null,
+   "display": "Suzuki Swift 1.4",
+   "search": [
+    "suzuki",
+    "swift 1.4",
+    "suzuki swift-sport-2017",
+    "swift",
+    "2019 zc33s"
+   ],
+   "shape": "hatchback",
+   "years": "2019",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "dodge/sprinter-2500-cargo-2007",
+   "make": "Dodge",
+   "model": "Sprinter 2500 Cargo",
+   "variant": null,
+   "display": "Dodge Sprinter 2500 Cargo",
+   "search": [
+    "dodge",
+    "sprinter 2500 cargo",
+    "dodge sprinter-2500-cargo-2007",
+    "2007-2009 ncv3, year not specified"
+   ],
+   "shape": "van",
+   "years": null,
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "ford/f350-super-cab-2023",
+   "make": "Ford",
+   "model": "F-350 Super Duty SuperCab",
+   "variant": null,
+   "display": "Ford F-350 Super Duty SuperCab",
+   "search": [
+    "ford",
+    "f-350 super duty supercab",
+    "ford f350-super-cab-2023",
+    "f350 super duty super cab",
+    "2023 generation, year not specified"
+   ],
+   "shape": "truck",
+   "years": null,
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "gmc/sierra-2500hd-crew-cab-2005",
+   "make": "GMC",
+   "model": "Sierra 2500HD Crew Cab SLE",
+   "variant": null,
+   "display": "GMC Sierra 2500HD Crew Cab SLE",
+   "search": [
+    "gmc",
+    "sierra 2500hd crew cab sle",
+    "gmc sierra-2500hd-crew-cab-2005",
+    "2500 crew cab",
+    "2005 gmt800"
+   ],
+   "shape": "truck",
+   "years": "2005",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "ford/focus-st-2015",
+   "make": "Ford",
+   "model": "Focus ST ST3",
+   "variant": null,
+   "display": "Ford Focus ST ST3",
+   "search": [
+    "ford",
+    "focus st st3",
+    "ford focus-st-2015",
+    "focus st",
+    "2016 mk3 facelift"
+   ],
+   "shape": "hatchback",
+   "years": "2016",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "audi/a3-sportback-2020",
+   "make": "Audi",
+   "model": "A3 Sportback",
+   "variant": null,
+   "display": "Audi A3 Sportback",
+   "search": [
+    "audi",
+    "a3 sportback",
+    "audi a3-sportback-2020",
+    "a3",
+    "2023 8y"
+   ],
+   "shape": "hatchback",
+   "years": "2023",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "peugeot/boxer-2024",
+   "make": "Peugeot",
+   "model": "Boxer",
+   "variant": null,
+   "display": "Peugeot Boxer",
+   "search": [
+    "peugeot",
+    "boxer",
+    "peugeot boxer-2024",
+    "2025 facelift, representative l2h2"
+   ],
+   "shape": "van",
+   "years": "2025",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "toyota/tacoma-xtracab-2024",
+   "make": "Toyota",
+   "model": "Tacoma XtraCab",
+   "variant": null,
+   "display": "Toyota Tacoma XtraCab",
+   "search": [
+    "toyota",
+    "tacoma xtracab",
+    "toyota tacoma-xtracab-2024",
+    "2024 generation, year not specified"
+   ],
+   "shape": "truck",
+   "years": null,
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "nissan/patrol-gu-2004",
+   "make": "Nissan",
+   "model": "Patrol GU",
+   "variant": null,
+   "display": "Nissan Patrol GU",
+   "search": [
+    "nissan",
+    "patrol gu",
+    "nissan patrol-gu-2004",
+    "patrol",
+    "2006 y61 series 4"
+   ],
+   "shape": "suv",
+   "years": "2006",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "chevrolet/c10-1973",
+   "make": "Chevrolet",
+   "model": "C10",
+   "variant": null,
+   "display": "Chevrolet C10",
+   "search": [
+    "chevrolet",
+    "c10",
+    "chevrolet c10-1973",
+    "1973 square body"
+   ],
+   "shape": "truck",
+   "years": "1973",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "audi/e-tron-sportback-2020",
+   "make": "Audi",
+   "model": "e-tron Sportback 50 quattro",
+   "variant": null,
+   "display": "Audi e-tron Sportback 50 quattro",
+   "search": [
+    "audi",
+    "e-tron sportback 50 quattro",
+    "audi e-tron-sportback-2020",
+    "2020-2022, year not specified"
+   ],
+   "shape": "suv",
+   "years": null,
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "bmw/6-series-gran-turismo-2017",
+   "make": "BMW",
+   "model": "6 Series Gran Turismo",
+   "variant": null,
+   "display": "BMW 6 Series Gran Turismo",
+   "search": [
+    "bmw",
+    "6 series gran turismo",
+    "bmw 6-series-gran-turismo-2017",
+    "gt 6 series",
+    "2019 g32"
+   ],
+   "shape": "sedan",
+   "years": "2019",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "proton/x50-2020",
+   "make": "Proton",
+   "model": "X50 Flagship",
+   "variant": null,
+   "display": "Proton X50 Flagship",
+   "search": [
+    "proton",
+    "x50 flagship",
+    "proton x50-2020",
+    "x50",
+    "2023 first generation"
+   ],
+   "shape": "suv",
+   "years": "2023",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "holden/statesman-wl-2004",
+   "make": "Holden",
+   "model": "Statesman WL",
+   "variant": null,
+   "display": "Holden Statesman WL",
+   "search": [
+    "holden",
+    "statesman wl",
+    "holden statesman-wl-2004",
+    "statesman",
+    "2004-2006 wl, series choice required"
+   ],
+   "shape": "sedan",
+   "years": "2006",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "holden/statesman-wm-2006",
+   "make": "Holden",
+   "model": "Statesman WM",
+   "variant": null,
+   "display": "Holden Statesman WM",
+   "search": [
+    "holden",
+    "statesman wm",
+    "holden statesman-wm-2006",
+    "statesman",
+    "2006-2010 wm, series choice required"
+   ],
+   "shape": "sedan",
+   "years": "2006",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "can-am/traxter-2025",
+   "make": "Can-Am",
+   "model": "Traxter",
+   "variant": null,
+   "display": "Can-Am Traxter",
+   "search": [
+    "can-am",
+    "traxter",
+    "can-am traxter-2025",
+    "2025, representative three-seat body"
+   ],
+   "shape": "truck",
+   "years": "2025",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "jetour/t2-2023",
+   "make": "Jetour",
+   "model": "T2",
+   "variant": null,
+   "display": "Jetour T2",
+   "search": [
+    "jetour",
+    "t2",
+    "jetour t2-2023",
+    "2024 first generation"
+   ],
+   "shape": "suv",
+   "years": "2024",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "hyundai/creta-2015",
+   "make": "Hyundai",
+   "model": "Creta",
+   "variant": null,
+   "display": "Hyundai Creta",
+   "search": [
+    "hyundai",
+    "creta",
+    "hyundai creta-2015",
+    "2018 first generation"
+   ],
+   "shape": "suv",
+   "years": "2018",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
+  },
+  {
+   "slug": "saab/9-3-cabriolet-2004",
+   "make": "Saab",
+   "model": "9-3 Vector Cabriolet",
+   "variant": null,
+   "display": "Saab 9-3 Vector Cabriolet",
+   "search": [
+    "saab",
+    "9-3 vector cabriolet",
+    "saab 9-3-cabriolet-2004",
+    "9-3",
+    "2004 second generation"
+   ],
+   "shape": "sports",
+   "years": "2004",
+   "hp": null,
+   "zeroToSixty": null,
+   "weightKg": null,
+   "tier": 3
   }
  ]
 }
