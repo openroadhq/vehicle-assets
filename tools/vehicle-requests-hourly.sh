@@ -4,6 +4,7 @@ set -euo pipefail
 ROOT="${VEHICLE_ASSETS_ROOT:-$HOME/Projects/vehicle-assets}"
 PYTHON="${VEHICLE_REQUESTS_PYTHON:-$HOME/Projects/vehicle-venv/bin/python}"
 DATE="${REQUESTS_DATE:-$(date +%F)}"
+STAMP="${REQUESTS_REVIEW_STAMP:-$(date +%F-%H)}"
 REVIEW_ROOT="${VEHICLE_REVIEWS_ROOT:-$HOME/Projects/vehicle-reviews}"
 DELTA_ROOT="${VEHICLE_DELTAS_ROOT:-$HOME/Projects/vehicle-request-deltas}"
 STATE_ROOT="${VEHICLE_STATE_ROOT:-$HOME/Projects/vehicle-request-state}"
@@ -18,6 +19,6 @@ exec "$ROOT/tools/requests-daily.sh" \
   --reviews "$REVIEW_ROOT" \
   --deltas "$DELTA_ROOT" \
   --state-dir "$STATE_ROOT" \
-  --review-dir "$REVIEW_ROOT/$DATE" \
+  --review-dir "$REVIEW_ROOT/$STAMP" \
   --sender "$HOME/Projects/tools/send-vehicle-review.py" \
   "$@"
