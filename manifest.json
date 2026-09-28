@@ -1,5 +1,7 @@
 {
  "aliases": {
+  "320i/bmw": "bmw/3-series",
+  "acura-tsx/sedan": "acura/tsx",
   "acura/2022": "acura/nsx-type-s-2022",
   "acura/ilx-2-4l": "acura/ilx",
   "acura/ilx-base": "acura/ilx",
@@ -9,6 +11,8 @@
   "acura/integra-gs": "acura/integra",
   "acura/integra-ls": "acura/integra",
   "acura/integra-ls-special": "acura/integra",
+  "acura/lt": "acura/tl-2004",
+  "acura/lt-base": "acura/tl-2004",
   "acura/mdx-base": "acura/mdx",
   "acura/rdx-a-spec": "acura/rdx",
   "acura/rdx-technology": "acura/rdx",
@@ -45,6 +49,7 @@
   "alfa-romeo/mito-distinctive": "alfa-romeo/mito",
   "alfa-romeo/mito-turismo": "alfa-romeo/mito",
   "alfa-romeo/mito-veloce": "alfa-romeo/mito",
+  "angwatt/t1-max-sport": "angwatt/t1-max",
   "aprilia/rsv4": "aprilia/rsv4-factory",
   "aston-martin/dbs-superleggera": "aston-martin/dbs",
   "aston-martin/dbx-707": "aston-martin/dbx",
@@ -106,6 +111,7 @@
   "audi/a4-b6-kombi": "audi/a4",
   "audi/a4-b7": "audi/a4",
   "audi/a4-b7-avant": "audi/a4",
+  "audi/a4-b7-s-line-vollausstattung": "audi/a4-2006",
   "audi/a4-b8": "audi/a4",
   "audi/a4-b8-3-0-tdi": "audi/a4",
   "audi/a4-b8-avant": "audi/a4",
@@ -183,6 +189,7 @@
   "audi/s3-8v": "audi/s3",
   "audi/s3-black-edition": "audi/s3",
   "audi/s3-premium-plus": "audi/s3",
+  "audi/s3-sportback": "audi/s3-sportback-2018",
   "audi/s4-avant-quattro": "audi/s4-avant-2009",
   "audi/s4-b8-5": "audi/s4",
   "audi/s4-premium": "audi/s4",
@@ -191,6 +198,7 @@
   "audi/s5-prestige": "audi/s5",
   "audi/s5-sportback": "audi/s5",
   "audi/s5-unknown": "audi/s5",
+  "audi/s6-avant": "audi/s6-avant-2024",
   "audi/s6-full-extra": "audi/s6",
   "audi/s7-base": "audi/s7",
   "audi/s8-sport": "audi/s8",
@@ -280,6 +288,7 @@
   "bmw/320e": "bmw/3-series",
   "bmw/320i": "bmw/3-series",
   "bmw/320i-base": "bmw/3-series",
+  "bmw/320i-bmw": "bmw/3-series",
   "bmw/320i-e90": "bmw/3-series",
   "bmw/320i-f30": "bmw/3-series",
   "bmw/320td": "bmw/3-series",
@@ -303,6 +312,7 @@
   "bmw/328xi": "bmw/3-series",
   "bmw/330-ci": "bmw/3-series",
   "bmw/330cd": "bmw/3-series",
+  "bmw/330cd-m-sport-coupe-m-pocket": "bmw/330ci-coupe-2003",
   "bmw/330ci": "bmw/3-series",
   "bmw/330cic": "bmw/3-series",
   "bmw/330d": "bmw/3-series",
@@ -445,7 +455,9 @@
   "bmw/e93-338i": "bmw/3-series",
   "bmw/f-650-cs-scavver": "bmw/6-series",
   "bmw/f01-730d": "bmw/f01",
+  "bmw/f10": "bmw/5-series-2010",
   "bmw/f10-550i": "bmw/5-series",
+  "bmw/f10-exclusive": "bmw/5-series-2010",
   "bmw/f20": "bmw/1-series",
   "bmw/f22-m235i": "bmw/m2",
   "bmw/f30": "bmw/3-series",
@@ -548,6 +560,7 @@
   "bmw/z4-e85": "bmw/z4",
   "bmw/z4-e85-3-0i": "bmw/z4",
   "bmw/z4-sport": "bmw/z4",
+  "brezza/sedan": "maruti-suzuki/brezza",
   "bugatti/tourbillon-si": "bugatti/tourbillon",
   "buick/encore-gx-turbo": "buick/encore-gx",
   "buick/encore-st": "buick/encore",
@@ -624,6 +637,7 @@
   "chevrolet/corvette-trooper": "chevrolet/corvette",
   "chevrolet/corvette-z06-2lz": "chevrolet/corvette-z06",
   "chevrolet/corvette-z51": "chevrolet/corvette",
+  "chevrolet/cruze-limited": "chevrolet/cruze-2011",
   "chevrolet/cruze-ltz": "chevrolet/cruze",
   "chevrolet/cruze-premier": "chevrolet/cruze",
   "chevrolet/cruze-turbo-diesel": "chevrolet/cruze",
@@ -759,6 +773,7 @@
   "citroen/c3-attractions-collection-confort-exclusive": "citroen/c3",
   "citroen/c3-modelo-2011-1-4-flex-8v": "citroen/c3",
   "citroen/c6-2-7-hdi-v6-biturbo-exclusive": "citroen/c6",
+  "citroen/ds-ds9": "ds/ds9",
   "citroen/saxo-bic": "citroen/saxo",
   "citroen/saxo-forte": "citroen/saxo",
   "citroen/saxo-vts-vts-8v": "citroen/saxo-vts",
@@ -907,6 +922,7 @@
   "ford/f-150-xlt": "ford/f-150",
   "ford/f-250": "ford/f250",
   "ford/f-350": "ford/f350",
+  "ford/f-350-super-duty-supercab-platinum": "ford/f350-supercab-2021",
   "ford/f150": "ford/f-150",
   "ford/f150-raptor": "ford/f-150-raptor",
   "ford/f150-regular-cab": "ford/f-150",
@@ -920,6 +936,7 @@
   "ford/f250-special": "ford/f250",
   "ford/f250-super-cab-xlt-7-3-powerstroke": "ford/f250",
   "ford/f250-super-duty": "ford/f-250-super-duty",
+  "ford/f250-super-duty-crew-cab": "ford/f-250-super-duty",
   "ford/f250-xl": "ford/f250",
   "ford/f250-xlt": "ford/f250",
   "ford/f350-k-r": "ford/f350",
@@ -1081,6 +1098,8 @@
   "gmc/canyon-elevation": "gmc/canyon",
   "gmc/canyon-slt": "gmc/canyon",
   "gmc/savana-cutaway": "gmc/savana",
+  "gmc/sierra-1500-2010": "gmc/sierra-1500-2007",
+  "gmc/sierra-1500-2013": "gmc/sierra-1500-2007",
   "gmc/sierra-1500-denali-denali": "gmc/sierra-1500-denali",
   "gmc/sierra-1500-sle": "gmc/sierra-1500",
   "gmc/sierra-1500-slt": "gmc/sierra-1500",
@@ -1091,6 +1110,7 @@
   "gmc/sierra-slt-5-3-v8": "gmc/sierra",
   "gmc/sonoma-regular-cab-sl": "gmc/sonoma",
   "harley-davidson/softail": "harley-davidson/softail-standard",
+  "haval-h6/crossover-full": "haval/h6",
   "haval/h6-crossover-full-2027": "haval/h6",
   "haval/h6-gt": "haval/h6",
   "holden/barina-base": "holden/barina",
@@ -1154,6 +1174,7 @@
   "honda/cbr-500": "honda/cbr",
   "honda/cbr-500-r": "honda/cbr500r",
   "honda/cbr-500r": "honda/cbr500r",
+  "honda/cbr-900rr-moto": "honda/cbr900rr",
   "honda/cbr1000": "honda/cbr1000rr-r",
   "honda/cbr600-rr": "honda/cbr600rr",
   "honda/cbr600rr-shadow-earo": "honda/cbr600rr",
@@ -1168,6 +1189,7 @@
   "honda/civic-cx": "honda/civic",
   "honda/civic-dx": "honda/civic",
   "honda/civic-ec9": "honda/civic",
+  "honda/civic-eg": "honda/civic",
   "honda/civic-eg3": "honda/civic",
   "honda/civic-eg6": "honda/civic",
   "honda/civic-ej9": "honda/civic",
@@ -1419,6 +1441,7 @@
   "kia-sorento-hybrid/suv": "kia/sorento",
   "kia/carnival-grand": "kia/carnival",
   "kia/ceed-basic": "kia/ceed",
+  "kia/cerato": "kia/forte",
   "kia/ceres-work-line": "kia/ceres",
   "kia/ceres-work-line-1998": "kia/ceres",
   "kia/forte-5": "kia/forte",
@@ -1474,13 +1497,17 @@
   "kia/telluride-full": "kia/telluride",
   "kia/telluride-lx": "kia/telluride",
   "kia/venga-2013": "kia/venga",
+  "kluger/sedan": "toyota/kluger",
   "ktm/790-duke-proworks": "ktm/790-duke",
   "ktm/890-duke": "ktm/890-duke-r",
   "ktm/exc-f": "ktm/500-exc-f",
   "ktm/exc-f-350": "ktm/500-exc-f",
   "ktm/rc390": "ktm/rc-390",
   "lada/granta-qvest": "lada/granta",
+  "lads/kalina-2": "lada/kalina-2",
   "lamborghini/huracan-evo": "lamborghini/huracan",
+  "lancia/ypsilon": "lancia/1-3-mtj",
+  "lancia/ypsilon-1-3-mjt": "lancia/1-3-mtj",
   "land-rover/autobiography-p400-lwb": "land-rover/autobiography",
   "land-rover/defender-110": "land-rover/defender",
   "land-rover/defender-90-1984": "land-rover/defender",
@@ -1509,6 +1536,7 @@
   "lexus/gx550": "lexus/gx",
   "lexus/iis250": "lexus/is",
   "lexus/is-200t": "lexus/is",
+  "lexus/is-250": "lexus/is-2006",
   "lexus/is-250-awd-shit": "lexus/is",
   "lexus/is-300": "lexus/is",
   "lexus/is-300-f-sport": "lexus/is",
@@ -1559,6 +1587,7 @@
   "mazda/626-lx": "mazda/626",
   "mazda/626-slx": "mazda/626",
   "mazda/axela": "mazda/mazda3",
+  "mazda/b2200-base": "mazda/b2200",
   "mazda/cx-3-skyactiv-g": "mazda/cx-3",
   "mazda/cx-3-sport": "mazda/cx-3",
   "mazda/cx-30-takumi": "mazda/cx-30",
@@ -1632,6 +1661,7 @@
   "mazda/speed6": "mazda/mazdaspeed6",
   "mercedes-amg/c-class": "mercedes-benz/c-class",
   "mercedes-amg/c-class-c43": "mercedes-benz/c-class",
+  "mercedes-benz/190-e": "mercedes-benz/190e-1984",
   "mercedes-benz/190e-1-8-w201": "mercedes-benz/190e",
   "mercedes-benz/190e-2-0": "mercedes-benz/190e",
   "mercedes-benz/190e-sportline": "mercedes-benz/190e",
@@ -1639,6 +1669,7 @@
   "mercedes-benz/a-class-a220": "mercedes-benz/a-class",
   "mercedes-benz/a200-amg-line-a200": "mercedes-benz/a200-amg-line",
   "mercedes-benz/a250-2023": "mercedes-benz/a250",
+  "mercedes-benz/a35": "mercedes-benz/a35-amg",
   "mercedes-benz/amg-gt-43": "mercedes-benz/amg-gt",
   "mercedes-benz/c-class-c180": "mercedes-benz/c-class",
   "mercedes-benz/c-class-c200": "mercedes-benz/c-class",
@@ -1663,6 +1694,7 @@
   "mercedes-benz/classe-a200": "mercedes-benz/cla",
   "mercedes-benz/clk-200": "mercedes-benz/clk",
   "mercedes-benz/clk-320": "mercedes-benz/clk",
+  "mercedes-benz/clk-class": "mercedes-benz/clk",
   "mercedes-benz/clk-w208": "mercedes-benz/clk",
   "mercedes-benz/clk200": "mercedes-benz/clk",
   "mercedes-benz/clk320": "mercedes-benz/clk",
@@ -1670,6 +1702,7 @@
   "mercedes-benz/e-class-e350": "mercedes-benz/e350",
   "mercedes-benz/e200-avantgarde": "mercedes-benz/e200",
   "mercedes-benz/e220-cdi-elegance": "mercedes-benz/e220-cdi",
+  "mercedes-benz/e550": "mercedes-benz/e-class-2009",
   "mercedes-benz/e63s-amg": "mercedes-benz/e63-s-amg",
   "mercedes-benz/eqb-300": "mercedes-benz/eqb",
   "mercedes-benz/eqe-amg": "mercedes-benz/eqe",
@@ -1700,6 +1733,8 @@
   "mercedes-benz/ml250": "mercedes-benz/ml",
   "mercedes-benz/ml320": "mercedes-benz/ml",
   "mercedes-benz/ml350-4matic": "mercedes-benz/ml",
+  "mercedes-benz/s350d": "mercedes-benz/s-class-2013",
+  "mercedes-benz/s350d-full-spec": "mercedes-benz/s-class-2013",
   "mercedes-benz/s550-4matic": "mercedes-benz/s550",
   "mercedes-benz/s550-amg": "mercedes-benz/s550",
   "mercedes-benz/s550-amg-2013": "mercedes-benz/s550",
@@ -1715,6 +1750,8 @@
   "mercedes-benz/sprinter-se": "mercedes-benz/sprinter",
   "mercedes/a-class": "mercedes-benz/a-class",
   "mercedes/a-class-a220": "mercedes-benz/a-class",
+  "mercedes/a35": "mercedes-benz/a35-amg",
+  "mercedes/amg-cle53": "mercedes-benz/amg-cle53",
   "mercedes/c-class": "mercedes-benz/c-class",
   "mercedes/c-class-classic": "mercedes-benz/c-class",
   "mercedes/c300": "mercedes-benz/c300",
@@ -1808,6 +1845,7 @@
   "mitsubishi/outlander-se": "mitsubishi/outlander",
   "mitsubishi/triton-gsr": "mitsubishi/triton",
   "mitsubishi/triton-sport": "mitsubishi/triton",
+  "nissan-altima-coupe/coupe": "nissan/altima-coupe-2008",
   "nissan/24-sentra": "nissan/sentra",
   "nissan/240sx-se": "nissan/240sx",
   "nissan/280zx": "nissan/z",
@@ -1825,6 +1863,7 @@
   "nissan/altima-2-5-s": "nissan/altima",
   "nissan/altima-2-5l": "nissan/altima",
   "nissan/altima-2-5s": "nissan/altima",
+  "nissan/altima-coupe-coupe": "nissan/altima-coupe-2008",
   "nissan/altima-sr": "nissan/altima",
   "nissan/altima-sv": "nissan/altima",
   "nissan/armada-platinum": "nissan/armada",
@@ -1897,9 +1936,12 @@
   "nissan/z-sport": "nissan/z",
   "oldsmobile/alero-gla": "oldsmobile/alero",
   "oldsmobile/cutlass-supreme-sl": "oldsmobile/cutlass-supreme",
+  "opel-astra-g-bertone/coupe-g-bertone": "opel/astra-g-bertone-coupe-2002",
   "opel/astra-1-8-temptation": "opel/astra",
   "opel/astra-cosmo": "opel/astra",
   "opel/astra-diesel-sports-tourer": "opel/astra",
+  "opel/astra-g-bertone": "opel/astra-g-bertone-coupe-2002",
+  "opel/astra-g-bertone-coupe-g-bertone": "opel/astra-g-bertone-coupe-2002",
   "opel/astra-g-cabrio": "opel/astra",
   "opel/astra-g-vollleder": "opel/astra",
   "opel/astra-gtc": "opel/astra",
@@ -1925,6 +1967,7 @@
   "opel/corsa-twinport-1-2": "opel/corsa",
   "opel/corsa-ultimate": "opel/corsa",
   "pagani/huayra-r": "pagani/huayra",
+  "perodua/myvi-se-1-5": "perodua/myvi",
   "peugeot/106-phii": "peugeot/106",
   "peugeot/106-xn": "peugeot/106",
   "peugeot/2008-allure": "peugeot/2008",
@@ -2107,6 +2150,7 @@
   "skoda/fabia-nj5-glasdach-perlwei-schwarzmatte-felgen": "skoda/fabia",
   "skoda/fabia-panoramadach-schwarze-felgen-wei": "skoda/fabia",
   "skoda/fabia-panoramadach-schwarze-felgen-wei\u00df": "skoda/fabia",
+  "skoda/fabia-rs-vrs": "skoda/fabia",
   "skoda/fabia-style": "skoda/fabia",
   "skoda/fabia-voll": "skoda/fabia",
   "skoda/felicia-red": "skoda/felicia",
@@ -2278,6 +2322,7 @@
   "tesla/x": "tesla/model-x",
   "tesla/y": "tesla/model-y",
   "tesla/y-performance": "tesla/model-y",
+  "toyota-yaris-ativ/sedan-smart": "toyota/yaris-ativ-2022",
   "toyota/23-camry-v6": "toyota/camry",
   "toyota/23-camry-v6-xse": "toyota/camry",
   "toyota/23-camry-xse-v6-xse": "toyota/23-camry-xse-v6",
@@ -2306,6 +2351,8 @@
   "toyota/camry-altise": "toyota/camry",
   "toyota/camry-base": "toyota/camry",
   "toyota/camry-esx": "toyota/camry",
+  "toyota/camry-hybrid": "toyota/camry",
+  "toyota/camry-hybrid-hybird": "toyota/camry",
   "toyota/camry-le": "toyota/camry",
   "toyota/camry-le-hev": "toyota/camry",
   "toyota/camry-le-le": "toyota/camry",
@@ -2386,6 +2433,7 @@
   "toyota/highlander-limited": "toyota/highlander",
   "toyota/highlander-platnuim": "toyota/highlander",
   "toyota/highlander-se": "toyota/highlander",
+  "toyota/hilux-g": "toyota/hilux",
   "toyota/hilux-raider": "toyota/hilux",
   "toyota/hilux-stock": "toyota/hilux",
   "toyota/hilux-workhorse": "toyota/hilux",
@@ -2474,6 +2522,7 @@
   "toyota/yaris-s": "toyota/yaris",
   "toyota/yaris-s-limited": "toyota/yaris",
   "toyota/yaris-sedan": "toyota/yaris",
+  "toyota/yaris-smart": "toyota/yaris-ativ-2022",
   "toyota/yaris-stock": "toyota/yaris",
   "toyota/yaris-t-sport": "toyota/yaris",
   "toyota/yaris-t3": "toyota/yaris",
@@ -2485,6 +2534,7 @@
   "triumph/trident": "triumph/trident-660",
   "vauxhall/astra": "opel/astra",
   "vauxhall/astra-plug-in-hybrid": "opel/astra",
+  "vauxhall/astra-se-turbo": "opel/astra-j",
   "vauxhall/astra-sri": "opel/astra",
   "vauxhall/astra-sxi": "opel/astra",
   "vauxhall/corsa": "opel/corsa",
@@ -2614,6 +2664,7 @@
   "volkswagen/jetta-gli-tdi": "volkswagen/jetta",
   "volkswagen/jetta-gls": "volkswagen/jetta",
   "volkswagen/jetta-glx": "volkswagen/jetta",
+  "volkswagen/jetta-iii": "volkswagen/jetta-1993",
   "volkswagen/jetta-s": "volkswagen/jetta",
   "volkswagen/jetta-se": "volkswagen/jetta",
   "volkswagen/jetta-se-sport": "volkswagen/jetta",
@@ -2689,6 +2740,8 @@
   "volkswagen/touran-ii-life": "volkswagen/touran-ii",
   "volkswagen/transporter-t28-startline": "volkswagen/transporter",
   "volkswagen/transporter-t28-startline-2022": "volkswagen/transporter",
+  "volkswagen/troc": "volkswagen/t-roc",
+  "volkswagen/troc-r-line": "volkswagen/t-roc",
   "volkswagen/vento-gtd": "volkswagen/vento",
   "volkswagon/bora": "volkswagen/bora",
   "volkswagon/bora-sport-1-8t-20v": "volkswagen/bora",
@@ -2770,7 +2823,10 @@
   "vw/scirocco": "volkswagen/scirocco",
   "vw/tiguan": "volkswagen/tiguan",
   "vw/tiguan-r-line": "volkswagen/tiguan",
+  "vw/troc": "volkswagen/t-roc",
+  "vw/troc-r-line": "volkswagen/t-roc",
   "xpeng/g9-performance-awd": "xpeng/g9-performance",
+  "xr6/sedan": "ford/xr6",
   "yamaha/mt-03-660": "yamaha/mt-03",
   "yamaha/mt-07-abs": "yamaha/mt-07",
   "yamaha/mt-07-la": "yamaha/mt-07",
@@ -2781,6 +2837,7 @@
   "yamaha/r125-goldschwarz": "yamaha/r125",
   "yamaha/r125-sport": "yamaha/r125",
   "yamaha/r7-qs": "yamaha/r7",
+  "yamaha/road-star-base": "yamaha/road-star",
   "yamaha/yzf-r1-sport-bike": "yamaha/yzf-r1",
   "yamaha/yzf-r125": "yamaha/yzf-r1",
   "yamaha/yzf-r6-raven": "yamaha/yzf-r6"
@@ -3372,6 +3429,12 @@
     "audi/s3"
    ]
   ],
+  "audi/s3-sportback": [
+   [
+    2018,
+    "audi/s3-sportback-2018"
+   ]
+  ],
   "audi/s4-avant": [
    [
     2009,
@@ -3432,6 +3495,12 @@
    [
     2020,
     "audi/s6"
+   ]
+  ],
+  "audi/s6-avant": [
+   [
+    2024,
+    "audi/s6-avant-2024"
    ]
   ],
   "audi/s7": [
@@ -5742,6 +5811,12 @@
    [
     2023,
     "ford/f350-super-cab-2023"
+   ]
+  ],
+  "ford/f350-supercab": [
+   [
+    2021,
+    "ford/f350-supercab-2021"
    ]
   ],
   "ford/falcon-xr8": [
@@ -9824,6 +9899,12 @@
     "nissan/altima"
    ]
   ],
+  "nissan/altima-coupe": [
+   [
+    2008,
+    "nissan/altima-coupe-2008"
+   ]
+  ],
   "nissan/armada": [
    [
     2004,
@@ -10324,6 +10405,12 @@
    [
     1986,
     "oldsmobile/toronado-1986"
+   ]
+  ],
+  "opel/astra-g-bertone-coupe": [
+   [
+    2002,
+    "opel/astra-g-bertone-coupe-2002"
    ]
   ],
   "peugeot/205-gti": [
@@ -11942,6 +12029,12 @@
     "toyota/yaris-2007"
    ]
   ],
+  "toyota/yaris-ativ": [
+   [
+    2022,
+    "toyota/yaris-ativ-2022"
+   ]
+  ],
   "triumph/tr6": [
    [
     1968,
@@ -12873,6 +12966,10 @@
    "bytes": 27708,
    "tint": "#2A2C2C"
   },
+  "angwatt/t1-max": {
+   "bytes": 33260,
+   "tint": "#2E2E2E"
+  },
   "aprilia/rs4-125": {
    "bytes": 76464,
    "tint": "#2C2C2C"
@@ -13125,6 +13222,10 @@
    "bytes": 29100,
    "tint": "#AE0511"
   },
+  "audi/e-tron": {
+   "bytes": 39632,
+   "tint": "#153447"
+  },
   "audi/e-tron-gt": {
    "bytes": 26978,
    "tint": "#4B4C4F"
@@ -13277,6 +13378,10 @@
    "bytes": 31554,
    "tint": "#4C4D4F"
   },
+  "audi/s3-sportback-2018": {
+   "bytes": 42482,
+   "tint": "#0A306E"
+  },
   "audi/s4": {
    "bytes": 31022,
    "tint": "#0A346C"
@@ -13328,6 +13433,10 @@
   "audi/s6-2013": {
    "bytes": 27346,
    "tint": "#4C4D50"
+  },
+  "audi/s6-avant-2024": {
+   "bytes": 34528,
+   "tint": "#313233"
   },
   "audi/s7": {
    "bytes": 28902,
@@ -13496,6 +13605,10 @@
   "bmw/2-series-2014": {
    "bytes": 28184,
    "tint": "#8E8E8E"
+  },
+  "bmw/2-series-active-tourer": {
+   "bytes": 39848,
+   "tint": "#45586C"
   },
   "bmw/2002-1968": {
    "bytes": 30270,
@@ -15053,6 +15166,10 @@
    "bytes": 27898,
    "tint": "#111112"
   },
+  "dacia/bigster": {
+   "bytes": 35718,
+   "tint": "#2F3233"
+  },
   "dacia/dokker": {
    "bytes": 30190,
    "tint": "#ACAFB1"
@@ -15389,6 +15506,10 @@
    "bytes": 33156,
    "tint": "#6B0E0D"
   },
+  "ds/ds9": {
+   "bytes": 31678,
+   "tint": "#95908B"
+  },
   "ducati/diavel-v4": {
    "bytes": 102422,
    "tint": "#B0060E"
@@ -15496,6 +15617,10 @@
   "ferrari/458-speciale-a": {
    "bytes": 30520,
    "tint": "#AD060A"
+  },
+  "ferrari/458-spider": {
+   "bytes": 34316,
+   "tint": "#AA080B"
   },
   "ferrari/488": {
    "bytes": 31480,
@@ -15961,6 +16086,10 @@
    "bytes": 24448,
    "tint": "#919191"
   },
+  "ford/f250-regular-cab": {
+   "bytes": 27362,
+   "tint": "#CFCFD1"
+  },
   "ford/f350": {
    "bytes": 23070,
    "tint": "#ECECEF"
@@ -15968,6 +16097,10 @@
   "ford/f350-super-cab-2023": {
    "bytes": 26778,
    "tint": "#CCCED2"
+  },
+  "ford/f350-supercab-2021": {
+   "bytes": 31828,
+   "tint": "#111213"
   },
   "ford/fairlane": {
    "bytes": 30814,
@@ -16540,6 +16673,14 @@
   "gmc/sierra-2500hd-crew-cab-2005": {
    "bytes": 25482,
    "tint": "#919192"
+  },
+  "gmc/sierra-classic-1500-crew-cab": {
+   "bytes": 24580,
+   "tint": "#8D8D8D"
+  },
+  "gmc/sierra-classic-1500-regular-cab": {
+   "bytes": 24814,
+   "tint": "#D1D1D2"
   },
   "gmc/sonoma-1982": {
    "bytes": 19310,
@@ -18417,6 +18558,10 @@
    "bytes": 120660,
    "tint": "#EF5506"
   },
+  "ktm/duke-125": {
+   "bytes": 71304,
+   "tint": "#EE4C05"
+  },
   "ktm/rc-390": {
    "bytes": 135738,
    "tint": "#F15508"
@@ -18436,6 +18581,10 @@
   "lada/granta": {
    "bytes": 30772,
    "tint": "#8B8B8E"
+  },
+  "lada/kalina-2": {
+   "bytes": 32366,
+   "tint": "#ACAFB1"
   },
   "lada/vesta": {
    "bytes": 34088,
@@ -19137,6 +19286,10 @@
    "bytes": 25942,
    "tint": "#113368"
   },
+  "mazda/323": {
+   "bytes": 28322,
+   "tint": "#AAACAF"
+  },
   "mazda/626-1988": {
    "bytes": 23406,
    "tint": "#CCCDCE"
@@ -19156,6 +19309,10 @@
   "mazda/b-series-1994": {
    "bytes": 20282,
    "tint": "#E9E9EB"
+  },
+  "mazda/b2200": {
+   "bytes": 23330,
+   "tint": "#CECECD"
   },
   "mazda/cx-3-2016": {
    "bytes": 28850,
@@ -19493,6 +19650,10 @@
    "bytes": 29292,
    "tint": "#ABAFB2"
   },
+  "mercedes-benz/a-class-w168": {
+   "bytes": 35068,
+   "tint": "#AAB0B3"
+  },
   "mercedes-benz/a180d": {
    "bytes": 34424,
    "tint": "#ADB0B3"
@@ -19512,6 +19673,10 @@
   "mercedes-benz/a45-amg-2019": {
    "bytes": 32034,
    "tint": "#8F8F90"
+  },
+  "mercedes-benz/amg-cle53": {
+   "bytes": 32864,
+   "tint": "#6C6C6E"
   },
   "mercedes-benz/amg-gt": {
    "bytes": 28164,
@@ -19732,6 +19897,10 @@
   "mercedes-benz/eqs": {
    "bytes": 28270,
    "tint": "#ABADB1"
+  },
+  "mercedes-benz/esprinter": {
+   "bytes": 24826,
+   "tint": "#D1D1D3"
   },
   "mercedes-benz/g-class": {
    "bytes": 33826,
@@ -20036,6 +20205,10 @@
   "mercedes-benz/v300": {
    "bytes": 35928,
    "tint": "#101213"
+  },
+  "mercedes-benz/vito": {
+   "bytes": 28580,
+   "tint": "#8D9093"
   },
   "mercury/capri-1991": {
    "bytes": 24412,
@@ -20569,6 +20742,10 @@
    "bytes": 25460,
    "tint": "#AEAFB0"
   },
+  "nissan/altima-coupe-2008": {
+   "bytes": 27286,
+   "tint": "#8A8C8D"
+  },
   "nissan/ariya": {
    "bytes": 25930,
    "tint": "#CFCFCF"
@@ -21033,6 +21210,10 @@
    "bytes": 29932,
    "tint": "#6C6C70"
   },
+  "opel/astra-g-bertone-coupe-2002": {
+   "bytes": 29068,
+   "tint": "#B8BCC2"
+  },
   "opel/astra-h": {
    "bytes": 31260,
    "tint": "#CDCECF"
@@ -21113,6 +21294,10 @@
    "bytes": 28614,
    "tint": "#AFB0AF"
   },
+  "perodua/myvi": {
+   "bytes": 37982,
+   "tint": "#9BA6A5"
+  },
   "perodua/myvi-gen-3-facelift": {
    "bytes": 38506,
    "tint": "#8C8E91"
@@ -21172,6 +21357,10 @@
   "peugeot/306-gti-6-1996": {
    "bytes": 27680,
    "tint": "#91040B"
+  },
+  "peugeot/307": {
+   "bytes": 32946,
+   "tint": "#ACB1B3"
   },
   "peugeot/307-sw": {
    "bytes": 27736,
@@ -21392,6 +21581,10 @@
   "pontiac/vibe-2003": {
    "bytes": 26918,
    "tint": "#CDCED1"
+  },
+  "porsche/718-gt4-rs-mr": {
+   "bytes": 39532,
+   "tint": "#323232"
   },
   "porsche/911": {
    "bytes": 34062,
@@ -21829,6 +22022,10 @@
    "bytes": 28772,
    "tint": "#CDCDCF"
   },
+  "renault/master": {
+   "bytes": 28200,
+   "tint": "#D5D5D7"
+  },
   "renault/megane": {
    "bytes": 32444,
    "tint": "#ACAFB1"
@@ -22124,6 +22321,10 @@
   "seat/toledo": {
    "bytes": 22738,
    "tint": "#ECECEC"
+  },
+  "senzo/balance-2-0": {
+   "bytes": 34214,
+   "tint": "#C9C5B9"
   },
   "shelby/cobra-427-1965": {
    "bytes": 28148,
@@ -22565,6 +22766,10 @@
    "bytes": 37910,
    "tint": "#75584E"
   },
+  "tata/nexon": {
+   "bytes": 40350,
+   "tint": "#724FAD"
+  },
   "tata/punch": {
    "bytes": 37078,
    "tint": "#474B38"
@@ -22905,6 +23110,10 @@
    "bytes": 26380,
    "tint": "#CDCFCE"
   },
+  "toyota/prius-c": {
+   "bytes": 40966,
+   "tint": "#2892D1"
+  },
   "toyota/prius-plug-in-2012": {
    "bytes": 26384,
    "tint": "#8F9194"
@@ -22977,6 +23186,10 @@
    "bytes": 24156,
    "tint": "#4F4F50"
   },
+  "toyota/tacoma-regular-cab": {
+   "bytes": 27952,
+   "tint": "#CDCED2"
+  },
   "toyota/tacoma-trd-pro": {
    "bytes": 30734,
    "tint": "#AA0315"
@@ -23033,9 +23246,17 @@
    "bytes": 29382,
    "tint": "#CBCCCF"
   },
+  "toyota/yaris-ativ-2022": {
+   "bytes": 28732,
+   "tint": "#CDCCCE"
+  },
   "triumph/bonneville-t120": {
    "bytes": 119586,
    "tint": "#2D2D2D"
+  },
+  "triumph/daytona-660": {
+   "bytes": 71404,
+   "tint": "#2E2E2F"
   },
   "triumph/rocket-3-r": {
    "bytes": 90846,
@@ -23064,6 +23285,10 @@
   "triumph/tiger-900-rally-pro": {
    "bytes": 134486,
    "tint": "#2D2D2D"
+  },
+  "triumph/tiger-sport-800": {
+   "bytes": 71530,
+   "tint": "#2E2E2F"
   },
   "triumph/tr6-1968": {
    "bytes": 24698,
@@ -23445,6 +23670,10 @@
    "bytes": 39172,
    "tint": "#F2D04E"
   },
+  "volkswagen/taos": {
+   "bytes": 43540,
+   "tint": "#54A6F3"
+  },
   "volkswagen/teramont-pro": {
    "bytes": 36220,
    "tint": "#2C2D2E"
@@ -23685,6 +23914,10 @@
    "bytes": 31268,
    "tint": "#CED0D0"
   },
+  "westfield/zetec": {
+   "bytes": 38616,
+   "tint": "#033924"
+  },
   "xev/yoyo": {
    "bytes": 46772,
    "tint": "#2E2E2E"
@@ -23739,6 +23972,10 @@
   },
   "yamaha/r7": {
    "bytes": 60710,
+   "tint": "#2D2D2D"
+  },
+  "yamaha/road-star": {
+   "bytes": 73172,
    "tint": "#2D2D2D"
   },
   "yamaha/tenere-700": {

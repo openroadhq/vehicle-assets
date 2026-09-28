@@ -1,0 +1,259 @@
+{
+  "targets": {
+    "acura/lt": "acura/tl-2004",
+    "bmw/f10": "bmw/5-series-2010",
+    "kia/cerato": "kia/forte",
+    "lancia/ypsilon": "lancia/1-3-mtj",
+    "lancia/ypsilon-1-3-mjt": "lancia/1-3-mtj",
+    "mercedes-benz/a35": "mercedes-benz/a35-amg",
+    "mercedes-benz/190-e": "mercedes-benz/190e-1984",
+    "mercedes-benz/e550": "mercedes-benz/e-class-2009",
+    "mercedes-benz/s350d": "mercedes-benz/s-class-2013",
+    "volkswagen/troc": "volkswagen/t-roc",
+    "volkswagen/troc-r-line": "volkswagen/t-roc",
+    "bmw/330cd-m-sport-coupe-m-pocket": "bmw/330ci-coupe-2003",
+    "honda/cbr-900rr-moto": "honda/cbr900rr",
+    "gmc/sierra-1500-2010": "gmc/sierra-1500-2007",
+    "gmc/sierra-1500-2013": "gmc/sierra-1500-2007",
+    "chevrolet/cruze-limited": "chevrolet/cruze-2011",
+    "volkswagen/jetta-iii": "volkswagen/jetta-1993",
+    "audi/a4-b7-s-line-vollausstattung": "audi/a4-2006",
+    "lexus/is-250": "lexus/is-2006",
+    "vauxhall/astra-se-turbo": "opel/astra-j"
+  },
+  "requests": {
+    "acura-tsx-sedan": {
+      "target": "acura/tsx",
+      "reason": "Model is embedded in make field; existing TSX family."
+    },
+    "bmw-x3-m40i-suv-2021": {
+      "target": "bmw/x3",
+      "reason": "Model is embedded in make field."
+    },
+    "haval-h6-crossover-full-2027": {
+      "target": "haval/h6",
+      "reason": "Model is embedded in make field."
+    },
+    "hyunday-creta-2018": {
+      "target": "hyundai/creta-2015",
+      "reason": "Spelling correction; existing regional body."
+    },
+    "kia-sorento-hybrid-suv-2026": {
+      "target": "kia/sorento",
+      "reason": "Model is embedded in make field."
+    },
+    "xr6-sedan": {
+      "target": "ford/xr6",
+      "reason": "Existing XR6 sedan."
+    },
+    "brezza-sedan-2018": {
+      "target": "maruti-suzuki/brezza",
+      "reason": "Named Brezza model wins over generic body field."
+    },
+    "kluger-sedan": {
+      "target": "toyota/kluger",
+      "reason": "Named Kluger model wins over generic body field."
+    },
+    "ds-ds9": {
+      "candidate": "ds/ds9",
+      "reason": "Modern DS9 saloon is not the classic Citroen DS."
+    },
+    "lads-kalina-2": {
+      "candidate": "lada/kalina-2",
+      "reason": "Lads spelling correction to Lada."
+    },
+    "westfield-zetec-2002": {
+      "candidate": "westfield/zetec",
+      "reason": "Recoverable Westfield Seven-style roadster."
+    },
+    "angwatt-t1-max-sport-2026": {
+      "candidate": "angwatt/t1-max",
+      "reason": "Verified standing electric scooter."
+    },
+    "senzo-balance-2-0-2026": {
+      "candidate": "senzo/balance-2-0",
+      "reason": "Verified seated electric scooter."
+    },
+    "alpha-rx-zs190-2024": {
+      "candidate": "alpha-rx/zs190",
+      "blocked": "Custom ZS190 engine does not identify a verified chassis. No invented vehicle."
+    },
+    "holden-captiva-2013": {
+      "blocked": "Captiva 5 and Captiva 7 already exist. Request does not identify which body."
+    },
+    "holden-statesman-2006": {
+      "blocked": "WL and WM 2006 Statesman assets already exist. Request does not identify the series."
+    },
+    "audi-coupe-stage-1-1999": {
+      "blocked": "Audi Coupe production ended before 1999; request could mean TT or another coupe. Body cannot be verified."
+    },
+    "maruti-suzuki-hatchback-zeta-2017": {
+      "junk": "Generic hatchback and trim do not identify a model."
+    },
+    "nissan-wagon-1995": {
+      "junk": "Generic wagon does not identify a model."
+    }
+  },
+  "render_overrides": {
+    "audi/s3-sportback": "audi/s3-sportback-2018",
+    "audi/s6-avant": "audi/s6-avant-2024",
+    "bmw/2-series-active-tourer": "bmw/2-series-active-tourer",
+    "ford/f-350-super-duty-supercab-platinum": "ford/f350-supercab-2021",
+    "ford/f250-regular-cab": "ford/f250-regular-cab",
+    "gmc/sierra-classic-1500-crew-cab": "gmc/sierra-classic-1500-crew-cab",
+    "gmc/sierra-classic-1500-regular-cab": "gmc/sierra-classic-1500-regular-cab",
+    "mercedes-benz/a-class-w168": "mercedes-benz/a-class-w168",
+    "nissan/altima-coupe-coupe": "nissan/altima-coupe-2008",
+    "opel/astra-g-bertone": "opel/astra-g-bertone-coupe-2002",
+    "opel/astra-g-bertone-coupe-g-bertone": "opel/astra-g-bertone-coupe-2002",
+    "toyota/prius-c": "toyota/prius-c",
+    "toyota/tacoma-regular-cab": "toyota/tacoma-regular-cab",
+    "toyota/yaris-smart": "toyota/yaris-ativ-2022"
+  },
+  "briefs": {
+    "audi/e-tron": [
+      "2019 Audi e-tron 55 quattro five-door electric SUV, original pre-facelift body",
+      false
+    ],
+    "audi/s3-sportback-2018": [
+      "2018 Audi S3 Sportback 8V facelift five-door hatchback",
+      false
+    ],
+    "audi/s6-avant-2024": [
+      "2024 Audi S6 Avant C8 five-door station wagon",
+      false
+    ],
+    "bmw/2-series-active-tourer": [
+      "2023 BMW 2 Series Active Tourer U06 compact five-door MPV",
+      false
+    ],
+    "dacia/bigster": [
+      "2025 Dacia Bigster five-door midsize SUV",
+      false
+    ],
+    "ds/ds9": [
+      "2022 DS Automobiles DS 9 elegant four-door luxury sedan",
+      false
+    ],
+    "ferrari/458-spider": [
+      "2013 Ferrari 458 Spider mid-engine convertible sports car with roof down",
+      false
+    ],
+    "ford/f350-supercab-2021": [
+      "2021 Ford F-350 Super Duty Platinum SuperCab extended-cab pickup, short rear half doors, not full crew cab",
+      false
+    ],
+    "ford/f250-regular-cab": [
+      "2024 Ford F-250 Super Duty Regular Cab pickup with two doors and long bed",
+      false
+    ],
+    "gmc/sierra-classic-1500-crew-cab": [
+      "2007 GMC Sierra Classic 1500 GMT800 crew cab pickup with four full doors",
+      false
+    ],
+    "gmc/sierra-classic-1500-regular-cab": [
+      "2007 GMC Sierra Classic 1500 GMT800 regular cab pickup with two doors",
+      false
+    ],
+    "ktm/duke-125": [
+      "2024 KTM 125 Duke third-generation naked motorcycle, petrol-blue tank top with long orange forward-projecting side shrouds, black frame, grey cast-alloy rear subframe, black wheels, underbelly exhaust",
+      true
+    ],
+    "lada/kalina-2": [
+      "2015 Lada Kalina second generation five-door hatchback",
+      false
+    ],
+    "mazda/323": [
+      "2001 Mazda 323 BJ Familia compact four-door sedan",
+      false
+    ],
+    "mazda/b2200": [
+      "1991 Mazda B2200 regular cab compact pickup truck",
+      false
+    ],
+    "mercedes-benz/amg-cle53": [
+      "2024 Mercedes-AMG CLE 53 C236 two-door coupe",
+      false
+    ],
+    "mercedes-benz/a-class-w168": [
+      "2001 Mercedes-Benz A-Class W168 compact tall five-door hatchback",
+      false
+    ],
+    "mercedes-benz/esprinter": [
+      "2024 Mercedes-Benz eSprinter high-roof long-wheelbase electric cargo panel van",
+      false
+    ],
+    "mercedes-benz/vito": [
+      "2024 Mercedes-Benz Vito W447 medium-wheelbase low-roof cargo panel van",
+      false
+    ],
+    "nissan/altima-coupe-2008": [
+      "2008 Nissan Altima two-door coupe",
+      false
+    ],
+    "opel/astra-g-bertone-coupe-2002": [
+      "2002 Opel Astra G Bertone two-door coupe with fixed roof",
+      false
+    ],
+    "perodua/myvi": [
+      "2012 Perodua Myvi SE 1.5 second generation five-door hatchback",
+      false
+    ],
+    "peugeot/307": [
+      "2005 Peugeot 307 five-door compact hatchback",
+      false
+    ],
+    "porsche/718-gt4-rs-mr": [
+      "2025 Porsche 718 Cayman GT4 RS with Manthey Racing kit, large carbon rear wing with tall end plates and rear aero wheel discs",
+      false
+    ],
+    "renault/master": [
+      "2024 Renault Master fourth generation high-roof cargo panel van",
+      false
+    ],
+    "tata/nexon": [
+      "2024 Tata Nexon facelift five-door compact SUV",
+      false
+    ],
+    "toyota/prius-c": [
+      "2012 Toyota Prius c Aqua compact five-door hatchback",
+      false
+    ],
+    "toyota/tacoma-regular-cab": [
+      "2013 Toyota Tacoma second generation regular cab pickup with two doors",
+      false
+    ],
+    "toyota/yaris-ativ-2022": [
+      "2022 Toyota Yaris Ativ Smart AC100 Thai-market four-door sedan",
+      false
+    ],
+    "triumph/daytona-660": [
+      "2026 Triumph Daytona 660 fully faired sport motorcycle",
+      true
+    ],
+    "triumph/tiger-sport-800": [
+      "2026 Triumph Tiger Sport 800 sport-touring motorcycle, no luggage",
+      true
+    ],
+    "volkswagen/taos": [
+      "2025 Volkswagen Taos compact five-door SUV",
+      false
+    ],
+    "westfield/zetec": [
+      "2002 Westfield SEiW Zetec Seven-style open two-seat sports roadster, exposed front cycle fenders and round headlights, no roof",
+      false
+    ],
+    "yamaha/road-star": [
+      "2005 Yamaha Road Star XV1700 classic cruiser motorcycle",
+      true
+    ],
+    "angwatt/t1-max": [
+      "2026 ANGWATT T1 MAX dual-motor standing electric kick scooter, black frame with yellow accents, tall steering stem, flat foot deck, two 13-inch wheels, no seat",
+      true
+    ],
+    "senzo/balance-2-0": [
+      "2026 Senzo Balance 2.0 compact seated electric scooter, broad smooth rounded front apron with wide horizontal rectangular headlight low in the apron, separate small black handlebar instrument pod, no round headlamp, short flat footboard, oval brown saddle, small wheels and rear hub motor, no exhaust pipe",
+      true
+    ]
+  }
+}
