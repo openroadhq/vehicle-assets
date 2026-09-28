@@ -36,10 +36,14 @@ def main():
     p.add_argument('--deltas',type=Path,default=DEFAULT_DELTAS)
     p.add_argument('--reviews',type=Path,default=DEFAULT_REVIEWS)
     p.add_argument('--state-dir',type=Path)
+    p.add_argument('--review-dir',type=Path,help='Exact output directory, for hourly runs')
+    p.add_argument('--sender',type=Path,default=HOME/'Desktop/Galahad/scripts/telegram_send_document.py')
+    p.add_argument('--force-prepare',action='store_true',help='Reclassify every request with --prepare-only')
     p.add_argument('--prepare-only',action='store_true',help='Export and classify, without generation or notification')
     p.add_argument('--no-notify',action='store_true',help='Build the local review without Telegram')
     p.add_argument('--use-export',action='store_true',help='Use this day\'s existing export for explicit local recovery')
     a=p.parse_args();dt.date.fromisoformat(a.date)
+    if a.force_prepare and not a.prepare_only: p.error('--force-prepare requires --prepare-only')
     repo=a.repo.resolve()
     state_dir=a.state_dir or Path(git(repo,'rev-parse','--path-format=absolute','--git-common-dir'))/'requests-daily'
     state_dir.mkdir(parents=True,exist_ok=True)
@@ -53,7 +57,9 @@ def run(a,repo,state_dir):
     state_path=state_dir/'state.json'
     state=json.loads(state_path.read_text()) if state_path.exists() else {'handled':{},'assets':{},'notifications':{}}
     delta=a.deltas/f'delta-{a.date}';data=delta/'data';data.mkdir(parents=True,exist_ok=True)
-    review_dir=a.reviews/f'vehicle-requests-{a.date}'
+    review_override=getattr(a,'review_dir',None)
+    if not isinstance(review_override,(str,Path)): review_override=None
+    review_dir=Path(review_override) if review_override else a.reviews/f'vehicle-requests-{a.date}'
     branch=f'renders-{a.date}'
     worktree=(a.worktree or repo.parent/f'vehicle-assets-{a.date}').resolve()
     if not worktree.exists():
@@ -80,6 +86,7 @@ def run(a,repo,state_dir):
     # A changed count is retained in the fresh export, but does not rerender a known slug.
     selected={r['slug'] for r in rows if r['slug'] not in state['handled']}
     today={slug for slug,date in state['handled'].items() if date==a.date}
+    if getattr(a,'force_prepare',False) is True: selected={r['slug'] for r in rows}
     if not selected:
         print('No new requests. No rendering or Telegram message.');return 0
     from prepare import prepare
@@ -109,7 +116,9 @@ def run(a,repo,state_dir):
         if previous and not dst.exists() and Path(previous).is_file():
             dst.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(previous,dst)
     gen.rebuild_manifest()
+    existing_images={p.relative_to(worktree/'v1').as_posix() for p in (worktree/'v1').rglob('*.webp')}
     results=render(worktree,delta,jobs)
+    new_images={p.relative_to(worktree/'v1').as_posix() for p in (worktree/'v1').rglob('*.webp')}-existing_images
     for job in jobs:
         if results.get(job['slug'],{}).get('status') in ('generated','passed','reused'):
             added.update(add_aliases(worktree,job['aliases']))
@@ -119,14 +128,14 @@ def run(a,repo,state_dir):
     verify(worktree,delta)
     page=build(worktree,delta,review_dir,a.date)
     stopped={s for j in jobs if results.get(j['slug'],{}).get('status')=='stopped' for s in j['request_slugs']}
-    for slug in selected-stopped: state['handled'][slug]=a.date
+    for slug in selected - stopped: state['handled'][slug]=a.date
     # Durable send intent prevents duplicate messages after a crash or timeout.
     # An uncertain delivery is left for review instead of being resent blindly.
     digest=hashlib.sha256(page.read_bytes()).hexdigest()
     notify_key=f'{a.date}:{digest}'
-    if not a.no_notify and notify_key not in state['notifications']:
+    if new_images and not a.no_notify and notify_key not in state['notifications']:
         state['notifications'][notify_key]={'status':'sending','page':str(page)};save(state_path,state)
-        sender=HOME/'Desktop/Galahad/scripts/telegram_send_document.py'
+        sender=a.sender
         with (delta/'telegram-send.log').open('a') as log:
             result=subprocess.run([sys.executable,str(sender),str(page),f'Vehicle requests {a.date}: local review, release approval required.'],stdout=log,stderr=subprocess.DEVNULL)
         state['notifications'][notify_key]['status']='sent' if result.returncode==0 else 'delivery-uncertain'
@@ -134,7 +143,7 @@ def run(a,repo,state_dir):
         if result.returncode: raise SystemExit('Telegram delivery uncertain. No automatic resend; inspect telegram-send.log.')
     else:
         save(state_path,state)
-    print(f'Review ready: {page}. Local branch {branch}. Nothing pushed or scheduled.')
+    print(f'Review ready: {page}. New renders: {len(new_images)}. Branch {branch}. Awaiting Mac review.')
     return 0
 
 

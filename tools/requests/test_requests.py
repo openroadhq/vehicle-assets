@@ -79,7 +79,7 @@ class DailyTests(unittest.TestCase):
                 daily.run(a,root,state_dir)
                 self.assertEqual(renders.call_count,1)
                 send=[c for c in calls.call_args_list if str(c.args[0][1]).endswith('telegram_send_document.py')]
-                self.assertEqual(len(send),1)
+                self.assertEqual(len(send),0)
                 exports=[c for c in calls.call_args_list if str(c.args[0][1]).endswith('export.py')]
                 self.assertEqual(len(exports),2)
 

@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+export CHATGPT_IMAGEGEN_CLI="${CHATGPT_IMAGEGEN_CLI:-$HOME/Projects/tools/chatgpt-imagegen/chatgpt-imagegen}"
+export CHATGPT_IMAGEGEN_MODEL="${CHATGPT_IMAGEGEN_MODEL:-gpt-6-astra}"
+export CHATGPT_IMAGEGEN_EFFORT="${CHATGPT_IMAGEGEN_EFFORT:-high}"
+exec "$HOME/Projects/vehicle-assets/tools/requests/imagegen.py" "$@"

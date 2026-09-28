@@ -2,6 +2,7 @@
 import datetime as dt
 import json
 import math
+import os
 from pathlib import Path
 import urllib.request
 
@@ -17,13 +18,47 @@ def fresh(value):
         return False
 
 
+def subscription_usage():
+    """Read the Dell account's live meter without relying on a Mac daemon."""
+    from imagegen import load_cli
+    cli=load_cli()
+    auth=cli._load_auth()
+    access,account,refresh=cli._extract_access_token(auth)
+    url='https://chatgpt.com/backend-api/wham/usage'
+    def read(token):
+        headers={'Authorization':f'Bearer {token}','User-Agent':'vehicle-requests/1.0'}
+        if account: headers['ChatGPT-Account-Id']=account
+        with urllib.request.urlopen(urllib.request.Request(url,headers=headers),timeout=20) as response:
+            return json.load(response)
+    try:
+        data=read(access)
+    except urllib.error.HTTPError as exc:
+        if exc.code!=401 or not refresh: raise
+        refreshed=cli._refresh_access_token(refresh)
+        cli._persist_refreshed_auth(auth,refreshed)
+        data=read(refreshed['access_token'])
+    rate=data['rate_limit']
+    weekly=rate.get('secondary_window') or rate.get('primary_window')
+    if not weekly or weekly.get('limit_window_seconds')!=604800: raise ValueError('Unexpected quota window')
+    used=weekly['used_percent']
+    primary=rate.get('primary_window') or {}
+    if rate.get('limit_reached') or rate.get('allowed') is False or primary.get('used_percent',0)>=100:
+        raise RuntimeError('Codex quota exhausted. Generation stopped.')
+    return {'source':'Dell subscription usage endpoint','percent_used':used,
+            'observed_at':dt.datetime.now(dt.timezone.utc).isoformat()}
+
+
 def check():
     """Fail closed on unknown/stale usage, and at 85% used. No quota estimates."""
     evidence = None
+    if os.environ.get('REQUESTS_QUOTA_SOURCE')=='subscription':
+        try: evidence=subscription_usage()
+        except Exception as exc:
+            raise RuntimeError(f'Quota unavailable ({type(exc).__name__}). Generation stopped.') from None
     try:
         data = json.loads(MIRROR.read_text())
         row = next(p for p in data['providers'] if p.get('provider_id') == 'codex')
-        if row.get('status') == 'known' and not row.get('stale') and fresh(row.get('last_updated')):
+        if evidence is None and row.get('status') == 'known' and not row.get('stale') and fresh(row.get('last_updated')):
             evidence = {'source': str(MIRROR), 'percent_used': row['percent_used'],
                         'observed_at': row['last_updated']}
     except (OSError, ValueError, KeyError, StopIteration, TypeError):

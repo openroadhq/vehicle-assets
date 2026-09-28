@@ -3,6 +3,7 @@ import concurrent.futures
 import fcntl
 import importlib.util
 import json
+import os
 from pathlib import Path
 import shutil
 import subprocess
@@ -45,7 +46,7 @@ def render(worktree,delta,jobs,workers=2):
 
 def _render(worktree,delta,jobs,workers=2):
     gen=load_generator(worktree)
-    shared=worktree.parent/'vehicle-assets/tools/.venv'
+    shared=Path(os.environ.get('VEHICLE_VENV',worktree.parent/'vehicle-assets/tools/.venv'))
     if shared.exists(): gen.VENV=shared
     py=gen.ensure_venv()
     gen_raw=gen.generate_raw; gen_cut=gen.cutout

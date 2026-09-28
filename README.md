@@ -32,6 +32,11 @@ snapshot. `--worktree PATH` resumes an existing branch for the same date.
 Configuration paths can be overridden with `--repo`, `--deltas`, `--reviews`, and
 `--state-dir`; `REQUESTS_PYTHON` selects the Python interpreter.
 
+On the Dell, `tools/vehicle-requests-hourly.sh` supplies the Dell venv, local
+WebP encoder, BiRefNet model, GPT-6 Astra high-effort image wrapper, subscription
+quota check, local review directory, and private Telegram sender. Its cron entry
+runs at minute 17 with `flock`. The wrapper never publishes or merges a branch.
+
 When there is new work, the routine sends one review HTML document through
 Galahad's existing Telegram sender. Raw user identifiers stay in permission-600
 raw exports, outside this repository. Nothing is scheduled, committed, pushed,

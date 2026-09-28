@@ -47,7 +47,7 @@ def build(worktree, delta, destination, date):
 {''.join(cards)}<h2>New aliases</h2><ul>{alias_html or '<li>None.</li>'}</ul>
 <details><summary>{len(new)} names new since September 17</summary><ul>{new_html}</ul></details>
 <details><summary>Model reference checks</summary><ul>{refs_html}</ul></details>
-<h2>Publishing note</h2><p>Nothing has been pushed, merged, or purged. GitHub Pages is the primary asset host. jsDelivr has exceeded its 50 MB package limit and cannot reliably serve new files.</p></main></html>'''
+<h2>Publishing note</h2><p>These assets await Mac Opus review. A render branch may be backed up to GitHub, but nothing has been published, merged to main, or purged. GitHub Pages is the primary asset host. jsDelivr has exceeded its 50 MB package limit and cannot reliably serve new files.</p></main></html>'''
     (destination/'review.html').write_text(review)
     # Every model is also large enough for inspection in paginated 6-item sheets.
     font_path='/System/Library/Fonts/Supplemental/Arial.ttf'
