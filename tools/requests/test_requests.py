@@ -24,9 +24,9 @@ class QuotaTests(unittest.TestCase):
                 'last_updated':dt.datetime.now(dt.timezone.utc).isoformat(),'percent_used':used}]}))
             with patch.object(quota,'MIRROR',p),patch.object(quota.urllib.request,'urlopen',side_effect=OSError('offline')):
                 return quota.check()
-    def test_under_threshold(self): self.assertEqual(self.check_usage(84)['percent_used'],84)
+    def test_under_threshold(self): self.assertEqual(self.check_usage(89)['percent_used'],84)
     def test_at_threshold_stops(self):
-        with self.assertRaises(RuntimeError): self.check_usage(85)
+        with self.assertRaises(RuntimeError): self.check_usage(90)
     def test_unknown_fails_closed(self):
         with self.assertRaises(RuntimeError): self.check_usage(None)
     def test_stale_fails_closed(self):

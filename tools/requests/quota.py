@@ -49,7 +49,7 @@ def subscription_usage():
 
 
 def check():
-    """Fail closed on unknown/stale usage, and at 85% used. No quota estimates."""
+    """Fail closed on unknown/stale usage, and at 90% used. No quota estimates."""
     evidence = None
     if os.environ.get('REQUESTS_QUOTA_SOURCE')=='subscription':
         try: evidence=subscription_usage()
@@ -79,8 +79,8 @@ def check():
         raise RuntimeError('Invalid quota reading. Generation stopped.')
     evidence['checked_at'] = dt.datetime.now(dt.timezone.utc).isoformat()
     evidence['meter'] = 'shared Codex weekly usage; image-specific remaining quota is not exposed'
-    if used >= 85:
-        raise RuntimeError(f'Codex usage is {used}%, at or above the 85% stop threshold.')
+    if used >= 90:
+        raise RuntimeError(f'Codex usage is {used}%, at or above the 90% stop threshold.')
     return evidence
 
 

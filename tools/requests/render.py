@@ -35,7 +35,7 @@ def add_aliases(worktree, additions):
     return added
 
 
-def render(worktree,delta,jobs,workers=2):
+def render(worktree,delta,jobs,workers=3):
     with (delta/'render.lock').open('a') as lock:
         try:
             fcntl.flock(lock,fcntl.LOCK_EX|fcntl.LOCK_NB)
@@ -44,7 +44,7 @@ def render(worktree,delta,jobs,workers=2):
         return _render(worktree,delta,jobs,workers)
 
 
-def _render(worktree,delta,jobs,workers=2):
+def _render(worktree,delta,jobs,workers=3):
     gen=load_generator(worktree)
     shared=Path(os.environ.get('VEHICLE_VENV',worktree.parent/'vehicle-assets/tools/.venv'))
     if shared.exists(): gen.VENV=shared
@@ -97,6 +97,7 @@ def _render(worktree,delta,jobs,workers=2):
         return existing
     for j in jobs:
         if (j['slug'] not in results or results[j['slug']].get('status') == 'stopped') and not j.get('blocked') and not (worktree/'v1'/f"{j['slug']}.webp").exists():
+            if initial_futures: time.sleep(4)  # a few seconds between parallel image requests
             initial_futures[j['slug']]=pool.submit(initial,j)
     consumed=set()
     def consume_or_retry(prompt,out):
@@ -119,7 +120,7 @@ def _render(worktree,delta,jobs,workers=2):
                          'visual_review':'pending'}
             except Exception as exc:
                 reason=str(exc) if isinstance(exc,RuntimeError) else type(exc).__name__
-                if 'Quota' in reason or 'quota' in reason or '85%' in reason: stop.set()
+                if 'Quota' in reason or 'quota' in reason or 'stop threshold' in reason: stop.set()
                 outcome={'status':'stopped' if stop.is_set() else 'failed','reason':reason,'attempts':attempts.get(slug,0)}
             # A backend generation failure gets one strict retry too.
             if outcome['status']=='failed' and attempts.get(slug,0)<2:
@@ -128,7 +129,7 @@ def _render(worktree,delta,jobs,workers=2):
                     outcome={'status':'generated' if passed else 'failed','attempts':attempts.get(slug,0),'visual_review':'pending'}
                 except Exception as exc:
                     reason=str(exc) if isinstance(exc,RuntimeError) else type(exc).__name__
-                    if 'Quota' in reason or 'quota' in reason or '85%' in reason: stop.set()
+                    if 'Quota' in reason or 'quota' in reason or 'stop threshold' in reason: stop.set()
                     outcome={'status':'stopped' if stop.is_set() else 'failed','reason':reason,'attempts':attempts.get(slug,0)}
         with lock:
             results[slug]=outcome;write(result_path,results)

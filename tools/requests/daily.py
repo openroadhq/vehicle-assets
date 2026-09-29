@@ -238,6 +238,8 @@ def run(a,repo,state_dir):
     usage.record(images=attempts_after-attempts_before,checks=codex_call.USAGE['codex_calls']-len(interpreted and [1] or []),
                  interpret_calls=1 if interpreted else 0,codex_tokens=codex_call.USAGE['codex_tokens'],
                  published=len(report.get('new',[])),deferred=len(deferred),weekly_before=weekly_before,weekly_after=weekly_after)
+    try: usage.check_burn()
+    except Exception as exc: print(f'Burn check failed: {type(exc).__name__}')
     print(f"Review ready: {page}. New renders: {len(new_images)}, held: {len(held)}. Branch {branch}, commit {commit or 'none'}. Publish: {report.get('status')}{(' '+report['sha']) if report.get('sha') else ''}{(' ('+report['reason']+')') if report.get('reason') else ''}.")
     return 0
 

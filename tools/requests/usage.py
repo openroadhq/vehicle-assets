@@ -11,9 +11,11 @@ from pathlib import Path
 
 LOG=Path(os.environ.get('REQUESTS_USAGE_LOG',Path.home()/'Projects/vehicle-request-state/usage.jsonl'))
 # Maximum speed. A flood of requests queues up instead of burning credits.
-MAX_IMAGES_PER_RUN=int(os.environ.get('CARS_MAX_IMAGES_PER_RUN',6))
-MAX_IMAGES_PER_DAY=int(os.environ.get('CARS_MAX_IMAGES_PER_DAY',40))
-PAUSE_AT_WEEKLY_PERCENT=int(os.environ.get('CARS_PAUSE_AT_WEEKLY_PERCENT',60))
+MAX_IMAGES_PER_RUN=int(os.environ.get('CARS_MAX_IMAGES_PER_RUN',30))
+MAX_IMAGES_PER_DAY=int(os.environ.get('CARS_MAX_IMAGES_PER_DAY',400))
+PAUSE_AT_WEEKLY_PERCENT=int(os.environ.get('CARS_PAUSE_AT_WEEKLY_PERCENT',90))
+# Razpe gets one message when the weekly Codex meter climbs more than this in an hour.
+BURN_ALERT_POINTS_PER_HOUR=int(os.environ.get('CARS_BURN_ALERT_POINTS_PER_HOUR',10))
 
 
 def rows():
@@ -30,6 +32,20 @@ def record(**row):
     row={'at':dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),**row}
     LOG.parent.mkdir(parents=True,exist_ok=True)
     with LOG.open('a') as f: f.write(json.dumps(row)+'\n')
+
+
+def check_burn():
+    """Message Razpe once per hour if the weekly meter rose more than the limit in the last hour."""
+    now=dt.datetime.now(dt.timezone.utc);since=(now-dt.timedelta(hours=1)).isoformat()
+    vals=[v for r in rows() if r['at']>=since for v in (r.get('weekly_before'),r.get('weekly_after')) if isinstance(v,(int,float))]
+    if len(vals)<2: return
+    rise=vals[-1]-min(vals)  # a weekly reset drops the meter, which never reads as a rise
+    if rise<=BURN_ALERT_POINTS_PER_HOUR: return
+    stamp=LOG.parent/'burn-alert-at'
+    if stamp.exists() and (now-dt.datetime.fromisoformat(stamp.read_text().strip())).total_seconds()<3600: return
+    from notify import send
+    send(f'Cars: Codex use rose {rise:g} points in the last hour (now {vals[-1]:g}% of the week). Car rendering stops by itself at {PAUSE_AT_WEEKLY_PERCENT}%.')
+    stamp.write_text(now.isoformat())
 
 
 def summary(days=7):
