@@ -844,6 +844,7 @@
   "dodge/ram-1500-regular-cab-slt": "dodge/ram-1500",
   "dodge/ram-1500-slt": "dodge/ram-1500",
   "dodge/ram-1500-slt-bighorn": "dodge/ram-1500",
+  "dodge/ram-2500-club-cab": "dodge/ram-2500",
   "dodge/ram-2500-crew-cab-hd": "dodge/ram-2500",
   "dodge/ram-2500-slt": "dodge/ram-2500",
   "dodge/ram-2500-sport": "dodge/ram-2500",
@@ -21317,6 +21318,10 @@
   "peugeot/106": {
    "bytes": 25388,
    "tint": "#E7E8E8"
+  },
+  "peugeot/107": {
+   "bytes": 30190,
+   "tint": "#909093"
   },
   "peugeot/2008": {
    "bytes": 31772,
