@@ -394,6 +394,7 @@
   "bmw/e30-coupe": "bmw/3-series",
   "bmw/e34": "bmw/5-series",
   "bmw/e34-m50-turbo": "bmw/5-series",
+  "bmw/e34-m540i": "bmw/5-series",
   "bmw/e36": "bmw/3-series",
   "bmw/e36-323ti-serie-3": "bmw/3-series",
   "bmw/e36-325i": "bmw/3-series",
@@ -818,6 +819,7 @@
   "dodge/charger-scat-pack-scat-pack": "dodge/charger",
   "dodge/charger-srt8-superbee": "dodge/charger",
   "dodge/charger-sxt": "dodge/charger",
+  "dodge/dakota-club-cab": "dodge/dakota",
   "dodge/dakota-r-t": "dodge/dakota",
   "dodge/dakota-regular-cab": "dodge/dakota-1997",
   "dodge/dakota-slt": "dodge/dakota",
@@ -830,6 +832,7 @@
   "dodge/durango-limited": "dodge/durango",
   "dodge/durango-r-t": "dodge/durango",
   "dodge/durango-rt": "dodge/durango",
+  "dodge/grand-caravan-passenger": "dodge/grand-caravan",
   "dodge/journey-gt": "dodge/journey",
   "dodge/journey-se": "dodge/journey",
   "dodge/journey-sxt": "dodge/journey",
@@ -2507,6 +2510,7 @@
   "toyota/wish-q": "toyota/wish",
   "toyota/yaris-3000": "toyota/yaris",
   "toyota/yaris-accent": "toyota/yaris",
+  "toyota/yaris-ativ-smart": "toyota/yaris-ativ",
   "toyota/yaris-ativ-x": "toyota/yaris",
   "toyota/yaris-cross": "toyota/yaris",
   "toyota/yaris-cross-gxl": "toyota/yaris",
@@ -14553,6 +14557,10 @@
   "chevrolet/1500-regular-cab": {
    "bytes": 30604,
    "tint": "#B05B64"
+  },
+  "chevrolet/2500-crew-cab": {
+   "bytes": 26710,
+   "tint": "#909295"
   },
   "chevrolet/astro-1985": {
    "bytes": 24362,
