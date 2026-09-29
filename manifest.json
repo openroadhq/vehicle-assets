@@ -21,6 +21,8 @@
   "acura/rl-sh-awd": "acura/rl",
   "acura/rsx-base": "acura/rsx",
   "acura/rsx-type-s-a-spec": "acura/rsx",
+  "acura/sedan-a-spec": "acura/integra",
+  "acura/sedan-base": "acura/tlx-2015",
   "acura/tl-3rd-gen": "acura/tl",
   "acura/tl-5-speed-at-with-navigation-system": "acura/tl",
   "acura/tl-base": "acura/tl",
@@ -156,6 +158,8 @@
   "audi/a6-quattro": "audi/a6",
   "audi/a7-competition": "audi/a7",
   "audi/a8-voll": "audi/a8",
+  "audi/coupe": "audi/tt-2000",
+  "audi/coupe-stage-1": "audi/tt-2000",
   "audi/e-tron-gt-platinum": "audi/e-tron-gt",
   "audi/e-tron-sportback-50-quattro": "audi/e-tron-sportback-2020",
   "audi/q2-black-line": "audi/q2",
@@ -202,6 +206,8 @@
   "audi/s6-full-extra": "audi/s6",
   "audi/s7-base": "audi/s7",
   "audi/s8-sport": "audi/s8",
+  "audi/sedan-55-tfsi": "audi/a6",
+  "audi/sedan-premium": "audi/a4-2009",
   "audi/sq5-premium-plus": "audi/sq5",
   "audi/sq7-4-0tdi": "audi/sq7",
   "audi/stage-2-s3": "audi/s3",
@@ -388,6 +394,7 @@
   "bmw/728ia": "bmw/7-series",
   "bmw/740i": "bmw/7-series",
   "bmw/740li": "bmw/7-series",
+  "bmw/crossover": "bmw/x3-2018",
   "bmw/e21-320-6": "bmw/3-series",
   "bmw/e30": "bmw/3-series",
   "bmw/e30-316": "bmw/3-series",
@@ -506,6 +513,7 @@
   "bmw/m850i-gran-coupe": "bmw/m8",
   "bmw/r-1250-gs": "bmw/1-series",
   "bmw/s1000rr-chinese-dragon-carbon": "bmw/s1000rr",
+  "bmw/sedan-sport": "bmw/3-series",
   "bmw/serie-1-e87": "bmw/1-series",
   "bmw/serie-1-f20": "bmw/1-series",
   "bmw/serie-1-f20-lci-116d": "bmw/1-series",
@@ -1092,6 +1100,7 @@
   "genesis/g80-sport": "genesis/g80",
   "genesis/gv70-3-5t-sport-prestige": "genesis/gv70",
   "genesis/gv70-sport": "genesis/gv70",
+  "genesis/sedan-3-3": "genesis/g70-2022",
   "gmc/2002-sonoma": "gmc/sonoma",
   "gmc/2021-sierra-denali-2500": "gmc/sierra",
   "gmc/2026-acadia-denali": "gmc/acadia",
@@ -1113,12 +1122,14 @@
   "gmc/sierra-elevation": "gmc/sierra",
   "gmc/sierra-slt-5-3-v8": "gmc/sierra",
   "gmc/sonoma-regular-cab-sl": "gmc/sonoma",
+  "golf/mk2-cl-fake-gti": "volkswagen/golf",
   "harley-davidson/softail": "harley-davidson/softail-standard",
   "haval-h6/crossover-full": "haval/h6",
   "haval/h6-crossover-full-2027": "haval/h6",
   "haval/h6-gt": "haval/h6",
   "holden/barina-base": "holden/barina",
   "holden/barina-base-tm": "holden/barina",
+  "holden/captiva": "holden/captiva-7-2011",
   "holden/colorado-rc": "holden/colorado",
   "holden/colorado-rg": "holden/colorado",
   "holden/commodore-calais": "holden/commodore",
@@ -1128,6 +1139,7 @@
   "holden/commodore-vf": "holden/commodore",
   "holden/commodore-z-series-ve": "holden/commodore",
   "holden/commodre-sv6": "holden/commodre",
+  "holden/statesman": "holden/statesman-wm-2006",
   "holden/ute-sv6-60th-anniversary": "holden/ute",
   "honda/2005-civic-ep3-type-r": "honda/civic",
   "honda/2dr-civic": "honda/civic",
@@ -1342,6 +1354,7 @@
   "hyundai/sonata-se": "hyundai/sonata",
   "hyundai/sonata-sel": "hyundai/sonata",
   "hyundai/sonata-sport": "hyundai/sonata",
+  "hyundai/suv": "hyundai/santa-fe-2013",
   "hyundai/tiburon-gk": "hyundai/tiburon",
   "hyundai/tiburon-type-s": "hyundai/tiburon",
   "hyundai/tucson-sel-premium": "hyundai/tucson",
@@ -1575,6 +1588,8 @@
   "lincoln/aviator-reserve": "lincoln/aviator",
   "lotus/elise-220": "lotus/elise",
   "maruti-suzuki/brezza-sedan": "maruti-suzuki/brezza",
+  "maruti-suzuki/hatchback": "maruti-suzuki/baleno",
+  "maruti-suzuki/hatchback-zeta": "maruti-suzuki/baleno",
   "maserati/granturismo-s": "maserati/granturismo",
   "maserati/quattroporte-s": "maserati/quattroporte",
   "mazda/2": "mazda/mazda2",
@@ -1770,6 +1785,7 @@
   "mercedes/gle": "mercedes-benz/gle",
   "mercedes/ml": "mercedes-benz/ml",
   "mercedes/s-class": "mercedes-benz/s-class",
+  "mercedes/sedan-classic": "mercedes-benz/c-class-2001",
   "mercedes/slk": "mercedes-benz/slk",
   "mercury/2004-grand-marquis": "mercury/grand-marquis",
   "mercury/2007-grand-marquis": "mercury/grand-marquis",
@@ -1930,6 +1946,7 @@
   "nissan/versa-s": "nissan/versa",
   "nissan/versa-sense": "nissan/versa",
   "nissan/versa-sl": "nissan/versa",
+  "nissan/wagon": "nissan/ad",
   "nissan/x-trail-2019": "nissan/x-trail",
   "nissan/x-trail-2021": "nissan/x-trail",
   "nissan/x-trail-e-power-platinum": "nissan/x-trail-e-power",
@@ -2509,6 +2526,7 @@
   "toyota/tundra-sr5": "toyota/tundra",
   "toyota/tundra-sr5-crewmax": "toyota/tundra",
   "toyota/ute-base": "toyota/ute",
+  "toyota/vios-sedan": "toyota/vios",
   "toyota/wish-q": "toyota/wish",
   "toyota/yaris-3000": "toyota/yaris",
   "toyota/yaris-accent": "toyota/yaris",
@@ -2547,6 +2565,7 @@
   "vauxhall/corsa-excite-euro": "opel/corsa",
   "vauxhall/corsa-se": "opel/corsa",
   "vauxhall/corsa-sri": "opel/corsa",
+  "vios/sedan": "toyota/vios",
   "volkswagen/2019-tiguan-r-line-4-motion": "volkswagen/tiguan",
   "volkswagen/6-gti": "volkswagen/gti",
   "volkswagen/arteon-elegance": "volkswagen/arteon",
@@ -14543,6 +14562,10 @@
    "bytes": 25410,
    "tint": "#141414"
   },
+  "cessna/172": {
+   "bytes": 19802,
+   "tint": "#CFCFD1"
+  },
   "cf-moto/675-srr": {
    "bytes": 83422,
    "tint": "#2D2D2D"
@@ -19231,6 +19254,10 @@
    "bytes": 44298,
    "tint": "#2F2F30"
   },
+  "maruti-suzuki/baleno": {
+   "bytes": 35424,
+   "tint": "#8C8E91"
+  },
   "maruti-suzuki/brezza": {
    "bytes": 42240,
    "tint": "#8F0F11"
@@ -20726,6 +20753,10 @@
   "nissan/370z-nismo-2015": {
    "bytes": 30790,
    "tint": "#8F030E"
+  },
+  "nissan/ad": {
+   "bytes": 28542,
+   "tint": "#909295"
   },
   "nissan/altima": {
    "bytes": 27242,
@@ -23250,6 +23281,10 @@
   "toyota/venza-2009": {
    "bytes": 30364,
    "tint": "#ADAEAE"
+  },
+  "toyota/vios": {
+   "bytes": 32924,
+   "tint": "#ADB1B5"
   },
   "toyota/wish": {
    "bytes": 23128,
