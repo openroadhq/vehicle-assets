@@ -144,7 +144,15 @@ def run(a,repo,state_dir):
         if interpreted: print(f'Interpreted {len(interpreted)} request(s): {", ".join(interpreted)}')
     except Exception as exc:
         print(f'Interpretation skipped: {exc}')
-    selected|=set(interpreted)
+    # Interpreted requests are worked until served once, even if the raw request was handled long ago.
+    served=state.setdefault('interpreted_served',{})
+    try:
+        from interpret import overlay
+        waiting={s for s in overlay(json.loads((worktree/'manifest.json').read_text()))['requests'] if s not in served}
+    except Exception as exc:
+        waiting=set();print(f'Interpreted backlog skipped: {exc}')
+    waiting&={r['slug'] for r in rows}
+    selected|=set(interpreted)|waiting
     if not selected:
         report=ship(repo,branch,'retry')
         if report.get('status')=='published': tell(report,[],[])
@@ -200,6 +208,10 @@ def run(a,repo,state_dir):
     page=build(worktree,delta,review_dir,a.date)
     stopped={s for j in jobs if results.get(j['slug'],{}).get('status')=='stopped' for s in j['request_slugs']}
     for slug in selected - stopped: state['handled'][slug]=a.date
+    for slug in waiting|set(interpreted):
+        job=next((j for j in jobs if slug in j['request_slugs']),None)
+        done=job is None or (worktree/'v1'/f"{job['slug']}.webp").exists() or results.get(job['slug'],{}).get('status') in ('held','failed','unresolved')
+        if slug not in stopped and done: served[slug]=a.date
     save(state_path,state)
     commit=commit_renders(worktree,f'Dell run {review_dir.name}')
     report=ship(repo,branch,f'Dell run {review_dir.name}')

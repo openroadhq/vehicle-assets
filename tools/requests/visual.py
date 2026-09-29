@@ -10,7 +10,7 @@ from codex_call import ask
 SCHEMA={'type':'object','additionalProperties':False,'required':['verdict','reason'],
         'properties':{'verdict':{'type':'string','enum':['pass','reject']},'reason':{'type':'string'}}}
 PROMPT='''You are the quality gate for a vehicle-image library used in a driving app. The attached image should be: {desc} (the driver typed: {names}).
-Pass only if ALL hold: it shows that vehicle (right make, model, body style and era); it is a flat side profile facing LEFT (front of the vehicle on the left side of the image); the whole vehicle is visible and not cut off; there is no text, logo, watermark or readable plate; there are no rendering artifacts (melted or duplicated parts, extra wheels, broken edges, leftover background).
+Pass only if ALL hold: it shows that vehicle (right make, model, body style and era); it is a flat side profile facing LEFT (front of the vehicle on the left side of the image); the whole vehicle is visible and not cut off; there is no text, watermark, readable plate, or badge/logo on the body or grille (small emblems on wheel center caps are fine, they are invisible at app size); there are no rendering artifacts (melted or duplicated parts, extra wheels, broken edges, leftover background).
 Otherwise reject and say why in one short sentence.'''
 
 
