@@ -3,7 +3,10 @@ import json
 import os
 from pathlib import Path
 import subprocess
+import re
 import tempfile
+
+USAGE={'codex_calls':0,'codex_tokens':0}
 
 
 def ask(prompt, schema, images=(), timeout=600):
@@ -17,6 +20,9 @@ def ask(prompt, schema, images=(), timeout=600):
         result=subprocess.run(cmd,input=prompt,text=True,capture_output=True,timeout=timeout,
                               env={**os.environ,'NO_COLOR':'1'})
         out=tmp/'out.json'
+        USAGE['codex_calls']+=1
+        m=re.search(r'tokens used\s*\n?\s*([\d,]+)',result.stderr+result.stdout)
+        if m: USAGE['codex_tokens']+=int(m.group(1).replace(',',''))
         if result.returncode or not out.exists():
             raise RuntimeError(f'Codex call failed (exit {result.returncode})')
         return json.loads(out.read_text())

@@ -84,7 +84,7 @@ def existing_keys(row,manifest):
 
 def interpret(rows,curated,manifest=None):
     """Ask about every unserved row not asked before. Returns the slugs answered this time."""
-    known=load();todo=[r for r in unserved(rows,curated) if r['slug'] not in known]
+    known=load();todo=[r for r in unserved(rows,curated) if r['slug'] not in known][:BATCH]  # one Codex call per run at most
     new=[]
     for n in range(0,len(todo),BATCH):
         chunk=todo[n:n+BATCH]

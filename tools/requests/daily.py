@@ -137,8 +137,11 @@ def run(a,repo,state_dir):
     today={slug for slug,date in state['handled'].items() if date==a.date}
     if getattr(a,'force_prepare',False) is True: selected={r['slug'] for r in rows}
     interpreted=[]
+    import usage,codex_call
+    weekly_before=None
     try:
-        import quota;quota.check()
+        import quota;weekly_before=quota.check()['percent_used']
+        if weekly_before>=usage.PAUSE_AT_WEEKLY_PERCENT: raise RuntimeError(f'cars pause at {usage.PAUSE_AT_WEEKLY_PERCENT}% weekly Codex use (now {weekly_before}%)')
         from interpret import interpret
         interpreted=interpret(rows,json.loads((HERE/'curated.json').read_text()),json.loads((worktree/'manifest.json').read_text()))
         if interpreted: print(f'Interpreted {len(interpreted)} request(s): {", ".join(interpreted)}')
@@ -155,7 +158,6 @@ def run(a,repo,state_dir):
     selected|=set(interpreted)|waiting
     if not selected:
         report=ship(repo,branch,'retry')
-        if report.get('status')=='published': tell(report,[],[])
         print(f"No new requests. Publish: {report.get('status')}{(' ('+report['reason']+')') if report.get('reason') else ''}.");return 0
     from prepare import prepare
     from render import add_aliases,load_generator,render
@@ -184,8 +186,16 @@ def run(a,repo,state_dir):
         if previous and not dst.exists() and Path(previous).is_file():
             dst.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(previous,dst)
     gen.rebuild_manifest()
+    results_now=json.loads((delta/'render-results.json').read_text()) if (delta/'render-results.json').exists() else {}
+    pending=[j for j in jobs if not j.get('blocked') and not (worktree/'v1'/f"{j['slug']}.webp").exists()
+             and results_now.get(j['slug'],{}).get('status') in (None,'stopped')]
+    room=max(0,min(usage.MAX_IMAGES_PER_RUN,usage.MAX_IMAGES_PER_DAY-usage.images_today()))
+    if weekly_before is None or weekly_before>=usage.PAUSE_AT_WEEKLY_PERCENT: room=0
+    deferred=pending[room:]
+    if deferred: print(f'Speed limit: {len(deferred)} car(s) wait for a later run.')
+    attempts_before=sum(json.loads((delta/'attempts.json').read_text()).values()) if (delta/'attempts.json').exists() else 0
     existing_images={p.relative_to(worktree/'v1').as_posix() for p in (worktree/'v1').rglob('*.webp')}
-    results=render(worktree,delta,jobs)
+    results=render(worktree,delta,[j for j in jobs if j not in deferred])
     new_images={p.relative_to(worktree/'v1').as_posix() for p in (worktree/'v1').rglob('*.webp')}-existing_images
     from visual import review as visual_review
     by={j['slug']:j for j in jobs}
@@ -207,6 +217,7 @@ def run(a,repo,state_dir):
     verify(worktree,delta)
     page=build(worktree,delta,review_dir,a.date)
     stopped={s for j in jobs if results.get(j['slug'],{}).get('status')=='stopped' for s in j['request_slugs']}
+    stopped|={s for j in deferred for s in j['request_slugs']}
     for slug in selected - stopped: state['handled'][slug]=a.date
     for slug in waiting|set(interpreted):
         job=next((j for j in jobs if slug in j['request_slugs']),None)
@@ -216,11 +227,17 @@ def run(a,repo,state_dir):
     commit=commit_renders(worktree,f'Dell run {review_dir.name}')
     report=ship(repo,branch,f'Dell run {review_dir.name}')
     nonsense=[s for s in interpreted if s in overlay_nonsense()]
-    held_notes=[f"{s} ({json.loads((delta/'render-results.json').read_text()).get(s,{}).get('reason','held')})" for s in held]
-    if not a.no_notify and (new_images or added or held or nonsense or report.get('status')=='published'):
-        tell(report,held_notes,nonsense,ready=len(new_images))
-        if held and a.sender.exists():
-            subprocess.run([sys.executable,str(a.sender),str(page),f'Vehicle requests {a.date}: {len(held)} held after two tries.'],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
+    reasons=json.loads((delta/'render-results.json').read_text())
+    needs=[{'slug':s,'why':'cannot tell what vehicle this is'} for s in nonsense]+[{'slug':s,'why':reasons.get(s,{}).get('reason','held')} for s in held]
+    if needs:
+        with (state_dir/'needs-razpe.jsonl').open('a') as f:
+            for n in needs: f.write(json.dumps({'at':dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),**n})+'\n')
+    attempts_after=sum(json.loads((delta/'attempts.json').read_text()).values()) if (delta/'attempts.json').exists() else 0
+    try: weekly_after=quota.check()['percent_used']
+    except Exception: weekly_after=None
+    usage.record(images=attempts_after-attempts_before,checks=codex_call.USAGE['codex_calls']-len(interpreted and [1] or []),
+                 interpret_calls=1 if interpreted else 0,codex_tokens=codex_call.USAGE['codex_tokens'],
+                 published=len(report.get('new',[])),deferred=len(deferred),weekly_before=weekly_before,weekly_after=weekly_after)
     print(f"Review ready: {page}. New renders: {len(new_images)}, held: {len(held)}. Branch {branch}, commit {commit or 'none'}. Publish: {report.get('status')}{(' '+report['sha']) if report.get('sha') else ''}{(' ('+report['reason']+')') if report.get('reason') else ''}.")
     return 0
 
