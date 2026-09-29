@@ -1392,6 +1392,7 @@
   "infiniti/qx50-base": "infiniti/qx50",
   "isuzu/dmax-ls": "isuzu/dmax",
   "isuzu/dmax-lsa-4x2-limited-edition": "isuzu/dmax",
+  "jaecoo/sedan": "jaecoo/j7",
   "jaguar/s-type-3-0l-v6": "jaguar/s-type",
   "jaguar/s-type-4-0": "jaguar/s-type",
   "jaguar/x-type-2-1-v6": "jaguar/x-type",
@@ -1536,6 +1537,7 @@
   "land-rover/lr4-hse": "land-rover/lr4",
   "land-rover/range-rover-autobiography": "land-rover/range-rover",
   "land-rover/range-rover-evoque-\u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430\u044f": "land-rover/range-rover-evoque",
+  "langfeite/noxyriux": "langfeite/l8s",
   "lexus/ct": "lexus/ct-200h-2011",
   "lexus/ct200h": "lexus/ct-200h",
   "lexus/es-300h": "lexus/es",
@@ -17930,6 +17932,10 @@
    "bytes": 26284,
    "tint": "#CDCED0"
   },
+  "jaecoo/j7": {
+   "bytes": 33322,
+   "tint": "#2C2C2D"
+  },
   "jaguar/c-x75-2010": {
    "bytes": 24798,
    "tint": "#8C8C8E"
@@ -18857,6 +18863,10 @@
   "land-rover/velar": {
    "bytes": 34992,
    "tint": "#2F2F30"
+  },
+  "langfeite/l8s": {
+   "bytes": 27362,
+   "tint": "#2E2E2E"
   },
   "lexmoto/diablo-50cc-e55": {
    "bytes": 60026,
