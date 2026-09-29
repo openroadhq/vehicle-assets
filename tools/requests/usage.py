@@ -35,7 +35,7 @@ def record(**row):
 def summary(days=7):
     since=(dt.datetime.now(dt.timezone.utc)-dt.timedelta(days=days)).isoformat()
     rs=[r for r in rows() if r['at']>=since]
-    total={k:sum(r.get(k,0) for r in rs) for k in ('images','checks','interpret_calls','codex_tokens','published')}
+    total={k:sum(r.get(k) or 0 for r in rs) for k in ('images','checks','interpret_calls','codex_tokens','published')}
     meter=[r.get('weekly_after') for r in rs if r.get('weekly_after') is not None]
     return {'days':days,'runs_that_spent':len(rs),**total,'weekly_meter_now':meter[-1] if meter else None,
             'limits':{'per_run':MAX_IMAGES_PER_RUN,'per_day':MAX_IMAGES_PER_DAY,'pause_at_weekly_percent':PAUSE_AT_WEEKLY_PERCENT}}
