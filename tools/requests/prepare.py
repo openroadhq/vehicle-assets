@@ -18,6 +18,14 @@ def prepare(delta, date, worktree, selected=None):
     rows = json.loads((delta / 'data' / f'classified-{date}.json').read_text())
     manifest = json.loads((worktree / 'manifest.json').read_text())
     rules = json.loads((Path(__file__).parent / 'curated.json').read_text())
+    from interpret import overlay
+    extra = overlay(manifest)
+    for slug, rule in extra['requests'].items():
+        current = rules['requests'].get(slug, {})
+        if not (current.get('target') or (current.get('candidate') and not current.get('blocked'))):
+            rules['requests'][slug] = rule
+    for key, brief in extra['briefs'].items():
+        rules['briefs'].setdefault(key, brief)
     aliases, jobs = {}, {}
     for row in rows:
         original = row['candidate']

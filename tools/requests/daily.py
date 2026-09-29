@@ -37,6 +37,36 @@ def commit_renders(worktree,label):
     return git(worktree,'rev-parse','--short','HEAD')
 
 
+def overlay_nonsense():
+    from interpret import load
+    return {s for s,a in load().items() if a['decision']!='vehicle' or a.get('confidence')=='low'}
+
+
+def ship(repo,branch,label):
+    """Publish the daily branch if main lacks its work. Never raises."""
+    try:
+        from publish import pending,publish
+        if not pending(repo,branch): return {'status':'nothing'}
+        return publish(repo,branch,label)
+    except PermissionError as exc: return {'status':'blocked','reason':str(exc)}
+    except Exception as exc: return {'status':'failed','reason':f'{type(exc).__name__}: {exc}'}
+
+
+def tell(report,held,nonsense,ready=0):
+    from notify import send
+    parts=[]
+    if report.get('status')=='published':
+        new=report['new'];parts.append(f"Cars: {len(new)} new published" + (f" ({', '.join(new)})" if new else '') + f", {len(report['aliases'])} aliases")
+        if not report.get('live'): parts.append('not seen on Pages yet')
+    elif ready:
+        parts.append(f"Cars: {ready} ready, not published ({report.get('reason') or report.get('status')})")
+    if held: parts.append(f"{len(held)} held: " + '; '.join(held))
+    if nonsense: parts.append(f"{len(nonsense)} need you (can't tell what car): " + ', '.join(nonsense))
+    if parts:
+        try: send('. '.join(parts))
+        except Exception as exc: print(f'Telegram failed: {type(exc).__name__}')
+
+
 def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('--date',default=dt.date.today().isoformat())
@@ -59,7 +89,17 @@ def main():
     with (state_dir/'lock').open('a') as lock:
         try: fcntl.flock(lock,fcntl.LOCK_EX|fcntl.LOCK_NB)
         except BlockingIOError: raise SystemExit('A daily request run is already active.')
-        return run(a,repo,state_dir)
+        streak=state_dir/'failure-streak'
+        try:
+            code=run(a,repo,state_dir)
+            streak.write_text('0');return code
+        except BaseException as exc:
+            n=int(streak.read_text() or 0)+1 if streak.exists() else 1;streak.write_text(str(n))
+            if n==3:
+                try:
+                    from notify import send;send(f'Cars: the Dell car routine failed 3 runs in a row ({type(exc).__name__}). Rendering and publishing are paused until it recovers.')
+                except Exception: pass
+            raise
 
 
 def run(a,repo,state_dir):
@@ -96,8 +136,19 @@ def run(a,repo,state_dir):
     selected={r['slug'] for r in rows if r['slug'] not in state['handled']}
     today={slug for slug,date in state['handled'].items() if date==a.date}
     if getattr(a,'force_prepare',False) is True: selected={r['slug'] for r in rows}
+    interpreted=[]
+    try:
+        import quota;quota.check()
+        from interpret import interpret
+        interpreted=interpret(rows,json.loads((HERE/'curated.json').read_text()),json.loads((worktree/'manifest.json').read_text()))
+        if interpreted: print(f'Interpreted {len(interpreted)} request(s): {", ".join(interpreted)}')
+    except Exception as exc:
+        print(f'Interpretation skipped: {exc}')
+    selected|=set(interpreted)
     if not selected:
-        print('No new requests. No rendering or Telegram message.');return 0
+        report=ship(repo,branch,'retry')
+        if report.get('status')=='published': tell(report,[],[])
+        print(f"No new requests. Publish: {report.get('status')}{(' ('+report['reason']+')') if report.get('reason') else ''}.");return 0
     from prepare import prepare
     from render import add_aliases,load_generator,render
     from review import build
@@ -128,8 +179,19 @@ def run(a,repo,state_dir):
     existing_images={p.relative_to(worktree/'v1').as_posix() for p in (worktree/'v1').rglob('*.webp')}
     results=render(worktree,delta,jobs)
     new_images={p.relative_to(worktree/'v1').as_posix() for p in (worktree/'v1').rglob('*.webp')}-existing_images
+    from visual import review as visual_review
+    by={j['slug']:j for j in jobs}
+    passed,retry,held=visual_review(worktree,delta,jobs,{p[:-5] for p in new_images})
+    if retry:
+        render(worktree,delta,[by[s] for s in retry])
+        again={s for s in retry if (worktree/'v1'/f'{s}.webp').exists()}
+        more,_,held2=visual_review(worktree,delta,jobs,again)
+        passed+=more;held+=held2+[s for s in retry if s not in again]
+    results=json.loads((delta/'render-results.json').read_text())
+    gen.rebuild_manifest()
+    new_images={f'{s}.webp' for s in passed}
     for job in jobs:
-        if results.get(job['slug'],{}).get('status') in ('generated','passed','reused'):
+        if (worktree/'v1'/f"{job['slug']}.webp").exists() and results.get(job['slug'],{}).get('status') in ('generated','passed','reused'):
             added.update(add_aliases(worktree,job['aliases']))
             state['assets'][job['slug']]=str(worktree/'v1'/f"{job['slug']}.webp")
     save(added_path,added);gen.rebuild_manifest()
@@ -138,22 +200,16 @@ def run(a,repo,state_dir):
     page=build(worktree,delta,review_dir,a.date)
     stopped={s for j in jobs if results.get(j['slug'],{}).get('status')=='stopped' for s in j['request_slugs']}
     for slug in selected - stopped: state['handled'][slug]=a.date
-    # Durable send intent prevents duplicate messages after a crash or timeout.
-    # An uncertain delivery is left for review instead of being resent blindly.
-    digest=hashlib.sha256(page.read_bytes()).hexdigest()
-    notify_key=f'{a.date}:{digest}'
-    if new_images and not a.no_notify and notify_key not in state['notifications']:
-        state['notifications'][notify_key]={'status':'sending','page':str(page)};save(state_path,state)
-        sender=a.sender
-        with (delta/'telegram-send.log').open('a') as log:
-            result=subprocess.run([sys.executable,str(sender),str(page),f'Vehicle requests {a.date}: local review, release approval required.'],stdout=log,stderr=subprocess.DEVNULL)
-        state['notifications'][notify_key]['status']='sent' if result.returncode==0 else 'delivery-uncertain'
-        save(state_path,state)
-        if result.returncode: raise SystemExit('Telegram delivery uncertain. No automatic resend; inspect telegram-send.log.')
-    else:
-        save(state_path,state)
+    save(state_path,state)
     commit=commit_renders(worktree,f'Dell run {review_dir.name}')
-    print(f'Review ready: {page}. New renders: {len(new_images)}. Branch {branch}, commit {commit or "none"}. Awaiting Mac review.')
+    report=ship(repo,branch,f'Dell run {review_dir.name}')
+    nonsense=[s for s in interpreted if s in overlay_nonsense()]
+    held_notes=[f"{s} ({json.loads((delta/'render-results.json').read_text()).get(s,{}).get('reason','held')})" for s in held]
+    if not a.no_notify and (new_images or added or held or nonsense or report.get('status')=='published'):
+        tell(report,held_notes,nonsense,ready=len(new_images))
+        if held and a.sender.exists():
+            subprocess.run([sys.executable,str(a.sender),str(page),f'Vehicle requests {a.date}: {len(held)} held after two tries.'],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
+    print(f"Review ready: {page}. New renders: {len(new_images)}, held: {len(held)}. Branch {branch}, commit {commit or 'none'}. Publish: {report.get('status')}{(' '+report['sha']) if report.get('sha') else ''}{(' ('+report['reason']+')') if report.get('reason') else ''}.")
     return 0
 
 
