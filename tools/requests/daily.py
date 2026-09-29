@@ -28,6 +28,15 @@ def save(path,data):
     temp.write_text(json.dumps(data,indent=2,ensure_ascii=False)+'\n');temp.replace(path)
 
 
+def commit_renders(worktree,label):
+    """Commit this run's assets on the daily branch so the Mac can fetch and merge it. Never pushes."""
+    paths=[x for x in ('v1','manifest.json','aliases.json','catalog.json') if (worktree/x).exists()]
+    subprocess.run(['git','-C',str(worktree),'add','-A','--',*paths],check=True)
+    if subprocess.run(['git','-C',str(worktree),'diff','--cached','--quiet']).returncode==0: return None
+    subprocess.run(['git','-C',str(worktree),'commit','-q','-m',f'assets: requested vehicle renders and aliases ({label})'],check=True)
+    return git(worktree,'rev-parse','--short','HEAD')
+
+
 def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('--date',default=dt.date.today().isoformat())
@@ -143,7 +152,8 @@ def run(a,repo,state_dir):
         if result.returncode: raise SystemExit('Telegram delivery uncertain. No automatic resend; inspect telegram-send.log.')
     else:
         save(state_path,state)
-    print(f'Review ready: {page}. New renders: {len(new_images)}. Branch {branch}. Awaiting Mac review.')
+    commit=commit_renders(worktree,f'Dell run {review_dir.name}')
+    print(f'Review ready: {page}. New renders: {len(new_images)}. Branch {branch}, commit {commit or "none"}. Awaiting Mac review.')
     return 0
 
 
