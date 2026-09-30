@@ -25,7 +25,7 @@ def _save(path,data):
 
 
 CAR_GLASS='Windows and windshields must be solid glass: if magenta shows through any window or anywhere inside the body, reject.'
-BIKE_GAPS='Magenta between spokes, frame tubes and under the seat is normal for a two-wheeler.'
+BIKE_GAPS='House style for two-wheelers: small gaps between wheel spokes and frame tubes are filled flat dark gray on purpose (not background remnants); larger openings may show magenta. Both are fine.'
 HOLE_LIMIT=0.3  # percent of body area; measured 0.000 on all 14 birefnet car cutouts, 0.3 to 24 on the old cut-out windows
 
 
