@@ -666,6 +666,7 @@
   "chevrolet/k1500-silverado": "chevrolet/silverado",
   "chevrolet/lanos": "daewoo/lanos",
   "chevrolet/lanos-sx": "daewoo/lanos",
+  "chevrolet/lt-trail-boss-silverado-1500-lt-trail-boss": "chevrolet/lt-trail-boss-silverado-1500",
   "chevrolet/malibu-2": "chevrolet/malibu",
   "chevrolet/malibu-2-0t": "chevrolet/malibu",
   "chevrolet/malibu-2lt": "chevrolet/malibu",
@@ -743,6 +744,7 @@
   "chevy/colorado-wt": "chevrolet/colorado",
   "chevy/corvette": "chevrolet/corvette",
   "chevy/corvette-base": "chevrolet/corvette",
+  "chevy/corvette-e-ray": "chevrolet/corvette",
   "chevy/cruze": "chevrolet/cruze",
   "chevy/cruze-light": "chevrolet/cruze",
   "chevy/cruze-ltz": "chevrolet/cruze",
@@ -791,6 +793,7 @@
   "citroen/xsara-1-8i-exclusive": "citroen/xsara",
   "citroen/xsara-exclusive": "citroen/xsara",
   "corvette/c4": "chevrolet/corvette",
+  "corvette/eray-e-ray": "chevrolet/corvette",
   "cupra/formentor-drive": "cupra/formentor",
   "cupra/formentor-v2": "cupra/formentor",
   "cupra/formentor-vz-e-hybrid": "cupra/formentor",
@@ -14835,6 +14838,10 @@
   "chevrolet/impala-2006": {
    "bytes": 22818,
    "tint": "#CFD0CF"
+  },
+  "chevrolet/lt-trail-boss-silverado-1500": {
+   "bytes": 31192,
+   "tint": "#2E2F2F"
   },
   "chevrolet/lumina-1990": {
    "bytes": 22100,
