@@ -20053,6 +20053,14 @@
    "bytes": 32314,
    "tint": "#AEAFB2"
   },
+  "mercedes-benz/glc-coupe": {
+   "bytes": 35734,
+   "tint": "#8A8C8F"
+  },
+  "mercedes-benz/glc-coupe-amgline": {
+   "bytes": 33532,
+   "tint": "#8D8E90"
+  },
   "mercedes-benz/glc43-amg-2016": {
    "bytes": 31086,
    "tint": "#8C8D8F"
