@@ -140,6 +140,54 @@ def cutout(py: Path, src: Path, dst: Path) -> None:
     subprocess.run([str(py), "-c", script, str(src), str(dst)], check=True)
 
 
+BIKE_GAP_FILL = (46, 52, 60)  # tinted fill for wheel and frame gaps on two-wheelers (Razpe 2026-09-30)
+BIKE_GAP_MAX = 3.0  # percent of body area; bigger openings (a frame triangle) stay see-through
+
+
+def protect_interior(src: Path, dst: Path, two_wheel: bool) -> int:
+    """Nothing inside the vehicle's outline may be cut away.
+
+    The background remover sometimes reads pale glass as background and removes the
+    windows (about 270 library cars, all cut before Sep 15). Only the background that
+    touches the image edge is removed; any transparent pocket fully enclosed by the
+    vehicle is put back. Cars get the raw render's own pixels (the glass as drawn);
+    two-wheelers get a dark fill in small gaps, which reads better than see-through spokes.
+    Returns the number of pixels restored.
+    """
+    from PIL import Image, ImageDraw, ImageFilter
+    cut = Image.open(dst).convert("RGBA")
+    alpha = cut.getchannel("A")
+    clear = alpha.point(lambda v: 255 if v < 128 else 0)
+    padded = Image.new("L", (cut.width + 2, cut.height + 2), 255)
+    padded.paste(clear, (1, 1))
+    ImageDraw.floodfill(padded, (0, 0), 0)
+    holes = padded.crop((1, 1, cut.width + 1, cut.height + 1))
+    count = holes.histogram()[255]
+    if not count:
+        return 0
+    if two_wheel:
+        body = sum(1 for v in alpha.getdata() if v >= 128)
+        limit = body * BIKE_GAP_MAX / 100
+        keep = Image.new("L", holes.size, 0)
+        work = holes.copy()
+        for y in range(work.height):
+            for x in range(work.width):
+                if work.getpixel((x, y)) == 255:
+                    ImageDraw.floodfill(work, (x, y), 128)
+                    region = work.point(lambda v: 255 if v == 128 else 0)
+                    if region.histogram()[255] <= limit:
+                        keep.paste(255, (0, 0), region)
+                    work.paste(0, (0, 0), region)
+        holes = keep
+        patch = Image.new("RGBA", cut.size, BIKE_GAP_FILL + (255,))
+    else:
+        patch = Image.open(src).convert("RGB").resize(cut.size, Image.LANCZOS).convert("RGBA")
+    grown = holes.filter(ImageFilter.MaxFilter(5))
+    cut.paste(patch, (0, 0), grown)
+    cut.save(dst)
+    return holes.histogram()[255]
+
+
 OCR_MIN_CONF = 80  # advisory filter only; see qc()
 
 
@@ -316,6 +364,7 @@ def process(slug: str, desc: str, force: bool, py: Path, two_wheel: bool, strict
             return False
         wait_for_build_clear()
         cutout(py, raw, cut)
+        protect_interior(raw, cut, two_wheel)
         reason = qc(py, cut)
         if reason:
             _p(f"RETRY {slug}: QC rejected: {reason}")
@@ -324,6 +373,7 @@ def process(slug: str, desc: str, force: bool, py: Path, two_wheel: bool, strict
                 generate_raw(retry_template.format(desc=desc.strip()), raw)
                 wait_for_build_clear()
                 cutout(py, raw, cut)
+                protect_interior(raw, cut, two_wheel)
                 reason = qc(py, cut)
             except subprocess.CalledProcessError:
                 _p(f"FAIL {slug}: regeneration errored")
