@@ -599,6 +599,7 @@
   "cadillac/srx-v8-awd": "cadillac/srx",
   "can-am/outlander-x-tp": "can-am/outlander",
   "canam/traxter": "can-am/traxter-2025",
+  "chery/arizo-8": "chery/arrizo-8",
   "chevrolet/1500-1500": "chevrolet/1500",
   "chevrolet/2007-malibu-ls": "chevrolet/malibu",
   "chevrolet/2024-tahoe-rst": "chevrolet/tahoe",
@@ -14586,6 +14587,10 @@
   "changan/cs75": {
    "bytes": 36632,
    "tint": "#CCCCCF"
+  },
+  "chery/arrizo-8": {
+   "bytes": 35858,
+   "tint": "#8A8A8D"
   },
   "chevrolet/1500": {
    "bytes": 28408,
