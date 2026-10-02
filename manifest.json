@@ -780,6 +780,7 @@
   "chrysler/300-c": "chrysler/300",
   "chrysler/300c-c": "chrysler/300c",
   "chrysler/300c-luxury": "chrysler/300c",
+  "chrysler/300s-s": "chrysler/300s",
   "chrysler/sebring-lx": "chrysler/sebring",
   "citroen/berlingo-feel-multispace": "citroen/berlingo",
   "citroen/c1-vtr": "citroen/c1",
@@ -836,6 +837,7 @@
   "dodge/charger-srt8-superbee": "dodge/charger",
   "dodge/charger-sxt": "dodge/charger",
   "dodge/dakota-club-cab": "dodge/dakota",
+  "dodge/dakota-crew-cab": "dodge/dakota",
   "dodge/dakota-r-t": "dodge/dakota",
   "dodge/dakota-regular-cab": "dodge/dakota-1997",
   "dodge/dakota-slt": "dodge/dakota",
@@ -15085,6 +15087,10 @@
   "chrysler/300c-srt8-2005": {
    "bytes": 26262,
    "tint": "#131313"
+  },
+  "chrysler/300s": {
+   "bytes": 30068,
+   "tint": "#343434"
   },
   "chrysler/concorde-1993": {
    "bytes": 24436,
