@@ -519,6 +519,7 @@
   "bmw/serie-1-e87": "bmw/1-series",
   "bmw/serie-1-f20": "bmw/1-series",
   "bmw/serie-1-f20-lci-116d": "bmw/1-series",
+  "bmw/serie-1-m": "bmw/serie-1",
   "bmw/serie-3-pack-m": "bmw/serie-3",
   "bmw/touring-edition-33": "bmw/touring",
   "bmw/x1-xdrive20d": "bmw/x1",
@@ -2584,6 +2585,7 @@
   "vauxhall/astra-sxi": "opel/astra",
   "vauxhall/corsa": "opel/corsa",
   "vauxhall/corsa-base": "opel/corsa",
+  "vauxhall/corsa-be": "opel/corsa",
   "vauxhall/corsa-excite-euro": "opel/corsa",
   "vauxhall/corsa-se": "opel/corsa",
   "vauxhall/corsa-sri": "opel/corsa",
@@ -14065,6 +14067,10 @@
   "bmw/s1000rr": {
    "bytes": 60906,
    "tint": "#2D2D2D"
+  },
+  "bmw/serie-1": {
+   "bytes": 38954,
+   "tint": "#CD4A0E"
   },
   "bmw/serie-3": {
    "bytes": 40216,
