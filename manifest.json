@@ -860,6 +860,7 @@
   "dodge/ram-1500-crew-cab": "dodge/ram-1500",
   "dodge/ram-1500-crew-cab-slt": "dodge/ram-1500",
   "dodge/ram-1500-laramie-sport": "dodge/ram-1500",
+  "dodge/ram-1500-quad-cab": "dodge/ram-1500",
   "dodge/ram-1500-regular-cab-slt": "dodge/ram-1500",
   "dodge/ram-1500-slt": "dodge/ram-1500",
   "dodge/ram-1500-slt-bighorn": "dodge/ram-1500",
@@ -13317,6 +13318,10 @@
    "bytes": 32864,
    "tint": "#707172"
   },
+  "audi/q6-etron": {
+   "bytes": 35132,
+   "tint": "#2F2F30"
+  },
   "audi/q7": {
    "bytes": 32780,
    "tint": "#0F0F0F"
@@ -19197,6 +19202,10 @@
    "bytes": 34936,
    "tint": "#AEAEAF"
   },
+  "lincoln/mks": {
+   "bytes": 29704,
+   "tint": "#909192"
+  },
   "lincoln/mkt-2010": {
    "bytes": 24072,
    "tint": "#111111"
@@ -19748,6 +19757,10 @@
   "mercedes-benz/220d": {
    "bytes": 32854,
    "tint": "#131313"
+  },
+  "mercedes-benz/300-d": {
+   "bytes": 24788,
+   "tint": "#929393"
   },
   "mercedes-benz/300-e": {
    "bytes": 32454,
