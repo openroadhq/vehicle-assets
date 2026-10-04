@@ -800,6 +800,7 @@
   "citroen/xsara-1-4l-i": "citroen/xsara",
   "citroen/xsara-1-8i-exclusive": "citroen/xsara",
   "citroen/xsara-exclusive": "citroen/xsara",
+  "click-125i/honda-click-125i": "honda/click-125i",
   "corvette/c4": "chevrolet/corvette",
   "corvette/eray-e-ray": "chevrolet/corvette",
   "cupra/formentor-drive": "cupra/formentor",
@@ -17190,6 +17191,10 @@
   "honda/clarity-2017": {
    "bytes": 27910,
    "tint": "#8E9093"
+  },
+  "honda/click-125i": {
+   "bytes": 61732,
+   "tint": "#AF050D"
   },
   "honda/cr-v": {
    "bytes": 30204,
