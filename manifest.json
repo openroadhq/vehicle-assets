@@ -1236,6 +1236,7 @@
   "honda/civic-exl": "honda/civic",
   "honda/civic-fk8": "honda/civic",
   "honda/civic-flagship": "honda/civic",
+  "honda/civic-hatchback": "honda/civic",
   "honda/civic-lsi": "honda/civic",
   "honda/civic-lx": "honda/civic",
   "honda/civic-rebirth": "honda/civic",
@@ -1257,6 +1258,7 @@
   "honda/civic-vti": "honda/civic",
   "honda/civic-vti-l": "honda/civic",
   "honda/civic-vti-lx": "honda/civic",
+  "honda/click-125i-honda-click-125i": "honda/click-125i",
   "honda/cr-v-base": "honda/cr-v",
   "honda/cr-v-ex": "honda/cr-v",
   "honda/cr-v-highest": "honda/cr-v",
@@ -1807,6 +1809,7 @@
   "mercedes/gle": "mercedes-benz/gle",
   "mercedes/ml": "mercedes-benz/ml",
   "mercedes/s-class": "mercedes-benz/s-class",
+  "mercedes/s220": "mercedes-benz/s220",
   "mercedes/sedan-classic": "mercedes-benz/c-class-2001",
   "mercedes/slk": "mercedes-benz/slk",
   "mercury/2004-grand-marquis": "mercury/grand-marquis",
@@ -20251,6 +20254,10 @@
   "mercedes-benz/s-class-2013": {
    "bytes": 24958,
    "tint": "#0E0E0E"
+  },
+  "mercedes-benz/s220": {
+   "bytes": 23070,
+   "tint": "#A9ACAD"
   },
   "mercedes-benz/s55-amg-2000": {
    "bytes": 31512,
