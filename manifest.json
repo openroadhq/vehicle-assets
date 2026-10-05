@@ -17987,6 +17987,10 @@
    "bytes": 29952,
    "tint": "#101010"
   },
+  "iscooter/f3": {
+   "bytes": 33236,
+   "tint": "#B4B4B4"
+  },
   "isuzu/amigo": {
    "bytes": 31220,
    "tint": "#D3D3D2"
@@ -20822,6 +20826,10 @@
   "mitsubishi/triton": {
    "bytes": 29416,
    "tint": "#4F5152"
+  },
+  "mobygum/storm-pro": {
+   "bytes": 39754,
+   "tint": "#B4B4B4"
   },
   "morgan/3-wheeler-2011": {
    "bytes": 25880,
