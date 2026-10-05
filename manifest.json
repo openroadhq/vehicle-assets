@@ -2354,6 +2354,7 @@
   "subaru/wrx-sti-v6-ra": "subaru/wrx-sti",
   "subaru/xv-crosstrek": "subaru/crosstrek",
   "subaru/xv-luxury": "subaru/xv",
+  "suzuki-swift/gl-2001": "suzuki/swift-gl-2001",
   "suzuki/alto": "suzuki/alto-works",
   "suzuki/baleno-alpha": "suzuki/baleno",
   "suzuki/baleno-base": "suzuki/baleno",
@@ -11710,6 +11711,12 @@
    [
     1981,
     "suzuki/jimny-1981"
+   ]
+  ],
+  "suzuki/swift-gl": [
+   [
+    2001,
+    "suzuki/swift-gl-2001"
    ]
   ],
   "suzuki/swift-sport": [
@@ -23026,6 +23033,10 @@
   "suzuki/swift": {
    "bytes": 28724,
    "tint": "#494C4D"
+  },
+  "suzuki/swift-gl-2001": {
+   "bytes": 26514,
+   "tint": "#B4B4B4"
   },
   "suzuki/swift-sport": {
    "bytes": 33638,
