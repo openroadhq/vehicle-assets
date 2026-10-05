@@ -307,12 +307,21 @@ def build_generations(vehicles: dict) -> dict:
     return gens
 
 
+# Cars exported from the V6 v2 lane carry one known paint colour. Shipping the exact hex
+# beats re-measuring it, which would drift by a bucket average and mis-seat the app's recolour.
+V2_TINTS = REPO / "v2-tints.json"
+
+
 def rebuild_manifest() -> None:
+    try:
+        known = json.loads(V2_TINTS.read_text()) if V2_TINTS.exists() else {}
+    except (OSError, json.JSONDecodeError):
+        known = {}
     vehicles = {}
     for path in sorted(V1.rglob("*.webp")):
         slug = str(path.relative_to(V1))[: -len(".webp")]
         entry = {"bytes": path.stat().st_size}
-        tint = car_tint(path)
+        tint = known.get(slug) or car_tint(path)
         if tint:
             entry["tint"] = tint
         vehicles[slug] = entry
