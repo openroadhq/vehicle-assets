@@ -1578,6 +1578,7 @@
   "land-rover/lr4-hse": "land-rover/lr4",
   "land-rover/range-rover-autobiography": "land-rover/range-rover",
   "land-rover/range-rover-evoque-\u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430\u044f": "land-rover/range-rover-evoque",
+  "landrover/discovery-4-hse": "land-rover/discovery-4-2009",
   "langfeite/noxyriux": "langfeite/l8s",
   "legs/walk": "legs-walk",
   "lexus-sc400/coupe": "lexus/sc-1992",
@@ -8091,6 +8092,12 @@
    [
     2017,
     "land-rover/discovery-2017"
+   ]
+  ],
+  "land-rover/discovery-4": [
+   [
+    2009,
+    "land-rover/discovery-4-2009"
    ]
   ],
   "land-rover/discovery-sport": [
@@ -18975,6 +18982,10 @@
   "land-rover/discovery-2017": {
    "bytes": 27342,
    "tint": "#E9E9E9"
+  },
+  "land-rover/discovery-4-2009": {
+   "bytes": 33816,
+   "tint": "#B4B4B4"
   },
   "land-rover/discovery-sport-2014": {
    "bytes": 28246,
