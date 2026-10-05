@@ -1840,6 +1840,7 @@
   "mercedes/glc": "mercedes-benz/glc",
   "mercedes/glc-63-amg": "mercedes-benz/glc63-amg-2017",
   "mercedes/gle": "mercedes-benz/gle",
+  "mercedes/glk350": "mercedes-benz/glk-class-2008",
   "mercedes/ml": "mercedes-benz/ml",
   "mercedes/s-class": "mercedes-benz/s-class",
   "mercedes/s220": "mercedes-benz/s220",
@@ -9155,6 +9156,12 @@
    [
     2021,
     "mercedes-benz/gle63-amg"
+   ]
+  ],
+  "mercedes-benz/glk-class": [
+   [
+    2008,
+    "mercedes-benz/glk-class-2008"
    ]
   ],
   "mercedes-benz/gls": [
@@ -20239,6 +20246,10 @@
   "mercedes-benz/gle63-amg-2016": {
    "bytes": 34856,
    "tint": "#CECED0"
+  },
+  "mercedes-benz/glk-class-2008": {
+   "bytes": 38044,
+   "tint": "#B4B4B4"
   },
   "mercedes-benz/gls": {
    "bytes": 31106,
