@@ -14632,6 +14632,10 @@
    "bytes": 76630,
    "tint": "#2D2E2F"
   },
+  "changan/cs35-plus": {
+   "bytes": 34122,
+   "tint": "#B4B4B4"
+  },
   "changan/cs75": {
    "bytes": 36632,
    "tint": "#CCCCCF"
@@ -16343,6 +16347,10 @@
   "ford/maverick-tremor": {
    "bytes": 27740,
    "tint": "#575C61"
+  },
+  "ford/model-t": {
+   "bytes": 63194,
+   "tint": "#B4B4B4"
   },
   "ford/mondeo": {
    "bytes": 27958,
