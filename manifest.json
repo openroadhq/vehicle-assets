@@ -779,6 +779,7 @@
   "chevy/silverado-1500": "chevrolet/silverado-1500",
   "chevy/silverado-1500-custom": "chevrolet/silverado-1500",
   "chevy/silverado-1500-lt": "chevrolet/silverado-1500",
+  "chevy/silverado-2500hd-hd": "chevrolet/silverado-2500hd-2007",
   "chevy/silverado-lt-trailboss": "chevrolet/silverado",
   "chevy/silverado-z71": "chevrolet/silverado",
   "chevy/spark": "chevrolet/spark",
@@ -1728,6 +1729,7 @@
   "mercedes-amg/c-class": "mercedes-benz/c-class",
   "mercedes-amg/c-class-c43": "mercedes-benz/c-class",
   "mercedes-amg/c200-s-w205": "mercedes-benz/c-class-2015",
+  "mercedes-benz-c300-coupe/coupe": "mercedes-benz/c300-coupe-2016",
   "mercedes-benz-s/430": "mercedes-benz/s-class-1999",
   "mercedes-benz/190-e": "mercedes-benz/190e-1984",
   "mercedes-benz/190e-1-8-w201": "mercedes-benz/190e",
@@ -5011,6 +5013,12 @@
    [
     2014,
     "chevrolet/silverado-2014"
+   ]
+  ],
+  "chevrolet/silverado-2500hd": [
+   [
+    2007,
+    "chevrolet/silverado-2500hd-2007"
    ]
   ],
   "chevrolet/sonic": [
@@ -8865,6 +8873,12 @@
    [
     2022,
     "mercedes-benz/c-class"
+   ]
+  ],
+  "mercedes-benz/c300-coupe": [
+   [
+    2016,
+    "mercedes-benz/c300-coupe-2016"
    ]
   ],
   "mercedes-benz/c32-amg": [
@@ -15054,6 +15068,10 @@
    "bytes": 21978,
    "tint": "#090909"
   },
+  "chevrolet/silverado-2500hd-2007": {
+   "bytes": 25840,
+   "tint": "#B4B4B4"
+  },
   "chevrolet/sonic-2012": {
    "bytes": 28648,
    "tint": "#8F9193"
@@ -19985,6 +20003,10 @@
   "mercedes-benz/c300": {
    "bytes": 24614,
    "tint": "#EDECEA"
+  },
+  "mercedes-benz/c300-coupe-2016": {
+   "bytes": 27460,
+   "tint": "#B4B4B4"
   },
   "mercedes-benz/c32-amg-2001": {
    "bytes": 30692,
