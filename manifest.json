@@ -16026,6 +16026,10 @@
    "bytes": 24994,
    "tint": "#AC060A"
   },
+  "fiat/ducato": {
+   "bytes": 27132,
+   "tint": "#B4B4B4"
+  },
   "fiat/egea": {
    "bytes": 27024,
    "tint": "#EDEDED"
