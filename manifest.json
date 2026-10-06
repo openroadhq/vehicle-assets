@@ -2397,6 +2397,7 @@
   "suzuki/sx4-4x4": "suzuki/sx4",
   "suzuki/sx4-x-over": "suzuki/sx4",
   "suzuki/vitara-1-6-vvt-manual": "suzuki/vitara",
+  "sym/adx": "sym/adx-125",
   "tata/punch-adventure": "tata/punch",
   "tesla/3": "tesla/model-3",
   "tesla/model-3-awd": "tesla/model-3",
@@ -15309,6 +15310,10 @@
    "bytes": 25058,
    "tint": "#8D8E91"
   },
+  "chrysler/voyager": {
+   "bytes": 28622,
+   "tint": "#B4B4B4"
+  },
   "citroen/2cv-1948": {
    "bytes": 29842,
    "tint": "#6F7173"
@@ -23124,6 +23129,10 @@
   "suzuki/wagon-r": {
    "bytes": 36664,
    "tint": "#7893AC"
+  },
+  "sym/adx-125": {
+   "bytes": 63058,
+   "tint": "#B4B4B4"
   },
   "tata/curvv": {
    "bytes": 37910,
