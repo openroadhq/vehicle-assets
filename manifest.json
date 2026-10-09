@@ -1648,6 +1648,7 @@
   "lexus/tx-350": "lexus/tx",
   "lincoln/aviator-reserve": "lincoln/aviator",
   "lotus/elise-220": "lotus/elise",
+  "marcedes/classe-v": "mercedes-benz/v-class-2014",
   "maruti-suzuki/brezza-sedan": "maruti-suzuki/brezza",
   "maruti-suzuki/hatchback": "maruti-suzuki/baleno",
   "maruti-suzuki/hatchback-zeta": "maruti-suzuki/baleno",
@@ -1817,6 +1818,7 @@
   "mercedes-benz/mercedes-amg-cls": "mercedes-benz/cls-2019",
   "mercedes-benz/mercedes-amg-glb": "mercedes-benz/glb35-amg-2019",
   "mercedes-benz/mercedes-amg-slc": "mercedes-benz/slc-2016",
+  "mercedes-benz/mercedes-eq-eqb": "mercedes-benz/eqb",
   "mercedes-benz/ml-350": "mercedes-benz/ml",
   "mercedes-benz/ml-350-cdi": "mercedes-benz/ml",
   "mercedes-benz/ml250": "mercedes-benz/ml",
@@ -1951,6 +1953,7 @@
   "mitsubishi/outlander-se": "mitsubishi/outlander",
   "mitsubishi/triton-gsr": "mitsubishi/triton",
   "mitsubishi/triton-sport": "mitsubishi/triton",
+  "mitsubishi/xpander-ultimate": "mitsubishi/xpander-2017",
   "mustang/ecoboost": "ford/mustang",
   "nissan-altima-coupe/coupe": "nissan/altima-coupe-2008",
   "nissan/24-sentra": "nissan/sentra",
@@ -2117,6 +2120,7 @@
   "pontiac/g8-gt": "pontiac/g8",
   "pontiac/grand-prix-base": "pontiac/grand-prix",
   "pontiac/grand-prix-gxp": "pontiac/grand-prix",
+  "pontiac/grand-prrix-gtp-gtp": "pontiac/grand-prix-2004",
   "pontiac/gto-base": "pontiac/gto",
   "pontiac/gxp": "pontiac/g6-2005",
   "pontiac/sedan": "pontiac/g6-2005",
@@ -2248,6 +2252,7 @@
   "seat/leon-fr-black-edition": "seat/leon",
   "seat/leon-fr-sport": "seat/leon",
   "seat/mii-toca": "seat/mii",
+  "seat/tarraco": "seat/tarraco-2018",
   "seat/toledo-reference": "seat/toledo",
   "seat/toledo-sport": "seat/toledo",
   "skoda/fabia-1-0-tsi-116": "skoda/fabia",
@@ -9457,6 +9462,12 @@
     "mercedes-benz/sprinter"
    ]
   ],
+  "mercedes-benz/v-class": [
+   [
+    2014,
+    "mercedes-benz/v-class-2014"
+   ]
+  ],
   "mercury/capri": [
    [
     1991,
@@ -9981,6 +9992,12 @@
    [
     1983,
     "mitsubishi/starion-1983"
+   ]
+  ],
+  "mitsubishi/xpander": [
+   [
+    2017,
+    "mitsubishi/xpander-2017"
    ]
   ],
   "morgan/3-wheeler": [
@@ -11497,6 +11514,12 @@
    [
     2008,
     "scion/xd-2008"
+   ]
+  ],
+  "seat/tarraco": [
+   [
+    2018,
+    "seat/tarraco-2018"
    ]
   ],
   "shelby/cobra-427": [
@@ -20544,6 +20567,10 @@
    "bytes": 20398,
    "tint": "#E8E8E8"
   },
+  "mercedes-benz/v-class-2014": {
+   "bytes": 34510,
+   "tint": "#B4B4B4"
+  },
   "mercedes-benz/v300": {
    "bytes": 35928,
    "tint": "#101213"
@@ -20991,6 +21018,10 @@
   "mitsubishi/triton": {
    "bytes": 29416,
    "tint": "#4F5152"
+  },
+  "mitsubishi/xpander-2017": {
+   "bytes": 40750,
+   "tint": "#B4B4B4"
   },
   "mobygum/storm-pro": {
    "bytes": 39754,
@@ -22695,6 +22726,10 @@
   "seat/mii": {
    "bytes": 30158,
    "tint": "#4C4E51"
+  },
+  "seat/tarraco-2018": {
+   "bytes": 39550,
+   "tint": "#B4B4B4"
   },
   "seat/toledo": {
    "bytes": 22738,
