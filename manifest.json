@@ -1496,6 +1496,7 @@
   "jeep/wrangler-unlimited-sport": "jeep/wrangler",
   "jeep/wrangler-x": "jeep/wrangler",
   "jetour/t2": "jetour/t2-2023",
+  "k/aerox": "yamaha/aerox-155",
   "kawasaki/ninja-250r": "kawasaki/ninja",
   "kawasaki/ninja-500-abs": "kawasaki/ninja-500",
   "kawasaki/ninja-500-se": "kawasaki/ninja-500",
@@ -13392,6 +13393,10 @@
    "bytes": 26476,
    "tint": "#101010"
   },
+  "audi/a6-avant": {
+   "bytes": 31590,
+   "tint": "#B4B4B4"
+  },
   "audi/a7": {
    "bytes": 32490,
    "tint": "#4C4D4E"
@@ -14575,6 +14580,10 @@
   "byd/seal": {
    "bytes": 29666,
    "tint": "#2D2F31"
+  },
+  "byd/sealion-6": {
+   "bytes": 33746,
+   "tint": "#B4B4B4"
   },
   "byd/sealion-7": {
    "bytes": 30228,
@@ -17499,6 +17508,10 @@
   "honda/nwagon": {
    "bytes": 27394,
    "tint": "#D0D0D1"
+  },
+  "honda/nx250": {
+   "bytes": 91920,
+   "tint": "#B4B4B4"
   },
   "honda/odyssey": {
    "bytes": 24918,
@@ -24375,6 +24388,10 @@
   "yamaha/aerox": {
    "bytes": 56938,
    "tint": "#2D2D2F"
+  },
+  "yamaha/aerox-155": {
+   "bytes": 67614,
+   "tint": "#B4B4B4"
   },
   "yamaha/bolt": {
    "bytes": 70308,
