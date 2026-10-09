@@ -1,11 +1,14 @@
 {
+ "audi/a6-avant": "#B4B4B4",
  "byd/seagull": "#B4B4B4",
+ "byd/sealion-6": "#B4B4B4",
  "changan/cs35-plus": "#B4B4B4",
  "chevrolet/silverado-2500hd-2007": "#B4B4B4",
  "chrysler/voyager": "#B4B4B4",
  "fiat/ducato": "#B4B4B4",
  "ford/model-t": "#B4B4B4",
  "honda/city-1996": "#B4B4B4",
+ "honda/nx250": "#B4B4B4",
  "iscooter/f3": "#B4B4B4",
  "land-rover/discovery-4-2009": "#B4B4B4",
  "legs-walk": "#B4B4B4",
@@ -19,5 +22,6 @@
  "subaru/wrx-ts-2026": "#B4B4B4",
  "suzuki/swift-gl-2001": "#B4B4B4",
  "sym/adx-125": "#B4B4B4",
+ "yamaha/aerox-155": "#B4B4B4",
  "yamaha/sniper-155": "#B4B4B4"
 }
