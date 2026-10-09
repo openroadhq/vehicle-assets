@@ -1,8 +1,10 @@
 {
+ "abarth/fastback": "#B4B4B4",
  "audi/a6-avant": "#B4B4B4",
  "byd/seagull": "#B4B4B4",
  "byd/sealion-6": "#B4B4B4",
  "changan/cs35-plus": "#B4B4B4",
+ "chery/tiggo-7": "#B4B4B4",
  "chevrolet/silverado-2500hd-2007": "#B4B4B4",
  "chrysler/voyager": "#B4B4B4",
  "fiat/ducato": "#B4B4B4",
@@ -24,6 +26,8 @@
  "subaru/wrx-ts-2026": "#B4B4B4",
  "suzuki/swift-gl-2001": "#B4B4B4",
  "sym/adx-125": "#B4B4B4",
+ "toyota/camry-le-2012": "#B4B4B4",
  "yamaha/aerox-155": "#B4B4B4",
+ "yamaha/mio-sporty": "#B4B4B4",
  "yamaha/sniper-155": "#B4B4B4"
 }

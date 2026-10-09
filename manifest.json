@@ -3,6 +3,7 @@
   "1991-ford/ranger": "ford/ranger-1989",
   "2007-mazda-mazdaspeed6/sedan-gt": "mazda/mazdaspeed6-2006",
   "2007-mk5/gti": "volkswagen/golf-2006",
+  "2013-toyota/camry-le": "toyota/camry-le-2012",
   "2018/mercedes-gle-350": "mercedes-benz/gle-2016",
   "2025/h6-gt": "haval/h6",
   "2026/subaru-ts": "subaru/wrx-ts-2026",
@@ -613,6 +614,7 @@
   "canam/outlander-x-tp": "can-am/outlander",
   "canam/traxter": "can-am/traxter-2025",
   "chengan/cs75": "changan/cs75",
+  "cherry/tiggo-7-hybrid": "chery/tiggo-7",
   "chery/arizo-8": "chery/arrizo-8",
   "cheverolet/silverado": "chevrolet/silverado-2007",
   "chevrolet/1500-1500": "chevrolet/1500",
@@ -1885,6 +1887,7 @@
   "mercury/mountaineer-premier-awd": "mercury/mountaineer",
   "mg/5-standard": "mg/5",
   "mg/b": "mg/mgb",
+  "mia/mio-sporty": "yamaha/mio-sporty",
   "mini/2023-john-cooper-works": "mini/cooper",
   "mini/clubman-base": "mini/clubman",
   "mini/clubman-jcw-s": "mini/clubman",
@@ -11963,6 +11966,12 @@
     "toyota/camry"
    ]
   ],
+  "toyota/camry-le": [
+   [
+    2012,
+    "toyota/camry-le-2012"
+   ]
+  ],
   "toyota/camry-trd": [
    [
     2020,
@@ -12923,6 +12932,10 @@
   "abarth/695": {
    "bytes": 40642,
    "tint": "#2E2F2F"
+  },
+  "abarth/fastback": {
+   "bytes": 34498,
+   "tint": "#B4B4B4"
   },
   "acura/cl-1997": {
    "bytes": 24304,
@@ -14803,6 +14816,10 @@
   "chery/arrizo-8": {
    "bytes": 35858,
    "tint": "#8A8A8D"
+  },
+  "chery/tiggo-7": {
+   "bytes": 40810,
+   "tint": "#B4B4B4"
   },
   "chevrolet/1500": {
    "bytes": 28408,
@@ -23388,6 +23405,10 @@
    "bytes": 26866,
    "tint": "#D4D5D5"
   },
+  "toyota/camry-le-2012": {
+   "bytes": 26758,
+   "tint": "#B4B4B4"
+  },
   "toyota/camry-trd-2020": {
    "bytes": 26934,
    "tint": "#101010"
@@ -24407,6 +24428,10 @@
   "yamaha/bolt": {
    "bytes": 70308,
    "tint": "#2C2E30"
+  },
+  "yamaha/mio-sporty": {
+   "bytes": 60124,
+   "tint": "#B4B4B4"
   },
   "yamaha/mt-03": {
    "bytes": 109696,
