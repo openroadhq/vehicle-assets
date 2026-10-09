@@ -901,6 +901,7 @@
   "engwe/m20-3-0-single-battery-performance": "engwe/m20-3-0",
   "equinox/chevy-red-rocket": "chevrolet/equinox-2005",
   "falcon/g6e": "ford/falcon",
+  "fatbike/h9": "ouxi/h9",
   "ferrari/296-assetto-fiorano": "ferrari/296",
   "ferrari/296-gtb-gtb": "ferrari/296-gtb",
   "fiat/124-spider-abrath": "fiat/124-spider",
@@ -2533,6 +2534,7 @@
   "toyota/corolla-xrs": "toyota/corolla",
   "toyota/corolla-xse": "toyota/corolla",
   "toyota/corrolla-ce": "toyota/corrolla",
+  "toyota/corrolla-e130": "toyota/corrolla",
   "toyota/fortuner-2-7-g": "toyota/fortuner",
   "toyota/gen-2-prius": "toyota/prius",
   "toyota/gr-corolla-circuit-edition": "toyota/gr-corolla",
@@ -21660,6 +21662,10 @@
   "opel/vectra-b": {
    "bytes": 26774,
    "tint": "#ACADB0"
+  },
+  "ouxi/h9": {
+   "bytes": 100792,
+   "tint": "#B4B4B4"
   },
   "pagani/huayra": {
    "bytes": 30648,
