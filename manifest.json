@@ -16767,6 +16767,10 @@
    "bytes": 40710,
    "tint": "#0B4997"
   },
+  "freightliner/garbage-truck": {
+   "bytes": 38902,
+   "tint": "#B4B4B4"
+  },
   "fuso/canter": {
    "bytes": 25990,
    "tint": "#E2E4E6"
