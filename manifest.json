@@ -1144,6 +1144,7 @@
   "ford/transit-350": "ford/transit",
   "ford/transit-courier": "ford/transit",
   "ford/xr6-sedan": "ford/xr6",
+  "frp/gmb100-offroad": "frp/gmb100",
   "gac/gs8-320t": "gac/gs8",
   "geely/ex2-max": "geely/ex2",
   "gelly/coolray": "geely/coolray",
@@ -1590,6 +1591,7 @@
   "ktm/exc-f": "ktm/500-exc-f",
   "ktm/exc-f-350": "ktm/500-exc-f",
   "ktm/rc390": "ktm/rc-390",
+  "kukirin/kuk": "kukirin/g2",
   "lada/granta-qvest": "lada/granta",
   "lads/kalina-2": "lada/kalina-2",
   "lamborghini/huracan-evo": "lamborghini/huracan",
@@ -16819,6 +16821,10 @@
    "bytes": 38902,
    "tint": "#B4B4B4"
   },
+  "frp/gmb100": {
+   "bytes": 67398,
+   "tint": "#B4B4B4"
+  },
   "fuso/canter": {
    "bytes": 25990,
    "tint": "#E2E4E6"
@@ -18958,6 +18964,10 @@
   "ktm/sxf450": {
    "bytes": 70288,
    "tint": "#2C2D2D"
+  },
+  "kukirin/g2": {
+   "bytes": 30232,
+   "tint": "#B4B4B4"
   },
   "kymco/50cc": {
    "bytes": 51494,
