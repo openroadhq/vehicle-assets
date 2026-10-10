@@ -880,6 +880,7 @@
   "dodge/durango-r-t": "dodge/durango",
   "dodge/durango-rt": "dodge/durango",
   "dodge/grand-caravan-passenger": "dodge/grand-caravan",
+  "dodge/hornet": "dodge/hornet-2022",
   "dodge/journey-gt": "dodge/journey",
   "dodge/journey-se": "dodge/journey",
   "dodge/journey-sxt": "dodge/journey",
@@ -5550,6 +5551,12 @@
    [
     2008,
     "dodge/grand-caravan-2008"
+   ]
+  ],
+  "dodge/hornet": [
+   [
+    2022,
+    "dodge/hornet-2022"
    ]
   ],
   "dodge/intrepid": [
@@ -15720,6 +15727,10 @@
   "dodge/grand-caravan-2008": {
    "bytes": 24140,
    "tint": "#ADACAE"
+  },
+  "dodge/hornet-2022": {
+   "bytes": 38562,
+   "tint": "#B4B4B4"
   },
   "dodge/intrepid-1993": {
    "bytes": 23824,
