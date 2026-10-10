@@ -1524,6 +1524,7 @@
   "kawasaki/zx6r-abs": "kawasaki/zx6r",
   "kawasaki/zx6r-krt": "kawasaki/zx6r",
   "kia-sorento-hybrid/suv": "kia/sorento",
+  "kia/carens": "kia/carens-2013",
   "kia/carnival-grand": "kia/carnival",
   "kia/ceed-basic": "kia/ceed",
   "kia/cerato": "kia/forte",
@@ -7891,6 +7892,12 @@
    [
     2014,
     "kia/cadenza-2014"
+   ]
+  ],
+  "kia/carens": [
+   [
+    2013,
+    "kia/carens-2013"
    ]
   ],
   "kia/ev6": [
@@ -18609,6 +18616,10 @@
   "kia/cadenza-2014": {
    "bytes": 31714,
    "tint": "#4C4C4D"
+  },
+  "kia/carens-2013": {
+   "bytes": 38128,
+   "tint": "#B4B4B4"
   },
   "kia/carnival": {
    "bytes": 25602,
