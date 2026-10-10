@@ -21133,6 +21133,10 @@
    "bytes": 98712,
    "tint": "#2E2F30"
   },
+  "motorstar/gpr-250v1": {
+   "bytes": 71938,
+   "tint": "#B4B4B4"
+  },
   "mv-agusta/brutale-1000-rr": {
    "bytes": 91898,
    "tint": "#2D2E30"
@@ -24560,6 +24564,10 @@
   "yamaha/xsr900": {
    "bytes": 110330,
    "tint": "#2D2D2E"
+  },
+  "yamaha/xvs-dragstar": {
+   "bytes": 72452,
+   "tint": "#B4B4B4"
   },
   "yamaha/ybr-125": {
    "bytes": 64448,
