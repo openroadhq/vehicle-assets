@@ -1261,6 +1261,7 @@
   "honda/civic-aerodeck": "honda/civic",
   "honda/civic-base": "honda/civic",
   "honda/civic-comfort": "honda/civic",
+  "honda/civic-coupe-ex-l": "honda/civic-coupe",
   "honda/civic-cx": "honda/civic",
   "honda/civic-dx": "honda/civic",
   "honda/civic-ec9": "honda/civic",
@@ -17376,6 +17377,10 @@
   "honda/civic-2016": {
    "bytes": 26886,
    "tint": "#CBCDCF"
+  },
+  "honda/civic-coupe": {
+   "bytes": 26616,
+   "tint": "#B4B4B4"
   },
   "honda/civic-si": {
    "bytes": 30432,
