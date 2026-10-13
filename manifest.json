@@ -21441,6 +21441,10 @@
    "bytes": 33486,
    "tint": "#D2D2D2"
   },
+  "nissan/pixo": {
+   "bytes": 37074,
+   "tint": "#B4B4B4"
+  },
   "nissan/president-1990": {
    "bytes": 23982,
    "tint": "#0A0A0A"
@@ -24559,6 +24563,10 @@
   },
   "yamaha/sniper-155": {
    "bytes": 74152,
+   "tint": "#B4B4B4"
+  },
+  "yamaha/sniper155r": {
+   "bytes": 76044,
    "tint": "#B4B4B4"
   },
   "yamaha/tenere-700": {
