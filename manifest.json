@@ -829,6 +829,7 @@
   "citroen/xsara-exclusive": "citroen/xsara",
   "click-125i/honda-click-125i": "honda/click-125i",
   "click/v2": "honda/click-125i",
+  "coolsters/jeep-army": "coolster/army-jeep",
   "corolla/toyota-le": "toyota/corolla",
   "corvette/c4": "chevrolet/corvette",
   "corvette/eray-e-ray": "chevrolet/corvette",
@@ -15504,6 +15505,10 @@
   "citroen/xsara": {
    "bytes": 24914,
    "tint": "#ACAEB1"
+  },
+  "coolster/army-jeep": {
+   "bytes": 42058,
+   "tint": "#B4B4B4"
   },
   "cupra/born": {
    "bytes": 30332,
