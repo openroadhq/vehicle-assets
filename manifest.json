@@ -848,6 +848,7 @@
   "dacia/sanderro-stepway": "dacia/sanderro",
   "daewoo/lanos-sx": "daewoo/lanos",
   "daihatsu/rocky-lo": "daihatsu/rocky",
+  "daihatsu/sirion": "daihatsu/sirion-2005",
   "datsun/280z-base": "datsun/280z",
   "datsun/280zx": "datsun/280z",
   "dodge/2015-dodge-durango-limited": "dodge/durango",
@@ -1603,7 +1604,7 @@
   "ktm/exc-f-350": "ktm/500-exc-f",
   "ktm/rc390": "ktm/rc-390",
   "kukirin/kuk": "kukirin/g2",
-  "kymco/new-people-s-50i": "kymco/50cc",
+  "kymco/new-people-s-50i": "kymco/new-people-s-50i",
   "lada/granta-qvest": "lada/granta",
   "lads/kalina-2": "lada/kalina-2",
   "lamborghini/huracan-evo": "lamborghini/huracan",
@@ -1880,7 +1881,7 @@
   "mercedes-benz/sprinter-316-cdi": "mercedes-benz/sprinter",
   "mercedes-benz/sprinter-lengte-2-hoogte-2-rwd": "mercedes-benz/sprinter",
   "mercedes-benz/sprinter-se": "mercedes-benz/sprinter",
-  "mercedes/a-200-silver": "mercedes-benz/a-class-2019",
+  "mercedes/a-200-silver": "mercedes/a-200-silver",
   "mercedes/a-class": "mercedes-benz/a-class",
   "mercedes/a-class-150": "mercedes-benz/a-class-2019",
   "mercedes/a-class-a220": "mercedes-benz/a-class",
@@ -2580,7 +2581,7 @@
   "toyota/corolla-xse": "toyota/corolla",
   "toyota/corrolla-ce": "toyota/corrolla",
   "toyota/corrolla-e130": "toyota/corrolla",
-  "toyota/fielder-x": "toyota/corolla-1998",
+  "toyota/fielder-x": "toyota/fielder-x",
   "toyota/fortuner-2-7-g": "toyota/fortuner",
   "toyota/gen-2-prius": "toyota/prius",
   "toyota/gr-corolla-circuit-edition": "toyota/gr-corolla",
@@ -5381,6 +5382,12 @@
     "citroen/saxo-vts-1996"
    ]
   ],
+  "daihatsu/sirion": [
+   [
+    2005,
+    "daihatsu/sirion-2005"
+   ]
+  ],
   "datsun/240z": [
    [
     1969,
@@ -8159,6 +8166,20 @@
     "kia/stinger-gt2-2020"
    ]
   ],
+  "kymco/new-people-s-50i": [
+   [
+    1900,
+    "kymco/50cc"
+   ],
+   [
+    2020,
+    "kymco/new-people-s-50i"
+   ],
+   [
+    2021,
+    "kymco/50cc"
+   ]
+  ],
   "lamborghini/countach": [
    [
     1974,
@@ -9535,6 +9556,20 @@
    [
     2014,
     "mercedes-benz/v-class-2014"
+   ]
+  ],
+  "mercedes/a-200-silver": [
+   [
+    1900,
+    "mercedes-benz/a-class-2019"
+   ],
+   [
+    2016,
+    "mercedes-benz/a-200"
+   ],
+   [
+    2017,
+    "mercedes-benz/a-class-2019"
    ]
   ],
   "mercury/capri": [
@@ -12081,10 +12116,30 @@
     "toyota/corolla"
    ]
   ],
+  "toyota/corolla-fielder": [
+   [
+    2012,
+    "toyota/corolla-fielder-2012"
+   ]
+  ],
   "toyota/echo": [
    [
     2000,
     "toyota/echo-2000"
+   ]
+  ],
+  "toyota/fielder-x": [
+   [
+    1900,
+    "toyota/corolla-1998"
+   ],
+   [
+    2012,
+    "toyota/corolla-fielder-2012"
+   ],
+   [
+    2013,
+    "toyota/corolla-1998"
    ]
   ],
   "toyota/hiace-gl-grandia": [
@@ -15602,6 +15657,10 @@
    "bytes": 28026,
    "tint": "#EAE9E8"
   },
+  "daihatsu/sirion-2005": {
+   "bytes": 37036,
+   "tint": "#B4B4B4"
+  },
   "datsun/240z-1969": {
    "bytes": 30290,
    "tint": "#E7B309"
@@ -19022,6 +19081,10 @@
    "bytes": 51494,
    "tint": "#2F2F30"
   },
+  "kymco/new-people-s-50i": {
+   "bytes": 62424,
+   "tint": "#B4B4B4"
+  },
   "lada/granta": {
    "bytes": 30772,
    "tint": "#8B8B8E"
@@ -20117,6 +20180,10 @@
   "mercedes-benz/500e-1990": {
    "bytes": 24944,
    "tint": "#ADAEAF"
+  },
+  "mercedes-benz/a-200": {
+   "bytes": 34800,
+   "tint": "#B4B4B4"
   },
   "mercedes-benz/a-class-2019": {
    "bytes": 29292,
@@ -23553,6 +23620,10 @@
   "toyota/corolla-cross": {
    "bytes": 34372,
    "tint": "#8E8F92"
+  },
+  "toyota/corolla-fielder-2012": {
+   "bytes": 33674,
+   "tint": "#B4B4B4"
   },
   "toyota/corrolla": {
    "bytes": 28844,
