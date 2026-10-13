@@ -912,6 +912,7 @@
   "ducati/panigale-v4s": "ducati/panigale-v4-s",
   "eagle/talon-esi": "eagle/talon",
   "engwe/m20-3-0-single-battery-performance": "engwe/m20-3-0",
+  "entry-level-underbone-motorcycle/fekon-striker-125": "fekon/striker-125",
   "equinox/chevy-red-rocket": "chevrolet/equinox-2005",
   "falcon/g6e": "ford/falcon",
   "fatbike/h9": "ouxi/h9",
@@ -14872,6 +14873,10 @@
    "bytes": 36632,
    "tint": "#CCCCCF"
   },
+  "changan/uni-s": {
+   "bytes": 37262,
+   "tint": "#B4B4B4"
+  },
   "chery/arrizo-8": {
    "bytes": 35858,
    "tint": "#8A8A8D"
@@ -15935,6 +15940,10 @@
   "faradayfuture/ff91": {
    "bytes": 28498,
    "tint": "#0E0E0E"
+  },
+  "fekon/striker-125": {
+   "bytes": 67156,
+   "tint": "#B4B4B4"
   },
   "ferrari/12cilindri": {
    "bytes": 29648,
@@ -24583,6 +24592,10 @@
   "yamaha/tenere-700": {
    "bytes": 95036,
    "tint": "#2C2D2F"
+  },
+  "yamaha/vega": {
+   "bytes": 64060,
+   "tint": "#B4B4B4"
   },
   "yamaha/wr250r": {
    "bytes": 116100,
