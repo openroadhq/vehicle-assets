@@ -813,6 +813,7 @@
   "chrysler/300c-luxury": "chrysler/300c",
   "chrysler/300s-s": "chrysler/300s",
   "chrysler/sebring-lx": "chrysler/sebring",
+  "citroen/ami": "citroen/ami-2020",
   "citroen/berlingo-feel-multispace": "citroen/berlingo",
   "citroen/c1-vtr": "citroen/c1",
   "citroen/c2-vts-vts": "citroen/c2-vts",
@@ -5372,6 +5373,12 @@
    [
     1948,
     "citroen/2cv-1948"
+   ]
+  ],
+  "citroen/ami": [
+   [
+    2020,
+    "citroen/ami-2020"
    ]
   ],
   "citroen/ds": [
@@ -15512,6 +15519,10 @@
   "citroen/2cv-1948": {
    "bytes": 29842,
    "tint": "#6F7173"
+  },
+  "citroen/ami-2020": {
+   "bytes": 47060,
+   "tint": "#B4B4B4"
   },
   "citroen/berlingo": {
    "bytes": 27958,
