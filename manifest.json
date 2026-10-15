@@ -3055,7 +3055,8 @@
   "yamaha/sniper-155-sniper": "yamaha/sniper-155",
   "yamaha/yzf-r1-sport-bike": "yamaha/yzf-r1",
   "yamaha/yzf-r125": "yamaha/yzf-r1",
-  "yamaha/yzf-r6-raven": "yamaha/yzf-r6"
+  "yamaha/yzf-r6-raven": "yamaha/yzf-r6",
+  "zoom/vios": "toyota/vios"
  },
  "basePath": "v1",
  "format": "webp",
