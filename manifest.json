@@ -941,6 +941,7 @@
   "fiat/500e-la-prima": "fiat/500e",
   "fiat/500l": "fiat/500",
   "fiat/600-la-prima": "fiat/600",
+  "fiat/fiorino-95-hp": "fiat/fiorino-2013",
   "fiat/grande-punto-1-2-8v-gasolina": "fiat/grande-punto",
   "fiat/grande-punto-sport": "fiat/grande-punto",
   "fiat/palio-base": "fiat/palio",
@@ -5819,6 +5820,12 @@
    [
     1993,
     "eagle/vision-1993"
+   ]
+  ],
+  "fiat/fiorino": [
+   [
+    2013,
+    "fiat/fiorino-2013"
    ]
   ],
   "ford/aerostar": [
@@ -16309,6 +16316,10 @@
   "fiat/egea": {
    "bytes": 27024,
    "tint": "#EDEDED"
+  },
+  "fiat/fiorino-2013": {
+   "bytes": 36516,
+   "tint": "#B4B4B4"
   },
   "fiat/grande-punto": {
    "bytes": 30518,
