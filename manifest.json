@@ -277,6 +277,7 @@
   "bmw/218i-active-tourer": "bmw/2-series",
   "bmw/220": "bmw/2-series",
   "bmw/228i": "bmw/2-series",
+  "bmw/228i-gran-coupe-xdrive": "bmw/2-series",
   "bmw/230i": "bmw/2-series",
   "bmw/230i-xdrive": "bmw/2-series",
   "bmw/3-diesel": "bmw/3",
@@ -339,6 +340,7 @@
   "bmw/328ix": "bmw/3-series",
   "bmw/328xi": "bmw/3-series",
   "bmw/330-ci": "bmw/3-series",
+  "bmw/330-i": "bmw/3-series",
   "bmw/330cd": "bmw/3-series",
   "bmw/330cd-m-sport-coupe-m-pocket": "bmw/330ci-coupe-2003",
   "bmw/330ci": "bmw/3-series",
@@ -1505,6 +1507,7 @@
   "jaguar/xe-r-sport": "jaguar/xe",
   "jaguar/xe-s-v6-s-c": "jaguar/xe",
   "jeep-cherokee/latitude": "jeep/cherokee",
+  "jeep/avenger-summit": "jeep/avenger-2023",
   "jeep/cherokee-l6-4-0l": "jeep/cherokee",
   "jeep/cherokee-laredo": "jeep/cherokee",
   "jeep/cherokee-latitude": "jeep/cherokee",
@@ -2005,6 +2008,7 @@
   "mini/john-cooper-works": "mini/cooper",
   "mini/r56-john-cooper-works": "mini/cooper",
   "mitsubishi/2003-ce-lancer": "mitsubishi/lancer",
+  "mitsubishi/asx-117-pk-1-6l-benzine": "mitsubishi/asx-2010",
   "mitsubishi/colt-rodeo-2-8tdi": "mitsubishi/colt",
   "mitsubishi/eclipse-cross-awd": "mitsubishi/eclipse-cross",
   "mitsubishi/eclipse-cross-black-edition": "mitsubishi/eclipse-cross",
@@ -3068,6 +3072,7 @@
   "vw/golf": "volkswagen/golf",
   "vw/golf-base": "volkswagen/golf",
   "vw/golf-gti": "volkswagen/golf-gti",
+  "vw/golf-v": "volkswagen/golf-1999",
   "vw/golf-v5": "volkswagen/golf",
   "vw/golf-variant": "volkswagen/golf-sportwagen-2015",
   "vw/golf-viii-variant": "volkswagen/golf-2022",
@@ -7852,6 +7857,12 @@
     "jaguar/xkr-2006"
    ]
   ],
+  "jeep/avenger": [
+   [
+    2023,
+    "jeep/avenger-2023"
+   ]
+  ],
   "jeep/cherokee-kl": [
    [
     2014,
@@ -9918,6 +9929,12 @@
    [
     1991,
     "mitsubishi/3000gt-vr-4-1991"
+   ]
+  ],
+  "mitsubishi/asx": [
+   [
+    2010,
+    "mitsubishi/asx-2010"
    ]
   ],
   "mitsubishi/diamante": [
@@ -18605,6 +18622,10 @@
    "bytes": 27802,
    "tint": "#022917"
   },
+  "jeep/avenger-2023": {
+   "bytes": 36688,
+   "tint": "#B4B4B4"
+  },
   "jeep/cherokee": {
    "bytes": 29002,
    "tint": "#2E2E2E"
@@ -21104,6 +21125,10 @@
   "mitsubishi/380gt": {
    "bytes": 28270,
    "tint": "#101010"
+  },
+  "mitsubishi/asx-2010": {
+   "bytes": 37766,
+   "tint": "#B4B4B4"
   },
   "mitsubishi/colt": {
    "bytes": 27630,
