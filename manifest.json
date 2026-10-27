@@ -956,6 +956,7 @@
   "fiat/fiorino-95-hp": "fiat/fiorino-2013",
   "fiat/grande-punto-1-2-8v-gasolina": "fiat/grande-punto",
   "fiat/grande-punto-sport": "fiat/grande-punto",
+  "fiat/idea": "fiat/idea-2003",
   "fiat/palio-base": "fiat/palio",
   "fiat/panda-1-1-base": "fiat/panda",
   "fiat/panda-1-2-fire": "fiat/panda",
@@ -1286,6 +1287,7 @@
   "honda/cbr-500": "honda/cbr",
   "honda/cbr-500-r": "honda/cbr500r",
   "honda/cbr-500r": "honda/cbr500r",
+  "honda/cbr-650r": "honda/cbr",
   "honda/cbr-900rr-moto": "honda/cbr900rr",
   "honda/cbr1000": "honda/cbr1000rr-r",
   "honda/cbr600-rr": "honda/cbr600rr",
@@ -1929,6 +1931,7 @@
   "mercedes/a250": "mercedes-benz/a250",
   "mercedes/a35": "mercedes-benz/a35-amg",
   "mercedes/a35-amg": "mercedes-benz/a35-amg",
+  "mercedes/amg-a45": "mercedes-benz/a45-amg-2019",
   "mercedes/amg-cle53": "mercedes-benz/amg-cle53",
   "mercedes/b180-d": "mercedes-benz/b180-d",
   "mercedes/c-class": "mercedes-benz/c-class",
@@ -5860,6 +5863,12 @@
    [
     2013,
     "fiat/fiorino-2013"
+   ]
+  ],
+  "fiat/idea": [
+   [
+    2003,
+    "fiat/idea-2003"
    ]
   ],
   "ford/aerostar": [
@@ -16370,6 +16379,10 @@
   "fiat/grande-punto": {
    "bytes": 30518,
    "tint": "#8E8E8F"
+  },
+  "fiat/idea-2003": {
+   "bytes": 38090,
+   "tint": "#B4B4B4"
   },
   "fiat/palio": {
    "bytes": 38168,
