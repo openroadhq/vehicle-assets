@@ -2049,6 +2049,7 @@
   "mitsubishi/outlander-ex": "mitsubishi/outlander",
   "mitsubishi/outlander-gt": "mitsubishi/outlander",
   "mitsubishi/outlander-se": "mitsubishi/outlander",
+  "mitsubishi/pajero": "mitsubishi/pajero-2006",
   "mitsubishi/strada-athlete-4x4": "mitsubishi/triton",
   "mitsubishi/triton-gsr": "mitsubishi/triton",
   "mitsubishi/triton-sport": "mitsubishi/triton",
@@ -10199,6 +10200,12 @@
    [
     2018,
     "mitsubishi/outlander-phev-2018"
+   ]
+  ],
+  "mitsubishi/pajero": [
+   [
+    2006,
+    "mitsubishi/pajero-2006"
    ]
   ],
   "mitsubishi/pajero-evolution": [
@@ -21349,6 +21356,10 @@
   "mitsubishi/outlander-phev-2018": {
    "bytes": 34886,
    "tint": "#084790"
+  },
+  "mitsubishi/pajero-2006": {
+   "bytes": 34568,
+   "tint": "#B4B4B4"
   },
   "mitsubishi/pajero-evolution-1997": {
    "bytes": 29562,
