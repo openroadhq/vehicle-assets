@@ -1984,6 +1984,7 @@
   "mg/b": "mg/mgb",
   "mia/mio-sporty": "yamaha/mio-sporty",
   "mini/2023-john-cooper-works": "mini/cooper",
+  "mini/aceman": "mini/aceman-2024",
   "mini/clubman-base": "mini/clubman",
   "mini/clubman-jcw-s": "mini/clubman",
   "mini/clubman-r55": "mini/clubman",
@@ -9812,6 +9813,12 @@
    [
     2002,
     "mg/tf-2002"
+   ]
+  ],
+  "mini/aceman": [
+   [
+    2024,
+    "mini/aceman-2024"
    ]
   ],
   "mini/classic": [
@@ -21044,6 +21051,10 @@
   "mg/tf-2002": {
    "bytes": 27890,
    "tint": "#AB010E"
+  },
+  "mini/aceman-2024": {
+   "bytes": 33632,
+   "tint": "#B4B4B4"
   },
   "mini/classic-1959": {
    "bytes": 40474,
