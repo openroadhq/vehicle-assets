@@ -2427,6 +2427,7 @@
   "skoda/superb-alles": "skoda/superb",
   "skoda/superb-l-k": "skoda/superb",
   "skoda/superb-sportline": "skoda/superb",
+  "skoda/yeti": "skoda/yeti-2009",
   "smart/fortwo-451": "smart/fortwo",
   "sniper-155/sniper": "yamaha/sniper-155",
   "sorento/2021-kia-s": "kia/sorento",
@@ -11791,6 +11792,12 @@
    [
     1965,
     "shelby/cobra-427-1965"
+   ]
+  ],
+  "skoda/yeti": [
+   [
+    2009,
+    "skoda/yeti-2009"
    ]
   ],
   "smart/fortwo": [
@@ -23243,6 +23250,10 @@
   "skoda/superb": {
    "bytes": 29492,
    "tint": "#494C4D"
+  },
+  "skoda/yeti-2009": {
+   "bytes": 36772,
+   "tint": "#B4B4B4"
   },
   "smart/fortwo-2008": {
    "bytes": 39308,
