@@ -1225,6 +1225,7 @@
   "haval-h6/crossover-full": "haval/h6",
   "haval/h6-crossover-full-2027": "haval/h6",
   "haval/h6-gt": "haval/h6",
+  "haval/jolion": "haval/jolion-2021",
   "holden/barina-base": "holden/barina",
   "holden/barina-base-tm": "holden/barina",
   "holden/captiva": "holden/captiva-7-2011",
@@ -6804,6 +6805,12 @@
    [
     2000,
     "gmc/yukon-xl-2000"
+   ]
+  ],
+  "haval/jolion": [
+   [
+    2021,
+    "haval/jolion-2021"
    ]
   ],
   "holden/captiva-5": [
@@ -17456,6 +17463,10 @@
   "haval/h6": {
    "bytes": 36722,
    "tint": "#8F9091"
+  },
+  "haval/jolion-2021": {
+   "bytes": 41780,
+   "tint": "#B4B4B4"
   },
   "hennessey/venom-f5": {
    "bytes": 33142,
