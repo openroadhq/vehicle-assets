@@ -1743,6 +1743,7 @@
   "mazda/626-classic": "mazda/626",
   "mazda/626-lx": "mazda/626",
   "mazda/626-slx": "mazda/626",
+  "mazda/6e": "mazda/6e-2024",
   "mazda/axela": "mazda/mazda3",
   "mazda/b2200-base": "mazda/b2200",
   "mazda/cx-3-skyactiv-g": "mazda/cx-3",
@@ -8817,6 +8818,12 @@
    [
     1998,
     "mazda/626-1998"
+   ]
+  ],
+  "mazda/6e": [
+   [
+    2024,
+    "mazda/6e-2024"
    ]
   ],
   "mazda/autozam-az-1": [
@@ -20005,6 +20012,10 @@
   "mazda/626-1998": {
    "bytes": 27594,
    "tint": "#ABB0B2"
+  },
+  "mazda/6e-2024": {
+   "bytes": 34440,
+   "tint": "#B4B4B4"
   },
   "mazda/autozam-az-1-1992": {
    "bytes": 30600,
