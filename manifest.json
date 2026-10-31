@@ -1578,6 +1578,7 @@
   "kawasaki/zx-10r": "kawasaki/ninja-zx-10r",
   "kawasaki/zx6r-abs": "kawasaki/zx6r",
   "kawasaki/zx6r-krt": "kawasaki/zx6r",
+  "kgm/torres": "kgm/torres-2022",
   "kia-sorento-hybrid/suv": "kia/sorento",
   "kia/carens": "kia/carens-2013",
   "kia/carnival-grand": "kia/carnival",
@@ -8056,6 +8057,12 @@
    [
     2023,
     "jetour/t2-2023"
+   ]
+  ],
+  "kgm/torres": [
+   [
+    2022,
+    "kgm/torres-2022"
    ]
   ],
   "kia/amanti": [
@@ -18926,6 +18933,10 @@
   "kayo/t2-g": {
    "bytes": 81316,
    "tint": "#303031"
+  },
+  "kgm/torres-2022": {
+   "bytes": 37376,
+   "tint": "#B4B4B4"
   },
   "kia/amanti-2004": {
    "bytes": 22876,
