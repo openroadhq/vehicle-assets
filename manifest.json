@@ -2349,6 +2349,7 @@
   "renault/megane-pack-authentique": "renault/megane",
   "renault/sandero-dynamique": "renault/sandero",
   "renault/sandero-privilege": "renault/sandero",
+  "renault/triber": "renault/triber-2019",
   "renault/twingo-1": "renault/twingo",
   "saab/9-3-1-9tid": "saab/9-3",
   "saab/9-3-vector": "saab/9-3",
@@ -11570,6 +11571,12 @@
    [
     2019,
     "renault/megane-rs-trophy-r-2019"
+   ]
+  ],
+  "renault/triber": [
+   [
+    2019,
+    "renault/triber-2019"
    ]
   ],
   "rolls-royce/ghost": [
@@ -22904,6 +22911,10 @@
   "renault/symbol": {
    "bytes": 28920,
    "tint": "#8C8D90"
+  },
+  "renault/triber-2019": {
+   "bytes": 39480,
+   "tint": "#B4B4B4"
   },
   "renault/twingo": {
    "bytes": 28390,
