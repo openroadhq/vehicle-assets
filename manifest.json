@@ -2383,6 +2383,7 @@
   "seat/tarraco": "seat/tarraco-2018",
   "seat/toledo-reference": "seat/toledo",
   "seat/toledo-sport": "seat/toledo",
+  "skoda/enyaq": "skoda/enyaq-2020",
   "skoda/fabia-1-0-tsi-116": "skoda/fabia",
   "skoda/fabia-1-2htp": "skoda/fabia",
   "skoda/fabia-1-9tdi-atd": "skoda/fabia",
@@ -11808,6 +11809,12 @@
    [
     1965,
     "shelby/cobra-427-1965"
+   ]
+  ],
+  "skoda/enyaq": [
+   [
+    2020,
+    "skoda/enyaq-2020"
    ]
   ],
   "skoda/yeti": [
@@ -23218,6 +23225,10 @@
   "skoda/citigo": {
    "bytes": 28930,
    "tint": "#ADAFAF"
+  },
+  "skoda/enyaq-2020": {
+   "bytes": 39036,
+   "tint": "#B4B4B4"
   },
   "skoda/fabia": {
    "bytes": 42578,
