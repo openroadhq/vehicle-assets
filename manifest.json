@@ -2043,6 +2043,7 @@
   "mitsubishi/galant-st": "mitsubishi/galant",
   "mitsubishi/galant-vr-4-vr4": "mitsubishi/galant-vr-4",
   "mitsubishi/gto-sr": "mitsubishi/gto",
+  "mitsubishi/l200": "mitsubishi/l200-2023",
   "mitsubishi/lancer-1-8-d-id": "mitsubishi/lancer",
   "mitsubishi/lancer-cs": "mitsubishi/lancer",
   "mitsubishi/lancer-es": "mitsubishi/lancer",
@@ -10081,6 +10082,12 @@
    [
     2012,
     "mitsubishi/i-miev-2012"
+   ]
+  ],
+  "mitsubishi/l200": [
+   [
+    2023,
+    "mitsubishi/l200-2023"
    ]
   ],
   "mitsubishi/lancer": [
@@ -21337,6 +21344,10 @@
   "mitsubishi/i-miev-2012": {
    "bytes": 29774,
    "tint": "#D2D1D0"
+  },
+  "mitsubishi/l200-2023": {
+   "bytes": 32402,
+   "tint": "#B4B4B4"
   },
   "mitsubishi/lancer-2002": {
    "bytes": 26508,
