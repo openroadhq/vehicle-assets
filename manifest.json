@@ -2942,6 +2942,7 @@
   "volkswagen/gti-sport": "volkswagen/gti",
   "volkswagen/gti-wolfsburg-edition": "volkswagen/gti",
   "volkswagen/id-4-awd-pro-s": "volkswagen/id-4",
+  "volkswagen/id-7": "volkswagen/id-7-2023",
   "volkswagen/jetta-1-4tsi": "volkswagen/jetta",
   "volkswagen/jetta-1-6-cl": "volkswagen/jetta",
   "volkswagen/jetta-gl": "volkswagen/jetta",
@@ -12799,6 +12800,12 @@
    [
     2016,
     "volkswagen/gti-clubsport-2016"
+   ]
+  ],
+  "volkswagen/id-7": [
+   [
+    2023,
+    "volkswagen/id-7-2023"
    ]
   ],
   "volkswagen/jetta": [
@@ -24439,6 +24446,10 @@
   "volkswagen/id-4": {
    "bytes": 37576,
    "tint": "#0E54AF"
+  },
+  "volkswagen/id-7-2023": {
+   "bytes": 33404,
+   "tint": "#B4B4B4"
   },
   "volkswagen/id-buzz": {
    "bytes": 29802,
