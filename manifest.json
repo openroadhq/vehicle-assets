@@ -2310,6 +2310,7 @@
   "ram/laramie-1500": "ram/1500",
   "ram/promaster-2500-cargo-galaxy": "ram/promaster-2500-cargo",
   "range-rover/autobiography-p400-lwb": "land-rover/autobiography",
+  "renault/austral": "renault/austral-2022",
   "renault/captur-sport-edition": "renault/captur",
   "renault/clio-1-2": "renault/clio",
   "renault/clio-16v-storia": "renault/clio",
@@ -11555,6 +11556,12 @@
    [
     1980,
     "renault/5-turbo-1980"
+   ]
+  ],
+  "renault/austral": [
+   [
+    2022,
+    "renault/austral-2022"
    ]
   ],
   "renault/clio-williams": [
@@ -22845,6 +22852,10 @@
   "renault/5-turbo-1980": {
    "bytes": 38070,
    "tint": "#064FAD"
+  },
+  "renault/austral-2022": {
+   "bytes": 41386,
+   "tint": "#B4B4B4"
   },
   "renault/captur": {
    "bytes": 41748,
