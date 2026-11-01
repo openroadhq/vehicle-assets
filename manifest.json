@@ -2168,6 +2168,7 @@
   "nmax/v2": "yamaha/nmax",
   "oldsmobile/alero-gla": "oldsmobile/alero",
   "oldsmobile/cutlass-supreme-sl": "oldsmobile/cutlass-supreme",
+  "omoda/c5": "omoda/c5-2022",
   "opel-astra-g-bertone/coupe-g-bertone": "opel/astra-g-bertone-coupe-2002",
   "opel/astra-1-8-temptation": "opel/astra",
   "opel/astra-cosmo": "opel/astra",
@@ -10886,6 +10887,12 @@
    [
     1986,
     "oldsmobile/toronado-1986"
+   ]
+  ],
+  "omoda/c5": [
+   [
+    2022,
+    "omoda/c5-2022"
    ]
   ],
   "opel/astra-g-bertone-coupe": [
@@ -22068,6 +22075,10 @@
   "oldsmobile/toronado-1986": {
    "bytes": 26352,
    "tint": "#D2D2D0"
+  },
+  "omoda/c5-2022": {
+   "bytes": 38338,
+   "tint": "#B4B4B4"
   },
   "opel/adam": {
    "bytes": 40024,
