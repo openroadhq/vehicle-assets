@@ -1206,6 +1206,7 @@
   "genesis/gv70-3-5t-sport-prestige": "genesis/gv70",
   "genesis/gv70-sport": "genesis/gv70",
   "genesis/sedan-3-3": "genesis/g70-2022",
+  "glanza/starlet-glanza-v": "toyota/starlet",
   "gmc/2002-sonoma": "gmc/sonoma",
   "gmc/2021-sierra-denali-2500": "gmc/sierra",
   "gmc/2026-acadia-denali": "gmc/acadia",
@@ -2625,6 +2626,7 @@
   "toyota/4runner-trail": "toyota/4runner",
   "toyota/4runner-trd-off-road-premium": "toyota/4runner",
   "toyota/4runner-venture": "toyota/4runner",
+  "toyota/79-series-landcruiser-gx": "toyota/79-series-landcruiser",
   "toyota/86-gt": "toyota/86",
   "toyota/86-gts": "toyota/86",
   "toyota/86-high-manual": "toyota/86",
@@ -21500,6 +21502,10 @@
    "bytes": 31364,
    "tint": "#AFAFAF"
   },
+  "mitsubishi/expo": {
+   "bytes": 25124,
+   "tint": "#B4B4B4"
+  },
   "mitsubishi/fto-1994": {
    "bytes": 28588,
    "tint": "#B20405"
@@ -24059,6 +24065,10 @@
   "toyota/4runner-trd-pro-2015": {
    "bytes": 29082,
    "tint": "#AC0712"
+  },
+  "toyota/79-series-landcruiser": {
+   "bytes": 30486,
+   "tint": "#B4B4B4"
   },
   "toyota/86": {
    "bytes": 22794,
