@@ -1,5 +1,6 @@
 {
  "aliases": {
+  "160/click": "honda/click160",
   "1991-ford/ranger": "ford/ranger-1989",
   "2007-mazda-mazdaspeed6/sedan-gt": "mazda/mazdaspeed6-2006",
   "2007-mk5/gti": "volkswagen/golf-2006",
@@ -938,6 +939,7 @@
   "dodge/sprinter-2500-cargo": "dodge/sprinter-2500-cargo-2007",
   "dodge/stealth-rt-turbo": "dodge/stealth",
   "dodge/stealth-turbo": "dodge/stealth",
+  "dualtron/forever-limited": "dualtron/forever",
   "ducati/diavel": "ducati/diavel-v4",
   "ducati/monster-600": "ducati/monster",
   "ducati/panigale-v4s": "ducati/panigale-v4-s",
@@ -1292,6 +1294,7 @@
   "honda/brio-brio-satya-e-cvt": "honda/brio",
   "honda/brio-e": "honda/brio",
   "honda/brio-satya": "honda/brio",
+  "honda/cb1300sf-super-four": "honda/cb1300sf",
   "honda/cb500": "honda/cb500f",
   "honda/cb650r-650-rak": "honda/cb650r",
   "honda/cb650r-cb-650-rak": "honda/cb650r",
@@ -16227,6 +16230,10 @@
    "bytes": 31678,
    "tint": "#95908B"
   },
+  "dualtron/forever": {
+   "bytes": 31324,
+   "tint": "#B4B4B4"
+  },
   "ducati/diavel-v4": {
    "bytes": 102422,
    "tint": "#B0060E"
@@ -17707,6 +17714,10 @@
    "bytes": 49356,
    "tint": "#2D2E30"
   },
+  "honda/cb1300sf": {
+   "bytes": 80406,
+   "tint": "#B4B4B4"
+  },
   "honda/cb500f": {
    "bytes": 107750,
    "tint": "#2F2F2F"
@@ -17862,6 +17873,10 @@
   "honda/click-125i": {
    "bytes": 61732,
    "tint": "#AF050D"
+  },
+  "honda/click160": {
+   "bytes": 64148,
+   "tint": "#B4B4B4"
   },
   "honda/cr-v": {
    "bytes": 30204,
@@ -18106,6 +18121,10 @@
   "honda/vamos": {
    "bytes": 32054,
    "tint": "#719AC6"
+  },
+  "honda/vfr-800-fi": {
+   "bytes": 69856,
+   "tint": "#B4B4B4"
   },
   "honda/xr650l": {
    "bytes": 111514,
@@ -24254,6 +24273,10 @@
   "toyota/vios": {
    "bytes": 32924,
    "tint": "#ADB1B5"
+  },
+  "toyota/wigi": {
+   "bytes": 33160,
+   "tint": "#B4B4B4"
   },
   "toyota/wish": {
    "bytes": 23128,

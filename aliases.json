@@ -1,4 +1,5 @@
 {
+ "160/click": "honda/click160",
  "1991-ford/ranger": "ford/ranger-1989",
  "2007-mazda-mazdaspeed6/sedan-gt": "mazda/mazdaspeed6-2006",
  "2007-mk5/gti": "volkswagen/golf-2006",
@@ -878,6 +879,7 @@
  "dodge/sprinter-2500-cargo": "dodge/sprinter-2500-cargo-2007",
  "dodge/stealth-rt-turbo": "dodge/stealth",
  "dodge/stealth-turbo": "dodge/stealth",
+ "dualtron/forever-limited": "dualtron/forever",
  "ducati/diavel": "ducati/diavel-v4",
  "ducati/monster-600": "ducati/monster",
  "ducati/panigale-v4s": "ducati/panigale-v4-s",
@@ -1209,6 +1211,7 @@
  "honda/brio-brio-satya-e-cvt": "honda/brio",
  "honda/brio-e": "honda/brio",
  "honda/brio-satya": "honda/brio",
+ "honda/cb1300sf-super-four": "honda/cb1300sf",
  "honda/cb500": "honda/cb500f",
  "honda/cb650r-650-rak": "honda/cb650r",
  "honda/cb650r-cb-650-rak": "honda/cb650r",
