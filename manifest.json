@@ -1966,6 +1966,7 @@
   "mercedes/c43": "mercedes-benz/c-class-2015",
   "mercedes/cla": "mercedes-benz/cla",
   "mercedes/cls": "mercedes-benz/cls",
+  "mercedes/e-class-coupe-250cgi": "mercedes-benz/e-class-coupe-250cgi",
   "mercedes/e200-avantgarde": "mercedes-benz/e-class-2016",
   "mercedes/e220-cdi-elegance": "mercedes-benz/e-class-2003",
   "mercedes/e350": "mercedes-benz/e350",
@@ -20774,6 +20775,10 @@
    "bytes": 26206,
    "tint": "#ACADB0"
   },
+  "mercedes-benz/e-class-coupe-250cgi": {
+   "bytes": 31146,
+   "tint": "#B4B4B4"
+  },
   "mercedes-benz/e200": {
    "bytes": 32240,
    "tint": "#303235"
@@ -21525,6 +21530,10 @@
   "mitsubishi/lancer-ralliart-2009": {
    "bytes": 27770,
    "tint": "#EAEAEA"
+  },
+  "mitsubishi/minica": {
+   "bytes": 32116,
+   "tint": "#B4B4B4"
   },
   "mitsubishi/minicab": {
    "bytes": 31784,
@@ -22386,6 +22395,10 @@
    "bytes": 37656,
    "tint": "#0D3868"
   },
+  "peugeot/309": {
+   "bytes": 27438,
+   "tint": "#B4B4B4"
+  },
   "peugeot/405": {
    "bytes": 24104,
    "tint": "#CFD0D2"
@@ -23170,6 +23183,10 @@
    "bytes": 41074,
    "tint": "#2E2E2E"
   },
+  "rusi/pulse-150": {
+   "bytes": 59136,
+   "tint": "#B4B4B4"
+  },
   "saab/9-2x-2005": {
    "bytes": 27416,
    "tint": "#ABABAF"
@@ -23341,6 +23358,10 @@
   "seat/leon": {
    "bytes": 38346,
    "tint": "#940A12"
+  },
+  "seat/leon-sport-tourer": {
+   "bytes": 30446,
+   "tint": "#B4B4B4"
   },
   "seat/mii": {
    "bytes": 30158,
