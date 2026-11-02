@@ -2669,6 +2669,7 @@
   "toyota/celica-sx": "toyota/celica",
   "toyota/celica-t20": "toyota/celica",
   "toyota/celica-t23": "toyota/celica",
+  "toyota/chaser": "toyota/chaser-1996",
   "toyota/corolla-1-2t": "toyota/corolla",
   "toyota/corolla-1-8l-4cyl-5m": "toyota/corolla",
   "toyota/corolla-ae100": "toyota/corolla",
@@ -12395,6 +12396,12 @@
    [
     1997,
     "toyota/century-1997"
+   ]
+  ],
+  "toyota/chaser": [
+   [
+    1996,
+    "toyota/chaser-1996"
    ]
   ],
   "toyota/corolla": [
@@ -24181,6 +24188,10 @@
   "toyota/century-1997": {
    "bytes": 23702,
    "tint": "#070707"
+  },
+  "toyota/chaser-1996": {
+   "bytes": 27854,
+   "tint": "#B4B4B4"
   },
   "toyota/corolla": {
    "bytes": 28752,
