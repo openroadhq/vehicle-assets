@@ -2206,6 +2206,7 @@
   "opel/corsa-nurburgring-edition": "opel/corsa",
   "opel/corsa-twinport-1-2": "opel/corsa",
   "opel/corsa-ultimate": "opel/corsa",
+  "opel/grandland": "opel/grandland-2024",
   "opel/mokka-18": "opel/mokka",
   "pagani/huayra-r": "pagani/huayra",
   "perodua/myvi-se-1-5": "perodua/myvi",
@@ -10910,6 +10911,12 @@
    [
     2002,
     "opel/astra-g-bertone-coupe-2002"
+   ]
+  ],
+  "opel/grandland": [
+   [
+    2024,
+    "opel/grandland-2024"
    ]
   ],
   "peugeot/205-gti": [
@@ -22134,6 +22141,10 @@
   "opel/crossland": {
    "bytes": 30182,
    "tint": "#2B2B2B"
+  },
+  "opel/grandland-2024": {
+   "bytes": 37344,
+   "tint": "#B4B4B4"
   },
   "opel/insignia": {
    "bytes": 31598,
