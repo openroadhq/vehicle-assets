@@ -248,6 +248,7 @@
   "audi/tts-mk2": "audi/tts",
   "audi/tts-premium-plus": "audi/tts",
   "auris/toya": "toyota/auris",
+  "ausom/k20-pro-dual-standard": "ausom/k20-pro",
   "belgee/x50-2026": "belgee/x50",
   "beta/rr-350": "beta/rr-350-2021",
   "bmw-e36/318": "bmw/3-series-1992",
@@ -1369,6 +1370,7 @@
   "honda/cr-v-i": "honda/cr-v",
   "honda/cr-v-lx": "honda/cr-v",
   "honda/cr-z-gt": "honda/cr-z",
+  "honda/crf-150l-black-white": "honda/crf-150l",
   "honda/crv": "honda/cr-v",
   "honda/crv-ex-l": "honda/cr-v",
   "honda/crx-del-sol": "honda/crx",
@@ -14148,6 +14150,10 @@
    "bytes": 28494,
    "tint": "#515154"
   },
+  "ausom/k20-pro": {
+   "bytes": 32612,
+   "tint": "#B4B4B4"
+  },
   "autozam/az-1": {
    "bytes": 37390,
    "tint": "#B20205"
@@ -14159,6 +14165,10 @@
   "belgee/x50": {
    "bytes": 41778,
    "tint": "#4E4F51"
+  },
+  "benelli/bn-125": {
+   "bytes": 80410,
+   "tint": "#B4B4B4"
   },
   "bentley/arnage": {
    "bytes": 24666,
@@ -16292,6 +16302,10 @@
    "bytes": 22782,
    "tint": "#909091"
   },
+  "engwe/engine-pro-2-0": {
+   "bytes": 69558,
+   "tint": "#B4B4B4"
+  },
   "engwe/m20-3-0": {
    "bytes": 57232,
    "tint": "#303133"
@@ -17911,6 +17925,10 @@
   "honda/cr-z-2011": {
    "bytes": 29428,
    "tint": "#AAAAAC"
+  },
+  "honda/crf-150l": {
+   "bytes": 73256,
+   "tint": "#B4B4B4"
   },
   "honda/crf300l": {
    "bytes": 98018,
@@ -21867,6 +21885,10 @@
   "nissan/np200": {
    "bytes": 22460,
    "tint": "#ACADB0"
+  },
+  "nissan/nv350": {
+   "bytes": 27116,
+   "tint": "#B4B4B4"
   },
   "nissan/nx2000-1991": {
    "bytes": 27458,
