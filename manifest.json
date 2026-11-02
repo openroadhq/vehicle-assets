@@ -16550,6 +16550,10 @@
    "bytes": 24406,
    "tint": "#8F9090"
   },
+  "ford/au-falcon": {
+   "bytes": 27540,
+   "tint": "#B4B4B4"
+  },
   "ford/bronco": {
    "bytes": 39290,
    "tint": "#F66A0C"
