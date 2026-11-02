@@ -329,6 +329,7 @@
   "bmw/323i": "bmw/3-series",
   "bmw/323i-base": "bmw/3-series",
   "bmw/323ti": "bmw/3-series-1992",
+  "bmw/323ti-m-packet": "bmw/3-series-1992",
   "bmw/325": "bmw/3-series",
   "bmw/325-ci": "bmw/3-series",
   "bmw/325d": "bmw/3-series",
@@ -1735,6 +1736,7 @@
   "lincoln/aviator-reserve": "lincoln/aviator",
   "lotus/elise-220": "lotus/elise",
   "mahindra/kuv-1oo-k8": "mahindra/kuv-1oo",
+  "mahindra/xuv-7xo-ax7l": "mahindra/xuv-7xo",
   "marcedes/classe-v": "mercedes-benz/v-class-2014",
   "maruti-suzuki/brezza-sedan": "maruti-suzuki/brezza",
   "maruti-suzuki/hatchback": "maruti-suzuki/baleno",
@@ -17310,6 +17312,10 @@
    "bytes": 42960,
    "tint": "#0C2432"
   },
+  "geely/okavango": {
+   "bytes": 35484,
+   "tint": "#B4B4B4"
+  },
   "genesis/coupe": {
    "bytes": 33010,
    "tint": "#4C4D4F"
@@ -20169,6 +20175,10 @@
   "mahindra/scorpio": {
    "bytes": 44298,
    "tint": "#2F2F30"
+  },
+  "mahindra/xuv-7xo": {
+   "bytes": 36826,
+   "tint": "#B4B4B4"
   },
   "maruti-suzuki/baleno": {
    "bytes": 35424,
