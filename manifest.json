@@ -1730,6 +1730,7 @@
   "lexus/tx-350": "lexus/tx",
   "lincoln/aviator-reserve": "lincoln/aviator",
   "lotus/elise-220": "lotus/elise",
+  "mahindra/kuv-1oo-k8": "mahindra/kuv-1oo",
   "marcedes/classe-v": "mercedes-benz/v-class-2014",
   "maruti-suzuki/brezza-sedan": "maruti-suzuki/brezza",
   "maruti-suzuki/hatchback": "maruti-suzuki/baleno",
@@ -1970,6 +1971,7 @@
   "mercedes/e350-coupe-amg-package": "mercedes-benz/e-class-2009",
   "mercedes/e400-cabriolet-cabriolet-amg-spec": "mercedes-benz/e-class-2016",
   "mercedes/e500": "mercedes-benz/e-class-2003",
+  "mercedes/eqa-250": "mercedes-benz/eqa-250",
   "mercedes/gl": "mercedes-benz/gl",
   "mercedes/gl450": "mercedes-benz/gl-2006",
   "mercedes/gla": "mercedes-benz/gla",
@@ -16230,6 +16232,10 @@
    "bytes": 31678,
    "tint": "#95908B"
   },
+  "dualtron/eagle": {
+   "bytes": 30186,
+   "tint": "#B4B4B4"
+  },
   "dualtron/forever": {
    "bytes": 31324,
    "tint": "#B4B4B4"
@@ -20074,6 +20080,10 @@
    "bytes": 24524,
    "tint": "#CECDCB"
   },
+  "mahindra/kuv-1oo": {
+   "bytes": 34508,
+   "tint": "#B4B4B4"
+  },
   "mahindra/scorpio": {
    "bytes": 44298,
    "tint": "#2F2F30"
@@ -20498,6 +20508,10 @@
    "bytes": 32854,
    "tint": "#131313"
   },
+  "mercedes-benz/300-ce": {
+   "bytes": 24030,
+   "tint": "#B4B4B4"
+  },
   "mercedes-benz/300-d": {
    "bytes": 24788,
    "tint": "#929393"
@@ -20769,6 +20783,10 @@
   "mercedes-benz/e63-s-amg-2017": {
    "bytes": 27906,
    "tint": "#929395"
+  },
+  "mercedes-benz/eqa-250": {
+   "bytes": 32158,
+   "tint": "#B4B4B4"
   },
   "mercedes-benz/eqb": {
    "bytes": 27674,
@@ -23685,6 +23703,10 @@
   "suzuki/carry": {
    "bytes": 32788,
    "tint": "#D6D6D6"
+  },
+  "suzuki/ciaz": {
+   "bytes": 31076,
+   "tint": "#B4B4B4"
   },
   "suzuki/dr-z400sm": {
    "bytes": 121596,
