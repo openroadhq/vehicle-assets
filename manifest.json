@@ -3179,6 +3179,7 @@
   "yamaha/yzf-r1-sport-bike": "yamaha/yzf-r1",
   "yamaha/yzf-r125": "yamaha/yzf-r1",
   "yamaha/yzf-r6-raven": "yamaha/yzf-r6",
+  "yozma/in10": "yozma/in-10",
   "zoom/vios": "toyota/vios"
  },
  "basePath": "v1",
@@ -16007,6 +16008,10 @@
    "bytes": 33332,
    "tint": "#062B6D"
   },
+  "dodge/caravan-passenger": {
+   "bytes": 27986,
+   "tint": "#B4B4B4"
+  },
   "dodge/challenger": {
    "bytes": 28312,
    "tint": "#39184F"
@@ -17939,6 +17944,10 @@
    "bytes": 29428,
    "tint": "#AAAAAC"
   },
+  "honda/cr500af": {
+   "bytes": 96930,
+   "tint": "#B4B4B4"
+  },
   "honda/crf-150l": {
    "bytes": 73256,
    "tint": "#B4B4B4"
@@ -19710,6 +19719,10 @@
   "langfeite/l8s": {
    "bytes": 25666,
    "tint": "#2E2E2E"
+  },
+  "leapmotor/c10": {
+   "bytes": 29718,
+   "tint": "#B4B4B4"
   },
   "legs-walk": {
    "bytes": 257866,
@@ -23819,6 +23832,10 @@
    "bytes": 31184,
    "tint": "#4D4E51"
   },
+  "suzuki/raider-150-fi": {
+   "bytes": 78726,
+   "tint": "#B4B4B4"
+  },
   "suzuki/sidekick": {
    "bytes": 34304,
    "tint": "#0F0F0E"
@@ -25202,6 +25219,10 @@
   "yamaha/yzf-r7": {
    "bytes": 77080,
    "tint": "#2C2D30"
+  },
+  "yozma/in-10": {
+   "bytes": 81302,
+   "tint": "#B4B4B4"
   },
   "yugo/gv": {
    "bytes": 27360,
