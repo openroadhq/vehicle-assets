@@ -1187,6 +1187,7 @@
   "ford/ranger-xlt-4x4": "ford/ranger",
   "ford/raptor": "ford/f-150-raptor",
   "ford/raptor-r": "ford/raptor",
+  "ford/sel": "ford/fusion-2006",
   "ford/taurus-interceptor": "ford/taurus",
   "ford/taurus-se": "ford/taurus",
   "ford/taurus-x": "ford/taurus",
@@ -1196,6 +1197,7 @@
   "ford/transit-350": "ford/transit",
   "ford/transit-courier": "ford/transit",
   "ford/xr6-sedan": "ford/xr6",
+  "foton/g7": "foton/tunland-g7",
   "frp/gmb100-offroad": "frp/gmb100",
   "gac/gs8-320t": "gac/gs8",
   "geely/ex2-max": "geely/ex2",
@@ -1207,6 +1209,7 @@
   "genesis/gv70-sport": "genesis/gv70",
   "genesis/sedan-3-3": "genesis/g70-2022",
   "glanza/starlet-glanza-v": "toyota/starlet",
+  "gmc/1500-regular-cab": "gmc/sierra-classic-1500-regular-cab",
   "gmc/2002-sonoma": "gmc/sonoma",
   "gmc/2021-sierra-denali-2500": "gmc/sierra",
   "gmc/2026-acadia-denali": "gmc/acadia",
@@ -2301,6 +2304,7 @@
   "porsche/cayman-gts": "porsche/cayman",
   "porsche/cayman-s": "porsche/cayman",
   "porsche/cayman-s-987": "porsche/cayman",
+  "porsche/coupe": "porsche/911",
   "porsche/e-macan": "porsche/macan",
   "porsche/gt3-rs": "porsche/911-gt3-rs",
   "porsche/gt3rs": "porsche/911-gt3-rs",
@@ -17277,6 +17281,10 @@
   "ford/xr6": {
    "bytes": 40710,
    "tint": "#0B4997"
+  },
+  "foton/tunland-g7": {
+   "bytes": 28586,
+   "tint": "#B4B4B4"
   },
   "freightliner/cascadia": {
    "bytes": 34752,
