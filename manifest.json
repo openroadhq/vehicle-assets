@@ -981,6 +981,7 @@
   "ford/2010-fusion-hybrid": "ford/fusion",
   "ford/2016-focus-sel": "ford/focus",
   "ford/2022-explorer": "ford/explorer",
+  "ford/au-falcon": "ford/au-falcon",
   "ford/bronco-black-diamond": "ford/bronco",
   "ford/bronco-sport-first-edition": "ford/bronco-sport",
   "ford/bronco-sport-outer-banks": "ford/bronco-sport",
@@ -5923,6 +5924,20 @@
     "ford/aspire-1994"
    ]
   ],
+  "ford/au-falcon": [
+   [
+    1900,
+    "ford/au-falcon"
+   ],
+   [
+    2003,
+    "ford/falcon-1960"
+   ],
+   [
+    2004,
+    "ford/au-falcon"
+   ]
+  ],
   "ford/bronco": [
    [
     1987,
@@ -6189,6 +6204,16 @@
    [
     2021,
     "ford/f350-supercab-2021"
+   ]
+  ],
+  "ford/falcon": [
+   [
+    1960,
+    "ford/falcon-1960"
+   ],
+   [
+    1961,
+    "ford/falcon"
    ]
   ],
   "ford/falcon-xr8": [
@@ -16825,6 +16850,10 @@
   "ford/falcon": {
    "bytes": 25040,
    "tint": "#4F4F50"
+  },
+  "ford/falcon-1960": {
+   "bytes": 25862,
+   "tint": "#B4B4B4"
   },
   "ford/falcon-xr8-1991": {
    "bytes": 28138,
