@@ -48,6 +48,7 @@
   "acura/tlx-sh-awd": "acura/tlx",
   "acura/tsx-sedan": "acura/tsx",
   "aerox-v3/aerox": "yamaha/aerox",
+  "aito/m9-ultra": "aito/m9",
   "aixam/gto-sport": "aixam/gto",
   "alfa-romeo/159-1-9-jtdm": "alfa-romeo/159",
   "alfa-romeo/159-ti": "alfa-romeo/159",
@@ -13520,6 +13521,10 @@
    "bytes": 29818,
    "tint": "#8F8F91"
   },
+  "aito/m9": {
+   "bytes": 35292,
+   "tint": "#B4B4B4"
+  },
   "aixam/gto": {
    "bytes": 47588,
    "tint": "#303031"
@@ -17284,6 +17289,10 @@
    "bytes": 38196,
    "tint": "#162531"
   },
+  "geely/cityray": {
+   "bytes": 35856,
+   "tint": "#B4B4B4"
+  },
   "geely/coolray": {
    "bytes": 47904,
    "tint": "#05478F"
@@ -18736,6 +18745,10 @@
    "bytes": 27238,
    "tint": "#CECFD1"
   },
+  "isuzu/grafter": {
+   "bytes": 29878,
+   "tint": "#B4B4B4"
+  },
   "isuzu/hombre": {
    "bytes": 22606,
    "tint": "#D3D3D3"
@@ -19091,6 +19104,10 @@
   "kawasaki/zrx1100": {
    "bytes": 82536,
    "tint": "#2B2D2C"
+  },
+  "kawasaki/zx-4rr": {
+   "bytes": 74688,
+   "tint": "#B4B4B4"
   },
   "kawasaki/zx6r": {
    "bytes": 57896,
@@ -19451,6 +19468,10 @@
   "ktm/sxf450": {
    "bytes": 70288,
    "tint": "#2C2D2D"
+  },
+  "kugoo/wish-01": {
+   "bytes": 63700,
+   "tint": "#B4B4B4"
   },
   "kukirin/g2": {
    "bytes": 30232,
