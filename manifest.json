@@ -1527,6 +1527,7 @@
   "infiniti/q60-3-0t": "infiniti/q60",
   "infiniti/q60-redsport-400": "infiniti/q60",
   "infiniti/qx50-base": "infiniti/qx50",
+  "international/garbage-truck": "international/workstar-7400",
   "isuzu/dmax-ls": "isuzu/dmax",
   "isuzu/dmax-lsa-4x2-limited-edition": "isuzu/dmax",
   "jaecoo/sedan": "jaecoo/j7",
@@ -18747,6 +18748,10 @@
    "bytes": 29952,
    "tint": "#101010"
   },
+  "international/workstar-7400": {
+   "bytes": 37400,
+   "tint": "#B4B4B4"
+  },
   "iscooter/f3": {
    "bytes": 33236,
    "tint": "#B4B4B4"
@@ -19478,6 +19483,10 @@
   "ktm/890-duke-r": {
    "bytes": 90732,
    "tint": "#2C2D2F"
+  },
+  "ktm/990": {
+   "bytes": 85816,
+   "tint": "#B4B4B4"
   },
   "ktm/duke-125": {
    "bytes": 71304,
