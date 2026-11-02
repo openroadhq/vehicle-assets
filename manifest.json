@@ -642,6 +642,7 @@
   "canam/traxter": "can-am/traxter-2025",
   "chengan/cs75": "changan/cs75",
   "cherry/tiggo-7-hybrid": "chery/tiggo-7",
+  "cherry/tiggo-8-po-max": "chery/tiggo-8-pro-max",
   "chery/arizo-8": "chery/arrizo-8",
   "cheverolet/silverado": "chevrolet/silverado-2007",
   "chevrolet/1500-1500": "chevrolet/1500",
@@ -15241,6 +15242,10 @@
    "bytes": 40810,
    "tint": "#B4B4B4"
   },
+  "chery/tiggo-8-pro-max": {
+   "bytes": 36720,
+   "tint": "#B4B4B4"
+  },
   "chevrolet/1500": {
    "bytes": 28408,
    "tint": "#081A30"
@@ -18041,6 +18046,10 @@
    "bytes": 26238,
    "tint": "#ECECEB"
   },
+  "honda/n-box-custom": {
+   "bytes": 35044,
+   "tint": "#B4B4B4"
+  },
   "honda/nsx": {
    "bytes": 32780,
    "tint": "#484B4E"
@@ -19483,6 +19492,10 @@
   },
   "kymco/new-people-s-50i": {
    "bytes": 62424,
+   "tint": "#B4B4B4"
+  },
+  "lada/2107": {
+   "bytes": 23628,
    "tint": "#B4B4B4"
   },
   "lada/granta": {
@@ -21705,6 +21718,10 @@
    "bytes": 87430,
    "tint": "#8E0607"
   },
+  "mvm/x33-cross": {
+   "bytes": 34972,
+   "tint": "#B4B4B4"
+  },
   "nissan/180sx-1989": {
    "bytes": 21418,
    "tint": "#D5D3D2"
@@ -23092,6 +23109,10 @@
   "renault/kangoo": {
    "bytes": 30982,
    "tint": "#D1D1D3"
+  },
+  "renault/kiger": {
+   "bytes": 37682,
+   "tint": "#B4B4B4"
   },
   "renault/kwid": {
    "bytes": 29718,
