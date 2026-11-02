@@ -859,6 +859,7 @@
   "citroen/xsara-1-4l-i": "citroen/xsara",
   "citroen/xsara-1-8i-exclusive": "citroen/xsara",
   "citroen/xsara-exclusive": "citroen/xsara",
+  "citroen/zx-tonic": "citroen/zx",
   "click-125i/honda-click-125i": "honda/click-125i",
   "click/v2": "honda/click-125i",
   "coolsters/jeep-army": "coolster/army-jeep",
@@ -15892,6 +15893,10 @@
   "citroen/xsara": {
    "bytes": 24914,
    "tint": "#ACAEB1"
+  },
+  "citroen/zx": {
+   "bytes": 25838,
+   "tint": "#B4B4B4"
   },
   "coolster/army-jeep": {
    "bytes": 42058,
