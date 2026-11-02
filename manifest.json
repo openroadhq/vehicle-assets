@@ -2849,6 +2849,7 @@
   "triumph/tiger-800-sport-tour-red": "triumph/tiger-sport-800",
   "triumph/trident": "triumph/trident-660",
   "tsuru/iii-gs2": "nissan/tsuru",
+  "tugella/geely": "geely/tugella",
   "vauxhall/astra": "opel/astra",
   "vauxhall/astra-plug-in-hybrid": "opel/astra",
   "vauxhall/astra-se-turbo": "opel/astra-j",
@@ -17327,6 +17328,10 @@
   },
   "geely/okavango": {
    "bytes": 35484,
+   "tint": "#B4B4B4"
+  },
+  "geely/tugella": {
+   "bytes": 36202,
    "tint": "#B4B4B4"
   },
   "genesis/coupe": {
