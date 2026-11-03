@@ -2365,6 +2365,7 @@
   "renault/clio-v-e-tech-full-hybrid-145-techno": "renault/clio-v",
   "renault/clio-wave": "renault/clio",
   "renault/kangoo-uthentic-2sd": "renault/kangoo",
+  "renault/koleos": "renault/koleos-2007",
   "renault/kwid-1-0": "renault/kwid",
   "renault/laguna-2": "renault/laguna",
   "renault/laguna-2-phase-2-dynamique-2-0l-16v-luxe-dynamique": "renault/laguna",
@@ -11676,6 +11677,12 @@
    [
     1993,
     "renault/clio-williams-1993"
+   ]
+  ],
+  "renault/koleos": [
+   [
+    2007,
+    "renault/koleos-2007"
    ]
   ],
   "renault/megane-rs-r26r": [
@@ -23205,6 +23212,10 @@
   },
   "renault/kiger": {
    "bytes": 37682,
+   "tint": "#B4B4B4"
+  },
+  "renault/koleos-2007": {
+   "bytes": 36448,
    "tint": "#B4B4B4"
   },
   "renault/kwid": {
