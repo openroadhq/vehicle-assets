@@ -1533,7 +1533,7 @@
   "international/garbage-truck": "international/workstar-7400",
   "isuzu/dmax-ls": "isuzu/dmax",
   "isuzu/dmax-lsa-4x2-limited-edition": "isuzu/dmax",
-  "jaecoo/7-phev": "jaecoo/j7",
+  "jaecoo/7-phev": "jaecoo/7-phev",
   "jaecoo/sedan": "jaecoo/j7",
   "jaguar/s-type-3-0l-v6": "jaguar/s-type",
   "jaguar/s-type-4-0": "jaguar/s-type",
@@ -7815,6 +7815,26 @@
    [
     2022,
     "infiniti/qx60"
+   ]
+  ],
+  "jaecoo/7": [
+   [
+    2023,
+    "jaecoo/7-2023"
+   ]
+  ],
+  "jaecoo/7-phev": [
+   [
+    1900,
+    "jaecoo/j7"
+   ],
+   [
+    2026,
+    "jaecoo/7-2023"
+   ],
+   [
+    2027,
+    "jaecoo/j7"
    ]
   ],
   "jaguar/c-x75": [
@@ -18825,6 +18845,10 @@
   "iveco/daily-hi-matic": {
    "bytes": 23034,
    "tint": "#DBDDE1"
+  },
+  "jaecoo/7-2023": {
+   "bytes": 34944,
+   "tint": "#B4B4B4"
   },
   "jaecoo/j7": {
    "bytes": 33322,

@@ -13,6 +13,20 @@
    "ford/au-falcon"
   ]
  ],
+ "jaecoo/7-phev": [
+  [
+   1900,
+   "jaecoo/j7"
+  ],
+  [
+   2026,
+   "jaecoo/7-2023"
+  ],
+  [
+   2027,
+   "jaecoo/j7"
+  ]
+ ],
  "kymco/new-people-s-50i": [
   [
    1900,
