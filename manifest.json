@@ -48,6 +48,7 @@
   "acura/tlx-sh-awd": "acura/tlx",
   "acura/tsx-sedan": "acura/tsx",
   "aerox-v3/aerox": "yamaha/aerox",
+  "airbus-helicopters-h125/h125": "airbus-helicopters/h125",
   "aito/m9-ultra": "aito/m9",
   "aito/\u95ee\u754cm9-\u589e\u7a0bultra": "aito/m9",
   "aixam/gto-sport": "aixam/gto",
@@ -871,6 +872,7 @@
   "corolla/toyota-le": "toyota/corolla",
   "corvette/c4": "chevrolet/corvette",
   "corvette/eray-e-ray": "chevrolet/corvette",
+  "crown/majesta": "toyota/crown-majesta",
   "cs35-plus/changan-luxe": "changan/cs35-plus",
   "ct200u/coleman-212cc-big-block": "coleman/ct200u",
   "cupra/formentor-drive": "cupra/formentor",
@@ -1757,6 +1759,7 @@
   "lexus/tx-350": "lexus/tx",
   "lincoln/aviator-reserve": "lincoln/aviator",
   "lotus/elise-220": "lotus/elise",
+  "lynk-co/07gt": "lynk-co/07",
   "mahindra/kuv-1oo-k8": "mahindra/kuv-1oo",
   "mahindra/xuv-7xo-ax7l": "mahindra/xuv-7xo",
   "marcedes/classe-v": "mercedes-benz/v-class-2014",
@@ -13593,6 +13596,10 @@
    "bytes": 29818,
    "tint": "#8F8F91"
   },
+  "airbus-helicopters/h125": {
+   "bytes": 29356,
+   "tint": "#B4B4B4"
+  },
   "aito/m9": {
    "bytes": 35292,
    "tint": "#B4B4B4"
@@ -20297,6 +20304,10 @@
    "bytes": 24524,
    "tint": "#CECDCB"
   },
+  "lynk-co/07": {
+   "bytes": 28362,
+   "tint": "#B4B4B4"
+  },
   "mahindra/kuv-1oo": {
    "bytes": 34508,
    "tint": "#B4B4B4"
@@ -24009,6 +24020,10 @@
    "bytes": 81994,
    "tint": "#2B2F33"
   },
+  "suzuki/gsx-s150": {
+   "bytes": 76088,
+   "tint": "#B4B4B4"
+  },
   "suzuki/gsx650f": {
    "bytes": 60836,
    "tint": "#2D2D2E"
@@ -24312,6 +24327,10 @@
   "toyota/corrolla": {
    "bytes": 28844,
    "tint": "#CECFD1"
+  },
+  "toyota/crown-majesta": {
+   "bytes": 28184,
+   "tint": "#B4B4B4"
   },
   "toyota/echo-2000": {
    "bytes": 27648,
@@ -25032,6 +25051,10 @@
   "volkswagen/taos": {
    "bytes": 43540,
    "tint": "#54A6F3"
+  },
+  "volkswagen/tayron": {
+   "bytes": 33084,
+   "tint": "#B4B4B4"
   },
   "volkswagen/teramont-pro": {
    "bytes": 36220,
