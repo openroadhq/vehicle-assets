@@ -2590,6 +2590,7 @@
   "suzuki/baleno-glx": "suzuki/baleno",
   "suzuki/baleno-zeta": "suzuki/baleno",
   "suzuki/gsx-s1000f": "suzuki/gsx-s1000",
+  "suzuki/hatch-sport": "suzuki/swift-sport-2017",
   "suzuki/hayabusa-1340cc": "suzuki/hayabusa",
   "suzuki/hayabusa-abs": "suzuki/hayabusa",
   "suzuki/jimny-gx": "suzuki/jimny",
@@ -2648,6 +2649,7 @@
   "tesla/x": "tesla/model-x",
   "tesla/y": "tesla/model-y",
   "tesla/y-performance": "tesla/model-y",
+  "toyota-camery/sedan-le": "toyota/camry-le-2012",
   "toyota-yaris-ativ/sedan-smart": "toyota/yaris-ativ-2022",
   "toyota/23-camry-v6": "toyota/camry",
   "toyota/23-camry-v6-xse": "toyota/camry",
@@ -3190,6 +3192,7 @@
   "vw/polo-e": "volkswagen/polo",
   "vw/polo-gti": "volkswagen/polo-gti",
   "vw/polo-gti-gti": "volkswagen/polo-gti",
+  "vw/santana-gls-2dr": "volkswagen/santana",
   "vw/scirocco": "volkswagen/scirocco",
   "vw/tiguan": "volkswagen/tiguan",
   "vw/tiguan-r-line": "volkswagen/tiguan",
@@ -3224,6 +3227,7 @@
   "yamaha/yzf-r6-raven": "yamaha/yzf-r6",
   "yozma/in10": "yozma/in-10",
   "zoom/vios": "toyota/vios",
+  "\u30db\u30f3\u30bf/nwgn": "honda/n-wgn",
   "\u4e09\u83f1/\u30df\u30cb\u30ab-h42v": "mitsubishi/minica"
  },
  "basePath": "v1",
@@ -16976,6 +16980,10 @@
    "bytes": 25340,
    "tint": "#B4B4B4"
   },
+  "ford/f-750": {
+   "bytes": 26702,
+   "tint": "#B4B4B4"
+  },
   "ford/f250": {
    "bytes": 24448,
    "tint": "#919191"
@@ -25035,6 +25043,10 @@
   "volkswagen/routan-2009": {
    "bytes": 26482,
    "tint": "#CFD0D2"
+  },
+  "volkswagen/santana": {
+   "bytes": 22332,
+   "tint": "#B4B4B4"
   },
   "volkswagen/scirocco-1982": {
    "bytes": 31764,
