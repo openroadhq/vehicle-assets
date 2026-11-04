@@ -15,6 +15,7 @@
   "330i/2006-bmw": "bmw/3-series",
   "500/tank": "tank/500-2021",
   "a-class/mercedes-ben": "mercedes-benz/a-class-2019",
+  "abarth/595": "abarth/500",
   "acura-tsx/sedan": "acura/tsx",
   "acura/2022": "acura/nsx-type-s-2022",
   "acura/ilx-2-4l": "acura/ilx",
@@ -645,6 +646,7 @@
   "can-am/outlander-x-tp": "can-am/outlander",
   "canam/outlander-x-tp": "can-am/outlander",
   "canam/traxter": "can-am/traxter-2025",
+  "cfmoto/cforce-touring-1000": "cfmoto/cforce-1000-touring",
   "chengan/cs75": "changan/cs75",
   "cherry/tiggo-7-hybrid": "chery/tiggo-7",
   "cherry/tiggo-8-po-max": "chery/tiggo-8-pro-max",
@@ -989,6 +991,7 @@
   "fiat/punto-classic": "fiat/punto",
   "fiat/tipo-2": "fiat/tipo",
   "fiat/tipo-street": "fiat/tipo",
+  "ford-f150/truck-tremor": "ford/f-150-tremor-2021",
   "ford-focus/sedan": "ford/focus-2008",
   "ford/1967-mustang-fastback": "ford/mustang",
   "ford/2006-ford-ranger-xlt": "ford/ranger",
@@ -2024,6 +2027,7 @@
   "mercedes/slk-230-kompressor": "mercedes-benz/slk-2004",
   "mercedes/sprinter": "mercedes-benz/sprinter",
   "mercedes/v300": "mercedes-benz/v300",
+  "mercedes/winnebago-navion": "mercedes-benz/winnebago-navion",
   "mercury/2004-grand-marquis": "mercury/grand-marquis",
   "mercury/2007-grand-marquis": "mercury/grand-marquis",
   "mercury/cougar-base": "mercury/cougar",
@@ -15312,6 +15316,10 @@
    "bytes": 76630,
    "tint": "#2D2E2F"
   },
+  "cfmoto/cforce-1000-touring": {
+   "bytes": 59524,
+   "tint": "#B4B4B4"
+  },
   "changan/cs35-plus": {
    "bytes": 34122,
    "tint": "#B4B4B4"
@@ -21379,6 +21387,10 @@
   "mercedes-benz/vito": {
    "bytes": 28580,
    "tint": "#8D9093"
+  },
+  "mercedes-benz/winnebago-navion": {
+   "bytes": 25600,
+   "tint": "#B4B4B4"
   },
   "mercury/capri-1991": {
    "bytes": 24412,
