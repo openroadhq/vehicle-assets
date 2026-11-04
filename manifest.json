@@ -49,6 +49,7 @@
   "acura/tsx-sedan": "acura/tsx",
   "aerox-v3/aerox": "yamaha/aerox",
   "aito/m9-ultra": "aito/m9",
+  "aito/\u95ee\u754cm9-\u589e\u7a0bultra": "aito/m9",
   "aixam/gto-sport": "aixam/gto",
   "alfa-romeo/159-1-9-jtdm": "alfa-romeo/159",
   "alfa-romeo/159-ti": "alfa-romeo/159",
@@ -250,6 +251,7 @@
   "audi/tts-premium-plus": "audi/tts",
   "auris/toya": "toyota/auris",
   "ausom/k20-pro-dual-standard": "ausom/k20-pro",
+  "bajaj/dominar-400-ug": "bajaj/dominar-400",
   "belgee/x50-2026": "belgee/x50",
   "beta/rr-350": "beta/rr-350-2021",
   "bluebird/bus-589": "blue-bird/conventional",
@@ -2027,6 +2029,7 @@
   "mercury/mountaineer-premier-awd": "mercury/mountaineer",
   "mg/5-standard": "mg/5",
   "mg/b": "mg/mgb",
+  "mg/mg-tf": "mg/tf-2002",
   "mia/mio-sporty": "yamaha/mio-sporty",
   "mini/2023-john-cooper-works": "mini/cooper",
   "mini/aceman": "mini/aceman-2024",
@@ -14238,6 +14241,10 @@
    "bytes": 31812,
    "tint": "#CDCED0"
   },
+  "bajaj/dominar-400": {
+   "bytes": 75692,
+   "tint": "#B4B4B4"
+  },
   "belgee/x50": {
    "bytes": 41778,
    "tint": "#4E4F51"
@@ -16710,6 +16717,10 @@
    "bytes": 27540,
    "tint": "#B4B4B4"
   },
+  "ford/bantam": {
+   "bytes": 24000,
+   "tint": "#B4B4B4"
+  },
   "ford/bronco": {
    "bytes": 39290,
    "tint": "#F66A0C"
@@ -16953,6 +16964,10 @@
   "ford/f-250-super-duty-2017": {
    "bytes": 23890,
    "tint": "#EAEAEC"
+  },
+  "ford/f-550-service-truck": {
+   "bytes": 25340,
+   "tint": "#B4B4B4"
   },
   "ford/f250": {
    "bytes": 24448,
