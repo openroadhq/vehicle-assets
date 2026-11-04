@@ -252,6 +252,7 @@
   "ausom/k20-pro-dual-standard": "ausom/k20-pro",
   "belgee/x50-2026": "belgee/x50",
   "beta/rr-350": "beta/rr-350-2021",
+  "bluebird/bus-589": "blue-bird/conventional",
   "bmw-e36/318": "bmw/3-series-1992",
   "bmw-x3-m40i/suv": "bmw/x3-2018",
   "bmw/1-series-128i": "bmw/1-series",
@@ -1699,6 +1700,7 @@
   "landrover/discovery-4-hse": "land-rover/discovery-4-2009",
   "langfeite/noxyriux": "langfeite/l8s",
   "legs/walk": "legs-walk",
+  "leopard/byd": "fangchengbao/bao-5",
   "lexus-sc400/coupe": "lexus/sc-1992",
   "lexus/ct": "lexus/ct-200h-2011",
   "lexus/ct200h": "lexus/ct-200h",
@@ -14298,6 +14300,10 @@
    "bytes": 74080,
    "tint": "#EC0A0E"
   },
+  "blue-bird/conventional": {
+   "bytes": 22668,
+   "tint": "#B4B4B4"
+  },
   "bmw/1-series-2008": {
    "bytes": 27276,
    "tint": "#AFAFB1"
@@ -16397,6 +16403,10 @@
   "engwe/m20-3-0": {
    "bytes": 57232,
    "tint": "#303133"
+  },
+  "fangchengbao/bao-5": {
+   "bytes": 33884,
+   "tint": "#B4B4B4"
   },
   "faradayfuture/ff91": {
    "bytes": 28498,
