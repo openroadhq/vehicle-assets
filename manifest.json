@@ -2587,6 +2587,7 @@
   "subaru/wrx-sti-v6-ra": "subaru/wrx-sti",
   "subaru/xv-crosstrek": "subaru/crosstrek",
   "subaru/xv-luxury": "subaru/xv",
+  "subaru/\u30ec\u30a6\u30a9\u30fc\u30af": "subaru/levorg",
   "suzuki-swift/gl-2001": "suzuki/swift-gl-2001",
   "suzuki/alto": "suzuki/alto-works",
   "suzuki/baleno-alpha": "suzuki/baleno",
@@ -23872,6 +23873,10 @@
   "subaru/legacy-rs-1990": {
    "bytes": 30226,
    "tint": "#07326D"
+  },
+  "subaru/levorg": {
+   "bytes": 36372,
+   "tint": "#B4B4B4"
   },
   "subaru/liberty": {
    "bytes": 26558,
