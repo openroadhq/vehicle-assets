@@ -1886,9 +1886,11 @@
   "mercedes-benz/190e-2-0": "mercedes-benz/190e",
   "mercedes-benz/190e-sportline": "mercedes-benz/190e",
   "mercedes-benz/300-e-e-500": "mercedes-benz/300-e",
+  "mercedes-benz/a-180-hatchback": "mercedes-benz/a-180",
   "mercedes-benz/a-class-150": "mercedes-benz/a-class",
   "mercedes-benz/a-class-a220": "mercedes-benz/a-class",
   "mercedes-benz/a-class-mercedes-ben": "mercedes-benz/a-class",
+  "mercedes-benz/a180-amg": "mercedes-benz/a180",
   "mercedes-benz/a200-amg-line-a200": "mercedes-benz/a200-amg-line",
   "mercedes-benz/a250-2023": "mercedes-benz/a250",
   "mercedes-benz/a35": "mercedes-benz/a35-amg",
@@ -2708,6 +2710,7 @@
   "toyota/celica-sx": "toyota/celica",
   "toyota/celica-t20": "toyota/celica",
   "toyota/celica-t23": "toyota/celica",
+  "toyota/celsior-vip": "toyota/celsior",
   "toyota/chaser": "toyota/chaser-1996",
   "toyota/corolla-1-2t": "toyota/corolla",
   "toyota/corolla-1-8l-4cyl-5m": "toyota/corolla",
@@ -19369,6 +19372,10 @@
    "bytes": 23900,
    "tint": "#0D0D0D"
   },
+  "kia/forte5": {
+   "bytes": 37728,
+   "tint": "#B4B4B4"
+  },
   "kia/k3": {
    "bytes": 24804,
    "tint": "#F0F0F0"
@@ -20857,6 +20864,10 @@
    "bytes": 32034,
    "tint": "#8F8F90"
   },
+  "mercedes-benz/amg-a45": {
+   "bytes": 38386,
+   "tint": "#B4B4B4"
+  },
   "mercedes-benz/amg-cle53": {
    "bytes": 32864,
    "tint": "#6C6C6E"
@@ -21075,6 +21086,14 @@
   },
   "mercedes-benz/e350-coupe-amg-package": {
    "bytes": 33208,
+   "tint": "#B4B4B4"
+  },
+  "mercedes-benz/e400-cabriolet": {
+   "bytes": 33448,
+   "tint": "#B4B4B4"
+  },
+  "mercedes-benz/e500": {
+   "bytes": 30770,
    "tint": "#B4B4B4"
   },
   "mercedes-benz/e55-amg-1999": {
@@ -21321,6 +21340,10 @@
    "bytes": 23070,
    "tint": "#A9ACAD"
   },
+  "mercedes-benz/s350": {
+   "bytes": 34508,
+   "tint": "#B4B4B4"
+  },
   "mercedes-benz/s55-amg-2000": {
    "bytes": 31512,
    "tint": "#121212"
@@ -21368,6 +21391,10 @@
   "mercedes-benz/sl-2012": {
    "bytes": 33274,
    "tint": "#8D8F91"
+  },
+  "mercedes-benz/sl500": {
+   "bytes": 34494,
+   "tint": "#B4B4B4"
   },
   "mercedes-benz/sl55-amg-2002": {
    "bytes": 30348,
@@ -21672,6 +21699,10 @@
   "mitsubishi/380gt": {
    "bytes": 28270,
    "tint": "#101010"
+  },
+  "mitsubishi/adventure": {
+   "bytes": 35424,
+   "tint": "#B4B4B4"
   },
   "mitsubishi/asx-2010": {
    "bytes": 37766,
@@ -24381,6 +24412,10 @@
    "bytes": 32092,
    "tint": "#0B316C"
   },
+  "toyota/celsior": {
+   "bytes": 29570,
+   "tint": "#B4B4B4"
+  },
   "toyota/century-1997": {
    "bytes": 23702,
    "tint": "#070707"
@@ -24645,6 +24680,10 @@
    "bytes": 23342,
    "tint": "#D2D2D2"
   },
+  "toyota/travo": {
+   "bytes": 32266,
+   "tint": "#B4B4B4"
+  },
   "toyota/tundra": {
    "bytes": 23150,
    "tint": "#0B0C0B"
@@ -24852,6 +24891,10 @@
   "volkswagen/eurovan-1993": {
    "bytes": 25914,
    "tint": "#D3D4D2"
+  },
+  "volkswagen/fox": {
+   "bytes": 36160,
+   "tint": "#B4B4B4"
   },
   "volkswagen/gli": {
    "bytes": 34514,
