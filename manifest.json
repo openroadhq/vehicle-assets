@@ -1383,6 +1383,7 @@
   "honda/civic-vti": "honda/civic",
   "honda/civic-vti-l": "honda/civic",
   "honda/civic-vti-lx": "honda/civic",
+  "honda/civix-ex": "honda/civix",
   "honda/clarity-plug-in-hybrid": "honda/clarity-2017",
   "honda/click": "honda/click-125i",
   "honda/click-125": "honda/click-125i",
@@ -1986,6 +1987,7 @@
   "mercedes/a-class-150": "mercedes-benz/a-class-2019",
   "mercedes/a-class-a220": "mercedes-benz/a-class",
   "mercedes/a180-amg": "mercedes-benz/a-class-2019",
+  "mercedes/a200": "mercedes-benz/a200",
   "mercedes/a250": "mercedes-benz/a250",
   "mercedes/a35": "mercedes-benz/a35-amg",
   "mercedes/a35-amg": "mercedes-benz/a35-amg",
@@ -2407,6 +2409,7 @@
   "renault/megane-knight-edition": "renault/megane",
   "renault/megane-knight-edition-all": "renault/megane",
   "renault/megane-pack-authentique": "renault/megane",
+  "renault/rafale-atelier-alpine": "renault/rafale",
   "renault/sandero-dynamique": "renault/sandero",
   "renault/sandero-privilege": "renault/sandero",
   "renault/triber": "renault/triber-2019",
@@ -14530,6 +14533,10 @@
    "bytes": 29862,
    "tint": "#101012"
   },
+  "bmw/e46-325ci-coupe": {
+   "bytes": 29238,
+   "tint": "#B4B4B4"
+  },
   "bmw/f-850-gs": {
    "bytes": 93068,
    "tint": "#2B2C2D"
@@ -16442,6 +16449,10 @@
    "bytes": 57232,
    "tint": "#303133"
   },
+  "fang-cheng-bao/bao-5": {
+   "bytes": 33884,
+   "tint": "#B4B4B4"
+  },
   "fangchengbao/bao-5": {
    "bytes": 33884,
    "tint": "#B4B4B4"
@@ -18057,6 +18068,10 @@
   "honda/civic-type-r-2017": {
    "bytes": 31060,
    "tint": "#EEECE9"
+  },
+  "honda/civix": {
+   "bytes": 34796,
+   "tint": "#B4B4B4"
   },
   "honda/clarity-2017": {
    "bytes": 27910,
@@ -20350,6 +20365,10 @@
    "bytes": 37550,
    "tint": "#A8070A"
   },
+  "maruti-suzuki/dzire": {
+   "bytes": 36114,
+   "tint": "#B4B4B4"
+  },
   "maruti-suzuki/ertiga": {
    "bytes": 31622,
    "tint": "#B4B4B4"
@@ -20762,6 +20781,10 @@
    "bytes": 25458,
    "tint": "#D4D5D4"
   },
+  "mercedes-benz/220-d": {
+   "bytes": 27294,
+   "tint": "#B4B4B4"
+  },
   "mercedes-benz/220d": {
    "bytes": 32854,
    "tint": "#131313"
@@ -20786,6 +20809,10 @@
    "bytes": 24944,
    "tint": "#ADAEAF"
   },
+  "mercedes-benz/a-180": {
+   "bytes": 34656,
+   "tint": "#B4B4B4"
+  },
   "mercedes-benz/a-200": {
    "bytes": 34800,
    "tint": "#B4B4B4"
@@ -20798,9 +20825,17 @@
    "bytes": 35068,
    "tint": "#AAB0B3"
   },
+  "mercedes-benz/a180": {
+   "bytes": 35940,
+   "tint": "#B4B4B4"
+  },
   "mercedes-benz/a180d": {
    "bytes": 34424,
    "tint": "#ADB0B3"
+  },
+  "mercedes-benz/a200": {
+   "bytes": 33786,
+   "tint": "#B4B4B4"
   },
   "mercedes-benz/a200-amg-line": {
    "bytes": 35186,
@@ -20901,6 +20936,10 @@
   "mercedes-benz/c32-amg-2001": {
    "bytes": 30692,
    "tint": "#ADB0B2"
+  },
+  "mercedes-benz/c43": {
+   "bytes": 32794,
+   "tint": "#B4B4B4"
   },
   "mercedes-benz/c63-amg": {
    "bytes": 28580,
@@ -21029,6 +21068,10 @@
   "mercedes-benz/e350": {
    "bytes": 24278,
    "tint": "#EAE9E7"
+  },
+  "mercedes-benz/e350-coupe-amg-package": {
+   "bytes": 33208,
+   "tint": "#B4B4B4"
   },
   "mercedes-benz/e55-amg-1999": {
    "bytes": 22796,
@@ -23333,6 +23376,10 @@
   "renault/r5-etech": {
    "bytes": 39692,
    "tint": "#F8CF2E"
+  },
+  "renault/rafale": {
+   "bytes": 35244,
+   "tint": "#B4B4B4"
   },
   "renault/sandero": {
    "bytes": 25982,
