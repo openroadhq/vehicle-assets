@@ -2626,6 +2626,7 @@
   "suzuki/vitara-1-6-vvt-manual": "suzuki/vitara",
   "sym/adx": "sym/adx-125",
   "tank/tank-500": "tank/500",
+  "tara/tara": "iran-khodro/tara",
   "tata/nexon-ev": "tata/nexon",
   "tata/punch-adventure": "tata/punch",
   "tata/safari": "tata/safari-2021",
@@ -2893,6 +2894,7 @@
   "triumph/trident": "triumph/trident-660",
   "tsuru/iii-gs2": "nissan/tsuru",
   "tugella/geely": "geely/tugella",
+  "v1-plus/ikco-tara": "iran-khodro/tara",
   "vauxhall/astra": "opel/astra",
   "vauxhall/astra-plug-in-hybrid": "opel/astra",
   "vauxhall/astra-se-turbo": "opel/astra-j",
@@ -18898,6 +18900,10 @@
   },
   "international/workstar-7400": {
    "bytes": 37400,
+   "tint": "#B4B4B4"
+  },
+  "iran-khodro/tara": {
+   "bytes": 31302,
    "tint": "#B4B4B4"
   },
   "iscooter/f3": {
