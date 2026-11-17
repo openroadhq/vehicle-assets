@@ -1877,6 +1877,7 @@
   "mazda/rx8": "mazda/rx-8",
   "mazda/rx8-spirit-r": "mazda/rx-8",
   "mazda/speed6": "mazda/mazdaspeed6",
+  "mazda/xedos-9-2-5-v6": "mazda/xedos-9",
   "mercades/gle-350": "mercedes-benz/gle-2016",
   "mercedes-amg/220d": "mercedes-benz/c-class-2015",
   "mercedes-amg/c-class": "mercedes-benz/c-class",
@@ -20722,6 +20723,10 @@
   "mazda/tribute-2008": {
    "bytes": 25966,
    "tint": "#323233"
+  },
+  "mazda/xedos-9": {
+   "bytes": 22728,
+   "tint": "#B4B4B4"
   },
   "mclaren/12c": {
    "bytes": 32244,
