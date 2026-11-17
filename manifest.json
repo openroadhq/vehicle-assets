@@ -1624,6 +1624,7 @@
   "kawasaki/zx-10r": "kawasaki/ninja-zx-10r",
   "kawasaki/zx6r-abs": "kawasaki/zx6r",
   "kawasaki/zx6r-krt": "kawasaki/zx6r",
+  "kelisa/perodua": "perodua/kelisa",
   "kgm/torres": "kgm/torres-2022",
   "kia-sorento-hybrid/suv": "kia/sorento",
   "kia/carens": "kia/carens-2013",
@@ -22659,6 +22660,10 @@
   "panoz/esperante": {
    "bytes": 25588,
    "tint": "#A9AAAD"
+  },
+  "perodua/kelisa": {
+   "bytes": 27998,
+   "tint": "#B4B4B4"
   },
   "perodua/myvi": {
    "bytes": 37982,
